@@ -1,5 +1,6 @@
 import { useLiveQuery } from 'dexie-react-hooks'
 import { db } from './db'
+import { LEVELS, type Level } from './words'
 
 export type Theme = 'system' | 'light' | 'sepia' | 'dark'
 export type ReaderFont = 'serif' | 'sans'
@@ -11,6 +12,8 @@ export interface Settings {
   fontSize: number // px
   lineSpacing: LineSpacing
   dailyNewWords: number
+  newWordLevels: Level[]
+  newWordOrder: 'hardest' | 'easiest'
   lastBackupAt: string | null
 }
 
@@ -20,6 +23,8 @@ export const DEFAULT_SETTINGS: Settings = {
   fontSize: 19,
   lineSpacing: 'normal',
   dailyNewWords: 10,
+  newWordLevels: LEVELS,
+  newWordOrder: 'hardest',
   lastBackupAt: null,
 }
 

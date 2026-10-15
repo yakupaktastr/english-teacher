@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import Segmented from '../components/Segmented'
 import Stepper from '../components/Stepper'
 import { restoreBackup, shareBackup } from '../backup'
+import { LEVELS } from '../words'
 import { LINE_HEIGHTS, updateSettings, useSettings, type LineSpacing, type ReaderFont, type Theme } from '../settings'
 
 function formatBytes(bytes: number) {
@@ -123,6 +124,40 @@ export default function Settings() {
             max={50}
             step={5}
             onChange={(dailyNewWords) => updateSettings({ dailyNewWords })}
+          />
+        </div>
+        <div className="row column">
+          <span>
+            Levels for new words
+            <small>Words you already know can be skipped with "I know this".</small>
+          </span>
+          <div className="chips">
+            {LEVELS.map((level) => {
+              const on = settings.newWordLevels.includes(level)
+              return (
+                <button
+                  key={level}
+                  className={on ? 'chip active' : 'chip'}
+                  onClick={() => {
+                    const next = on ? settings.newWordLevels.filter((l) => l !== level) : [...settings.newWordLevels, level]
+                    if (next.length) updateSettings({ newWordLevels: LEVELS.filter((l) => next.includes(l)) })
+                  }}
+                >
+                  {level.toUpperCase()}
+                </button>
+              )
+            })}
+          </div>
+        </div>
+        <div className="row column">
+          <span>Order</span>
+          <Segmented<'hardest' | 'easiest'>
+            value={settings.newWordOrder}
+            onChange={(newWordOrder) => updateSettings({ newWordOrder })}
+            options={[
+              { value: 'hardest', label: 'Hardest first' },
+              { value: 'easiest', label: 'Easiest first' },
+            ]}
           />
         </div>
       </div>
