@@ -1,29 +1,44 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, type ComponentType } from 'react'
+import TabBar, { type Tab } from './components/TabBar'
+import Today from './screens/Today'
+import Words from './screens/Words'
+import Read from './screens/Read'
+import Settings from './screens/Settings'
+import { useSettings } from './settings'
+import { useApplyTheme } from './theme'
+
+const SCREENS: Record<Tab, ComponentType> = { today: Today, words: Words, read: Read, settings: Settings }
+
+function tabFromHash(): Tab {
+  const tab = location.hash.replace('#/', '')
+  return tab in SCREENS ? (tab as Tab) : 'today'
+}
 
 export default function App() {
-  const [online, setOnline] = useState(navigator.onLine)
-  const [persisted, setPersisted] = useState<boolean | null>(null)
+  const settings = useSettings()
+  const [tab, setTab] = useState<Tab>(tabFromHash)
+  useApplyTheme(settings.theme)
 
   useEffect(() => {
-    const update = () => setOnline(navigator.onLine)
-    window.addEventListener('online', update)
-    window.addEventListener('offline', update)
-    navigator.storage?.persist?.().then(setPersisted)
-    return () => {
-      window.removeEventListener('online', update)
-      window.removeEventListener('offline', update)
-    }
+    navigator.storage?.persist?.()
+    const onHashChange = () => setTab(tabFromHash())
+    window.addEventListener('hashchange', onHashChange)
+    return () => window.removeEventListener('hashchange', onHashChange)
   }, [])
 
+  const Screen = SCREENS[tab]
   return (
-    <main className="page">
-      <h1>English Teacher</h1>
-      <p className="muted">Version {__APP_VERSION__}</p>
-      <ul className="status">
-        <li>Network: {online ? 'online' : 'offline'}</li>
-        <li>Persistent storage: {persisted === null ? '…' : persisted ? 'granted' : 'not granted'}</li>
-        <li>Installed: {window.matchMedia('(display-mode: standalone)').matches ? 'yes' : 'no (open from home screen)'}</li>
-      </ul>
-    </main>
+    <div className="app">
+      <main className="content">
+        <Screen />
+      </main>
+      <TabBar
+        active={tab}
+        onChange={(next) => {
+          location.hash = `#/${next}`
+          window.scrollTo(0, 0)
+        }}
+      />
+    </div>
   )
 }
