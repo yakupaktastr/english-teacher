@@ -1,0 +1,1235 @@
+[
+  {
+    "word": "lifelong",
+    "ipa": "/ˈlaɪflɔːŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ömür boyu süren, hayat boyu",
+        "def": "lasting or existing for the whole of your life",
+        "examples": ["They met in college and became lifelong friends.", "His lifelong dream was to sail around the world."]
+      }
+    ],
+    "collocations": ["lifelong friend", "lifelong dream", "lifelong learning", "lifelong passion", "lifelong commitment"],
+    "synonyms": ["lifetime", "lasting", "permanent", "long-standing"],
+    "family": [{ "word": "life", "pos": "noun" }],
+    "note": "Used before a noun only: a lifelong fan."
+  },
+  {
+    "word": "lifestyle",
+    "ipa": "/ˈlaɪfstaɪl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yaşam tarzı",
+        "def": "the way a person or group lives, including their habits and the things they own",
+        "examples": ["Doctors recommend a healthier lifestyle with more exercise.", "Moving to the countryside changed their whole lifestyle."]
+      }
+    ],
+    "collocations": ["healthy lifestyle", "active lifestyle", "lifestyle choice", "lifestyle change", "sedentary lifestyle", "lavish lifestyle"],
+    "synonyms": ["way of life", "habits", "routine"],
+    "family": [{ "word": "life", "pos": "noun" }]
+  },
+  {
+    "word": "lifetime",
+    "ipa": "/ˈlaɪftaɪm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ömür, hayat boyu",
+        "def": "the length of time that someone lives or something lasts",
+        "examples": ["Technology changed enormously during my grandmother's lifetime.", "The battery has a lifetime of about five years."]
+      }
+    ],
+    "collocations": ["in my lifetime", "once in a lifetime", "the chance of a lifetime", "lifetime achievement", "lifetime ban"],
+    "synonyms": ["life", "lifespan", "existence"],
+    "family": [{ "word": "life", "pos": "noun" }],
+    "note": "\"Once-in-a-lifetime\" describes a very rare opportunity."
+  },
+  {
+    "word": "lift",
+    "ipa": "/lɪft/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kaldırmak, yükseltmek",
+        "def": "to move something or someone to a higher position",
+        "examples": ["Can you help me lift this box onto the shelf?", "She lifted the baby out of the car seat."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(yasak, kısıtlama) kaldırmak",
+        "def": "to remove a rule or restriction",
+        "examples": ["The government lifted the ban on public gatherings."]
+      },
+      {
+        "pos": "noun",
+        "tr": "arabayla bırakma; asansör (İngiliz)",
+        "def": "a free ride in someone's car, or (British) an elevator",
+        "examples": ["Can you give me a lift to the airport?", "We took the lift to the fifth floor."]
+      }
+    ],
+    "collocations": ["lift weights", "lift a ban", "lift restrictions", "give someone a lift", "lift your spirits", "heavy lifting"],
+    "synonyms": ["raise", "pick up", "remove", "ride", "elevator"],
+    "family": [{ "word": "uplifting", "pos": "adjective" }],
+    "note": "For the machine, Americans say \"elevator\"; \"lift\" is British. Americans also say \"ride\" more than \"lift\" for a car trip."
+  },
+  {
+    "word": "light",
+    "ipa": "/laɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ışık, aydınlık; lamba",
+        "def": "the energy from the sun or a lamp that lets you see, or a device that produces it",
+        "examples": ["The room gets a lot of natural light in the morning.", "Turn off the lights when you leave."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "hafif",
+        "def": "not heavy",
+        "examples": ["This laptop is light enough to carry all day.", "I'll just have a light lunch today."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "açık (renk); aydınlık",
+        "def": "pale in color, or bright with natural light",
+        "examples": ["She was wearing a light blue dress."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yakmak, tutuşturmak; aydınlatmak",
+        "def": "to make something start to burn, or to give light to a place",
+        "examples": ["It took us half an hour to light a fire with the wet wood.", "The streets were lit by old gas lamps."]
+      }
+    ],
+    "collocations": ["turn on the light", "traffic light", "natural light", "light rain", "in light of", "shed light on"],
+    "synonyms": ["brightness", "lamp", "lightweight", "pale", "ignite"],
+    "family": [
+      { "word": "lighting", "pos": "noun" },
+      { "word": "lightly", "pos": "adverb" },
+      { "word": "lighter", "pos": "noun" },
+      { "word": "lighten", "pos": "verb" }
+    ],
+    "note": "Verb past: lit (or lighted). \"In light of\" = considering. \"Shed light on\" = help explain."
+  },
+  {
+    "word": "lighting",
+    "ipa": "/ˈlaɪtɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "aydınlatma, ışıklandırma",
+        "def": "the type or arrangement of lights in a place",
+        "examples": ["The restaurant has soft, warm lighting.", "Poor lighting in the parking lot makes people feel unsafe."]
+      }
+    ],
+    "collocations": ["street lighting", "soft lighting", "poor lighting", "lighting system", "stage lighting", "natural lighting"],
+    "synonyms": ["illumination", "lights"],
+    "family": [{ "word": "light", "pos": "noun" }],
+    "note": "Don't confuse with \"lightning\" (şimşek, yıldırım)."
+  },
+  {
+    "word": "like",
+    "ipa": "/laɪk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sevmek, hoşlanmak, beğenmek",
+        "def": "to find someone or something pleasant or enjoyable",
+        "examples": ["I really like this neighborhood.", "Do you like working from home?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(would like) istemek",
+        "def": "used with \"would\" to say politely what you want",
+        "examples": ["I'd like a table for two, please.", "Would you like some coffee?"]
+      },
+      {
+        "pos": "preposition",
+        "tr": "gibi, benzer",
+        "def": "similar to someone or something, or in the same way as",
+        "examples": ["She looks just like her mother.", "It tastes like chicken."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(likes) sevdiği şeyler; (sosyal medya) beğeni",
+        "def": "the things that you enjoy, or a click showing approval online",
+        "examples": ["Tell me about your likes and dislikes.", "The video got thousands of likes in an hour."]
+      }
+    ],
+    "collocations": ["would like", "look like", "feel like", "something like", "just like", "likes and dislikes"],
+    "synonyms": ["enjoy", "be fond of", "similar to", "such as"],
+    "family": [
+      { "word": "dislike", "pos": "verb" },
+      { "word": "likely", "pos": "adjective" },
+      { "word": "likeness", "pos": "noun" },
+      { "word": "alike", "pos": "adjective" },
+      { "word": "likable", "pos": "adjective" }
+    ],
+    "note": "\"Feel like doing\" = want to do (canı istemek). \"What is she like?\" asks about character, not preferences."
+  },
+  {
+    "word": "likelihood",
+    "ipa": "/ˈlaɪklihʊd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "olasılık, ihtimal",
+        "def": "the chance of something happening",
+        "examples": ["Regular exercise reduces the likelihood of heart disease.", "There's little likelihood that the bill will pass this year."]
+      }
+    ],
+    "collocations": ["the likelihood of", "increase the likelihood", "reduce the likelihood", "in all likelihood", "greater likelihood"],
+    "synonyms": ["probability", "chance", "possibility", "prospect"],
+    "family": [
+      { "word": "likely", "pos": "adjective" },
+      { "word": "unlikely", "pos": "adjective" }
+    ],
+    "note": "\"In all likelihood\" = very probably."
+  },
+  {
+    "word": "likely",
+    "ipa": "/ˈlaɪkli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "muhtemel, olası, büyük ihtimalle",
+        "def": "probably going to happen or be true",
+        "examples": ["It's likely to rain later this afternoon.", "The most likely cause of the fire was a faulty wire."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "muhtemelen, büyük olasılıkla",
+        "def": "probably",
+        "examples": ["She'll most likely be late again."]
+      }
+    ],
+    "collocations": ["be likely to", "it is likely that", "highly likely", "more likely", "most likely", "the likely outcome"],
+    "synonyms": ["probable", "expected", "possible", "probably"],
+    "family": [
+      { "word": "unlikely", "pos": "adjective" },
+      { "word": "likelihood", "pos": "noun" }
+    ],
+    "note": "Pattern: \"be likely to do\": He is likely to win. As an adverb, usually with \"most\", \"very\" or \"quite\"."
+  },
+  {
+    "word": "likewise",
+    "ipa": "/ˈlaɪkwaɪz/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "aynı şekilde, benzer şekilde",
+        "def": "in the same way",
+        "examples": ["She worked hard, and her children did likewise.", "Prices rose sharply in March; likewise, rents went up."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(cevap) bana da öyle, aynen",
+        "def": "used in reply to show you feel the same",
+        "examples": ["\"Nice to meet you.\" \"Likewise.\""]
+      }
+    ],
+    "collocations": ["do likewise", "likewise with", "and likewise"],
+    "synonyms": ["similarly", "also", "in the same way", "same here"],
+    "family": [],
+    "note": "Formal as a linking word; informal as a short reply."
+  },
+  {
+    "word": "limb",
+    "ipa": "/lɪm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "uzuv, kol veya bacak",
+        "def": "an arm or a leg, or a similar part of an animal such as a wing",
+        "examples": ["The soldier lost a limb in the explosion.", "After the long flight, my limbs felt stiff."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(ağaç) büyük dal",
+        "def": "a large branch of a tree",
+        "examples": ["A heavy limb fell from the oak during the storm."]
+      }
+    ],
+    "collocations": ["lower limbs", "artificial limb", "lose a limb", "go out on a limb", "life and limb"],
+    "synonyms": ["arm", "leg", "branch", "extremity"],
+    "family": [],
+    "note": "The b is silent: /lɪm/. \"Go out on a limb\" = say or do something risky that others may not support."
+  },
+  {
+    "word": "limit",
+    "ipa": "/ˈlɪmɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sınır, limit, had",
+        "def": "the greatest or smallest amount allowed or possible",
+        "examples": ["The speed limit here is 25 miles per hour.", "There's a limit to how much I can help you."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sınırlamak, kısıtlamak",
+        "def": "to stop something from going beyond a certain amount or level",
+        "examples": ["Try to limit your screen time before bed.", "The museum limits the number of visitors each day."]
+      }
+    ],
+    "collocations": ["speed limit", "time limit", "age limit", "within limits", "push the limits", "limit to"],
+    "synonyms": ["maximum", "boundary", "restriction", "restrict", "cap"],
+    "family": [
+      { "word": "limitation", "pos": "noun" },
+      { "word": "limited", "pos": "adjective" },
+      { "word": "unlimited", "pos": "adjective" },
+      { "word": "limitless", "pos": "adjective" }
+    ],
+    "note": "\"Off limits\" = not allowed to be entered or used."
+  },
+  {
+    "word": "limitation",
+    "ipa": "/ˌlɪmɪˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sınırlama, kısıtlama",
+        "def": "the act of controlling or limiting something, or a rule that does this",
+        "examples": ["The treaty called for the limitation of nuclear weapons.", "There are strict limitations on how the money can be spent."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zayıf yön, eksiklik, kısıt",
+        "def": "a weakness or limit on what someone or something can do",
+        "examples": ["Every research method has its limitations.", "It's important to know your own limitations."]
+      }
+    ],
+    "collocations": ["limitations of", "limitation on", "physical limitations", "know your limitations", "statute of limitations"],
+    "synonyms": ["restriction", "constraint", "weakness", "drawback"],
+    "family": [
+      { "word": "limit", "pos": "verb" },
+      { "word": "limited", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "limited",
+    "ipa": "/ˈlɪmɪtɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sınırlı, kısıtlı",
+        "def": "not very large in amount or degree",
+        "examples": ["Seating is limited, so book your tickets early.", "We only have a limited amount of time."]
+      }
+    ],
+    "collocations": ["limited time", "limited resources", "limited edition", "limited number", "limited to", "limited company"],
+    "synonyms": ["restricted", "finite", "small", "scarce"],
+    "family": [
+      { "word": "limit", "pos": "noun" },
+      { "word": "unlimited", "pos": "adjective" }
+    ],
+    "note": "\"Limited edition\" = only a small number made. In names, \"Limited\" (Ltd.) is British; Americans use \"Inc.\""
+  },
+  {
+    "word": "line",
+    "ipa": "/laɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çizgi, hat",
+        "def": "a long, thin mark on a surface",
+        "examples": ["Draw a straight line across the page.", "The ball was just over the line."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kuyruk, sıra",
+        "def": "a row of people or things waiting one behind the other",
+        "examples": ["We waited in line for an hour to get tickets.", "There's always a long line at the post office."]
+      },
+      {
+        "pos": "noun",
+        "tr": "satır, dize, replik; (telefon) hat",
+        "def": "a row of words on a page, words spoken by an actor, or a phone connection",
+        "examples": ["She forgot her lines in the middle of the play.", "The line went dead before I could answer."]
+      },
+      {
+        "pos": "verb",
+        "tr": "dizilmek, sıralanmak; (iç) astarlamak",
+        "def": "to form rows along the side of something, or to cover the inside of something",
+        "examples": ["Thousands of fans lined the streets for the parade.", "Line the baking tray with parchment paper."]
+      }
+    ],
+    "collocations": ["straight line", "wait in line", "stand in line", "line up", "draw the line", "on the line", "bottom line"],
+    "synonyms": ["stroke", "row", "queue", "border", "cable"],
+    "family": [
+      { "word": "linear", "pos": "adjective" },
+      { "word": "lining", "pos": "noun" },
+      { "word": "underline", "pos": "verb" },
+      { "word": "line-up", "pos": "noun" }
+    ],
+    "note": "Americans \"wait in line\"; British people \"queue\". \"Draw the line\" = set a limit you won't go beyond."
+  },
+  {
+    "word": "line-up",
+    "ipa": "/ˈlaɪn ʌp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kadro, katılımcı listesi, program",
+        "def": "the people or acts taking part in an event, or a team's selected players",
+        "examples": ["The festival announced an impressive line-up of bands this year.", "The coach made three changes to the starting line-up."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(polis) teşhis sırası",
+        "def": "a row of people shown to a witness who must identify a criminal",
+        "examples": ["The witness picked the suspect out of a police line-up."]
+      }
+    ],
+    "collocations": ["starting line-up", "festival line-up", "star-studded line-up", "police line-up", "product line-up"],
+    "synonyms": ["roster", "cast", "lineup", "program", "schedule"],
+    "family": [{ "word": "line up", "pos": "verb" }],
+    "note": "Often written \"lineup\" in American English. The verb is two words: line up."
+  },
+  {
+    "word": "linear",
+    "ipa": "/ˈlɪniər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "doğrusal, çizgisel",
+        "def": "in lines, or progressing in a straight, step-by-step way from one stage to the next",
+        "examples": ["The movie doesn't follow a linear storyline.", "Career paths are much less linear than they used to be."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(matematik) doğrusal",
+        "def": "showing a relationship in which one value changes in direct proportion to another",
+        "examples": ["The graph shows a linear relationship between price and demand."]
+      }
+    ],
+    "collocations": ["linear relationship", "linear equation", "linear progression", "linear narrative", "non-linear"],
+    "synonyms": ["straight", "sequential", "direct", "step-by-step"],
+    "family": [
+      { "word": "line", "pos": "noun" },
+      { "word": "linearly", "pos": "adverb" },
+      { "word": "nonlinear", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "linger",
+    "ipa": "/ˈlɪŋɡər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sürmek, devam etmek, gitmemek",
+        "def": "to continue to exist for longer than expected",
+        "examples": ["The smell of smoke lingered in the house for days.", "Doubts about his honesty still linger."]
+      },
+      {
+        "pos": "verb",
+        "tr": "oyalanmak, ayrılmakta gecikmek",
+        "def": "to stay somewhere longer than necessary because you don't want to leave",
+        "examples": ["We lingered over coffee long after the meal was finished."]
+      }
+    ],
+    "collocations": ["linger on", "linger over", "lingering doubts", "lingering effects", "linger in the air"],
+    "synonyms": ["remain", "persist", "stay", "hang around", "dawdle"],
+    "family": [{ "word": "lingering", "pos": "adjective" }]
+  },
+  {
+    "word": "link",
+    "ipa": "/lɪŋk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bağlantı, ilişki, bağ",
+        "def": "a connection between two or more people, things or ideas",
+        "examples": ["Scientists have found a link between sugar and heart disease.", "The two countries have strong trade links."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(internet) bağlantı, link",
+        "def": "a word or image on a web page that takes you to another page when you click it",
+        "examples": ["Click the link in the email to reset your password."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bağlamak, ilişkilendirmek",
+        "def": "to connect two or more things, physically, electronically or in your mind",
+        "examples": ["The study linked air pollution to asthma in children.", "A new bridge will link the island to the mainland."]
+      }
+    ],
+    "collocations": ["link between", "close link", "strong links", "click on a link", "link to", "be linked with"],
+    "synonyms": ["connection", "relationship", "tie", "connect", "associate"],
+    "family": [
+      { "word": "linkage", "pos": "noun" },
+      { "word": "linked", "pos": "adjective" }
+    ],
+    "note": "\"The weakest link\" = the weakest part of a system or team."
+  },
+  {
+    "word": "lion",
+    "ipa": "/ˈlaɪən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "aslan",
+        "def": "a large, powerful wild cat with yellow-brown fur that lives in Africa and parts of Asia",
+        "examples": ["We watched a lion hunting zebras on the safari.", "The male lion has a thick mane around its neck."]
+      }
+    ],
+    "collocations": ["lion's share", "mountain lion", "roar like a lion", "a pride of lions", "sea lion"],
+    "synonyms": [],
+    "family": [{ "word": "lioness", "pos": "noun" }],
+    "note": "\"The lion's share\" = the largest part of something."
+  },
+  {
+    "word": "lip",
+    "ipa": "/lɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dudak",
+        "def": "either of the two soft edges around the opening of the mouth",
+        "examples": ["She put on red lipstick and pressed her lips together.", "My lips get dry and cracked in winter."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kenar, ağız (kap)",
+        "def": "the edge of a cup, bowl or other container",
+        "examples": ["Coffee spilled over the lip of the mug."]
+      }
+    ],
+    "collocations": ["upper lip", "lower lip", "bite your lip", "lip balm", "read someone's lips", "my lips are sealed"],
+    "synonyms": ["rim", "edge", "brim"],
+    "family": [{ "word": "lipstick", "pos": "noun" }],
+    "note": "\"My lips are sealed\" = I won't tell the secret. \"Lip service\" = support in words only."
+  },
+  {
+    "word": "liquid",
+    "ipa": "/ˈlɪkwɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sıvı",
+        "def": "a substance that flows freely, like water or oil, and is not a solid or a gas",
+        "examples": ["You can't take liquids over 3.4 ounces through airport security.", "Drink plenty of liquids when you have a fever."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sıvı, sıvı halde",
+        "def": "in the form of a liquid",
+        "examples": ["Use liquid soap instead of a bar.", "The rocket runs on liquid oxygen."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(varlık) likit, kolay nakde çevrilebilir",
+        "def": "easily changed into cash",
+        "examples": ["The company has plenty of liquid assets to cover its debts."]
+      }
+    ],
+    "collocations": ["liquid soap", "clear liquid", "liquid form", "liquid assets", "drink liquids"],
+    "synonyms": ["fluid", "solution", "runny"],
+    "family": [
+      { "word": "liquidity", "pos": "noun" },
+      { "word": "liquidate", "pos": "verb" },
+      { "word": "liquefy", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "list",
+    "ipa": "/lɪst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "liste",
+        "def": "a series of names, items or numbers written one below the other",
+        "examples": ["I made a shopping list before going to the store.", "Her name was on the list of winners."]
+      },
+      {
+        "pos": "verb",
+        "tr": "listelemek, sıralamak, saymak",
+        "def": "to write or say things in a particular order, or to include something on a list",
+        "examples": ["Please list your previous jobs on the form.", "The hotel is listed as one of the best in the city."]
+      }
+    ],
+    "collocations": ["make a list", "shopping list", "to-do list", "waiting list", "on the list", "top the list"],
+    "synonyms": ["catalog", "register", "inventory", "itemize", "record"],
+    "family": [
+      { "word": "listing", "pos": "noun" },
+      { "word": "listed", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "listen",
+    "ipa": "/ˈlɪsn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dinlemek",
+        "def": "to pay attention to someone or something that you can hear",
+        "examples": ["I like to listen to podcasts on my way to work.", "Are you even listening to me?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(söz, tavsiye) dinlemek, kulak vermek",
+        "def": "to take notice of what someone says and do what they advise",
+        "examples": ["I told him not to buy that car, but he wouldn't listen."]
+      }
+    ],
+    "collocations": ["listen to", "listen carefully", "listen to music", "listen up", "listen for", "listen to reason"],
+    "synonyms": ["hear", "pay attention", "heed", "attend"],
+    "family": [{ "word": "listener", "pos": "noun" }],
+    "note": "Use \"to\" before the object: listen to music, not \"listen music\". The t is silent: /ˈlɪsn/."
+  },
+  {
+    "word": "listener",
+    "ipa": "/ˈlɪsənər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dinleyici",
+        "def": "a person who listens, especially to the radio or a podcast",
+        "examples": ["The radio show has more than a million listeners.", "She's a good listener, so people often share their problems with her."]
+      }
+    ],
+    "collocations": ["good listener", "radio listeners", "regular listener", "loyal listeners"],
+    "synonyms": ["audience", "hearer"],
+    "family": [{ "word": "listen", "pos": "verb" }]
+  },
+  {
+    "word": "listing",
+    "ipa": "/ˈlɪstɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "liste, ilan, kayıt",
+        "def": "a published list, or one item in a list, such as a property or product for sale",
+        "examples": ["I found the apartment through an online listing.", "Check the TV listings to see what's on tonight."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(borsada) kote olma, listelenme",
+        "def": "the fact of a company's shares being traded on a stock exchange",
+        "examples": ["The startup is planning a listing on the New York Stock Exchange."]
+      }
+    ],
+    "collocations": ["job listing", "property listing", "TV listings", "online listing", "stock market listing"],
+    "synonyms": ["list", "entry", "ad", "catalog"],
+    "family": [{ "word": "list", "pos": "verb" }]
+  },
+  {
+    "word": "liter",
+    "ipa": "/ˈliːtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "litre",
+        "def": "a metric unit for measuring liquid, equal to about 2.1 American pints",
+        "examples": ["The car's fuel tank holds 50 liters.", "Buy a two-liter bottle of soda for the party."]
+      }
+    ],
+    "collocations": ["a liter of", "liters per", "two-liter bottle", "half a liter"],
+    "synonyms": [],
+    "family": [{ "word": "milliliter", "pos": "noun" }],
+    "note": "British spelling: litre. In everyday US life, gallons and ounces are more common than liters."
+  },
+  {
+    "word": "literacy",
+    "ipa": "/ˈlɪtərəsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "okuryazarlık",
+        "def": "the ability to read and write",
+        "examples": ["The program aims to improve literacy among adults.", "The country's literacy rate has risen to 95 percent."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bir alanda) yetkinlik, okuryazarlık",
+        "def": "knowledge and skill in a particular area",
+        "examples": ["Schools are starting to teach financial literacy and media literacy."]
+      }
+    ],
+    "collocations": ["literacy rate", "adult literacy", "computer literacy", "financial literacy", "literacy skills"],
+    "synonyms": ["reading ability", "education", "competence"],
+    "family": [
+      { "word": "literate", "pos": "adjective" },
+      { "word": "illiterate", "pos": "adjective" },
+      { "word": "illiteracy", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "literally",
+    "ipa": "/ˈlɪtərəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kelimesi kelimesine, harfiyen, gerçek anlamıyla",
+        "def": "in the exact, basic meaning of the word",
+        "examples": ["The name of the town literally means \"red river\".", "Don't take everything he says literally."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(vurgu) resmen, düpedüz, kelimenin tam anlamıyla",
+        "def": "used to emphasize something, even when it is not really true (informal)",
+        "examples": ["I was literally dying of boredom in that meeting."]
+      }
+    ],
+    "collocations": ["take something literally", "literally means", "literally translated", "quite literally", "literally thousands"],
+    "synonyms": ["exactly", "word for word", "actually", "really"],
+    "family": [
+      { "word": "literal", "pos": "adjective" }
+    ],
+    "note": "The emphasizing use is very common in speech but annoys some people; avoid it in formal writing."
+  },
+  {
+    "word": "literary",
+    "ipa": "/ˈlɪtəreri/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "edebi, edebiyatla ilgili",
+        "def": "connected with literature or with writing books",
+        "examples": ["The novel won a major literary prize.", "She works as a literary agent in New York."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(dil) edebi, yazınsal",
+        "def": "typical of the style of language used in literature rather than everyday speech",
+        "examples": ["The word \"steed\" sounds quite literary today."]
+      }
+    ],
+    "collocations": ["literary prize", "literary agent", "literary critic", "literary fiction", "literary world"],
+    "synonyms": ["literate", "bookish", "written"],
+    "family": [{ "word": "literature", "pos": "noun" }],
+    "note": "Don't confuse literary (edebi), literal (gerçek anlamda) and literate (okuryazar)."
+  },
+  {
+    "word": "literature",
+    "ipa": "/ˈlɪtrətʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "edebiyat",
+        "def": "written works such as novels, plays and poems that are valued as art",
+        "examples": ["She majored in English literature in college.", "The book is considered a classic of American literature."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bilimsel) literatür, kaynaklar; tanıtım yazıları",
+        "def": "pieces of writing on a particular subject, or printed information about a product",
+        "examples": ["There is a large body of literature on childhood obesity.", "Ask the salesperson for some literature about the car."]
+      }
+    ],
+    "collocations": ["English literature", "classic literature", "world literature", "scientific literature", "the literature on", "review the literature"],
+    "synonyms": ["writing", "works", "texts", "research"],
+    "family": [
+      { "word": "literary", "pos": "adjective" },
+      { "word": "literate", "pos": "adjective" }
+    ],
+    "note": "Uncountable. In academic English, \"the literature\" means published research on a topic (literature review)."
+  },
+  {
+    "word": "litter",
+    "ipa": "/ˈlɪtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çöp (yerlere atılmış)",
+        "def": "small pieces of trash such as paper, cans and bottles left lying in public places",
+        "examples": ["The park was covered in litter after the concert.", "You can be fined for dropping litter."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bir batında doğan yavrular",
+        "def": "a group of baby animals born to one mother at the same time",
+        "examples": ["Our dog had a litter of six puppies."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(etrafa) çöp atmak; etrafa saçılmak",
+        "def": "to leave trash somewhere, or to be spread untidily over a place",
+        "examples": ["Clothes littered the floor of his bedroom."]
+      }
+    ],
+    "collocations": ["drop litter", "pick up litter", "litter box", "a litter of puppies", "littered with"],
+    "synonyms": ["trash", "garbage", "rubbish", "debris"],
+    "family": [{ "word": "litterbug", "pos": "noun" }],
+    "note": "\"Litter box\" = the box of sand indoor cats use (kedi kumu kabı)."
+  },
+  {
+    "word": "little",
+    "ipa": "/ˈlɪtl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "küçük, ufak; küçük (yaş)",
+        "def": "small in size, or young",
+        "examples": ["They live in a little house near the beach.", "My little brother just started kindergarten."]
+      },
+      {
+        "pos": "determiner",
+        "tr": "(a little) biraz; (little) çok az, pek az",
+        "def": "a small amount of; without \"a\", not much or almost no",
+        "examples": ["Add a little salt to the water.", "There's little hope of finding survivors now."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "(a little) biraz; (little) çok az şey",
+        "def": "a small amount, or not much",
+        "examples": ["I understood very little of what he said."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "biraz; pek az, hemen hiç",
+        "def": "to a small degree, or hardly at all",
+        "examples": ["I'm a little tired after the trip.", "Little did she know that her life was about to change."]
+      }
+    ],
+    "collocations": ["a little bit", "little by little", "very little", "a little while", "little or no", "little brother"],
+    "synonyms": ["small", "tiny", "slightly", "somewhat"],
+    "family": [],
+    "note": "\"A little\" is positive (some); \"little\" is negative (almost none). Comparative: less, least."
+  },
+  {
+    "word": "live",
+    "ipa": "/laɪv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yaşamak, oturmak, ikamet etmek",
+        "def": "to have your home in a particular place",
+        "examples": ["We live in a small apartment downtown.", "Where do your parents live now?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "yaşamak, hayatta olmak",
+        "def": "to be alive, or to have a particular kind of life",
+        "examples": ["My grandfather lived to the age of 98.", "They live a quiet, simple life."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "canlı, diri; canlı (yayın)",
+        "def": "alive, or happening or broadcast at the same time as it is seen or heard",
+        "examples": ["The restaurant serves live lobsters.", "The band played live music all night."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "canlı olarak",
+        "def": "broadcast or performed while the event is actually happening",
+        "examples": ["The final will be shown live on TV."]
+      }
+    ],
+    "collocations": ["live in", "live with", "live on", "live a life", "live music", "live broadcast", "go live"],
+    "synonyms": ["reside", "dwell", "exist", "survive", "living"],
+    "family": [
+      { "word": "life", "pos": "noun" },
+      { "word": "lively", "pos": "adjective" },
+      { "word": "living", "pos": "noun" },
+      { "word": "alive", "pos": "adjective" }
+    ],
+    "note": "Verb is /lɪv/; adjective and adverb are /laɪv/. \"Live on\" = use as your money or food: live on $1,000 a month."
+  },
+  {
+    "word": "lively",
+    "ipa": "/ˈlaɪvli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "canlı, hareketli, neşeli",
+        "def": "full of life and energy; active and enthusiastic",
+        "examples": ["The neighborhood has a lively nightlife with lots of bars.", "She's a lively, outgoing child."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(tartışma) hararetli, ateşli",
+        "def": "involving a lot of strong opinions and interesting ideas",
+        "examples": ["The panel led to a lively debate about immigration."]
+      }
+    ],
+    "collocations": ["lively debate", "lively discussion", "lively atmosphere", "lively interest", "lively music"],
+    "synonyms": ["energetic", "vibrant", "animated", "spirited", "busy"],
+    "family": [
+      { "word": "liveliness", "pos": "noun" },
+      { "word": "live", "pos": "verb" }
+    ],
+    "note": "It looks like an adverb but is an adjective. Pronounced /ˈlaɪvli/."
+  },
+  {
+    "word": "liver",
+    "ipa": "/ˈlɪvər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "karaciğer; ciğer (yemek)",
+        "def": "a large organ in the body that cleans the blood, or the liver of an animal eaten as food",
+        "examples": ["Heavy drinking can cause serious liver damage.", "She ordered fried liver with onions."]
+      }
+    ],
+    "collocations": ["liver disease", "liver damage", "liver failure", "liver transplant", "liver cancer"],
+    "synonyms": [],
+    "family": [],
+    "note": "Turkish \"ciğer\" can mean lungs or liver; in English these are different: lung = akciğer, liver = karaciğer."
+  },
+  {
+    "word": "living",
+    "ipa": "/ˈlɪvɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "geçim, ekmek parası",
+        "def": "money to buy the things you need, or the way you earn it",
+        "examples": ["What does she do for a living?", "It's hard to make a living as an artist."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yaşam, yaşayış",
+        "def": "a particular way or standard of life",
+        "examples": ["The cost of living in big cities keeps rising."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yaşayan, hayatta olan, canlı",
+        "def": "alive now, or still used or existing",
+        "examples": ["She is one of the greatest living writers.", "Bacteria are tiny living organisms."]
+      }
+    ],
+    "collocations": ["make a living", "earn a living", "for a living", "cost of living", "living room", "living conditions"],
+    "synonyms": ["income", "livelihood", "alive", "existing"],
+    "family": [{ "word": "live", "pos": "verb" }],
+    "note": "\"What do you do for a living?\" is the natural way to ask about someone's job."
+  },
+  {
+    "word": "load",
+    "ipa": "/ləʊd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yük",
+        "def": "something heavy that is carried, often in large amounts",
+        "examples": ["The truck was carrying a load of bricks.", "I do three loads of laundry every weekend."]
+      },
+      {
+        "pos": "noun",
+        "tr": "iş yükü, sorumluluk; (a load of) bir sürü",
+        "def": "an amount of work or responsibility, or (informal) a lot of something",
+        "examples": ["Teachers have a heavy work load this term.", "We've got loads of food left over."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yüklemek, doldurmak",
+        "def": "to put a large amount of things into a vehicle or container, or to put data into a computer",
+        "examples": ["They loaded the car with camping gear.", "The page takes forever to load."]
+      }
+    ],
+    "collocations": ["heavy load", "load of laundry", "workload", "loads of", "load up", "load the dishwasher"],
+    "synonyms": ["cargo", "burden", "weight", "pack", "fill"],
+    "family": [
+      { "word": "loaded", "pos": "adjective" },
+      { "word": "unload", "pos": "verb" },
+      { "word": "workload", "pos": "noun" }
+    ],
+    "note": "\"Loaded\" (informal) can mean very rich. \"A loaded question\" contains a hidden trap."
+  },
+  {
+    "word": "loan",
+    "ipa": "/ləʊn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kredi, borç",
+        "def": "money that a bank or person lends and that must be paid back, usually with interest",
+        "examples": ["They took out a loan to buy a new car.", "It took me ten years to pay off my student loans."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ödünç verme, ödünç",
+        "def": "the act of lending something",
+        "examples": ["The painting is on loan from a museum in Paris."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ödünç vermek, borç vermek",
+        "def": "to lend something, especially money",
+        "examples": ["My uncle loaned me the money for the down payment."]
+      }
+    ],
+    "collocations": ["take out a loan", "pay off a loan", "bank loan", "student loan", "on loan", "loan application"],
+    "synonyms": ["credit", "advance", "mortgage", "lend"],
+    "family": [{ "word": "lend", "pos": "verb" }],
+    "note": "As a verb, \"loan\" is common in American English; British English prefers \"lend\"."
+  },
+  {
+    "word": "lobby",
+    "ipa": "/ˈlɑːbi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lobi, giriş salonu",
+        "def": "a large area inside the entrance of a hotel or public building",
+        "examples": ["I'll meet you in the hotel lobby at seven.", "There's a small café in the lobby of the office building."]
+      },
+      {
+        "pos": "noun",
+        "tr": "lobi, baskı grubu",
+        "def": "a group of people who try to influence politicians on a particular issue",
+        "examples": ["The gun lobby is very powerful in Washington."]
+      },
+      {
+        "pos": "verb",
+        "tr": "lobi yapmak, etkilemeye çalışmak",
+        "def": "to try to persuade politicians or officials to support or oppose a law",
+        "examples": ["Environmental groups are lobbying Congress to cut emissions.", "Parents lobbied for a new playground."]
+      }
+    ],
+    "collocations": ["hotel lobby", "in the lobby", "gun lobby", "powerful lobby", "lobby for", "lobby against"],
+    "synonyms": ["foyer", "entrance hall", "pressure group", "campaign", "push for"],
+    "family": [
+      { "word": "lobbyist", "pos": "noun" },
+      { "word": "lobbying", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "local",
+    "ipa": "/ˈləʊkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yerel, mahalli, bölgesel",
+        "def": "belonging to or connected with the area where you live or the place you are talking about",
+        "examples": ["We buy our vegetables at the local farmers' market.", "The story was covered by the local news."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(tıp) lokal, bölgesel",
+        "def": "affecting only one part of the body",
+        "examples": ["The dentist gave me a local anesthetic."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yerli, oranın insanı",
+        "def": "a person who lives in a particular place",
+        "examples": ["Ask the locals where the best restaurants are."]
+      }
+    ],
+    "collocations": ["local government", "local news", "local community", "local time", "local residents", "the locals"],
+    "synonyms": ["regional", "neighborhood", "community", "resident", "native"],
+    "family": [
+      { "word": "locally", "pos": "adverb" },
+      { "word": "locality", "pos": "noun" },
+      { "word": "locate", "pos": "verb" }
+    ],
+    "note": "Trap: \"local\" doesn't mean \"lokal\" (restaurant/club) as in Turkish. \"The local\" in British English = the nearby pub."
+  },
+  {
+    "word": "locate",
+    "ipa": "/ˈləʊkeɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yerini bulmak, yerini tespit etmek",
+        "def": "to find the exact position of someone or something",
+        "examples": ["Rescuers managed to locate the missing hikers.", "Police used phone data to locate the suspect."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir yere) konumlandırmak, yerleştirmek",
+        "def": "to put or build something in a particular place",
+        "examples": ["The company decided to locate its new factory near the port."]
+      }
+    ],
+    "collocations": ["locate the source", "be unable to locate", "try to locate", "easy to locate", "locate a missing person"],
+    "synonyms": ["find", "pinpoint", "track down", "place", "situate"],
+    "family": [
+      { "word": "location", "pos": "noun" },
+      { "word": "located", "pos": "adjective" },
+      { "word": "relocate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "located",
+    "ipa": "/ˈləʊkeɪtɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "bulunan, yer alan, konumlanmış",
+        "def": "existing or situated in a particular place",
+        "examples": ["The hotel is conveniently located near the airport.", "Our office is located on the third floor."]
+      }
+    ],
+    "collocations": ["located in", "located near", "conveniently located", "centrally located", "ideally located"],
+    "synonyms": ["situated", "positioned", "based", "placed"],
+    "family": [
+      { "word": "locate", "pos": "verb" },
+      { "word": "location", "pos": "noun" }
+    ],
+    "note": "Used after \"be\": The museum is located downtown (= Müze şehir merkezinde yer alıyor)."
+  },
+  {
+    "word": "location",
+    "ipa": "/ləʊˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yer, konum, mevki",
+        "def": "a place where something happens or exists, or the position of something",
+        "examples": ["The restaurant is in a great location near the river.", "Turn on your phone's location services to use the map."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(film) dış çekim yeri",
+        "def": "a place outside a studio where a film is made",
+        "examples": ["The movie was shot on location in Morocco."]
+      }
+    ],
+    "collocations": ["central location", "exact location", "on location", "remote location", "location services", "ideal location"],
+    "synonyms": ["place", "site", "position", "spot", "setting"],
+    "family": [
+      { "word": "locate", "pos": "verb" },
+      { "word": "located", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "lock",
+    "ipa": "/lɑːk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kilit",
+        "def": "a device that keeps a door, box, etc. closed, usually opened with a key",
+        "examples": ["Someone broke the lock on the back door.", "I heard the key turn in the lock."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kilitlemek, kilitlenmek",
+        "def": "to close something with a lock, or to be able to be closed in this way",
+        "examples": ["Did you remember to lock the car?", "The screen locks automatically after five minutes."]
+      }
+    ],
+    "collocations": ["lock the door", "lock up", "lock yourself out", "under lock and key", "combination lock", "locked in"],
+    "synonyms": ["bolt", "latch", "secure", "fasten"],
+    "family": [
+      { "word": "unlock", "pos": "verb" },
+      { "word": "locker", "pos": "noun" },
+      { "word": "lockdown", "pos": "noun" }
+    ],
+    "note": "\"Lock yourself out\" = accidentally leave your keys inside and be unable to get in."
+  },
+  {
+    "word": "log",
+    "ipa": "/lɔːɡ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kütük, odun",
+        "def": "a thick piece of wood cut from a tree or fallen from it",
+        "examples": ["Put another log on the fire.", "We sat on a log by the river and ate our sandwiches."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kayıt, seyir defteri, günlük",
+        "def": "an official written record of events, especially on a ship or aircraft",
+        "examples": ["The captain kept a detailed log of the voyage."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kaydetmek, kayda geçirmek",
+        "def": "to officially record information or events",
+        "examples": ["All customer calls are logged for training purposes.", "I log my workouts in an app."]
+      }
+    ],
+    "collocations": ["log in", "log out", "log on", "keep a log", "sleep like a log", "log cabin"],
+    "synonyms": ["timber", "record", "journal", "register"],
+    "family": [
+      { "word": "logbook", "pos": "noun" },
+      { "word": "login", "pos": "noun" }
+    ],
+    "note": "\"Log in/on\" = enter a computer system with a password. \"Sleep like a log\" = sleep very deeply."
+  },
+  {
+    "word": "logic",
+    "ipa": "/ˈlɑːdʒɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mantık",
+        "def": "a reasonable way of thinking about or explaining something",
+        "examples": ["I don't understand the logic behind the new rules.", "There's no logic in spending money we don't have."]
+      },
+      {
+        "pos": "noun",
+        "tr": "mantık (bilimi)",
+        "def": "the formal study of reasoning and argument",
+        "examples": ["She took a course in logic and philosophy."]
+      }
+    ],
+    "collocations": ["the logic behind", "logic of", "simple logic", "flawed logic", "by the same logic", "defy logic"],
+    "synonyms": ["reasoning", "rationale", "sense", "reason"],
+    "family": [
+      { "word": "logical", "pos": "adjective" },
+      { "word": "logically", "pos": "adverb" },
+      { "word": "illogical", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "logical",
+    "ipa": "/ˈlɑːdʒɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "mantıklı, makul",
+        "def": "seeming natural, reasonable or sensible",
+        "examples": ["It's the logical choice, since she has the most experience.", "The logical next step is to test the product with users."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "mantıksal, mantığa dayalı",
+        "def": "following the rules of logic",
+        "examples": ["He laid out his argument in a clear, logical way."]
+      }
+    ],
+    "collocations": ["logical conclusion", "logical explanation", "logical step", "logical choice", "perfectly logical"],
+    "synonyms": ["reasonable", "sensible", "rational", "sound", "coherent"],
+    "family": [
+      { "word": "logic", "pos": "noun" },
+      { "word": "logically", "pos": "adverb" },
+      { "word": "illogical", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "logo",
+    "ipa": "/ˈləʊɡəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "logo, amblem",
+        "def": "a design or symbol that a company or organization uses to identify itself",
+        "examples": ["The company's logo is printed on every product.", "They hired a designer to create a new logo."]
+      }
+    ],
+    "collocations": ["company logo", "design a logo", "corporate logo", "logo on", "brand logo"],
+    "synonyms": ["emblem", "symbol", "trademark", "brand"],
+    "family": []
+  },
+  {
+    "word": "lonely",
+    "ipa": "/ˈləʊnli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yalnız (hisseden), kimsesiz",
+        "def": "unhappy because you have no friends or nobody to talk to",
+        "examples": ["She felt lonely after moving to a new city.", "Many elderly people are lonely and isolated."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ıssız, tenha",
+        "def": "far from other places and with few people",
+        "examples": ["We drove for hours along a lonely desert road."]
+      }
+    ],
+    "collocations": ["feel lonely", "lonely life", "get lonely", "lonely place", "lonely heart"],
+    "synonyms": ["isolated", "alone", "lonesome", "remote", "deserted"],
+    "family": [{ "word": "loneliness", "pos": "noun" }],
+    "note": "\"Alone\" = without others (neutral); \"lonely\" = sad because you are alone. You can be alone but not lonely."
+  }
+]

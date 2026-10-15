@@ -1,0 +1,1175 @@
+[
+  {
+    "word": "a",
+    "ipa": "/ə/",
+    "senses": [
+      {
+        "pos": "article",
+        "tr": "bir",
+        "def": "used before a singular countable noun when it is not a specific one or has not been mentioned before",
+        "examples": ["I saw a fox in the backyard this morning.", "She works as a nurse at a hospital downtown."]
+      },
+      {
+        "pos": "article",
+        "tr": "her, başına (fiyat, sıklık vb.)",
+        "def": "used to mean 'each' or 'per' with amounts, prices and frequencies",
+        "examples": ["The gym costs forty dollars a month.", "I drink coffee three times a day."]
+      }
+    ],
+    "collocations": ["a lot of", "a few", "a little", "once a week", "a bit", "half an hour"],
+    "synonyms": [],
+    "family": [],
+    "note": "Use \"an\" before a vowel sound: an hour, an idea, but a university, a one-way street."
+  },
+  {
+    "word": "ability",
+    "ipa": "/əˈbɪləti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yetenek, beceri, -ebilme gücü",
+        "def": "the skill, power or opportunity to do something",
+        "examples": ["She has the ability to stay calm under pressure.", "The disease affects a patient's ability to walk."]
+      }
+    ],
+    "collocations": ["the ability to do something", "natural ability", "lose the ability", "to the best of your ability", "mixed-ability class"],
+    "synonyms": ["capability", "skill", "talent", "capacity"],
+    "family": [
+      { "word": "able", "pos": "adjective" },
+      { "word": "inability", "pos": "noun" },
+      { "word": "disability", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "able",
+    "ipa": "/ˈeɪbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "-ebilmek, muktedir olmak",
+        "def": "having the skill, chance or power to do something; used in \"be able to\"",
+        "examples": ["Will you be able to come to the meeting tomorrow?", "After the surgery, he was able to walk again."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yetenekli, becerikli",
+        "def": "clever or good at doing something",
+        "examples": ["She is one of the most able students in her class."]
+      }
+    ],
+    "collocations": ["be able to", "be unable to", "no longer able to", "fully able", "able-bodied"],
+    "synonyms": ["capable", "competent", "skilled"],
+    "family": [
+      { "word": "ability", "pos": "noun" },
+      { "word": "unable", "pos": "adjective" },
+      { "word": "ably", "pos": "adverb" },
+      { "word": "enable", "pos": "verb" }
+    ],
+    "note": "\"Can\" has no future or perfect forms, so use \"be able to\": I will be able to, I have been able to."
+  },
+  {
+    "word": "abolish",
+    "ipa": "/əˈbɑːlɪʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kaldırmak, yürürlükten kaldırmak, lağvetmek",
+        "def": "to officially end a law, system or institution",
+        "examples": ["Many countries have abolished the death penalty.", "The new government promised to abolish the tax on books."]
+      }
+    ],
+    "collocations": ["abolish slavery", "abolish the death penalty", "abolish a tax", "abolish a law", "calls to abolish"],
+    "synonyms": ["eliminate", "end", "scrap", "do away with", "repeal"],
+    "family": [
+      { "word": "abolition", "pos": "noun" },
+      { "word": "abolitionist", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "abortion",
+    "ipa": "/əˈbɔːrʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kürtaj, çocuk aldırma",
+        "def": "a medical procedure that deliberately ends a pregnancy at an early stage",
+        "examples": ["The state passed a law restricting access to abortion.", "Abortion remains one of the most divisive issues in American politics."]
+      }
+    ],
+    "collocations": ["have an abortion", "abortion rights", "abortion law", "legal abortion", "ban abortion"],
+    "synonyms": ["termination"],
+    "family": [
+      { "word": "abort", "pos": "verb" },
+      { "word": "abortive", "pos": "adjective" }
+    ],
+    "note": "A natural loss of a pregnancy is a \"miscarriage\" (düşük), not an abortion. \"Abort\" also means to stop a plan or process."
+  },
+  {
+    "word": "about",
+    "ipa": "/əˈbaʊt/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "hakkında, ile ilgili",
+        "def": "on the subject of or connected with someone or something",
+        "examples": ["We talked about our plans for the summer.", "What's the book about?"]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yaklaşık, aşağı yukarı, civarında",
+        "def": "a little more or less than a number or time",
+        "examples": ["The flight takes about three hours.", "There were about fifty people at the party."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(be about to) -mek üzere olmak",
+        "def": "used in \"be about to\" to say something will happen very soon",
+        "examples": ["I was just about to call you when you walked in."]
+      }
+    ],
+    "collocations": ["talk about", "think about", "worry about", "be about to", "how about", "what about"],
+    "synonyms": ["concerning", "regarding", "approximately", "around", "roughly"],
+    "family": []
+  },
+  {
+    "word": "above",
+    "ipa": "/əˈbʌv/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "üstünde, yukarısında",
+        "def": "in or to a higher position than something",
+        "examples": ["There's a small shelf above the sink.", "The plane flew high above the clouds."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "üzerinde, -den fazla",
+        "def": "more than a particular number, amount or level",
+        "examples": ["Temperatures rose above 100 degrees last week.", "The tour is for children aged ten and above."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yukarıda, yukarıdaki",
+        "def": "at or to a higher place, or earlier in a piece of writing",
+        "examples": ["The neighbors in the apartment above are very noisy.", "Please contact us at the address given above."]
+      }
+    ],
+    "collocations": ["above average", "above all", "above sea level", "above and beyond", "as mentioned above", "the above"],
+    "synonyms": ["over", "higher than", "more than", "beyond"],
+    "family": [],
+    "note": "\"Above all\" means \"most importantly\". \"Above\" is for position/level; \"over\" can also mean covering or moving across."
+  },
+  {
+    "word": "abroad",
+    "ipa": "/əˈbrɔːd/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yurt dışında, yurt dışına",
+        "def": "in or to a foreign country",
+        "examples": ["She spent a year studying abroad in Spain.", "More Americans are traveling abroad than ever before."]
+      }
+    ],
+    "collocations": ["go abroad", "study abroad", "travel abroad", "live abroad", "at home and abroad", "from abroad"],
+    "synonyms": ["overseas", "in a foreign country"],
+    "family": [],
+    "note": "An adverb, so no preposition: \"go abroad\", not \"go to abroad\". But you can say \"from abroad\"."
+  },
+  {
+    "word": "absence",
+    "ipa": "/ˈæbsəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yokluk, devamsızlık, bulunmama",
+        "def": "the fact of being away from a place where you are expected, or the period you are away",
+        "examples": ["Her frequent absences from work worried her manager.", "He returned to the team after a two-month absence."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yokluk, eksiklik",
+        "def": "the fact that something does not exist or is missing",
+        "examples": ["In the absence of evidence, the police had to release him.", "The absence of clear rules caused confusion."]
+      }
+    ],
+    "collocations": ["in the absence of", "leave of absence", "a long absence", "absence from school", "conspicuous by its absence"],
+    "synonyms": ["nonattendance", "lack", "nonexistence"],
+    "family": [
+      { "word": "absent", "pos": "adjective" },
+      { "word": "absentee", "pos": "noun" },
+      { "word": "absenteeism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "absent",
+    "ipa": "/ˈæbsənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yok, gelmemiş, devamsız",
+        "def": "not present in a place where you are expected to be, for example because of illness",
+        "examples": ["Three students were absent from class today with the flu.", "He was absent from the meeting without explanation."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "bulunmayan, eksik",
+        "def": "not existing in a place or situation where you would expect it",
+        "examples": ["Any sense of humor was completely absent from his speech."]
+      }
+    ],
+    "collocations": ["absent from school", "absent from work", "be marked absent", "absent without leave", "largely absent"],
+    "synonyms": ["away", "missing", "not present", "lacking"],
+    "family": [
+      { "word": "absence", "pos": "noun" },
+      { "word": "absently", "pos": "adverb" },
+      { "word": "absent-minded", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "absolute",
+    "ipa": "/ˈæbsəluːt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tam, mutlak, kesin",
+        "def": "total and complete; used to emphasize something",
+        "examples": ["The trip was an absolute disaster from start to finish.", "I have absolute confidence in her judgment."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "mutlak, sınırsız",
+        "def": "having unlimited power, or not depending on or compared with anything else",
+        "examples": ["The king held absolute power over the country.", "Measured in absolute terms, wages have risen."]
+      }
+    ],
+    "collocations": ["absolute power", "absolute certainty", "absolute majority", "an absolute disaster", "in absolute terms", "absolute zero"],
+    "synonyms": ["complete", "total", "utter", "unlimited"],
+    "family": [
+      { "word": "absolutely", "pos": "adverb" },
+      { "word": "absolutism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "absolutely",
+    "ipa": "/ˈæbsəluːtli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kesinlikle, tamamen, son derece",
+        "def": "completely or totally; used to emphasize what you are saying",
+        "examples": ["The view from the top was absolutely amazing.", "I have absolutely no idea where my keys are."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "kesinlikle, tabii ki",
+        "def": "used as a strong way of saying yes or agreeing",
+        "examples": ["\"Can I bring a friend?\" \"Absolutely!\"", "\"Absolutely not,\" she said when he asked to borrow her car."]
+      }
+    ],
+    "collocations": ["absolutely sure", "absolutely nothing", "absolutely right", "absolutely essential", "absolutely not"],
+    "synonyms": ["completely", "totally", "utterly", "definitely", "certainly"],
+    "family": [{ "word": "absolute", "pos": "adjective" }],
+    "note": "Use with extreme adjectives (absolutely freezing, absolutely delicious), not usually with gradable ones (not \"absolutely cold\")."
+  },
+  {
+    "word": "absorb",
+    "ipa": "/əbˈzɔːrb/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "emmek, çekmek",
+        "def": "to take in a liquid, gas, heat or other substance",
+        "examples": ["The towel absorbed most of the spilled milk.", "Dark clothes absorb more heat from the sun."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bilgi) kavramak, özümsemek",
+        "def": "to take in and understand information fully",
+        "examples": ["There was too much information to absorb in one lecture."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kendini kaptırmak, dalmak (be absorbed in)",
+        "def": "to hold someone's attention completely",
+        "examples": ["He was so absorbed in his game that he didn't hear me."]
+      }
+    ],
+    "collocations": ["absorb water", "absorb information", "absorb the cost", "absorb the shock", "be absorbed in"],
+    "synonyms": ["soak up", "take in", "digest", "engross"],
+    "family": [
+      { "word": "absorbent", "pos": "adjective" },
+      { "word": "absorption", "pos": "noun" },
+      { "word": "absorbing", "pos": "adjective" },
+      { "word": "absorbed", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "abstract",
+    "ipa": "/ˈæbstrækt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "soyut",
+        "def": "based on general ideas rather than real, physical things or specific situations",
+        "examples": ["Justice and freedom are abstract concepts.", "The discussion was too abstract for most of the students."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(sanat) soyut, nonfigüratif",
+        "def": "(of art) using shapes and colors rather than showing people or things realistically",
+        "examples": ["The museum has a large collection of abstract paintings."]
+      },
+      {
+        "pos": "noun",
+        "tr": "özet (makale vb.)",
+        "def": "a short summary of a research article or academic paper",
+        "examples": ["Read the abstract first to see if the study is relevant."]
+      }
+    ],
+    "collocations": ["abstract concept", "abstract idea", "abstract art", "abstract thinking", "in the abstract"],
+    "synonyms": ["theoretical", "conceptual", "nonrepresentational", "summary"],
+    "family": [
+      { "word": "abstraction", "pos": "noun" },
+      { "word": "abstractly", "pos": "adverb" }
+    ],
+    "note": "Opposite: concrete (somut)."
+  },
+  {
+    "word": "absurd",
+    "ipa": "/əbˈsɜːrd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "saçma, anlamsız, gülünç",
+        "def": "completely unreasonable or silly, and not making sense",
+        "examples": ["It's absurd to charge ten dollars for a bottle of water.", "The idea sounded absurd at first, but it worked."]
+      }
+    ],
+    "collocations": ["completely absurd", "patently absurd", "an absurd idea", "absurd situation", "it is absurd to"],
+    "synonyms": ["ridiculous", "ludicrous", "preposterous", "silly", "nonsensical"],
+    "family": [
+      { "word": "absurdity", "pos": "noun" },
+      { "word": "absurdly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "abundance",
+    "ipa": "/əˈbʌndəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bolluk, bereket",
+        "def": "a very large amount of something, more than is needed",
+        "examples": ["The region has an abundance of fresh water.", "Wild berries grow in abundance along the trail."]
+      }
+    ],
+    "collocations": ["an abundance of", "in abundance", "great abundance", "relative abundance"],
+    "synonyms": ["plenty", "wealth", "profusion", "plethora"],
+    "family": [
+      { "word": "abundant", "pos": "adjective" },
+      { "word": "abundantly", "pos": "adverb" }
+    ],
+    "note": "Formal. \"In abundance\" comes after the noun: \"Food was available in abundance.\""
+  },
+  {
+    "word": "abuse",
+    "ipa": "/əˈbjuːs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kötüye kullanma, suistimal",
+        "def": "the wrong or harmful use of something, such as power or drugs",
+        "examples": ["The scandal involved a clear abuse of power.", "He spent years struggling with drug abuse."]
+      },
+      {
+        "pos": "noun",
+        "tr": "istismar, kötü muamele, şiddet",
+        "def": "cruel or violent treatment of a person or animal",
+        "examples": ["The charity supports victims of child abuse.", "She reported the abuse to the police."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kötüye kullanmak, suistimal etmek",
+        "def": "to use something wrongly or too much, in a way that causes harm",
+        "examples": ["The officer was accused of abusing his authority.", "Some people abuse prescription painkillers."]
+      },
+      {
+        "pos": "verb",
+        "tr": "istismar etmek, kötü davranmak",
+        "def": "to treat a person or animal cruelly or violently",
+        "examples": ["The dog had been abused by its previous owner."]
+      }
+    ],
+    "collocations": ["abuse of power", "drug abuse", "child abuse", "human rights abuses", "verbal abuse", "abuse your position"],
+    "synonyms": ["misuse", "mistreatment", "exploitation", "maltreat"],
+    "family": [
+      { "word": "abuser", "pos": "noun" },
+      { "word": "abusive", "pos": "adjective" }
+    ],
+    "note": "Pronunciation differs: noun /əˈbjuːs/ (s sound), verb /əˈbjuːz/ (z sound)."
+  },
+  {
+    "word": "academic",
+    "ipa": "/ˌækəˈdemɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "akademik, eğitimle ilgili",
+        "def": "connected with education, especially study and research at schools and universities",
+        "examples": ["The new academic year starts in late August.", "Her academic performance improved after she joined the study group."]
+      },
+      {
+        "pos": "noun",
+        "tr": "akademisyen, öğretim üyesi",
+        "def": "a person who teaches or does research at a university or college",
+        "examples": ["The report was written by a group of leading academics."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "teorik, pratikte önemsiz",
+        "def": "not relevant to a real situation; only of theoretical interest",
+        "examples": ["The question is purely academic now that the decision has been made."]
+      }
+    ],
+    "collocations": ["academic year", "academic performance", "academic research", "academic freedom", "academic achievement", "purely academic"],
+    "synonyms": ["scholarly", "educational", "scholar", "professor", "theoretical"],
+    "family": [
+      { "word": "academy", "pos": "noun" },
+      { "word": "academically", "pos": "adverb" },
+      { "word": "academia", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "academy",
+    "ipa": "/əˈkædəmi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "akademi, (özel eğitim veren) okul",
+        "def": "a school or college that gives training in a special skill or subject",
+        "examples": ["He graduated from the police academy last spring.", "She trained at a famous ballet academy in New York."]
+      },
+      {
+        "pos": "noun",
+        "tr": "akademi, bilim/sanat kurumu",
+        "def": "an official organization of respected scholars, scientists or artists",
+        "examples": ["She was elected to the National Academy of Sciences."]
+      }
+    ],
+    "collocations": ["military academy", "police academy", "naval academy", "academy of music", "the Academy Awards"],
+    "synonyms": ["school", "college", "institute"],
+    "family": [
+      { "word": "academic", "pos": "adjective" },
+      { "word": "academician", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "accelerate",
+    "ipa": "/əkˈseləreɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "hızlandırmak, hızlanmak",
+        "def": "to happen or make something happen faster or earlier",
+        "examples": ["The government wants to accelerate the switch to clean energy.", "Climate change has accelerated the melting of glaciers."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(araç) hızlanmak, gaza basmak",
+        "def": "(of a vehicle or driver) to go faster",
+        "examples": ["The car accelerated as it merged onto the highway."]
+      }
+    ],
+    "collocations": ["accelerate growth", "accelerate the process", "accelerate the pace", "rapidly accelerate", "accelerate away"],
+    "synonyms": ["speed up", "hasten", "quicken", "step up"],
+    "family": [
+      { "word": "acceleration", "pos": "noun" },
+      { "word": "accelerator", "pos": "noun" }
+    ],
+    "note": "Opposite: decelerate / slow down. The car pedal is the \"accelerator\" or informally the \"gas pedal\"."
+  },
+  {
+    "word": "accent",
+    "ipa": "/ˈæksent/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "aksan, şive",
+        "def": "a way of pronouncing a language that shows where someone comes from",
+        "examples": ["She speaks English with a slight French accent.", "I could tell from his accent that he grew up in Texas."]
+      },
+      {
+        "pos": "noun",
+        "tr": "vurgu",
+        "def": "special emphasis given to a syllable, or a particular focus on something",
+        "examples": ["In \"hotel\", the accent is on the second syllable.", "The menu puts the accent on local ingredients."]
+      }
+    ],
+    "collocations": ["a strong accent", "a heavy accent", "a Southern accent", "speak with an accent", "lose your accent"],
+    "synonyms": ["pronunciation", "intonation", "stress", "emphasis"],
+    "family": [
+      { "word": "accented", "pos": "adjective" },
+      { "word": "accentuate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "accept",
+    "ipa": "/əkˈsept/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kabul etmek, almak",
+        "def": "to take something that is offered or say yes to an offer or invitation",
+        "examples": ["She accepted the job offer without hesitation.", "Do you accept credit cards?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "kabullenmek, doğru kabul etmek",
+        "def": "to agree that something is true or to deal with a difficult situation without trying to change it",
+        "examples": ["He finally accepted that the relationship was over.", "You have to accept some risk when you invest."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kabul etmek, aralarına almak",
+        "def": "to allow someone to join a group, school or organization",
+        "examples": ["She was accepted to three different colleges."]
+      }
+    ],
+    "collocations": ["accept an offer", "accept an invitation", "accept responsibility", "accept the fact that", "widely accepted", "accept an apology"],
+    "synonyms": ["take", "agree to", "admit", "acknowledge", "come to terms with"],
+    "family": [
+      { "word": "acceptable", "pos": "adjective" },
+      { "word": "acceptance", "pos": "noun" },
+      { "word": "accepted", "pos": "adjective" },
+      { "word": "unacceptable", "pos": "adjective" }
+    ],
+    "note": "Don't confuse with \"except\" (hariç). Turkish \"kabul etmek\" also translates as \"admit\" when confessing something."
+  },
+  {
+    "word": "acceptable",
+    "ipa": "/əkˈseptəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kabul edilebilir, uygun",
+        "def": "agreed or approved of by most people in a society",
+        "examples": ["Smoking indoors is no longer socially acceptable.", "Violence is never an acceptable way to solve problems."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yeterli, idare eder, makul",
+        "def": "good enough, but not excellent",
+        "examples": ["The hotel was clean and the price was acceptable."]
+      }
+    ],
+    "collocations": ["socially acceptable", "perfectly acceptable", "acceptable level", "acceptable to both sides", "mutually acceptable"],
+    "synonyms": ["satisfactory", "adequate", "reasonable", "appropriate", "tolerable"],
+    "family": [
+      { "word": "accept", "pos": "verb" },
+      { "word": "acceptability", "pos": "noun" },
+      { "word": "unacceptable", "pos": "adjective" },
+      { "word": "acceptably", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "acceptance",
+    "ipa": "/əkˈseptəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kabul, kabul etme",
+        "def": "the act of saying yes to an offer, invitation or gift",
+        "examples": ["She gave an emotional acceptance speech at the awards ceremony.", "Please confirm your acceptance of the offer by Friday."]
+      },
+      {
+        "pos": "noun",
+        "tr": "benimsenme, kabul görme, kabulleniş",
+        "def": "the fact of being approved of or welcomed, or of agreeing that something difficult is true",
+        "examples": ["The theory gained wide acceptance among scientists.", "Grief eventually gave way to acceptance."]
+      }
+    ],
+    "collocations": ["acceptance speech", "gain acceptance", "wide acceptance", "public acceptance", "letter of acceptance", "acceptance rate"],
+    "synonyms": ["approval", "recognition", "agreement", "consent"],
+    "family": [
+      { "word": "accept", "pos": "verb" },
+      { "word": "acceptable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "access",
+    "ipa": "/ˈækses/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "erişim, ulaşım, giriş hakkı",
+        "def": "the right, opportunity or way to use, reach or enter something",
+        "examples": ["Many rural areas still lack access to fast internet.", "Students have free access to the library's databases."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bilgisayar, dosya) erişmek, açmak, ulaşmak",
+        "def": "to open or use a computer file, system or information",
+        "examples": ["You can access your account from any device.", "Hackers accessed the personal data of thousands of customers."]
+      }
+    ],
+    "collocations": ["have access to", "gain access", "easy access", "access to education", "internet access", "deny access"],
+    "synonyms": ["entry", "admission", "availability", "retrieve", "reach"],
+    "family": [
+      { "word": "accessible", "pos": "adjective" },
+      { "word": "accessibility", "pos": "noun" },
+      { "word": "inaccessible", "pos": "adjective" }
+    ],
+    "note": "Noun takes \"to\": access to clean water. The verb takes no preposition: access the files (not \"access to the files\")."
+  },
+  {
+    "word": "accessible",
+    "ipa": "/əkˈsesəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ulaşılabilir, erişilebilir",
+        "def": "possible to reach, enter or use, including for people with disabilities",
+        "examples": ["The island is only accessible by boat.", "All the station's entrances are wheelchair accessible."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "anlaşılır, herkese hitap eden",
+        "def": "easy to understand or enjoy",
+        "examples": ["The book makes complex science accessible to ordinary readers."]
+      }
+    ],
+    "collocations": ["easily accessible", "wheelchair accessible", "accessible to the public", "readily accessible", "accessible by car"],
+    "synonyms": ["reachable", "available", "approachable", "understandable"],
+    "family": [
+      { "word": "access", "pos": "noun" },
+      { "word": "accessibility", "pos": "noun" },
+      { "word": "inaccessible", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "accident",
+    "ipa": "/ˈæksɪdənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kaza",
+        "def": "an unexpected event, often involving a vehicle, that causes damage or injury",
+        "examples": ["He broke his leg in a car accident last year.", "Most accidents happen close to home."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tesadüf, rastlantı",
+        "def": "something that happens by chance, without being planned",
+        "examples": ["I found the old photos by accident while cleaning the attic.", "It was no accident that she got the job."]
+      }
+    ],
+    "collocations": ["car accident", "have an accident", "by accident", "fatal accident", "accident-prone", "it was an accident"],
+    "synonyms": ["crash", "collision", "mishap", "chance", "coincidence"],
+    "family": [
+      { "word": "accidental", "pos": "adjective" },
+      { "word": "accidentally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "accidentally",
+    "ipa": "/ˌæksɪˈdentəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kazara, yanlışlıkla, istemeden",
+        "def": "by chance or by mistake, without intending to",
+        "examples": ["I accidentally deleted the whole folder.", "She accidentally locked herself out of the house."]
+      }
+    ],
+    "collocations": ["accidentally delete", "accidentally on purpose", "accidentally discover", "accidentally shoot"],
+    "synonyms": ["by accident", "by mistake", "unintentionally", "inadvertently"],
+    "family": [
+      { "word": "accident", "pos": "noun" },
+      { "word": "accidental", "pos": "adjective" }
+    ],
+    "note": "Opposite: deliberately / on purpose. \"Accidentally on purpose\" is a joke meaning secretly on purpose."
+  },
+  {
+    "word": "accommodate",
+    "ipa": "/əˈkɑːmədeɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "barındırmak, (kişi) almak, sığdırmak",
+        "def": "to provide a place to stay or have enough space for a number of people or things",
+        "examples": ["The hotel can accommodate up to 300 guests.", "The new stadium accommodates 60,000 fans."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ihtiyaç, istek) karşılamak, uyum sağlamak",
+        "def": "to consider and try to meet someone's needs or wishes",
+        "examples": ["The airline did its best to accommodate passengers with special needs.", "We can adjust the schedule to accommodate your request."]
+      }
+    ],
+    "collocations": ["accommodate guests", "accommodate needs", "accommodate changes", "accommodate requests", "designed to accommodate"],
+    "synonyms": ["house", "hold", "fit", "cater to", "adapt to"],
+    "family": [
+      { "word": "accommodation", "pos": "noun" },
+      { "word": "accommodating", "pos": "adjective" }
+    ],
+    "note": "Common spelling mistake: double c and double m — accommodate."
+  },
+  {
+    "word": "accommodation",
+    "ipa": "/əˌkɑːməˈdeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "konaklama, kalacak yer",
+        "def": "a place to stay, live or work in; in American English usually \"accommodations\"",
+        "examples": ["The price includes flights and hotel accommodations.", "Finding cheap accommodation near campus is difficult."]
+      },
+      {
+        "pos": "noun",
+        "tr": "düzenleme, uyarlama, kolaylık",
+        "def": "a change or arrangement that helps someone, especially a person with a disability",
+        "examples": ["Students with dyslexia may receive accommodations such as extra time on tests."]
+      }
+    ],
+    "collocations": ["hotel accommodations", "student accommodation", "find accommodation", "provide accommodations", "reasonable accommodation"],
+    "synonyms": ["lodging", "housing", "a place to stay", "adjustment"],
+    "family": [
+      { "word": "accommodate", "pos": "verb" },
+      { "word": "accommodating", "pos": "adjective" }
+    ],
+    "note": "In American English, the plural \"accommodations\" is usual for lodging; British English uses the uncountable \"accommodation\"."
+  },
+  {
+    "word": "accompany",
+    "ipa": "/əˈkʌmpəni/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "eşlik etmek, refakat etmek",
+        "def": "to go somewhere with someone",
+        "examples": ["Children under 12 must be accompanied by an adult.", "She accompanied her father to his doctor's appointment."]
+      },
+      {
+        "pos": "verb",
+        "tr": "beraberinde olmak, eşlik etmek",
+        "def": "to happen or exist together with something else",
+        "examples": ["The fever was accompanied by a bad headache.", "Each photo is accompanied by a short description."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(müzik) eşlik etmek",
+        "def": "to play music while someone sings or plays the main part",
+        "examples": ["She sang while her brother accompanied her on the piano."]
+      }
+    ],
+    "collocations": ["accompanied by", "be accompanied by an adult", "accompany someone to", "accompanying documents", "accompany on the piano"],
+    "synonyms": ["go with", "escort", "come with", "attend"],
+    "family": [
+      { "word": "accompaniment", "pos": "noun" },
+      { "word": "accompanying", "pos": "adjective" },
+      { "word": "accompanist", "pos": "noun" }
+    ],
+    "note": "No preposition after it: \"accompany someone\", not \"accompany with someone\"."
+  },
+  {
+    "word": "accomplish",
+    "ipa": "/əˈkɑːmplɪʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "başarmak, gerçekleştirmek, tamamlamak",
+        "def": "to succeed in doing or finishing something, especially after effort",
+        "examples": ["We accomplished a lot in our first week.", "The team accomplished its goal of raising $10,000."]
+      }
+    ],
+    "collocations": ["accomplish a goal", "accomplish a task", "accomplish a mission", "accomplish a lot", "hard to accomplish"],
+    "synonyms": ["achieve", "complete", "carry out", "fulfill", "attain"],
+    "family": [
+      { "word": "accomplishment", "pos": "noun" },
+      { "word": "accomplished", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "accomplishment",
+    "ipa": "/əˈkɑːmplɪʃmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "başarı",
+        "def": "an impressive thing that someone achieves after a lot of work",
+        "examples": ["Finishing the marathon was a huge accomplishment for her.", "The report lists the company's main accomplishments this year."]
+      },
+      {
+        "pos": "noun",
+        "tr": "başarma, gerçekleştirme",
+        "def": "the act of successfully completing something",
+        "examples": ["The accomplishment of the mission took three years."]
+      }
+    ],
+    "collocations": ["a great accomplishment", "a sense of accomplishment", "major accomplishment", "proudest accomplishment"],
+    "synonyms": ["achievement", "feat", "success", "attainment"],
+    "family": [
+      { "word": "accomplish", "pos": "verb" },
+      { "word": "accomplished", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "accordance",
+    "ipa": "/əˈkɔːrdns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(in accordance with) uyarınca, -e uygun olarak, -e göre",
+        "def": "used in \"in accordance with\" to mean following a rule, law or someone's wishes",
+        "examples": ["The funds were spent in accordance with the law.", "His body was cremated in accordance with his wishes."]
+      }
+    ],
+    "collocations": ["in accordance with", "in accordance with the law", "in accordance with the rules", "in strict accordance with"],
+    "synonyms": ["compliance", "conformity", "agreement"],
+    "family": [
+      { "word": "accord", "pos": "noun" },
+      { "word": "according to", "pos": "preposition" },
+      { "word": "accordingly", "pos": "adverb" }
+    ],
+    "note": "Formal; almost always used in the phrase \"in accordance with\"."
+  },
+  {
+    "word": "according to",
+    "ipa": "/əˈkɔːrdɪŋ tə/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "-e göre",
+        "def": "as stated or reported by someone or something",
+        "examples": ["According to the weather forecast, it will rain tomorrow.", "According to police, the driver was not injured."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-e göre, uyarınca",
+        "def": "following or depending on a plan, rule or system",
+        "examples": ["Everything went according to plan.", "Students are grouped according to their ability."]
+      }
+    ],
+    "collocations": ["according to the report", "according to plan", "according to sources", "according to the rules", "according to experts"],
+    "synonyms": ["as stated by", "in line with", "in accordance with", "depending on"],
+    "family": [
+      { "word": "accordance", "pos": "noun" },
+      { "word": "accordingly", "pos": "adverb" }
+    ],
+    "note": "Don't say \"according to me\" for your own opinion; say \"in my opinion\" or \"I think\"."
+  },
+  {
+    "word": "accordingly",
+    "ipa": "/əˈkɔːrdɪŋli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "buna göre, ona göre, uygun şekilde",
+        "def": "in a way that suits what has been said or what is happening",
+        "examples": ["The weather can change quickly, so dress accordingly.", "We'll find out how many people are coming and plan accordingly."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bu nedenle, dolayısıyla",
+        "def": "for that reason; as a result",
+        "examples": ["The company lost its biggest client. Accordingly, it had to cut jobs."]
+      }
+    ],
+    "collocations": ["act accordingly", "plan accordingly", "dress accordingly", "adjust accordingly", "respond accordingly"],
+    "synonyms": ["appropriately", "correspondingly", "therefore", "consequently", "so"],
+    "family": [
+      { "word": "accordance", "pos": "noun" },
+      { "word": "according to", "pos": "preposition" }
+    ]
+  },
+  {
+    "word": "account",
+    "ipa": "/əˈkaʊnt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hesap (banka, kullanıcı)",
+        "def": "an arrangement with a bank or online service to keep money or use the service",
+        "examples": ["I opened a savings account at my local bank.", "You need to create an account to leave a comment."]
+      },
+      {
+        "pos": "noun",
+        "tr": "anlatım, açıklama, rapor",
+        "def": "a spoken or written description of an event",
+        "examples": ["Witnesses gave different accounts of the accident.", "By all accounts, the concert was a success."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(account for) açıklamak, oluşturmak, -i teşkil etmek",
+        "def": "used in \"account for\" to mean explain something or form a particular amount of a total",
+        "examples": ["How do you account for the missing money?", "Women account for 60% of the workforce."]
+      }
+    ],
+    "collocations": ["bank account", "open an account", "take into account", "on account of", "by all accounts", "account for"],
+    "synonyms": ["record", "description", "report", "explain", "make up"],
+    "family": [
+      { "word": "accountant", "pos": "noun" },
+      { "word": "accountable", "pos": "adjective" },
+      { "word": "accountability", "pos": "noun" },
+      { "word": "accounting", "pos": "noun" }
+    ],
+    "note": "\"Take something into account\" = hesaba katmak. \"On account of\" = because of (formal)."
+  },
+  {
+    "word": "accountability",
+    "ipa": "/əˌkaʊntəˈbɪləti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hesap verebilirlik, sorumluluk",
+        "def": "the fact of being responsible for your decisions and actions and having to explain them",
+        "examples": ["Voters are demanding greater accountability from elected officials.", "There was no accountability for the mistakes that were made."]
+      }
+    ],
+    "collocations": ["public accountability", "lack of accountability", "demand accountability", "transparency and accountability", "hold to accountability"],
+    "synonyms": ["responsibility", "answerability", "liability"],
+    "family": [
+      { "word": "accountable", "pos": "adjective" },
+      { "word": "account", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "accountable",
+    "ipa": "/əˈkaʊntəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "hesap vermekle yükümlü, sorumlu",
+        "def": "responsible for your decisions or actions and expected to explain them",
+        "examples": ["Police officers must be held accountable for their actions.", "Managers are accountable to the board of directors."]
+      }
+    ],
+    "collocations": ["hold someone accountable", "accountable to", "accountable for", "politically accountable", "fully accountable"],
+    "synonyms": ["responsible", "answerable", "liable"],
+    "family": [
+      { "word": "accountability", "pos": "noun" },
+      { "word": "unaccountable", "pos": "adjective" }
+    ],
+    "note": "Accountable to a person or group; accountable for an action or result."
+  },
+  {
+    "word": "accountant",
+    "ipa": "/əˈkaʊntənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "muhasebeci, mali müşavir",
+        "def": "a person whose job is to keep or check financial records",
+        "examples": ["Our accountant helps us file our taxes every April.", "She works as an accountant for a large firm."]
+      }
+    ],
+    "collocations": ["certified public accountant", "hire an accountant", "chartered accountant", "tax accountant"],
+    "synonyms": ["bookkeeper", "auditor", "CPA"],
+    "family": [
+      { "word": "accounting", "pos": "noun" },
+      { "word": "account", "pos": "noun" }
+    ],
+    "note": "In the US, a qualified accountant is a CPA (certified public accountant)."
+  },
+  {
+    "word": "accumulate",
+    "ipa": "/əˈkjuːmjəleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "biriktirmek, toplamak",
+        "def": "to gradually collect or get more and more of something over time",
+        "examples": ["He accumulated a huge collection of vinyl records.", "Over the years, she accumulated a lot of debt."]
+      },
+      {
+        "pos": "verb",
+        "tr": "birikmek, yığılmak",
+        "def": "to gradually increase in amount",
+        "examples": ["Dust had accumulated on the old bookshelves.", "Snow accumulated quickly overnight."]
+      }
+    ],
+    "collocations": ["accumulate wealth", "accumulate debt", "accumulate evidence", "accumulate experience", "gradually accumulate"],
+    "synonyms": ["gather", "collect", "build up", "amass", "pile up"],
+    "family": [
+      { "word": "accumulation", "pos": "noun" },
+      { "word": "accumulated", "pos": "adjective" },
+      { "word": "accumulative", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "accumulation",
+    "ipa": "/əˌkjuːmjəˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "birikim, birikme, yığılma",
+        "def": "the gradual increase of something, or an amount that has built up over time",
+        "examples": ["The accumulation of fat in the arteries can lead to heart disease.", "There was a large accumulation of snow on the roof."]
+      }
+    ],
+    "collocations": ["accumulation of wealth", "capital accumulation", "accumulation of evidence", "gradual accumulation", "snow accumulation"],
+    "synonyms": ["buildup", "collection", "accretion", "pile"],
+    "family": [
+      { "word": "accumulate", "pos": "verb" },
+      { "word": "accumulated", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "accuracy",
+    "ipa": "/ˈækjərəsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "doğruluk, kesinlik, isabet",
+        "def": "the quality of being exact and correct, or the ability to do something without mistakes",
+        "examples": ["Journalists must check the accuracy of their sources.", "The new test detects the disease with 95% accuracy."]
+      }
+    ],
+    "collocations": ["with accuracy", "degree of accuracy", "check the accuracy", "high accuracy", "pinpoint accuracy", "historical accuracy"],
+    "synonyms": ["precision", "correctness", "exactness"],
+    "family": [
+      { "word": "accurate", "pos": "adjective" },
+      { "word": "accurately", "pos": "adverb" },
+      { "word": "inaccuracy", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "accurate",
+    "ipa": "/ˈækjərət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "doğru, kesin, isabetli",
+        "def": "correct and exact in every detail",
+        "examples": ["The weather forecast was surprisingly accurate.", "We need an accurate count of how many people are coming."]
+      }
+    ],
+    "collocations": ["accurate information", "historically accurate", "accurate description", "accurate measurement", "reasonably accurate"],
+    "synonyms": ["correct", "exact", "precise", "right"],
+    "family": [
+      { "word": "accuracy", "pos": "noun" },
+      { "word": "accurately", "pos": "adverb" },
+      { "word": "inaccurate", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "accurately",
+    "ipa": "/ˈækjərətli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "doğru bir şekilde, tam olarak",
+        "def": "in a way that is correct and exact",
+        "examples": ["It's hard to accurately predict the stock market.", "The movie accurately portrays life in the 1950s."]
+      }
+    ],
+    "collocations": ["accurately reflect", "accurately describe", "accurately measure", "accurately predict", "more accurately"],
+    "synonyms": ["correctly", "exactly", "precisely"],
+    "family": [
+      { "word": "accurate", "pos": "adjective" },
+      { "word": "accuracy", "pos": "noun" },
+      { "word": "inaccurately", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "accusation",
+    "ipa": "/ˌækjuˈzeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "suçlama, itham",
+        "def": "a statement saying that someone has done something wrong or illegal",
+        "examples": ["He denied all accusations of cheating.", "The senator faces accusations of corruption."]
+      }
+    ],
+    "collocations": ["make an accusation", "deny an accusation", "face accusations", "false accusation", "accusation of", "accusation against"],
+    "synonyms": ["charge", "allegation", "claim", "complaint"],
+    "family": [
+      { "word": "accuse", "pos": "verb" },
+      { "word": "accusatory", "pos": "adjective" },
+      { "word": "accuser", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "accuse",
+    "ipa": "/əˈkjuːz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "suçlamak, itham etmek",
+        "def": "to say that someone has done something wrong or illegal",
+        "examples": ["She accused her coworker of stealing her ideas.", "He was accused of murder but found not guilty."]
+      }
+    ],
+    "collocations": ["accuse someone of", "be accused of", "falsely accused", "wrongly accused", "publicly accuse"],
+    "synonyms": ["blame", "charge", "allege", "point the finger at"],
+    "family": [
+      { "word": "accusation", "pos": "noun" },
+      { "word": "accused", "pos": "noun" },
+      { "word": "accusing", "pos": "adjective" }
+    ],
+    "note": "Pattern: accuse someone OF doing something (not \"for\"). Compare: blame someone FOR something."
+  },
+  {
+    "word": "accused",
+    "ipa": "/ði əˈkjuːzd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(the accused) sanık",
+        "def": "the person or people on trial for a crime",
+        "examples": ["The accused was led into the courtroom in handcuffs.", "The jury found the accused not guilty."]
+      }
+    ],
+    "collocations": ["the accused", "the accused man", "the accused woman", "rights of the accused"],
+    "synonyms": ["defendant", "suspect"],
+    "family": [
+      { "word": "accuse", "pos": "verb" },
+      { "word": "accusation", "pos": "noun" }
+    ],
+    "note": "Always used with \"the\": \"the accused\" can be singular or plural, with no -s."
+  },
+  {
+    "word": "achieve",
+    "ipa": "/əˈtʃiːv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "başarmak, elde etmek, ulaşmak",
+        "def": "to succeed in reaching a goal or standard, especially after a lot of effort",
+        "examples": ["She worked hard to achieve her dream of becoming a doctor.", "The country achieved independence in 1960."]
+      }
+    ],
+    "collocations": ["achieve a goal", "achieve success", "achieve results", "achieve independence", "hard to achieve"],
+    "synonyms": ["accomplish", "reach", "attain", "realize", "fulfill"],
+    "family": [
+      { "word": "achievement", "pos": "noun" },
+      { "word": "achievable", "pos": "adjective" },
+      { "word": "achiever", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "achievement",
+    "ipa": "/əˈtʃiːvmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "başarı",
+        "def": "something you have done successfully, especially through effort and skill",
+        "examples": ["Winning the championship was the greatest achievement of his career.", "The report celebrates the achievements of local volunteers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "başarma, başarı (düzeyi)",
+        "def": "the act or process of reaching a goal or standard",
+        "examples": ["The program aims to raise academic achievement in poor neighborhoods."]
+      }
+    ],
+    "collocations": ["a great achievement", "a sense of achievement", "academic achievement", "major achievement", "lifetime achievement"],
+    "synonyms": ["accomplishment", "success", "feat", "attainment"],
+    "family": [
+      { "word": "achieve", "pos": "verb" },
+      { "word": "achiever", "pos": "noun" }
+    ]
+  }
+]

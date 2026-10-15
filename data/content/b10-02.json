@@ -1,0 +1,1241 @@
+[
+  {
+    "word": "tighten",
+    "ipa": "/ˈtaɪtn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sıkmak, sıkılaştırmak, germek",
+        "def": "to make something firmer, tighter, or more secure, or to become so",
+        "examples": ["Use a wrench to tighten the bolts on the wheel.", "His grip tightened on the steering wheel."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kural, kontrol) sıkılaştırmak, artırmak",
+        "def": "to make rules, controls, or laws stricter",
+        "examples": ["After the attack, the airport tightened security.", "The government plans to tighten rules on gun sales."]
+      }
+    ],
+    "collocations": ["tighten security", "tighten rules", "tighten your belt", "tighten control", "tighten the screws", "tighten up"],
+    "synonyms": ["fasten", "secure", "stiffen", "strengthen"],
+    "family": [
+      { "word": "tight", "pos": "adjective" },
+      { "word": "tightening", "pos": "noun" }
+    ],
+    "note": "Opposite: loosen. \"Tighten your belt\" = spend less money (kemerleri sıkmak)."
+  },
+  {
+    "word": "till",
+    "ipa": "/tɪl/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "-e kadar",
+        "def": "up to a particular time; until",
+        "examples": ["The store is open till nine on weekdays.", "I'll be at the office till late tonight."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "-ene kadar, -inceye dek",
+        "def": "up to the point when something happens; until",
+        "examples": ["Wait here till I come back.", "We didn't leave till the rain stopped."]
+      }
+    ],
+    "collocations": ["till now", "till then", "till late", "not till", "from morning till night"],
+    "synonyms": ["until", "up to", "before"],
+    "family": [],
+    "note": "Informal; \"until\" is preferred in formal writing. Not a short form of \"until\", so don't write \"'til\" in formal texts."
+  },
+  {
+    "word": "timber",
+    "ipa": "/ˈtɪmbər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kereste, ağaç (kerestelik)",
+        "def": "trees grown to be used for building or making things, or wood prepared for this",
+        "examples": ["The region's economy depends on timber and fishing.", "Illegal timber harvesting is destroying the rainforest."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kiriş, ahşap direk",
+        "def": "a large piece of wood used in building a house or ship",
+        "examples": ["The old barn was held up by huge oak timbers."]
+      }
+    ],
+    "collocations": ["timber industry", "timber frame", "timber harvesting", "timber company"],
+    "synonyms": ["wood", "lumber", "logs", "beam"],
+    "family": [],
+    "note": "Americans usually call cut wood for building \"lumber\"; \"timber\" is more British for this sense."
+  },
+  {
+    "word": "time",
+    "ipa": "/taɪm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "zaman, vakit",
+        "def": "what is measured in minutes, hours, days, etc., or the amount available to do something",
+        "examples": ["I don't have time to cook tonight.", "Time goes by so fast when you're on vacation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "saat",
+        "def": "a particular point in the day, shown on a clock",
+        "examples": ["What time does the movie start?", "Excuse me, do you have the time?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "kez, defa, sefer",
+        "def": "an occasion when something happens",
+        "examples": ["This is the third time I've lost my keys this month.", "Next time, call before you come."]
+      },
+      {
+        "pos": "verb",
+        "tr": "zamanlamak; süre tutmak",
+        "def": "to plan when something happens, or to measure how long something takes",
+        "examples": ["The protest was timed to coincide with the president's visit.", "Time yourself to see how fast you can run a mile."]
+      }
+    ],
+    "collocations": ["spend time", "waste time", "on time", "in time", "have a good time", "take your time"],
+    "synonyms": ["period", "moment", "occasion", "while"],
+    "family": [
+      { "word": "timely", "pos": "adjective" },
+      { "word": "timing", "pos": "noun" },
+      { "word": "timeless", "pos": "adjective" },
+      { "word": "timer", "pos": "noun" }
+    ],
+    "note": "\"On time\" = at the planned time (tam vaktinde); \"in time\" = early enough (zamanında, geç kalmadan)."
+  },
+  {
+    "word": "timely",
+    "ipa": "/ˈtaɪmli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "zamanında, tam yerinde, vaktinde",
+        "def": "happening at exactly the right time or soon enough to be useful",
+        "examples": ["Thanks to the timely arrival of the firefighters, no one was hurt.", "The report is a timely reminder of the dangers of drunk driving."]
+      }
+    ],
+    "collocations": ["timely manner", "timely reminder", "timely intervention", "timely fashion", "timely response"],
+    "synonyms": ["prompt", "well-timed", "opportune", "punctual"],
+    "family": [
+      { "word": "untimely", "pos": "adjective" },
+      { "word": "timeliness", "pos": "noun" }
+    ],
+    "note": "An adjective, not an adverb. Say \"in a timely manner\", not \"timely\" alone after a verb. \"Untimely death\" = early death."
+  },
+  {
+    "word": "timing",
+    "ipa": "/ˈtaɪmɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "zamanlama",
+        "def": "the choice of when something happens, or the time when it happens",
+        "examples": ["The timing of the announcement surprised investors.", "Good timing! I was just about to call you."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(müzik, spor, komedi) zamanlama becerisi",
+        "def": "the skill of doing something at exactly the right moment",
+        "examples": ["A good comedian needs perfect timing."]
+      }
+    ],
+    "collocations": ["perfect timing", "good timing", "bad timing", "the timing of", "comic timing"],
+    "synonyms": ["scheduling", "timetable"],
+    "family": [
+      { "word": "time", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "tin",
+    "ipa": "/tɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "teneke kutu, konserve kutusu",
+        "def": "a metal container with a lid for storing or selling food",
+        "examples": ["Grandma kept her cookies in an old tin on the kitchen shelf.", "Open a tin of tomatoes and add them to the pan."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kalay, teneke",
+        "def": "a soft, silver-white metal often used to cover other metals",
+        "examples": ["The old cabin had a tin roof that was loud in the rain."]
+      }
+    ],
+    "collocations": ["cookie tin", "tin can", "tin roof", "baking tin", "tin of beans"],
+    "synonyms": ["can", "container"],
+    "family": [
+      { "word": "tinned", "pos": "adjective" }
+    ],
+    "note": "For canned food, Americans say \"can\" (a can of beans); \"tin\" is British. Americans use \"tin\" for cookie or baking containers."
+  },
+  {
+    "word": "tiny",
+    "ipa": "/ˈtaɪni/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "minicik, ufacık, çok küçük",
+        "def": "extremely small in size or amount",
+        "examples": ["They live in a tiny apartment in downtown Boston.", "Only a tiny fraction of the money reached the victims."]
+      }
+    ],
+    "collocations": ["tiny bit", "tiny amount", "tiny fraction", "tiny little", "tiny percentage"],
+    "synonyms": ["minute", "small", "little", "miniature", "teeny"],
+    "family": [],
+    "note": "Comparatives: tinier, tiniest. Opposite: huge, enormous."
+  },
+  {
+    "word": "tip",
+    "ipa": "/tɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ipucu, tavsiye, pratik bilgi",
+        "def": "a small piece of practical advice",
+        "examples": ["The article gives some useful tips for saving money on groceries.", "Here's a tip: book your flights on a Tuesday."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bahşiş",
+        "def": "extra money given to a waiter, driver, etc. to thank them for their service",
+        "examples": ["In the US, people usually leave a tip of 15 to 20 percent."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uç, sivri uç",
+        "def": "the thin pointed end of something",
+        "examples": ["He burned the tip of his finger on the stove."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bahşiş vermek",
+        "def": "to give someone extra money for their service",
+        "examples": ["Did you tip the taxi driver?"]
+      }
+    ],
+    "collocations": ["leave a tip", "useful tips", "tip of the iceberg", "on the tip of my tongue", "tip off", "tip over"],
+    "synonyms": ["hint", "advice", "pointer", "gratuity", "end"],
+    "family": [
+      { "word": "tipping", "pos": "noun" }
+    ],
+    "note": "\"On the tip of my tongue\" = dilimin ucunda. \"Tip of the iceberg\" = buzdağının görünen kısmı. \"Tip over\" = devirmek/devrilmek."
+  },
+  {
+    "word": "tire",
+    "ipa": "/ˈtaɪər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lastik (araç)",
+        "def": "a thick rubber ring that fits around the wheel of a car, bicycle, etc.",
+        "examples": ["We got a flat tire on the way to the airport.", "Check your tire pressure before a long drive."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yorulmak, yormak; bıkmak",
+        "def": "to become tired, or to lose interest in something",
+        "examples": ["My grandmother tires easily these days.", "He never tires of telling the same old stories."]
+      }
+    ],
+    "collocations": ["flat tire", "spare tire", "change a tire", "tire pressure", "tire of"],
+    "synonyms": ["wheel", "weary"],
+    "family": [
+      { "word": "tired", "pos": "adjective" },
+      { "word": "tiring", "pos": "adjective" },
+      { "word": "tireless", "pos": "adjective" }
+    ],
+    "note": "American spelling \"tire\"; British spelling for the wheel is \"tyre\"."
+  },
+  {
+    "word": "tired",
+    "ipa": "/ˈtaɪərd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yorgun",
+        "def": "feeling that you need to rest or sleep",
+        "examples": ["I was so tired after the flight that I slept for twelve hours.", "You look tired. Did you sleep badly?"]
+      },
+      {
+        "pos": "adjective",
+        "tr": "bıkmış, usanmış",
+        "def": "bored or annoyed with something because it has continued too long",
+        "examples": ["I'm tired of hearing the same excuses every week."]
+      }
+    ],
+    "collocations": ["tired of", "sick and tired", "dead tired", "feel tired", "get tired", "tired out"],
+    "synonyms": ["exhausted", "worn out", "weary", "fed up"],
+    "family": [
+      { "word": "tire", "pos": "verb" },
+      { "word": "tiredness", "pos": "noun" },
+      { "word": "tiring", "pos": "adjective" }
+    ],
+    "note": "\"Tired\" = how you feel; \"tiring\" = what causes it: \"a tiring day made me tired\". \"Tired of\" = bored with (-den bıkmak)."
+  },
+  {
+    "word": "tissue",
+    "ipa": "/ˈtɪʃuː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kâğıt mendil, peçete",
+        "def": "a piece of soft, thin paper used especially for blowing your nose",
+        "examples": ["Can you pass me a tissue? I think I'm getting a cold.", "She kept a box of tissues on her desk."]
+      },
+      {
+        "pos": "noun",
+        "tr": "doku (biyoloji)",
+        "def": "the material that animals and plants are made of, consisting of cells",
+        "examples": ["The doctor removed a small sample of tissue for testing.", "Scar tissue formed over the wound."]
+      }
+    ],
+    "collocations": ["box of tissues", "tissue paper", "brain tissue", "scar tissue", "soft tissue", "tissue sample"],
+    "synonyms": ["Kleenex", "handkerchief"],
+    "family": [],
+    "note": "Americans often call a paper tissue a \"Kleenex\", a brand name used generically."
+  },
+  {
+    "word": "title",
+    "ipa": "/ˈtaɪtl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "başlık, isim, ad",
+        "def": "the name of a book, film, song, painting, etc.",
+        "examples": ["What's the title of the book you're reading?", "The album's title track became a hit."]
+      },
+      {
+        "pos": "noun",
+        "tr": "unvan",
+        "def": "a word like Dr., Mrs., or Professor used before a name, or a name describing someone's job",
+        "examples": ["Her official job title is Senior Data Analyst."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şampiyonluk, unvan",
+        "def": "the position of being the winner of a sports competition",
+        "examples": ["The team won its third straight league title."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ad koymak, başlık vermek",
+        "def": "to give a book, song, etc. a particular name",
+        "examples": ["Her first novel was titled \"The Long Way Home.\""]
+      }
+    ],
+    "collocations": ["job title", "book title", "win the title", "title track", "defend the title", "title role"],
+    "synonyms": ["name", "heading", "championship", "label"],
+    "family": [
+      { "word": "titled", "pos": "adjective" },
+      { "word": "subtitle", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "to",
+    "ipa": "/tə/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "-e, -a, -e doğru",
+        "def": "in the direction of a place, person, or thing",
+        "examples": ["We're driving to Florida next week.", "Give the letter to your teacher."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-e kadar; (saat) kala",
+        "def": "used to show the end of a range or period, or the minutes before an hour",
+        "examples": ["The museum is open from nine to five.", "It's ten to six, so we should leave soon."]
+      },
+      {
+        "pos": "infinitive marker",
+        "tr": "-mek, -mak; -mek için",
+        "def": "used before the base form of a verb, often to show purpose",
+        "examples": ["I want to learn to play the guitar.", "She went to the bank to get some cash."]
+      }
+    ],
+    "collocations": ["go to", "from ... to", "next to", "according to", "in order to", "used to"],
+    "synonyms": ["toward", "until"],
+    "family": [],
+    "note": "Turkish speakers often add \"for\" before purpose: say \"I came to help\", not \"I came for to help\" or \"for help me\"."
+  },
+  {
+    "word": "tobacco",
+    "ipa": "/təˈbækəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tütün",
+        "def": "the dried leaves of a plant that are smoked in cigarettes, pipes, etc.",
+        "examples": ["Many states have raised taxes on tobacco products.", "The farm has grown tobacco for three generations."]
+      }
+    ],
+    "collocations": ["tobacco industry", "tobacco products", "tobacco use", "chewing tobacco", "tobacco company"],
+    "synonyms": [],
+    "family": [
+      { "word": "tobacconist", "pos": "noun" }
+    ],
+    "note": "Uncountable: \"tobacco\", not \"a tobacco\". \"Tobacco use\" covers smoking and chewing."
+  },
+  {
+    "word": "today",
+    "ipa": "/təˈdeɪ/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "bugün",
+        "def": "on this day",
+        "examples": ["I have three meetings today.", "Is the pharmacy open today?"]
+      },
+      {
+        "pos": "adverb",
+        "tr": "günümüzde, bugünlerde",
+        "def": "at the present time, in this period of history",
+        "examples": ["Today, most people get their news from their phones."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bugün; günümüz",
+        "def": "this day, or the present period of time",
+        "examples": ["Today is my parents' anniversary.", "Today's teenagers face very different pressures."]
+      }
+    ],
+    "collocations": ["as of today", "today's world", "until today", "earlier today", "later today", "a week from today"],
+    "synonyms": ["nowadays", "currently", "these days"],
+    "family": [],
+    "note": "No preposition before it: \"I'll do it today\", not \"in today\"."
+  },
+  {
+    "word": "toe",
+    "ipa": "/təʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ayak parmağı",
+        "def": "one of the five small parts at the end of the foot",
+        "examples": ["I stubbed my toe on the coffee table.", "She stood on her toes to reach the top shelf."]
+      }
+    ],
+    "collocations": ["big toe", "little toe", "stub your toe", "on your toes", "step on someone's toes", "from head to toe"],
+    "synonyms": [],
+    "family": [
+      { "word": "toenail", "pos": "noun" },
+      { "word": "tiptoe", "pos": "verb" }
+    ],
+    "note": "English separates finger (el parmağı) and toe (ayak parmağı). \"Step on someone's toes\" = offend them by interfering."
+  },
+  {
+    "word": "together",
+    "ipa": "/təˈɡeðər/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "birlikte, beraber",
+        "def": "with or near each other",
+        "examples": ["We've worked together for over ten years.", "Let's go to the game together."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bir araya, birleşik şekilde",
+        "def": "so that two or more things are joined, mixed, or combined",
+        "examples": ["Mix the butter and sugar together until smooth.", "Taken together, the results suggest the drug works."]
+      }
+    ],
+    "collocations": ["work together", "get together", "put together", "together with", "all together", "bring together"],
+    "synonyms": ["jointly", "side by side", "collectively"],
+    "family": [
+      { "word": "togetherness", "pos": "noun" }
+    ],
+    "note": "\"Get your act together\" (informal) = start organizing your life better."
+  },
+  {
+    "word": "toilet",
+    "ipa": "/ˈtɔɪlət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "klozet, tuvalet",
+        "def": "a large bowl connected to a pipe, used for getting rid of waste from the body",
+        "examples": ["Don't forget to flush the toilet.", "The toilet in the downstairs bathroom keeps running."]
+      }
+    ],
+    "collocations": ["flush the toilet", "toilet paper", "public toilet", "toilet seat", "go to the toilet"],
+    "synonyms": ["restroom", "bathroom", "lavatory"],
+    "family": [],
+    "note": "In the US, the room is usually called \"the bathroom\" (at home) or \"the restroom\" (in public); \"toilet\" usually means the bowl itself."
+  },
+  {
+    "word": "tolerance",
+    "ipa": "/ˈtɑːlərəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hoşgörü, tolerans",
+        "def": "willingness to accept opinions, beliefs, or behavior that you don't agree with",
+        "examples": ["The school promotes tolerance and respect for all religions.", "He has little tolerance for laziness."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dayanıklılık, tahammül, (vücut) tolerans",
+        "def": "the ability to bear pain, hardship, or a substance without being harmed",
+        "examples": ["Over time, the body builds up a tolerance to caffeine.", "Some plants have a high tolerance for drought."]
+      }
+    ],
+    "collocations": ["religious tolerance", "zero tolerance", "tolerance for", "build up a tolerance", "lactose tolerance", "show tolerance"],
+    "synonyms": ["acceptance", "open-mindedness", "endurance", "resistance"],
+    "family": [
+      { "word": "tolerate", "pos": "verb" },
+      { "word": "tolerant", "pos": "adjective" },
+      { "word": "intolerance", "pos": "noun" },
+      { "word": "tolerable", "pos": "adjective" }
+    ],
+    "note": "\"Zero tolerance\" = a policy of punishing every case, with no exceptions."
+  },
+  {
+    "word": "tolerate",
+    "ipa": "/ˈtɑːləreɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "hoş görmek, göz yummak, izin vermek",
+        "def": "to allow something you don't like or agree with to exist or happen",
+        "examples": ["The manager said he would not tolerate rudeness to customers.", "Bullying will not be tolerated at this school."]
+      },
+      {
+        "pos": "verb",
+        "tr": "katlanmak, tahammül etmek, kaldırabilmek",
+        "def": "to be able to bear something unpleasant, or to take a drug without harm",
+        "examples": ["I can't tolerate the heat in Arizona in July.", "Most patients tolerate the medication well."]
+      }
+    ],
+    "collocations": ["will not tolerate", "refuse to tolerate", "tolerate well", "be tolerated", "learn to tolerate"],
+    "synonyms": ["put up with", "accept", "bear", "stand", "endure"],
+    "family": [
+      { "word": "tolerance", "pos": "noun" },
+      { "word": "tolerant", "pos": "adjective" },
+      { "word": "tolerable", "pos": "adjective" },
+      { "word": "intolerable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "toll",
+    "ipa": "/təʊl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "geçiş ücreti, otoyol/köprü ücreti",
+        "def": "money you pay to use a particular road, bridge, or tunnel",
+        "examples": ["The toll on the bridge went up to eight dollars.", "We took a toll road to avoid traffic."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kayıp, ölü) sayısı, bilanço",
+        "def": "the number of people killed or injured in a disaster, war, etc.",
+        "examples": ["The death toll from the earthquake has risen to over two hundred."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zarar, olumsuz etki, bedel",
+        "def": "the harm or damage caused by something over time",
+        "examples": ["Years of night shifts took a heavy toll on his health."]
+      }
+    ],
+    "collocations": ["death toll", "take a toll on", "toll road", "toll booth", "heavy toll", "toll-free"],
+    "synonyms": ["fee", "charge", "cost", "damage"],
+    "family": [],
+    "note": "\"Take a toll on\" = cause damage over time. A \"toll-free number\" is a free phone number (ücretsiz hat)."
+  },
+  {
+    "word": "tomato",
+    "ipa": "/təˈmeɪtəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "domates",
+        "def": "a soft, round, red fruit with a lot of juice, eaten raw or cooked as a vegetable",
+        "examples": ["Slice a few tomatoes for the salad.", "This pasta sauce is made with fresh tomatoes and basil."]
+      }
+    ],
+    "collocations": ["tomato sauce", "cherry tomato", "tomato soup", "tomato paste", "sliced tomatoes"],
+    "synonyms": [],
+    "family": [],
+    "note": "Plural: tomatoes. American pronunciation /təˈmeɪtoʊ/ (\"to-MAY-to\"); British /təˈmɑːtəʊ/."
+  },
+  {
+    "word": "tomorrow",
+    "ipa": "/təˈmɑːrəʊ/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yarın",
+        "def": "on the day after today",
+        "examples": ["I'll call you tomorrow after work.", "The package should arrive tomorrow morning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yarın; gelecek",
+        "def": "the day after today, or the future",
+        "examples": ["Tomorrow is a holiday, so the banks are closed.", "We're training the leaders of tomorrow."]
+      }
+    ],
+    "collocations": ["tomorrow morning", "tomorrow night", "see you tomorrow", "the day after tomorrow", "by tomorrow", "until tomorrow"],
+    "synonyms": ["the future"],
+    "family": [],
+    "note": "\"The day after tomorrow\" = öbür gün. No preposition: \"tomorrow morning\", not \"in tomorrow morning\"."
+  },
+  {
+    "word": "ton",
+    "ipa": "/tʌn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ton (ağırlık birimi)",
+        "def": "a unit of weight; in the US, 2,000 pounds (about 907 kg)",
+        "examples": ["The truck was carrying ten tons of steel.", "The bridge can hold vehicles up to forty tons."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gayriresmi) bir sürü, tonla",
+        "def": "(informal) a very large amount or number",
+        "examples": ["I've got tons of homework this weekend.", "This bag weighs a ton!"]
+      }
+    ],
+    "collocations": ["tons of", "a ton of", "weigh a ton", "metric ton", "hit like a ton of bricks"],
+    "synonyms": ["lots", "loads", "heaps"],
+    "family": [
+      { "word": "tonnage", "pos": "noun" }
+    ],
+    "note": "A US ton = 2,000 lb; a metric ton (tonne) = 1,000 kg. \"Tons of\" is very common informally for \"a lot of\"."
+  },
+  {
+    "word": "tone",
+    "ipa": "/təʊn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ses tonu, üslup",
+        "def": "the quality of someone's voice that shows their feelings or attitude",
+        "examples": ["Don't use that tone of voice with me.", "She spoke in a calm, friendly tone."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hava, genel izlenim, üslup",
+        "def": "the general mood or character of something, such as a piece of writing or an event",
+        "examples": ["The opening speech set a positive tone for the conference.", "The tone of the email was a little too formal."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ton (renk); sinyal sesi",
+        "def": "a shade of a color, or a single sound made by an electronic device",
+        "examples": ["The walls are painted in warm earth tones.", "Leave a message after the tone."]
+      }
+    ],
+    "collocations": ["tone of voice", "set the tone", "angry tone", "skin tone", "dial tone", "tone down"],
+    "synonyms": ["manner", "mood", "note", "shade"],
+    "family": [
+      { "word": "tonal", "pos": "adjective" },
+      { "word": "toned", "pos": "adjective" }
+    ],
+    "note": "\"Tone down\" = make less extreme or offensive. \"Toned\" body = firm, muscular."
+  },
+  {
+    "word": "tongue",
+    "ipa": "/tʌŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dil (organ)",
+        "def": "the soft, moving part in your mouth used for tasting, swallowing, and speaking",
+        "examples": ["I burned my tongue on the hot coffee.", "The doctor asked him to stick out his tongue."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dil, lisan",
+        "def": "(formal) a language",
+        "examples": ["Her mother tongue is Turkish, but she writes in English."]
+      }
+    ],
+    "collocations": ["mother tongue", "bite your tongue", "slip of the tongue", "tongue-in-cheek", "hold your tongue", "on the tip of my tongue"],
+    "synonyms": ["language"],
+    "family": [],
+    "note": "Pronounced /tʌŋ/, rhymes with \"young\". \"Tongue-in-cheek\" = said as a joke, not seriously."
+  },
+  {
+    "word": "tonight",
+    "ipa": "/təˈnaɪt/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "bu gece, bu akşam",
+        "def": "on the evening or night of today",
+        "examples": ["What are you doing tonight?", "The game starts at eight tonight."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bu gece, bu akşam",
+        "def": "the evening or night of today",
+        "examples": ["Tonight's dinner is on me."]
+      }
+    ],
+    "collocations": ["tonight's game", "later tonight", "out tonight", "tonight's show"],
+    "synonyms": ["this evening"],
+    "family": [],
+    "note": "Turkish \"bu akşam\" is usually \"tonight\" or \"this evening\"; \"last night\" (not \"yesterday night\") = dün gece."
+  },
+  {
+    "word": "tonne",
+    "ipa": "/tʌn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ton (metrik, 1000 kg)",
+        "def": "a metric unit of weight equal to 1,000 kilograms",
+        "examples": ["The factory produces about 500 tonnes of steel a day.", "The country exported two million tonnes of wheat last year."]
+      }
+    ],
+    "collocations": ["metric tonne", "tonnes of", "per tonne", "million tonnes"],
+    "synonyms": ["metric ton"],
+    "family": [],
+    "note": "British spelling. Americans usually say \"metric ton\" for 1,000 kg; a US \"ton\" is 2,000 pounds."
+  },
+  {
+    "word": "too",
+    "ipa": "/tuː/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "fazla, çok (gereğinden fazla)",
+        "def": "more than is good, necessary, or possible",
+        "examples": ["This coffee is too hot to drink.", "You're driving too fast; slow down."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "de, da, dahi",
+        "def": "also; as well",
+        "examples": ["I'd like a coffee too, please.", "She speaks Spanish, and Italian too."]
+      }
+    ],
+    "collocations": ["too much", "too many", "too late", "me too", "too ... to", "all too often"],
+    "synonyms": ["excessively", "overly", "also", "as well"],
+    "family": [],
+    "note": "\"Too\" is negative (more than needed): \"too expensive\" ≠ \"very expensive\". Use \"either\" in negatives: \"I don't either.\""
+  },
+  {
+    "word": "tool",
+    "ipa": "/tuːl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alet, araç",
+        "def": "an instrument such as a hammer or saw that you hold and use for making or repairing things",
+        "examples": ["He keeps his tools in a box in the garage.", "You'll need a special tool to remove the screws."]
+      },
+      {
+        "pos": "noun",
+        "tr": "araç, gereç, yöntem",
+        "def": "something that helps you do a particular job or achieve something",
+        "examples": ["Social media is a powerful tool for small businesses.", "The app is a useful tool for learning vocabulary."]
+      }
+    ],
+    "collocations": ["power tools", "useful tool", "powerful tool", "tool kit", "a tool for", "tools of the trade"],
+    "synonyms": ["instrument", "device", "implement", "means"],
+    "family": [
+      { "word": "toolbox", "pos": "noun" },
+      { "word": "toolkit", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "tooth",
+    "ipa": "/tuːθ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "diş",
+        "def": "one of the hard white objects in the mouth used for biting and chewing",
+        "examples": ["I chipped a tooth on a popcorn kernel and had to see a dentist.", "Brush your teeth before bed."]
+      }
+    ],
+    "collocations": ["brush your teeth", "wisdom tooth", "sweet tooth", "baby tooth", "tooth decay", "fight tooth and nail"],
+    "synonyms": [],
+    "family": [
+      { "word": "toothache", "pos": "noun" },
+      { "word": "toothbrush", "pos": "noun" },
+      { "word": "toothpaste", "pos": "noun" },
+      { "word": "toothless", "pos": "adjective" }
+    ],
+    "note": "Irregular plural: teeth. \"Have a sweet tooth\" = love sweet foods (tatlı düşkünü olmak)."
+  },
+  {
+    "word": "top",
+    "ipa": "/tɑːp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tepe, üst, zirve; kapak",
+        "def": "the highest part or point of something, or a cover or lid",
+        "examples": ["We climbed to the top of the hill to watch the sunset.", "Put the top back on the bottle."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "en üst, en yüksek; en iyi",
+        "def": "highest in position, rank, or quality",
+        "examples": ["The files are in the top drawer.", "She's one of the top lawyers in the city."]
+      },
+      {
+        "pos": "noun",
+        "tr": "üst (giysi), bluz",
+        "def": "a piece of clothing worn on the upper body",
+        "examples": ["She wore a black top and jeans."]
+      },
+      {
+        "pos": "verb",
+        "tr": "aşmak, geçmek; başı çekmek",
+        "def": "to be higher than a particular amount, or to be first in a list",
+        "examples": ["Sales topped $2 billion last year.", "The song topped the charts for six weeks."]
+      }
+    ],
+    "collocations": ["at the top", "on top of", "top priority", "top floor", "top the charts", "from top to bottom"],
+    "synonyms": ["peak", "summit", "lid", "leading", "exceed"],
+    "family": [
+      { "word": "topping", "pos": "noun" },
+      { "word": "topless", "pos": "adjective" }
+    ],
+    "note": "\"On top of that\" = besides, in addition (üstelik). \"Top up\" (British) = refill."
+  },
+  {
+    "word": "topic",
+    "ipa": "/ˈtɑːpɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "konu, mevzu",
+        "def": "a subject that people talk, write, or learn about",
+        "examples": ["Climate change was the main topic of the debate.", "Let's change the topic; this is getting too serious."]
+      }
+    ],
+    "collocations": ["hot topic", "topic of conversation", "change the topic", "discuss a topic", "a wide range of topics", "off topic"],
+    "synonyms": ["subject", "theme", "issue", "matter"],
+    "family": [
+      { "word": "topical", "pos": "adjective" }
+    ],
+    "note": "\"Topical\" = relating to current events (güncel)."
+  },
+  {
+    "word": "torture",
+    "ipa": "/ˈtɔːrtʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işkence",
+        "def": "the act of causing someone severe pain to punish them or make them give information",
+        "examples": ["The prisoners described years of torture and abuse.", "International law bans the use of torture."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(mecazi) işkence, eziyet",
+        "def": "great mental or physical suffering, or something very unpleasant",
+        "examples": ["Sitting through that three-hour meeting was pure torture."]
+      },
+      {
+        "pos": "verb",
+        "tr": "işkence etmek; eziyet etmek",
+        "def": "to cause someone severe physical or mental pain",
+        "examples": ["The regime tortured political prisoners.", "He was tortured by guilt for years after the accident."]
+      }
+    ],
+    "collocations": ["subject to torture", "torture victims", "pure torture", "tortured by guilt", "torture chamber"],
+    "synonyms": ["abuse", "torment", "agony", "suffering"],
+    "family": [
+      { "word": "torturer", "pos": "noun" },
+      { "word": "tortured", "pos": "adjective" },
+      { "word": "torturous", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "toss",
+    "ipa": "/tɔːs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(hafifçe) atmak, fırlatmak",
+        "def": "to throw something lightly or carelessly",
+        "examples": ["She tossed her keys onto the table.", "Toss me that towel, would you?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "yazı tura atmak",
+        "def": "to throw a coin into the air to make a decision by chance",
+        "examples": ["Let's toss a coin to see who goes first."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(salata vb.) karıştırmak, harmanlamak",
+        "def": "to mix food lightly so it is covered with a sauce or dressing",
+        "examples": ["Toss the pasta with olive oil and garlic."]
+      }
+    ],
+    "collocations": ["toss a coin", "toss and turn", "toss out", "toss a salad", "toss-up"],
+    "synonyms": ["throw", "fling", "flip", "chuck"],
+    "family": [
+      { "word": "toss-up", "pos": "noun" }
+    ],
+    "note": "\"Toss and turn\" = move around in bed because you can't sleep. \"It's a toss-up\" = both outcomes are equally likely."
+  },
+  {
+    "word": "total",
+    "ipa": "/ˈtəʊtl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "toplam, bütün",
+        "def": "being the full amount after everything is added together",
+        "examples": ["The total cost of the trip was about $3,000.", "The company has a total of 400 employees."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tam, büsbütün, tamamen",
+        "def": "complete; used for emphasis",
+        "examples": ["The party was a total disaster.", "He's a total stranger to me."]
+      },
+      {
+        "pos": "noun",
+        "tr": "toplam, yekûn",
+        "def": "the amount you get when you add several numbers together",
+        "examples": ["Add up the numbers and write the total at the bottom.", "In total, we raised over $10,000 for the shelter."]
+      },
+      {
+        "pos": "verb",
+        "tr": "toplamı ... etmek, ... tutmak",
+        "def": "to reach a particular amount when added up",
+        "examples": ["Damages from the storm totaled more than $5 million."]
+      }
+    ],
+    "collocations": ["a total of", "in total", "grand total", "total cost", "total disaster", "running total"],
+    "synonyms": ["entire", "whole", "complete", "sum", "amount"],
+    "family": [
+      { "word": "totally", "pos": "adverb" },
+      { "word": "totality", "pos": "noun" }
+    ],
+    "note": "American spelling: totaled, totaling; British: totalled, totalling. \"Total a car\" (informal) = destroy it completely."
+  },
+  {
+    "word": "totally",
+    "ipa": "/ˈtəʊtəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "tamamen, büsbütün, bütünüyle",
+        "def": "completely",
+        "examples": ["I totally forgot about the meeting.", "The two cases are totally different."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(gayriresmi) kesinlikle, aynen",
+        "def": "(informal) used to strongly agree with someone",
+        "examples": ["\"That movie was amazing.\" \"Totally!\""]
+      }
+    ],
+    "collocations": ["totally different", "totally agree", "totally forgot", "totally wrong", "totally unacceptable"],
+    "synonyms": ["completely", "entirely", "absolutely", "utterly", "fully"],
+    "family": [
+      { "word": "total", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "touch",
+    "ipa": "/tʌtʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dokunmak",
+        "def": "to put your hand or another part of your body on someone or something",
+        "examples": ["Please don't touch the paintings.", "She touched his arm gently to get his attention."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(duygusal olarak) dokunmak, etkilemek",
+        "def": "to make someone feel emotion, especially sympathy or gratitude",
+        "examples": ["We were deeply touched by your kind letter."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dokunma, dokunuş; dokunma duyusu",
+        "def": "the act of touching, or the sense that lets you feel things with your skin",
+        "examples": ["The fabric is soft to the touch.", "The screen responds to the lightest touch."]
+      },
+      {
+        "pos": "noun",
+        "tr": "iletişim, temas",
+        "def": "communication with someone",
+        "examples": ["We still keep in touch after twenty years.", "I'll be in touch next week."]
+      }
+    ],
+    "collocations": ["keep in touch", "get in touch", "lose touch", "be in touch", "finishing touch", "touch on"],
+    "synonyms": ["feel", "handle", "move", "affect", "contact"],
+    "family": [
+      { "word": "touching", "pos": "adjective" },
+      { "word": "touched", "pos": "adjective" },
+      { "word": "touchy", "pos": "adjective" }
+    ],
+    "note": "\"Keep in touch\" = stay in contact (görüşmeye devam etmek). \"Touch on a subject\" = mention it briefly."
+  },
+  {
+    "word": "tough",
+    "ipa": "/tʌf/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "zor, çetin",
+        "def": "difficult, with a lot of problems",
+        "examples": ["It's been a tough year for the restaurant industry.", "We had to make some tough decisions about the budget."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "güçlü, dayanıklı, sağlam",
+        "def": "strong enough to deal with difficult conditions or rough treatment",
+        "examples": ["You have to be tough to survive in this business.", "These boots are made of tough leather."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sert, katı (kural, tavır)",
+        "def": "strict and determined",
+        "examples": ["The mayor promised to get tough on crime."]
+      }
+    ],
+    "collocations": ["tough decision", "tough time", "tough question", "get tough on", "tough luck", "tough competition"],
+    "synonyms": ["difficult", "hard", "strong", "strict", "resilient"],
+    "family": [
+      { "word": "toughen", "pos": "verb" },
+      { "word": "toughness", "pos": "noun" }
+    ],
+    "note": "Pronounced /tʌf/ like \"stuff\". \"Tough meat\" = hard to chew. \"Tough luck!\" = too bad (often unsympathetic)."
+  },
+  {
+    "word": "tour",
+    "ipa": "/tʊr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tur, gezi",
+        "def": "a trip for pleasure in which several places are visited, or a short visit around a building",
+        "examples": ["We took a guided tour of the White House.", "They went on a two-week tour of Italy."]
+      },
+      {
+        "pos": "noun",
+        "tr": "turne",
+        "def": "a series of performances or games in different places",
+        "examples": ["The band is on tour in Europe this summer."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gezmek, dolaşmak; turneye çıkmak",
+        "def": "to travel around a place, or to perform in different places",
+        "examples": ["We toured the vineyards of Napa Valley.", "The orchestra is touring Asia next year."]
+      }
+    ],
+    "collocations": ["guided tour", "on tour", "world tour", "tour guide", "tour of duty", "take a tour"],
+    "synonyms": ["trip", "visit", "journey", "excursion"],
+    "family": [
+      { "word": "tourism", "pos": "noun" },
+      { "word": "tourist", "pos": "noun" },
+      { "word": "touring", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "tourism",
+    "ipa": "/ˈtʊrɪzəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "turizm",
+        "def": "the business of providing hotels, services, and entertainment for people traveling for pleasure",
+        "examples": ["Tourism is the island's main source of income.", "The pandemic hit the tourism industry hard."]
+      }
+    ],
+    "collocations": ["tourism industry", "mass tourism", "boost tourism", "tourism sector", "eco-tourism", "medical tourism"],
+    "synonyms": ["travel industry", "the tourist trade"],
+    "family": [
+      { "word": "tourist", "pos": "noun" },
+      { "word": "tour", "pos": "noun" },
+      { "word": "touristy", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "tourist",
+    "ipa": "/ˈtʊrɪst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "turist",
+        "def": "a person who is traveling or visiting a place for pleasure",
+        "examples": ["The museum is full of tourists in the summer.", "Venice attracts millions of tourists every year."]
+      }
+    ],
+    "collocations": ["tourist attraction", "tourist destination", "tourist season", "foreign tourists", "tourist trap", "tourist visa"],
+    "synonyms": ["visitor", "traveler", "sightseer", "vacationer"],
+    "family": [
+      { "word": "tourism", "pos": "noun" },
+      { "word": "touristy", "pos": "adjective" }
+    ],
+    "note": "\"Tourist trap\" = a place that overcharges tourists. \"Touristy\" (informal) is often negative."
+  },
+  {
+    "word": "tournament",
+    "ipa": "/ˈtʊrnəmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "turnuva",
+        "def": "a sports competition in which players or teams who lose are eliminated until one winner is left",
+        "examples": ["Our team made it to the semifinals of the tournament.", "She won her first tennis tournament at fifteen."]
+      }
+    ],
+    "collocations": ["win a tournament", "golf tournament", "tennis tournament", "chess tournament", "host a tournament", "tournament final"],
+    "synonyms": ["competition", "championship", "contest", "event"],
+    "family": [],
+    "note": "\"Turnuva\" maps directly to \"tournament\"; \"league\" is a season-long competition."
+  },
+  {
+    "word": "towards",
+    "ipa": "/tɔːrdz/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "-e doğru",
+        "def": "in the direction of someone or something",
+        "examples": ["The dog came running towards me.", "She walked towards the exit without looking back."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-e karşı (tavır, duygu)",
+        "def": "in relation to someone or something",
+        "examples": ["His attitude towards work has changed a lot."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "(ödeme, amaç) için, -e katkı olarak",
+        "def": "as a contribution to paying for or achieving something",
+        "examples": ["We're saving towards a down payment on a house.", "This is an important step towards peace."]
+      }
+    ],
+    "collocations": ["towards the end", "attitude towards", "move towards", "a step towards", "contribute towards", "head towards"],
+    "synonyms": ["toward", "in the direction of", "regarding", "for"],
+    "family": [],
+    "note": "\"Toward\" (no -s) is standard in American English; \"towards\" is mainly British."
+  },
+  {
+    "word": "towel",
+    "ipa": "/ˈtaʊəl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "havlu",
+        "def": "a piece of cloth or paper used for drying your body or things",
+        "examples": ["Grab a towel from the closet before you get in the pool.", "Wipe up the spill with a paper towel."]
+      }
+    ],
+    "collocations": ["bath towel", "beach towel", "paper towel", "hand towel", "throw in the towel", "dry with a towel"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"Throw in the towel\" = give up, admit defeat (pes etmek)."
+  },
+  {
+    "word": "tower",
+    "ipa": "/ˈtaʊər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kule",
+        "def": "a tall, narrow building or part of a building, such as a church or castle",
+        "examples": ["The clock tower in the town square was built in 1890.", "We climbed the tower for a view of the city."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yüksek) bina, kule",
+        "def": "a tall building or structure used for a particular purpose",
+        "examples": ["They live on the 30th floor of an office tower downtown.", "The cell tower was damaged in the storm."]
+      }
+    ],
+    "collocations": ["clock tower", "control tower", "bell tower", "office tower", "water tower", "tower over"],
+    "synonyms": ["spire", "turret", "high-rise", "skyscraper"],
+    "family": [
+      { "word": "towering", "pos": "adjective" }
+    ],
+    "note": "As a verb, \"tower over\" = be much taller than: \"He towers over his classmates.\""
+  },
+  {
+    "word": "town",
+    "ipa": "/taʊn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kasaba, ilçe, şehir",
+        "def": "a place with many houses and businesses, larger than a village but smaller than a city",
+        "examples": ["She grew up in a small town in Ohio.", "The whole town came out for the parade."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şehir merkezi, çarşı",
+        "def": "the central area of a town where the shops and businesses are",
+        "examples": ["I'm going into town to do some shopping."]
+      }
+    ],
+    "collocations": ["small town", "hometown", "out of town", "go into town", "town hall", "in town"],
+    "synonyms": ["city", "municipality", "community", "village"],
+    "family": [
+      { "word": "township", "pos": "noun" },
+      { "word": "townhouse", "pos": "noun" }
+    ],
+    "note": "\"Out of town\" = away from where you live (şehir dışında). \"In town\" = currently here."
+  },
+  {
+    "word": "toxic",
+    "ipa": "/ˈtɑːksɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "zehirli, toksik",
+        "def": "containing poison, or harmful to people, animals, or the environment",
+        "examples": ["The factory was fined for dumping toxic waste into the river.", "Some household cleaners are toxic if swallowed."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(ilişki, ortam) zararlı, toksik",
+        "def": "very unpleasant and harmful to people's well-being",
+        "examples": ["She left the company because of its toxic work culture.", "It took him years to get out of a toxic relationship."]
+      }
+    ],
+    "collocations": ["toxic waste", "toxic chemicals", "toxic fumes", "toxic relationship", "highly toxic", "toxic environment"],
+    "synonyms": ["poisonous", "harmful", "dangerous", "unhealthy"],
+    "family": [
+      { "word": "toxicity", "pos": "noun" },
+      { "word": "toxin", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "toy",
+    "ipa": "/tɔɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "oyuncak",
+        "def": "an object for children to play with",
+        "examples": ["The kids left their toys all over the living room floor.", "He got a remote-control car for his birthday and it's his favorite toy."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "oyuncak",
+        "def": "made as a small copy of something, for playing with",
+        "examples": ["My son loves playing with his toy trains."]
+      }
+    ],
+    "collocations": ["toy store", "toy car", "soft toy", "toy gun", "play with toys", "toy with an idea"],
+    "synonyms": ["plaything", "game"],
+    "family": [],
+    "note": "As a verb, \"toy with an idea\" = consider it, but not seriously (aklından geçirmek)."
+  }
+]

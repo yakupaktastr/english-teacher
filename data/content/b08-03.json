@@ -1,0 +1,1261 @@
+[
+  {
+    "word": "ray",
+    "ipa": "/reɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ışın, ışık huzmesi",
+        "def": "a narrow beam of light, heat, or other energy",
+        "examples": ["The first rays of sunlight came through the curtains.", "UV rays can damage your skin even on cloudy days."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(umut) ışığı, kırıntısı",
+        "def": "a small amount of something good, such as hope",
+        "examples": ["The new drug offers a ray of hope to patients with the disease."]
+      }
+    ],
+    "collocations": ["rays of sunlight", "a ray of hope", "ultraviolet rays", "X-ray", "catch some rays", "a ray of sunshine"],
+    "synonyms": ["beam", "shaft", "gleam", "glimmer"],
+    "family": [{ "word": "X-ray", "pos": "noun" }],
+    "note": "\"Catch some rays\" (informal) = sunbathe. A ray is also a flat sea fish (vatoz)."
+  },
+  {
+    "word": "reach",
+    "ipa": "/riːtʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "varmak, ulaşmak",
+        "def": "to arrive at a place, or to get to a particular level or point",
+        "examples": ["We reached the hotel just after midnight.", "Temperatures could reach 100 degrees this weekend."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kararı, anlaşmaya) varmak",
+        "def": "to succeed in making a decision or agreement after discussion",
+        "examples": ["The jury reached a verdict after two days."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uzanmak, yetişmek; (birine) ulaşmak",
+        "def": "to stretch out your arm to touch or get something, or to contact someone",
+        "examples": ["I can't reach the top shelf without a ladder.", "You can reach me on my cell phone after six."]
+      },
+      {
+        "pos": "noun",
+        "tr": "erişim, ulaşılabilecek mesafe",
+        "def": "the distance you can stretch your arm, or how far something's influence goes",
+        "examples": ["Keep all medicines out of the reach of children."]
+      }
+    ],
+    "collocations": ["reach an agreement", "reach a decision", "reach a peak", "within reach", "out of reach", "reach out to"],
+    "synonyms": ["arrive at", "get to", "attain", "contact", "stretch"],
+    "family": [
+      { "word": "reachable", "pos": "adjective" },
+      { "word": "far-reaching", "pos": "adjective" }
+    ],
+    "note": "No preposition after the verb: \"reach the city\", not \"reach to the city\". \"Reach out\" = make contact to offer or ask for help."
+  },
+  {
+    "word": "react",
+    "ipa": "/riˈækt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tepki vermek, karşılık vermek",
+        "def": "to behave or change in a particular way because of something that happens",
+        "examples": ["How did your parents react when you told them the news?", "Markets reacted badly to the announcement."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kimyasal) tepkimeye girmek; (vücut) reaksiyon göstermek",
+        "def": "to change chemically when mixed with another substance, or to become ill from a food or drug",
+        "examples": ["Iron reacts with water and oxygen to form rust.", "Some patients react badly to the medication."]
+      }
+    ],
+    "collocations": ["react to", "react against", "react quickly", "react badly", "react with", "how to react"],
+    "synonyms": ["respond", "reply", "behave"],
+    "family": [
+      { "word": "reaction", "pos": "noun" },
+      { "word": "reactive", "pos": "adjective" },
+      { "word": "overreact", "pos": "verb" },
+      { "word": "reactor", "pos": "noun" }
+    ],
+    "note": "Use \"react to\" something. \"React against\" means to rebel against something."
+  },
+  {
+    "word": "reaction",
+    "ipa": "/riˈækʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tepki",
+        "def": "what you do, say, or feel because of something that has happened",
+        "examples": ["Her first reaction was to laugh.", "The new policy got a mixed reaction from teachers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(alerjik) reaksiyon",
+        "def": "an illness or bad effect caused by a food or drug",
+        "examples": ["He had a severe allergic reaction to peanuts."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tepkime, reaksiyon",
+        "def": "a chemical change produced when substances are mixed",
+        "examples": ["The experiment shows a chemical reaction between vinegar and baking soda."]
+      }
+    ],
+    "collocations": ["reaction to", "initial reaction", "mixed reaction", "allergic reaction", "chemical reaction", "chain reaction"],
+    "synonyms": ["response", "reply", "feedback", "backlash"],
+    "family": [
+      { "word": "react", "pos": "verb" },
+      { "word": "reactionary", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "read",
+    "ipa": "/riːd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "okumak",
+        "def": "to look at written words and understand them, or to say them aloud",
+        "examples": ["I read about the earthquake in the newspaper.", "She reads her kids a story every night."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(… diye) yazmak, (ölçü aleti) göstermek",
+        "def": "to have particular words written on it, or to show a measurement",
+        "examples": ["The sign read \"No parking after 6 p.m.\"", "The thermometer read minus ten."]
+      },
+      {
+        "pos": "verb",
+        "tr": "anlamak, yorumlamak, okumak",
+        "def": "to understand or interpret something in a particular way",
+        "examples": ["She's very good at reading people's emotions."]
+      }
+    ],
+    "collocations": ["read a book", "read aloud", "read about", "read between the lines", "read someone's mind", "widely read"],
+    "synonyms": ["study", "scan", "interpret", "say"],
+    "family": [
+      { "word": "reader", "pos": "noun" },
+      { "word": "reading", "pos": "noun" },
+      { "word": "readable", "pos": "adjective" },
+      { "word": "unreadable", "pos": "adjective" }
+    ],
+    "note": "Irregular: read /riːd/ – read /red/ – read /red/. Same spelling, different pronunciation."
+  },
+  {
+    "word": "reader",
+    "ipa": "/ˈriːdər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "okur, okuyucu",
+        "def": "a person who reads, especially one who reads a lot or reads a particular publication",
+        "examples": ["She's a big reader and finishes a novel every week.", "The magazine has over a million readers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "okuyucu (cihaz)",
+        "def": "a device that reads data, such as cards or electronic books",
+        "examples": ["Swipe your card through the reader to pay."]
+      }
+    ],
+    "collocations": ["avid reader", "regular reader", "e-book reader", "card reader", "dear reader", "readers' letters"],
+    "synonyms": ["bookworm", "audience", "subscriber"],
+    "family": [
+      { "word": "readership", "pos": "noun" },
+      { "word": "read", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "readily",
+    "ipa": "/ˈredɪli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kolayca, rahatlıkla",
+        "def": "easily and quickly, without difficulty",
+        "examples": ["Fresh vegetables are readily available at the local market.", "The information is readily accessible online."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "seve seve, hemen, tereddütsüz",
+        "def": "willingly and without hesitating",
+        "examples": ["He readily admitted that he had made a mistake."]
+      }
+    ],
+    "collocations": ["readily available", "readily accessible", "readily accept", "readily admit", "readily apparent"],
+    "synonyms": ["easily", "willingly", "promptly", "freely"],
+    "family": [
+      { "word": "ready", "pos": "adjective" },
+      { "word": "readiness", "pos": "noun" }
+    ],
+    "note": "Pronounced /ˈredɪli/, like \"ready\", not like \"read\" /riːd/."
+  },
+  {
+    "word": "reading",
+    "ipa": "/ˈriːdɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "okuma",
+        "def": "the activity of reading, or the skill of reading",
+        "examples": ["Reading is my favorite way to relax.", "The program helps children improve their reading."]
+      },
+      {
+        "pos": "noun",
+        "tr": "okuma (metni); (şiir) okuma etkinliği",
+        "def": "a text you are asked to read, or an event where someone reads aloud to an audience",
+        "examples": ["The professor gave us forty pages of reading for Monday.", "The author is giving a reading at the bookstore tonight."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(alet) ölçüm, gösterge değeri; yorum",
+        "def": "a number shown by a measuring device, or a way of understanding something",
+        "examples": ["The nurse took a blood pressure reading."]
+      }
+    ],
+    "collocations": ["reading glasses", "reading list", "light reading", "a close reading", "reading comprehension", "meter reading"],
+    "synonyms": ["interpretation", "measurement", "recital"],
+    "family": [
+      { "word": "read", "pos": "verb" },
+      { "word": "reader", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "ready",
+    "ipa": "/ˈredi/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "hazır",
+        "def": "fully prepared to do something, or finished and available to use",
+        "examples": ["Are you ready to go? The taxi's outside.", "Dinner will be ready in ten minutes."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "hazır, istekli, -meye razı",
+        "def": "willing to do something",
+        "examples": ["She's always ready to help her neighbors.", "I'm not ready to give up yet."]
+      }
+    ],
+    "collocations": ["get ready", "ready for", "ready to go", "ready-made", "ready when you are", "ready and waiting"],
+    "synonyms": ["prepared", "set", "willing", "eager"],
+    "family": [
+      { "word": "readily", "pos": "adverb" },
+      { "word": "readiness", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "real",
+    "ipa": "/ˈriːəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "gerçek, var olan",
+        "def": "actually existing or happening, not imagined",
+        "examples": ["The movie is based on a real story.", "Climate change is a real threat to coastal cities."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "hakiki, sahte olmayan, asıl",
+        "def": "not artificial or fake, or the true one rather than what is claimed",
+        "examples": ["Is that ring made of real gold?", "The real reason he quit was the long commute."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(argo) çok, gerçekten",
+        "def": "(informal, American) very",
+        "examples": ["That was real nice of you to drive me home."]
+      }
+    ],
+    "collocations": ["real life", "the real world", "real estate", "real name", "for real", "a real problem"],
+    "synonyms": ["actual", "genuine", "true", "authentic"],
+    "family": [
+      { "word": "reality", "pos": "noun" },
+      { "word": "really", "pos": "adverb" },
+      { "word": "realistic", "pos": "adjective" },
+      { "word": "realize", "pos": "verb" },
+      { "word": "unreal", "pos": "adjective" }
+    ],
+    "note": "\"For real?\" (informal) = really? \"Real estate\" = property such as houses and land (emlak)."
+  },
+  {
+    "word": "realistic",
+    "ipa": "/ˌriːəˈlɪstɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "gerçekçi",
+        "def": "sensible and accepting what is actually possible",
+        "examples": ["Let's be realistic; we can't finish the project in a week.", "Set realistic goals so you don't get discouraged."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "gerçeğe yakın, gerçekçi",
+        "def": "showing things as they are in real life",
+        "examples": ["The video game has incredibly realistic graphics."]
+      }
+    ],
+    "collocations": ["realistic goal", "realistic expectations", "be realistic", "realistic chance", "realistic picture"],
+    "synonyms": ["practical", "sensible", "pragmatic", "lifelike", "true-to-life"],
+    "family": [
+      { "word": "unrealistic", "pos": "adjective" },
+      { "word": "realistically", "pos": "adverb" },
+      { "word": "realism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "reality",
+    "ipa": "/riˈæləti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gerçek, gerçeklik, hakikat",
+        "def": "the true situation as it actually is, not as you would like it to be",
+        "examples": ["In reality, most startups fail within five years.", "The dream of owning a house is far from reality for many young people."]
+      }
+    ],
+    "collocations": ["in reality", "face reality", "become a reality", "the harsh reality", "reality check", "virtual reality"],
+    "synonyms": ["truth", "fact", "actuality", "real life"],
+    "family": [
+      { "word": "real", "pos": "adjective" },
+      { "word": "realistic", "pos": "adjective" }
+    ],
+    "note": "\"Reality TV\" = shows about real people. \"A reality check\" = a reminder of how things really are."
+  },
+  {
+    "word": "realization",
+    "ipa": "/ˌriːələˈzeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "farkına varma, idrak, fark etme",
+        "def": "the moment or process of understanding something you did not know before",
+        "examples": ["There's a growing realization that the plan won't work.", "The realization that she had left her passport at home hit her at the airport."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gerçekleştirme, gerçekleşme",
+        "def": "the act of achieving a hope or plan",
+        "examples": ["Opening the restaurant was the realization of a lifelong dream."]
+      }
+    ],
+    "collocations": ["come to the realization", "sudden realization", "growing realization", "the realization that", "realization of a dream"],
+    "synonyms": ["awareness", "understanding", "recognition", "fulfillment", "achievement"],
+    "family": [{ "word": "realize", "pos": "verb" }]
+  },
+  {
+    "word": "realize",
+    "ipa": "/ˈriːəlaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "farkına varmak, fark etmek, anlamak",
+        "def": "to understand or become aware of a fact or situation",
+        "examples": ["I didn't realize you were coming today.", "She suddenly realized she had left the oven on."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gerçekleştirmek",
+        "def": "to achieve something you hoped or planned for",
+        "examples": ["He finally realized his dream of becoming a pilot."]
+      }
+    ],
+    "collocations": ["realize that", "suddenly realize", "fail to realize", "realize a dream", "realize your potential", "without realizing it"],
+    "synonyms": ["understand", "notice", "recognize", "achieve", "fulfill"],
+    "family": [
+      { "word": "realization", "pos": "noun" },
+      { "word": "real", "pos": "adjective" }
+    ],
+    "note": "Trap: \"realize\" means \"fark etmek\", not \"gerçekleştirmek\" in most contexts. British spelling: realise."
+  },
+  {
+    "word": "really",
+    "ipa": "/ˈriːəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "çok, gerçekten",
+        "def": "used to make an adjective, adverb, or verb stronger",
+        "examples": ["The concert was really good.", "I really need a vacation."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "aslında, gerçekte",
+        "def": "used to say what is actually true",
+        "examples": ["What really happened that night?", "Nobody really knows why the dinosaurs died out so quickly."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(şaşkınlık) Sahi mi?, Gerçekten mi?",
+        "def": "used to show surprise or interest",
+        "examples": ["\"I'm moving to Japan.\" \"Really? When?\""]
+      }
+    ],
+    "collocations": ["really good", "really want", "not really", "really and truly", "did you really"],
+    "synonyms": ["very", "truly", "actually", "genuinely", "seriously"],
+    "family": [{ "word": "real", "pos": "adjective" }],
+    "note": "\"Not really\" is a soft way to say no: \"Do you like it?\" \"Not really.\""
+  },
+  {
+    "word": "realm",
+    "ipa": "/relm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alan, saha, dünya",
+        "def": "an area of activity, interest, or knowledge",
+        "examples": ["The idea belongs in the realm of science fiction.", "She has made important contributions in the realm of public health."]
+      },
+      {
+        "pos": "noun",
+        "tr": "krallık, diyar",
+        "def": "(formal or literary) a country ruled by a king or queen",
+        "examples": ["The king traveled to every corner of his realm."]
+      }
+    ],
+    "collocations": ["the realm of", "within the realm of possibility", "beyond the realm of", "political realm", "public realm"],
+    "synonyms": ["field", "sphere", "domain", "area", "kingdom"],
+    "family": [],
+    "note": "\"Within the realm of possibility\" = possible. The \"a\" is silent: /relm/."
+  },
+  {
+    "word": "rear",
+    "ipa": "/rɪr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "arka, arka taraf",
+        "def": "the back part of something",
+        "examples": ["The kitchen is at the rear of the house.", "Please exit through the rear of the bus."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "arka",
+        "def": "at or near the back of something",
+        "examples": ["The car's rear window was smashed.", "Kids should always ride in the rear seat."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(çocuk, hayvan) büyütmek, yetiştirmek",
+        "def": "to care for young children or animals until they are grown",
+        "examples": ["The farm rears sheep and cattle for meat."]
+      }
+    ],
+    "collocations": ["at the rear", "rear window", "rear seat", "rear end", "bring up the rear", "rearview mirror"],
+    "synonyms": ["back", "end", "tail", "raise", "bring up"],
+    "family": [{ "word": "rearview", "pos": "adjective" }],
+    "note": "\"Bring up the rear\" = be at the back of a group. \"Rear-end\" (verb) = crash into the back of a car."
+  },
+  {
+    "word": "reason",
+    "ipa": "/ˈriːzn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "neden, sebep",
+        "def": "a cause or explanation for something that happens or that someone does",
+        "examples": ["What was the reason for the delay?", "There's no reason to panic."]
+      },
+      {
+        "pos": "noun",
+        "tr": "akıl, mantık, sağduyu",
+        "def": "the ability to think clearly and make sensible judgments",
+        "examples": ["He wouldn't listen to reason and drove home anyway.", "Science is based on reason and evidence."]
+      },
+      {
+        "pos": "verb",
+        "tr": "akıl yürütmek, mantıkla düşünmek",
+        "def": "to form a judgment by thinking logically",
+        "examples": ["She reasoned that the store would be less crowded in the morning."]
+      }
+    ],
+    "collocations": ["the reason for", "for some reason", "good reason", "within reason", "listen to reason", "reason with someone"],
+    "synonyms": ["cause", "grounds", "motive", "logic", "sense"],
+    "family": [
+      { "word": "reasonable", "pos": "adjective" },
+      { "word": "reasoning", "pos": "noun" },
+      { "word": "unreasonable", "pos": "adjective" }
+    ],
+    "note": "Say \"the reason for\" or \"the reason why/that\", not \"the reason of\"."
+  },
+  {
+    "word": "reasonable",
+    "ipa": "/ˈriːznəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "makul, mantıklı, akla yatkın",
+        "def": "fair, practical, and sensible",
+        "examples": ["It's a reasonable request; let's give them the extra day.", "Any reasonable person would have called the police."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(fiyat) uygun, makul",
+        "def": "not too expensive",
+        "examples": ["The hotel was clean and the prices were very reasonable."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "fena değil, idare eder",
+        "def": "fairly good, but not very good",
+        "examples": ["There's a reasonable chance we'll finish on time."]
+      }
+    ],
+    "collocations": ["reasonable price", "reasonable doubt", "reasonable request", "perfectly reasonable", "reasonable explanation", "reasonable chance"],
+    "synonyms": ["fair", "sensible", "logical", "affordable", "acceptable"],
+    "family": [
+      { "word": "reasonably", "pos": "adverb" },
+      { "word": "unreasonable", "pos": "adjective" },
+      { "word": "reason", "pos": "noun" }
+    ],
+    "note": "\"Beyond a reasonable doubt\" is the standard of proof in US criminal trials."
+  },
+  {
+    "word": "reasonably",
+    "ipa": "/ˈriːznəbli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "oldukça, epey, makul ölçüde",
+        "def": "fairly or to a degree that is acceptable but not very high",
+        "examples": ["The test was reasonably easy.", "I'm reasonably sure that the store closes at nine."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "makul bir şekilde, mantıklı olarak",
+        "def": "in a fair and sensible way",
+        "examples": ["Try to discuss the problem calmly and reasonably.", "The apartments are reasonably priced for the area."]
+      }
+    ],
+    "collocations": ["reasonably priced", "reasonably well", "reasonably good", "reasonably sure", "act reasonably"],
+    "synonyms": ["fairly", "quite", "sensibly", "rationally"],
+    "family": [{ "word": "reasonable", "pos": "adjective" }]
+  },
+  {
+    "word": "reasoning",
+    "ipa": "/ˈriːzənɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "akıl yürütme, mantık",
+        "def": "the process of thinking logically, or the reasons and arguments behind an opinion",
+        "examples": ["I don't follow your reasoning; why would sales go up in winter?", "The test measures logical reasoning and problem-solving skills."]
+      }
+    ],
+    "collocations": ["logical reasoning", "the reasoning behind", "line of reasoning", "flawed reasoning", "moral reasoning"],
+    "synonyms": ["logic", "argument", "rationale", "thinking"],
+    "family": [
+      { "word": "reason", "pos": "verb" },
+      { "word": "reasoned", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "reassure",
+    "ipa": "/ˌriːəˈʃʊr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "rahatlatmak, içini rahatlatmak, güvence vermek",
+        "def": "to make someone feel less worried or afraid",
+        "examples": ["The doctor reassured her that the surgery was routine.", "Officials tried to reassure the public that the water was safe."]
+      }
+    ],
+    "collocations": ["reassure someone that", "reassure the public", "try to reassure", "be reassured by", "reassure investors"],
+    "synonyms": ["comfort", "calm", "encourage", "put someone's mind at rest"],
+    "family": [
+      { "word": "reassurance", "pos": "noun" },
+      { "word": "reassuring", "pos": "adjective" },
+      { "word": "reassuringly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "rebel",
+    "ipa": "/ˈrebl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "isyancı, asi",
+        "def": "a person who fights against the government of their country",
+        "examples": ["Rebels seized control of the northern city.", "Government troops clashed with rebel forces near the border."]
+      },
+      {
+        "pos": "noun",
+        "tr": "asi, aykırı kişi",
+        "def": "a person who refuses to follow normal rules or behave as expected",
+        "examples": ["She was a bit of a rebel in high school."]
+      },
+      {
+        "pos": "verb",
+        "tr": "isyan etmek, başkaldırmak",
+        "def": "to fight against authority or refuse to obey rules",
+        "examples": ["Teenagers often rebel against their parents' rules."]
+      }
+    ],
+    "collocations": ["rebel forces", "rebel groups", "rebel leader", "rebel against", "rebel-held territory"],
+    "synonyms": ["insurgent", "revolutionary", "nonconformist", "revolt", "defy"],
+    "family": [
+      { "word": "rebellion", "pos": "noun" },
+      { "word": "rebellious", "pos": "adjective" }
+    ],
+    "note": "Stress: noun REB-el /ˈrebl/, verb re-BEL /rɪˈbel/."
+  },
+  {
+    "word": "rebellion",
+    "ipa": "/rɪˈbeljən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "isyan, ayaklanma",
+        "def": "an attempt by a group of people to change their government using violence",
+        "examples": ["The army crushed the rebellion within weeks.", "The rebellion began when soldiers refused to fire on protesters."]
+      },
+      {
+        "pos": "noun",
+        "tr": "başkaldırı, karşı çıkma",
+        "def": "opposition to authority or to accepted ways of behaving",
+        "examples": ["Dyeing his hair green was a small act of teenage rebellion."]
+      }
+    ],
+    "collocations": ["armed rebellion", "crush a rebellion", "lead a rebellion", "act of rebellion", "teenage rebellion", "open rebellion"],
+    "synonyms": ["uprising", "revolt", "insurrection", "resistance", "defiance"],
+    "family": [
+      { "word": "rebel", "pos": "noun" },
+      { "word": "rebellious", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "rebuild",
+    "ipa": "/ˌriːˈbɪld/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yeniden inşa etmek, yeniden yapmak",
+        "def": "to build something again after it has been damaged or destroyed",
+        "examples": ["It took the town ten years to rebuild after the hurricane.", "The church was rebuilt using the original stones."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yeniden kurmak, toparlamak",
+        "def": "to make something strong or successful again",
+        "examples": ["After the scandal, the company worked hard to rebuild trust with customers."]
+      }
+    ],
+    "collocations": ["rebuild trust", "rebuild a house", "rebuild your life", "rebuild the economy", "completely rebuilt"],
+    "synonyms": ["reconstruct", "restore", "renovate", "remake"],
+    "family": [{ "word": "rebuilding", "pos": "noun" }],
+    "note": "Irregular: rebuild – rebuilt – rebuilt."
+  },
+  {
+    "word": "recall",
+    "ipa": "/rɪˈkɔːl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "hatırlamak, anımsamak",
+        "def": "to remember something, especially in order to tell others about it",
+        "examples": ["I don't recall meeting him before.", "She recalled how her father used to take her fishing."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ürünü) geri çağırmak, toplatmak",
+        "def": "to ask people to return a faulty product, or to order someone to come back",
+        "examples": ["The company recalled 50,000 cars because of faulty brakes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "geri çağırma; hatırlama",
+        "def": "an official request to return a product, or the ability to remember",
+        "examples": ["The recall affects all models made before 2023.", "He has total recall of every game he's ever played."]
+      }
+    ],
+    "collocations": ["recall that", "as far as I can recall", "product recall", "vividly recall", "total recall", "recall an ambassador"],
+    "synonyms": ["remember", "recollect", "call back", "withdraw"],
+    "family": [],
+    "note": "More formal than \"remember\". Followed by -ing: \"I recall seeing her\"."
+  },
+  {
+    "word": "receipt",
+    "ipa": "/rɪˈsiːt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fiş, makbuz",
+        "def": "a piece of paper or email that shows you have paid for something",
+        "examples": ["Keep the receipt in case you need to return the shoes.", "Can I get a receipt, please?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "alma, teslim alma",
+        "def": "(formal) the act of receiving something",
+        "examples": ["Please confirm receipt of this letter.", "Payment is due within 30 days of receipt of the invoice."]
+      }
+    ],
+    "collocations": ["keep the receipt", "ask for a receipt", "on receipt of", "acknowledge receipt", "email receipt", "receipts and expenses"],
+    "synonyms": ["proof of purchase", "sales slip", "acknowledgment"],
+    "family": [{ "word": "receive", "pos": "verb" }],
+    "note": "The \"p\" is silent: /rɪˈsiːt/."
+  },
+  {
+    "word": "receive",
+    "ipa": "/rɪˈsiːv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "almak, teslim almak",
+        "def": "to get something that someone gives or sends you",
+        "examples": ["Did you receive my email yesterday?", "She received an award for her work with refugees."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(tepkiyle) karşılamak; (tedavi vb.) görmek",
+        "def": "to react to something in a particular way, or to experience a type of treatment",
+        "examples": ["The new album was well received by critics.", "Three people received treatment for minor injuries."]
+      }
+    ],
+    "collocations": ["receive a letter", "receive an award", "receive treatment", "well received", "receive attention", "receive support"],
+    "synonyms": ["get", "obtain", "accept", "be given"],
+    "family": [
+      { "word": "receipt", "pos": "noun" },
+      { "word": "receiver", "pos": "noun" },
+      { "word": "reception", "pos": "noun" },
+      { "word": "recipient", "pos": "noun" }
+    ],
+    "note": "Spelling: \"i before e except after c\": receive, not recieve."
+  },
+  {
+    "word": "receiver",
+    "ipa": "/rɪˈsiːvər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ahize",
+        "def": "the part of a phone that you hold to your ear and mouth",
+        "examples": ["She picked up the receiver and dialed the number.", "He slammed the receiver down in anger."]
+      },
+      {
+        "pos": "noun",
+        "tr": "alıcı (cihaz)",
+        "def": "a piece of equipment that receives radio or TV signals",
+        "examples": ["We bought a new receiver for the home theater system."]
+      },
+      {
+        "pos": "noun",
+        "tr": "alan kişi, alıcı; (Amerikan futbolu) pas alan oyuncu",
+        "def": "a person who receives something, or a football player who catches passes",
+        "examples": ["The wide receiver caught the ball in the end zone."]
+      }
+    ],
+    "collocations": ["pick up the receiver", "put down the receiver", "satellite receiver", "wide receiver", "receiver of stolen goods"],
+    "synonyms": ["handset", "recipient"],
+    "family": [{ "word": "receive", "pos": "verb" }]
+  },
+  {
+    "word": "recent",
+    "ipa": "/ˈriːsnt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "son, yakın zamanda olan, yeni",
+        "def": "happening or starting a short time ago",
+        "examples": ["Prices have gone up a lot in recent years.", "In a recent interview, the director talked about her next film."]
+      }
+    ],
+    "collocations": ["in recent years", "recent events", "recent study", "recent history", "most recent", "recent months"],
+    "synonyms": ["latest", "new", "fresh", "current"],
+    "family": [{ "word": "recently", "pos": "adverb" }]
+  },
+  {
+    "word": "recently",
+    "ipa": "/ˈriːsntli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "son zamanlarda, yakın zamanda, geçenlerde",
+        "def": "not long ago",
+        "examples": ["I recently moved to Seattle for a new job.", "Until recently, few people had heard of the app."]
+      }
+    ],
+    "collocations": ["until recently", "only recently", "more recently", "recently published", "recently announced"],
+    "synonyms": ["lately", "newly", "not long ago", "of late"],
+    "family": [{ "word": "recent", "pos": "adjective" }],
+    "note": "Often used with the present perfect: \"I have recently started...\", but past simple is also common in American English."
+  },
+  {
+    "word": "reception",
+    "ipa": "/rɪˈsepʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "resepsiyon, danışma",
+        "def": "the area near the entrance of a hotel or office where visitors go first",
+        "examples": ["Please leave your key at reception when you check out.", "Ask at reception for a visitor's pass."]
+      },
+      {
+        "pos": "noun",
+        "tr": "resepsiyon, davet, düğün yemeği",
+        "def": "a formal party to welcome someone or celebrate something, such as a wedding",
+        "examples": ["The wedding reception was held in a garden by the lake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "karşılanma, tepki; (sinyal) çekme",
+        "def": "the way people react to something, or the quality of radio or phone signals",
+        "examples": ["The proposal got a cool reception from investors.", "There's no cell phone reception in the mountains."]
+      }
+    ],
+    "collocations": ["at reception", "reception desk", "wedding reception", "a warm reception", "a hostile reception", "poor reception"],
+    "synonyms": ["front desk", "party", "welcome", "response", "signal"],
+    "family": [
+      { "word": "receptionist", "pos": "noun" },
+      { "word": "receptive", "pos": "adjective" },
+      { "word": "receive", "pos": "verb" }
+    ],
+    "note": "In American hotels, reception is usually called the \"front desk\"."
+  },
+  {
+    "word": "recession",
+    "ipa": "/rɪˈseʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "durgunluk, resesyon",
+        "def": "a period when a country's economy is weak, with less trade and more unemployment",
+        "examples": ["Many small businesses closed during the recession.", "Economists warn that the country could slip into recession next year."]
+      }
+    ],
+    "collocations": ["economic recession", "go into recession", "deep recession", "global recession", "come out of recession", "risk of recession"],
+    "synonyms": ["downturn", "slump", "depression", "decline"],
+    "family": [{ "word": "recede", "pos": "verb" }],
+    "note": "A \"depression\" is a longer and more severe recession."
+  },
+  {
+    "word": "recipe",
+    "ipa": "/ˈresəpi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yemek tarifi, tarif",
+        "def": "a set of instructions for cooking a dish, with a list of ingredients",
+        "examples": ["This is my grandmother's recipe for apple pie.", "I found a great recipe for vegetarian chili online."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(başarı, felaket vb.) formülü, reçetesi",
+        "def": "a way of doing something that is likely to lead to a particular result",
+        "examples": ["Spending more than you earn is a recipe for disaster."]
+      }
+    ],
+    "collocations": ["follow a recipe", "a recipe for", "recipe for disaster", "recipe for success", "recipe book", "family recipe"],
+    "synonyms": ["formula", "method", "instructions"],
+    "family": [],
+    "note": "Pronounced in three syllables: /ˈresəpi/. Trap: a doctor's prescription is NOT a recipe (reçete = prescription)."
+  },
+  {
+    "word": "recipient",
+    "ipa": "/rɪˈsɪpiənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alıcı, alan kişi",
+        "def": "a person who receives something",
+        "examples": ["She was the youngest recipient of the Nobel Peace Prize.", "Check the recipient's address before you send the email."]
+      }
+    ],
+    "collocations": ["award recipient", "welfare recipients", "organ recipient", "the intended recipient", "recipient of"],
+    "synonyms": ["receiver", "beneficiary", "winner"],
+    "family": [{ "word": "receive", "pos": "verb" }],
+    "note": "Formal. Opposite: donor (in medicine) or sender (for mail)."
+  },
+  {
+    "word": "reckon",
+    "ipa": "/ˈrekən/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sanmak, düşünmek, tahmin etmek",
+        "def": "(informal) to think or believe something",
+        "examples": ["I reckon it's going to rain later.", "How much do you reckon the repairs will cost?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "hesaplamak, (olarak) kabul etmek",
+        "def": "to calculate something approximately, or to consider someone or something to be something",
+        "examples": ["The painting is reckoned to be worth over a million dollars."]
+      }
+    ],
+    "collocations": ["I reckon", "reckon with", "reckon on", "a force to be reckoned with", "be reckoned to be"],
+    "synonyms": ["think", "believe", "suppose", "guess", "estimate"],
+    "family": [{ "word": "reckoning", "pos": "noun" }],
+    "note": "\"I reckon\" is informal and sounds British or rural/Southern American. \"A force to be reckoned with\" = a powerful competitor."
+  },
+  {
+    "word": "recognition",
+    "ipa": "/ˌrekəɡˈnɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tanıma, tanınma",
+        "def": "the act of knowing who someone is or what something is when you see or hear it",
+        "examples": ["He looked at me without any sign of recognition.", "The phone uses facial recognition to unlock."]
+      },
+      {
+        "pos": "noun",
+        "tr": "takdir, kabul görme, tanınma",
+        "def": "public praise for someone's work, or official acceptance that something is true or legal",
+        "examples": ["She received recognition for her years of volunteer work.", "There is growing recognition that mental health matters at work."]
+      }
+    ],
+    "collocations": ["in recognition of", "gain recognition", "facial recognition", "speech recognition", "international recognition", "beyond recognition"],
+    "synonyms": ["identification", "acknowledgment", "appreciation", "acceptance"],
+    "family": [
+      { "word": "recognize", "pos": "verb" },
+      { "word": "recognizable", "pos": "adjective" }
+    ],
+    "note": "\"Changed beyond recognition\" = changed so much it cannot be recognized."
+  },
+  {
+    "word": "recognize",
+    "ipa": "/ˈrekəɡnaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tanımak",
+        "def": "to know who someone is or what something is because you have seen or heard it before",
+        "examples": ["I didn't recognize you with short hair!", "She recognized the song from the first few notes."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kabul etmek, kabullenmek; resmen tanımak",
+        "def": "to accept that something is true, or to officially accept something as legal or valid",
+        "examples": ["The government recognized that mistakes had been made.", "Many countries refuse to recognize the new regime."]
+      },
+      {
+        "pos": "verb",
+        "tr": "takdir etmek",
+        "def": "to show official appreciation for someone's work or achievements",
+        "examples": ["The award recognizes outstanding teachers in the state."]
+      }
+    ],
+    "collocations": ["recognize someone", "widely recognized", "officially recognized", "recognize the need", "internationally recognized", "recognize that"],
+    "synonyms": ["identify", "know", "acknowledge", "accept", "appreciate"],
+    "family": [
+      { "word": "recognition", "pos": "noun" },
+      { "word": "recognizable", "pos": "adjective" },
+      { "word": "unrecognizable", "pos": "adjective" }
+    ],
+    "note": "British spelling: recognise."
+  },
+  {
+    "word": "recommend",
+    "ipa": "/ˌrekəˈmend/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tavsiye etmek, önermek",
+        "def": "to say that someone or something is good or suitable",
+        "examples": ["Can you recommend a good dentist near here?", "I highly recommend the fish tacos."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tavsiye etmek, öğütlemek",
+        "def": "to advise someone to do something",
+        "examples": ["Doctors recommend that adults get at least seven hours of sleep.", "We recommend booking early in the summer."]
+      }
+    ],
+    "collocations": ["highly recommend", "strongly recommend", "recommend that", "recommend doing something", "recommended dose", "come highly recommended"],
+    "synonyms": ["suggest", "advise", "advocate", "endorse"],
+    "family": [
+      { "word": "recommendation", "pos": "noun" },
+      { "word": "recommended", "pos": "adjective" }
+    ],
+    "note": "Spelling: one c, double m. Pattern: \"recommend doing\" or \"recommend that someone do\", not \"recommend someone to do\" (less common)."
+  },
+  {
+    "word": "recommendation",
+    "ipa": "/ˌrekəmenˈdeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tavsiye, öneri",
+        "def": "an official suggestion about the best thing to do",
+        "examples": ["The committee made several recommendations to improve safety.", "We chose the hotel on a friend's recommendation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "referans (mektubu), tavsiye mektubu",
+        "def": "a statement that someone is suitable for a job or course",
+        "examples": ["Her professor wrote her a strong letter of recommendation."]
+      }
+    ],
+    "collocations": ["make a recommendation", "on someone's recommendation", "letter of recommendation", "follow a recommendation", "key recommendations"],
+    "synonyms": ["suggestion", "advice", "proposal", "reference", "endorsement"],
+    "family": [{ "word": "recommend", "pos": "verb" }]
+  },
+  {
+    "word": "reconstruction",
+    "ipa": "/ˌriːkənˈstrʌkʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yeniden yapılanma, yeniden inşa",
+        "def": "the process of building or putting something back into its former state",
+        "examples": ["The reconstruction of the bridge will take two years.", "Billions of dollars are needed for postwar reconstruction."]
+      },
+      {
+        "pos": "noun",
+        "tr": "canlandırma, yeniden kurgulama",
+        "def": "an attempt to show how a past event happened using the available evidence",
+        "examples": ["Police staged a reconstruction of the crime to help witnesses remember."]
+      }
+    ],
+    "collocations": ["postwar reconstruction", "economic reconstruction", "reconstruction work", "reconstruction effort", "facial reconstruction"],
+    "synonyms": ["rebuilding", "restoration", "renovation", "re-creation"],
+    "family": [
+      { "word": "reconstruct", "pos": "verb" },
+      { "word": "construction", "pos": "noun" }
+    ],
+    "note": "\"Reconstruction\" (capital R) refers to the period after the US Civil War (1865–1877)."
+  },
+  {
+    "word": "record",
+    "ipa": "/ˈrekərd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kayıt, belge",
+        "def": "written or stored information about something, kept for the future",
+        "examples": ["The hospital keeps medical records for every patient.", "There is no record of the payment in our system."]
+      },
+      {
+        "pos": "noun",
+        "tr": "rekor; sicil, geçmiş",
+        "def": "the best result ever achieved, or the known facts about someone's past",
+        "examples": ["She broke the world record in the 200 meters.", "The company has an excellent safety record."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kaydetmek, kayda geçirmek",
+        "def": "to write down or store information, or to save sound or pictures",
+        "examples": ["The band recorded their first album in a garage.", "The meeting was recorded so absent staff could watch it later."]
+      }
+    ],
+    "collocations": ["keep a record", "break a record", "world record", "criminal record", "on the record", "off the record"],
+    "synonyms": ["document", "file", "log", "register", "tape"],
+    "family": [
+      { "word": "recording", "pos": "noun" },
+      { "word": "recorder", "pos": "noun" },
+      { "word": "record-breaking", "pos": "adjective" }
+    ],
+    "note": "Stress: noun REC-ord /ˈrekərd/, verb re-CORD /rɪˈkɔːrd/. \"Off the record\" = not for publication."
+  },
+  {
+    "word": "recording",
+    "ipa": "/rɪˈkɔːrdɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kayıt (ses/görüntü)",
+        "def": "sound or pictures that have been recorded",
+        "examples": ["Police released a recording of the emergency call.", "This is the best recording of the symphony I've heard."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kayıt (yapma)",
+        "def": "the process of recording music or other sounds",
+        "examples": ["The recording of the album took six months."]
+      }
+    ],
+    "collocations": ["audio recording", "video recording", "recording studio", "make a recording", "live recording", "recording artist"],
+    "synonyms": ["tape", "track", "record", "footage"],
+    "family": [
+      { "word": "record", "pos": "verb" },
+      { "word": "recorder", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "recount",
+    "ipa": "/rɪˈkaʊnt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "anlatmak, nakletmek",
+        "def": "(formal) to tell someone about something that happened, especially your own experience",
+        "examples": ["In her memoir, she recounts her childhood on a farm in Iowa.", "He recounted the events of that night to the police."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yeniden saymak",
+        "def": "to count something again, especially votes",
+        "examples": ["The votes were recounted after the result was challenged."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(oyların) yeniden sayımı",
+        "def": "a second count of votes in an election",
+        "examples": ["The losing candidate demanded a recount."]
+      }
+    ],
+    "collocations": ["recount a story", "recount an experience", "recount the events", "demand a recount", "vote recount"],
+    "synonyms": ["tell", "describe", "relate", "narrate"],
+    "family": [],
+    "note": "\"Count again\" meaning is pronounced /ˌriːˈkaʊnt/; the noun is /ˈriːkaʊnt/."
+  },
+  {
+    "word": "recover",
+    "ipa": "/rɪˈkʌvər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "iyileşmek, kendine gelmek, atlatmak",
+        "def": "to get well again after an illness, injury, or shock",
+        "examples": ["It took her months to recover from the accident.", "He's still recovering from the flu."]
+      },
+      {
+        "pos": "verb",
+        "tr": "düzelmek, toparlanmak",
+        "def": "to return to a normal or stronger state after a difficult period",
+        "examples": ["The economy is slowly recovering after the crisis."]
+      },
+      {
+        "pos": "verb",
+        "tr": "geri almak, kurtarmak, bulmak",
+        "def": "to get back something that was lost or stolen",
+        "examples": ["Police recovered the stolen paintings in a warehouse.", "I managed to recover the deleted files."]
+      }
+    ],
+    "collocations": ["recover from", "fully recover", "slowly recover", "recover the cost", "recover data", "recover consciousness"],
+    "synonyms": ["get better", "heal", "rebound", "regain", "retrieve"],
+    "family": [
+      { "word": "recovery", "pos": "noun" },
+      { "word": "recoverable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "recovery",
+    "ipa": "/rɪˈkʌvəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iyileşme",
+        "def": "the process of becoming healthy again after an illness or injury",
+        "examples": ["The surgeon expects him to make a full recovery.", "Recovery from knee surgery can take several months."]
+      },
+      {
+        "pos": "noun",
+        "tr": "toparlanma, düzelme",
+        "def": "the process of returning to a normal or better state",
+        "examples": ["The country's economic recovery has been slower than expected."]
+      },
+      {
+        "pos": "noun",
+        "tr": "geri alma, kurtarma",
+        "def": "the act of getting back something that was lost or stolen",
+        "examples": ["The reward led to the recovery of the stolen jewels."]
+      }
+    ],
+    "collocations": ["full recovery", "make a recovery", "economic recovery", "road to recovery", "speedy recovery", "in recovery"],
+    "synonyms": ["healing", "improvement", "rebound", "comeback", "retrieval"],
+    "family": [{ "word": "recover", "pos": "verb" }],
+    "note": "\"In recovery\" often means getting treatment for addiction."
+  },
+  {
+    "word": "recruit",
+    "ipa": "/rɪˈkruːt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(eleman) almak, işe almak, askere almak",
+        "def": "to find new people to join a company, organization, or the armed forces",
+        "examples": ["The company plans to recruit 200 new engineers this year.", "Terrorist groups use social media to recruit young people."]
+      },
+      {
+        "pos": "noun",
+        "tr": "acemi asker, yeni eleman, yeni üye",
+        "def": "a person who has recently joined the army, police, or an organization",
+        "examples": ["New recruits spend ten weeks in basic training.", "The team's latest recruit scored on his debut."]
+      }
+    ],
+    "collocations": ["recruit staff", "recruit volunteers", "actively recruit", "new recruit", "raw recruit", "recruit from"],
+    "synonyms": ["hire", "enlist", "employ", "newcomer", "trainee"],
+    "family": [
+      { "word": "recruitment", "pos": "noun" },
+      { "word": "recruiter", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "recruitment",
+    "ipa": "/rɪˈkruːtmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işe alım, personel alımı, askere alma",
+        "def": "the process of finding new people to join a company, organization, or the armed forces",
+        "examples": ["The hospital is struggling with the recruitment of nurses.", "The army launched a new recruitment campaign aimed at college graduates."]
+      }
+    ],
+    "collocations": ["recruitment process", "recruitment agency", "recruitment campaign", "graduate recruitment", "staff recruitment"],
+    "synonyms": ["hiring", "enlistment", "staffing"],
+    "family": [
+      { "word": "recruit", "pos": "verb" },
+      { "word": "recruiter", "pos": "noun" }
+    ],
+    "note": "Americans often say \"hiring\" in everyday business contexts."
+  },
+  {
+    "word": "recycle",
+    "ipa": "/ˌriːˈsaɪkl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "geri dönüştürmek",
+        "def": "to process used materials so they can be used again",
+        "examples": ["We recycle all our bottles, cans, and newspapers.", "Only a small percentage of plastic is actually recycled."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yeniden kullanmak, tekrar değerlendirmek",
+        "def": "to use an idea, method, or thing again, often in a new way",
+        "examples": ["The movie just recycles old jokes from the first film."]
+      }
+    ],
+    "collocations": ["recycle plastic", "recycle paper", "recycled materials", "recycling bin", "recycle waste"],
+    "synonyms": ["reuse", "reprocess", "repurpose", "salvage"],
+    "family": [
+      { "word": "recycling", "pos": "noun" },
+      { "word": "recycled", "pos": "adjective" },
+      { "word": "recyclable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "red",
+    "ipa": "/red/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kırmızı; (yüz) kızarmış; (saç) kızıl",
+        "def": "having the color of blood or fire; also used for a face that is flushed or for orange-brown hair",
+        "examples": ["She was wearing a bright red coat.", "His face went red with embarrassment."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kırmızı (renk); kırmızı şarap",
+        "def": "the color of blood or fire, or red wine",
+        "examples": ["The walls were painted a deep red.", "Would you like red or white with dinner?"]
+      }
+    ],
+    "collocations": ["bright red", "dark red", "turn red", "in the red", "red tape", "see red"],
+    "synonyms": ["scarlet", "crimson", "flushed"],
+    "family": [
+      { "word": "redden", "pos": "verb" },
+      { "word": "reddish", "pos": "adjective" }
+    ],
+    "note": "\"In the red\" = owing money. \"Red tape\" = bureaucracy (bürokrasi). \"See red\" = become very angry. In US politics, red = Republican."
+  }
+]

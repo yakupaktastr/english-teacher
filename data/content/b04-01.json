@@ -1,0 +1,1167 @@
+[
+  {
+    "word": "email",
+    "ipa": "/ˈiːmeɪl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "e-posta, mail",
+        "def": "a system for sending messages between computers, or a message sent this way",
+        "examples": ["I got an email from my landlord about the rent increase.", "Please send your application by email before Friday."]
+      },
+      {
+        "pos": "verb",
+        "tr": "e-posta göndermek, mail atmak",
+        "def": "to send a message or a file to someone by email",
+        "examples": ["Can you email me the slides after the meeting?", "She emailed the whole team to cancel the call."]
+      }
+    ],
+    "collocations": ["send an email", "check your email", "reply to an email", "email address", "by email", "email someone something"],
+    "synonyms": ["message", "mail"],
+    "family": [],
+    "note": "Also spelled \"e-mail\". In speech, Americans often just say \"I'll send it to you\" or \"I'll shoot you an email\" (informal)."
+  },
+  {
+    "word": "embark",
+    "ipa": "/ɪmˈbɑːrk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(yeni ve zor bir işe) girişmek, başlamak",
+        "def": "to start something new, important, or difficult (used with on or upon)",
+        "examples": ["After college, she embarked on a career in journalism.", "The city is embarking on an ambitious plan to rebuild its subway."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(gemiye, uçağa) binmek",
+        "def": "to get onto a ship or plane at the start of a journey",
+        "examples": ["Passengers began to embark at the port just after dawn."]
+      }
+    ],
+    "collocations": ["embark on a career", "embark on a journey", "embark on a project", "embark upon", "embark on a campaign"],
+    "synonyms": ["begin", "start", "undertake", "launch into", "board"],
+    "family": [
+      { "word": "embarkation", "pos": "noun" },
+      { "word": "disembark", "pos": "verb" }
+    ],
+    "note": "The \"start\" sense is far more common and always takes \"on/upon\": embark on a new venture."
+  },
+  {
+    "word": "embarrassed",
+    "ipa": "/ɪmˈbærəst/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "utanmış, mahcup, rezil olmuş",
+        "def": "feeling uncomfortable or ashamed, especially because of what other people think of you",
+        "examples": ["I was so embarrassed when I called my teacher \"Mom\" in class.", "He felt embarrassed about forgetting her name."]
+      }
+    ],
+    "collocations": ["feel embarrassed", "embarrassed about something", "too embarrassed to", "deeply embarrassed", "look embarrassed"],
+    "synonyms": ["ashamed", "awkward", "self-conscious", "humiliated", "mortified"],
+    "family": [
+      { "word": "embarrass", "pos": "verb" },
+      { "word": "embarrassing", "pos": "adjective" },
+      { "word": "embarrassment", "pos": "noun" }
+    ],
+    "note": "Spelled with double r and double s. Embarrassed = how you feel; embarrassing = the situation that causes it. Not the same as \"ashamed\" (guilt)."
+  },
+  {
+    "word": "embarrassing",
+    "ipa": "/ɪmˈbærəsɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "utandırıcı, utanç verici, mahcup edici",
+        "def": "making you feel uncomfortable, silly, or ashamed in front of others",
+        "examples": ["It was embarrassing to trip on stage in front of the whole school.", "The leaked emails were deeply embarrassing for the company."]
+      }
+    ],
+    "collocations": ["deeply embarrassing", "an embarrassing moment", "an embarrassing mistake", "embarrassing for someone", "how embarrassing"],
+    "synonyms": ["awkward", "humiliating", "mortifying", "shameful", "cringeworthy"],
+    "family": [
+      { "word": "embarrass", "pos": "verb" },
+      { "word": "embarrassed", "pos": "adjective" },
+      { "word": "embarrassingly", "pos": "adverb" },
+      { "word": "embarrassment", "pos": "noun" }
+    ],
+    "note": "-ing describes the cause (an embarrassing question); -ed describes the person's feeling (I was embarrassed)."
+  },
+  {
+    "word": "embarrassment",
+    "ipa": "/ɪmˈbærəsmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "utanç, mahcubiyet",
+        "def": "the uncomfortable feeling you have when you are ashamed or feel silly in front of others",
+        "examples": ["His face turned red with embarrassment.", "To my embarrassment, my phone rang during the funeral."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yüz karası, utanç kaynağı",
+        "def": "a person or thing that makes others feel ashamed",
+        "examples": ["The failed launch was a major embarrassment for the government."]
+      }
+    ],
+    "collocations": ["to my embarrassment", "cause embarrassment", "avoid embarrassment", "a source of embarrassment", "a major embarrassment", "blush with embarrassment"],
+    "synonyms": ["shame", "awkwardness", "humiliation", "discomfort"],
+    "family": [
+      { "word": "embarrass", "pos": "verb" },
+      { "word": "embarrassed", "pos": "adjective" },
+      { "word": "embarrassing", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "embassy",
+    "ipa": "/ˈembəsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "büyükelçilik",
+        "def": "the official building or group of diplomats that represents a country in a foreign capital",
+        "examples": ["She went to the embassy to apply for a student visa.", "Protesters gathered outside the US embassy in the capital."]
+      }
+    ],
+    "collocations": ["the US embassy", "embassy staff", "outside the embassy", "contact the embassy", "embassy official"],
+    "synonyms": ["consulate", "mission", "legation"],
+    "family": [
+      { "word": "ambassador", "pos": "noun" }
+    ],
+    "note": "An embassy is in the capital; a consulate (konsolosluk) is a smaller office in other cities."
+  },
+  {
+    "word": "embed",
+    "ipa": "/ɪmˈbed/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "gömmek, yerleştirmek, saplamak",
+        "def": "to fix something firmly inside a surrounding material or object",
+        "examples": ["A piece of glass was embedded in his foot.", "The fossils are embedded in layers of rock."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(fikir, kültür vb.) kök salmak, yerleşmek; (web) yerleştirmek",
+        "def": "to make an idea or habit a deep part of something; to put a video, link, etc. into a web page",
+        "examples": ["Racism is deeply embedded in some institutions.", "You can embed the video directly on your blog."]
+      }
+    ],
+    "collocations": ["deeply embedded", "firmly embedded", "embedded in", "embed a video", "embedded journalist"],
+    "synonyms": ["implant", "insert", "fix", "root", "lodge"],
+    "family": [
+      { "word": "embedded", "pos": "adjective" }
+    ],
+    "note": "Very often used in the passive: \"be embedded in\". The doubled d appears in embedded, embedding."
+  },
+  {
+    "word": "embody",
+    "ipa": "/ɪmˈbɑːdi/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "somutlaştırmak, temsil etmek, -in vücut bulmuş hali olmak",
+        "def": "to express or represent an idea or quality clearly and completely",
+        "examples": ["For many fans, the team captain embodies the spirit of the club.", "The new constitution embodies the values of freedom and equality."]
+      }
+    ],
+    "collocations": ["embody the spirit of", "embody values", "embody an ideal", "perfectly embody", "embodied in"],
+    "synonyms": ["represent", "personify", "symbolize", "exemplify", "incarnate"],
+    "family": [
+      { "word": "embodiment", "pos": "noun" },
+      { "word": "embodied", "pos": "adjective" }
+    ],
+    "note": "\"The embodiment of\" is common: she is the embodiment of kindness (iyiliğin vücut bulmuş hali)."
+  },
+  {
+    "word": "embrace",
+    "ipa": "/ɪmˈbreɪs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sarılmak, kucaklamak",
+        "def": "to put your arms around someone to show love or friendship",
+        "examples": ["The two brothers embraced at the airport after ten years apart."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(fikir, değişim vb.) benimsemek, kucak açmak",
+        "def": "to accept a new idea, belief, or change willingly and with enthusiasm",
+        "examples": ["Many older workers have embraced remote work.", "The town has embraced tourism as a source of income."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kucaklama, sarılma",
+        "def": "the act of holding someone close in your arms",
+        "examples": ["She greeted her grandson with a warm embrace."]
+      }
+    ],
+    "collocations": ["embrace change", "embrace technology", "embrace an idea", "warmly embrace", "a warm embrace", "fully embrace"],
+    "synonyms": ["hug", "hold", "adopt", "welcome", "accept"],
+    "family": [],
+    "note": "In everyday speech \"hug\" is the usual word for the physical act; \"embrace\" sounds more formal or literary."
+  },
+  {
+    "word": "emerge",
+    "ipa": "/ɪˈmɜːrdʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ortaya çıkmak, belirmek, (bir yerden) çıkmak",
+        "def": "to come out from a hidden or dark place and become visible",
+        "examples": ["A deer emerged from the trees and crossed the road.", "The sun emerged from behind the clouds."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(gerçek, bilgi) ortaya çıkmak, anlaşılmak",
+        "def": "to become known, especially after being hidden or unclear",
+        "examples": ["It later emerged that the mayor had known about the problem.", "New details have emerged about the crash."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ortaya çıkmak, doğmak, (zor durumdan) çıkmak",
+        "def": "to start to exist or become important; to come out of a difficult situation",
+        "examples": ["Several new tech hubs have emerged in the Midwest.", "The company emerged from bankruptcy stronger than before."]
+      }
+    ],
+    "collocations": ["emerge from", "it emerged that", "emerge as a leader", "begin to emerge", "emerge victorious", "a picture emerges"],
+    "synonyms": ["appear", "come out", "surface", "arise", "come to light"],
+    "family": [
+      { "word": "emergence", "pos": "noun" },
+      { "word": "emerging", "pos": "adjective" },
+      { "word": "emergent", "pos": "adjective" }
+    ],
+    "note": "\"Emerging markets\" (gelişmekte olan piyasalar) is a very frequent economics phrase."
+  },
+  {
+    "word": "emergence",
+    "ipa": "/ɪˈmɜːrdʒəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ortaya çıkış, doğuş, belirme",
+        "def": "the process of appearing, starting to exist, or becoming known or important",
+        "examples": ["The emergence of smartphones changed how people read the news.", "Scientists are tracking the emergence of a new virus strain."]
+      }
+    ],
+    "collocations": ["the emergence of", "rapid emergence", "early emergence", "lead to the emergence of", "since its emergence"],
+    "synonyms": ["appearance", "rise", "arrival", "advent", "development"],
+    "family": [
+      { "word": "emerge", "pos": "verb" },
+      { "word": "emerging", "pos": "adjective" }
+    ],
+    "note": "Do not confuse with \"emergency\" (acil durum)."
+  },
+  {
+    "word": "emergency",
+    "ipa": "/ɪˈmɜːrdʒənsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "acil durum",
+        "def": "a sudden, serious, dangerous situation that needs action immediately",
+        "examples": ["In an emergency, call 911.", "The plane made an emergency landing after one engine failed."]
+      }
+    ],
+    "collocations": ["in an emergency", "emergency room", "state of emergency", "emergency services", "emergency exit", "medical emergency"],
+    "synonyms": ["crisis", "urgent situation"],
+    "family": [],
+    "note": "American: \"emergency room (ER)\" = acil servis. The British say \"A&E\". In the US you dial 911."
+  },
+  {
+    "word": "emission",
+    "ipa": "/ɪˈmɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "salınım, emisyon, (gaz vb.) yayılma",
+        "def": "the release of gas, heat, light, etc. into the air, or an amount that is released",
+        "examples": ["The new law aims to cut carbon emissions by half by 2035.", "Cars must pass an emissions test every two years."]
+      }
+    ],
+    "collocations": ["carbon emissions", "greenhouse gas emissions", "reduce emissions", "emissions targets", "emissions test", "zero emissions"],
+    "synonyms": ["release", "discharge", "output"],
+    "family": [
+      { "word": "emit", "pos": "verb" }
+    ],
+    "note": "Usually plural (emissions) when talking about pollution."
+  },
+  {
+    "word": "emotion",
+    "ipa": "/ɪˈməʊʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "duygu, his",
+        "def": "a strong feeling such as love, fear, or anger, or feelings in general as opposed to reason",
+        "examples": ["She tried hard to hide her emotions during the interview.", "His voice was full of emotion as he thanked his parents."]
+      }
+    ],
+    "collocations": ["show emotion", "express emotions", "hide your emotions", "mixed emotions", "strong emotion", "overcome with emotion"],
+    "synonyms": ["feeling", "sentiment", "passion"],
+    "family": [
+      { "word": "emotional", "pos": "adjective" },
+      { "word": "emotionally", "pos": "adverb" },
+      { "word": "emotionless", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "emotional",
+    "ipa": "/ɪˈməʊʃənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "duygusal",
+        "def": "connected with people's feelings",
+        "examples": ["Children need emotional support as well as food and shelter.", "Losing a job can take a huge emotional toll."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "duygulanmış, duygusal, (konu) hassas",
+        "def": "showing strong feelings, often by crying; causing strong feelings",
+        "examples": ["He got very emotional during his farewell speech.", "Immigration remains an emotional issue for many voters."]
+      }
+    ],
+    "collocations": ["emotional support", "emotional health", "get emotional", "emotional issue", "emotional toll", "emotional intelligence"],
+    "synonyms": ["sentimental", "moving", "touching", "passionate"],
+    "family": [
+      { "word": "emotion", "pos": "noun" },
+      { "word": "emotionally", "pos": "adverb" },
+      { "word": "unemotional", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "emotionally",
+    "ipa": "/ɪˈməʊʃənəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "duygusal olarak, duygusal açıdan",
+        "def": "in a way that is connected with feelings, or in a way that shows strong feeling",
+        "examples": ["Caring for a sick parent can be emotionally exhausting.", "She spoke emotionally about her years in the refugee camp."]
+      }
+    ],
+    "collocations": ["emotionally exhausted", "emotionally attached", "emotionally draining", "emotionally charged", "emotionally involved"],
+    "synonyms": ["passionately", "psychologically"],
+    "family": [
+      { "word": "emotion", "pos": "noun" },
+      { "word": "emotional", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "emphasis",
+    "ipa": "/ˈemfəsɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "vurgu, önem",
+        "def": "special importance or attention given to something",
+        "examples": ["The school puts a strong emphasis on reading and writing.", "There is now more emphasis on prevention than treatment."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(sesle) vurgu",
+        "def": "extra force given to a word or syllable when speaking",
+        "examples": ["She said \"never\" with heavy emphasis."]
+      }
+    ],
+    "collocations": ["put emphasis on", "place emphasis on", "strong emphasis", "greater emphasis", "shift the emphasis", "with emphasis"],
+    "synonyms": ["stress", "importance", "focus", "priority", "weight"],
+    "family": [
+      { "word": "emphasize", "pos": "verb" },
+      { "word": "emphatic", "pos": "adjective" },
+      { "word": "emphatically", "pos": "adverb" }
+    ],
+    "note": "Plural: emphases. Use \"emphasis on\" (not \"to\"): The emphasis is on quality."
+  },
+  {
+    "word": "emphasize",
+    "ipa": "/ˈemfəsaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "vurgulamak, altını çizmek, üzerinde durmak",
+        "def": "to show or say that something is especially important",
+        "examples": ["The doctor emphasized the need for regular exercise.", "I want to emphasize that nobody will lose their job."]
+      }
+    ],
+    "collocations": ["emphasize the importance of", "emphasize the need for", "emphasize that", "strongly emphasize", "repeatedly emphasize"],
+    "synonyms": ["stress", "highlight", "underline", "point out", "underscore"],
+    "family": [
+      { "word": "emphasis", "pos": "noun" },
+      { "word": "emphatic", "pos": "adjective" }
+    ],
+    "note": "No preposition: emphasize something (NOT emphasize on something). British spelling: emphasise."
+  },
+  {
+    "word": "empire",
+    "ipa": "/ˈempaɪər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "imparatorluk",
+        "def": "a group of countries controlled by one ruler or government",
+        "examples": ["The Ottoman Empire lasted for more than six centuries.", "At its height, the Roman Empire stretched from Britain to Egypt."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(iş dünyasında) imparatorluk, dev şirketler grubu",
+        "def": "a large group of businesses controlled by one person or company",
+        "examples": ["He built a media empire from a single local newspaper."]
+      }
+    ],
+    "collocations": ["the Roman Empire", "build an empire", "business empire", "media empire", "fall of the empire", "colonial empire"],
+    "synonyms": ["realm", "kingdom", "domain", "conglomerate"],
+    "family": [
+      { "word": "emperor", "pos": "noun" },
+      { "word": "empress", "pos": "noun" },
+      { "word": "imperial", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "empirical",
+    "ipa": "/ɪmˈpɪrɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "deneysel, ampirik, gözleme dayalı",
+        "def": "based on observation, experiments, or experience rather than theory",
+        "examples": ["There is little empirical evidence that the diet works.", "The study offers an empirical analysis of wage data from 40 countries."]
+      }
+    ],
+    "collocations": ["empirical evidence", "empirical research", "empirical data", "empirical study", "empirical analysis"],
+    "synonyms": ["experimental", "observational", "evidence-based", "practical"],
+    "family": [
+      { "word": "empirically", "pos": "adverb" },
+      { "word": "empiricism", "pos": "noun" }
+    ],
+    "note": "Academic word. Opposite: theoretical."
+  },
+  {
+    "word": "employ",
+    "ipa": "/ɪmˈplɔɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "istihdam etmek, işe almak, çalıştırmak",
+        "def": "to pay someone to work for you",
+        "examples": ["The factory employs about 300 people from the town.", "She is employed as a nurse at the local hospital."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(yöntem, teknik) kullanmak, uygulamak",
+        "def": "to use a particular method, skill, or tool (formal)",
+        "examples": ["The researchers employed a range of techniques to collect data."]
+      }
+    ],
+    "collocations": ["employ staff", "be employed as", "be employed by", "employ a strategy", "employ a method", "directly employ"],
+    "synonyms": ["hire", "take on", "use", "apply", "utilize"],
+    "family": [
+      { "word": "employee", "pos": "noun" },
+      { "word": "employer", "pos": "noun" },
+      { "word": "employment", "pos": "noun" },
+      { "word": "unemployed", "pos": "adjective" },
+      { "word": "employable", "pos": "adjective" }
+    ],
+    "note": "In everyday speech, \"hire\" is more common for taking on a new worker."
+  },
+  {
+    "word": "employee",
+    "ipa": "/ɪmˈplɔɪiː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çalışan, işçi, personel",
+        "def": "a person who is paid to work for a company or another person",
+        "examples": ["The company gave every employee a bonus at the end of the year.", "Part-time employees are not eligible for health insurance."]
+      }
+    ],
+    "collocations": ["full-time employee", "former employee", "employee benefits", "hire employees", "lay off employees", "government employee"],
+    "synonyms": ["worker", "staff member", "member of staff"],
+    "family": [
+      { "word": "employ", "pos": "verb" },
+      { "word": "employer", "pos": "noun" },
+      { "word": "employment", "pos": "noun" }
+    ],
+    "note": "Employee = the person who works; employer = the person or company that pays. Stress is on the last syllable for many speakers."
+  },
+  {
+    "word": "employer",
+    "ipa": "/ɪmˈplɔɪər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işveren",
+        "def": "a person or organization that pays people to work for them",
+        "examples": ["The hospital is the largest employer in the county.", "Ask your employer whether they offer a retirement plan."]
+      }
+    ],
+    "collocations": ["largest employer", "major employer", "former employer", "current employer", "equal opportunity employer"],
+    "synonyms": ["boss", "company", "firm", "business"],
+    "family": [
+      { "word": "employ", "pos": "verb" },
+      { "word": "employee", "pos": "noun" },
+      { "word": "employment", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "employment",
+    "ipa": "/ɪmˈplɔɪmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "istihdam, iş, çalışma",
+        "def": "paid work, or the state of having a paid job",
+        "examples": ["Many graduates struggle to find employment in their field.", "Employment in manufacturing has fallen sharply since the 1980s."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yöntem vb.) kullanım",
+        "def": "the use of something for a particular purpose (formal)",
+        "examples": ["The employment of new teaching methods improved test scores."]
+      }
+    ],
+    "collocations": ["find employment", "full-time employment", "employment rate", "employment opportunities", "terms of employment", "employment contract"],
+    "synonyms": ["work", "job", "occupation", "jobs"],
+    "family": [
+      { "word": "employ", "pos": "verb" },
+      { "word": "unemployment", "pos": "noun" },
+      { "word": "employer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "empower",
+    "ipa": "/ɪmˈpaʊər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "güçlendirmek, yetkilendirmek, (birine) güç vermek",
+        "def": "to give someone the power, confidence, or legal right to do something",
+        "examples": ["The program aims to empower women to start their own businesses.", "The new law empowers police to stop and search vehicles."]
+      }
+    ],
+    "collocations": ["empower women", "empower communities", "empower someone to do something", "feel empowered", "empowered by law"],
+    "synonyms": ["enable", "authorize", "strengthen", "equip"],
+    "family": [
+      { "word": "empowerment", "pos": "noun" },
+      { "word": "empowering", "pos": "adjective" },
+      { "word": "empowered", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "empty",
+    "ipa": "/ˈempti/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "boş",
+        "def": "with nobody or nothing inside",
+        "examples": ["The streets were empty at three in the morning.", "Don't put the empty milk carton back in the fridge."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(söz, hayat) boş, anlamsız, içi boş",
+        "def": "having no real meaning, value, or purpose",
+        "examples": ["Voters are tired of empty promises.", "After the divorce, his life felt empty."]
+      },
+      {
+        "pos": "verb",
+        "tr": "boşaltmak; boşalmak",
+        "def": "to remove everything from a container or place, or to become empty",
+        "examples": ["Could you empty the dishwasher before you go?", "The stadium emptied quickly after the final whistle."]
+      }
+    ],
+    "collocations": ["completely empty", "empty-handed", "empty promises", "an empty stomach", "empty the trash", "empty seat"],
+    "synonyms": ["vacant", "bare", "hollow", "meaningless", "clear out"],
+    "family": [
+      { "word": "emptiness", "pos": "noun" },
+      { "word": "emptily", "pos": "adverb" }
+    ],
+    "note": "\"On an empty stomach\" = aç karnına. \"Vacant\" is used for seats, rooms, and jobs."
+  },
+  {
+    "word": "enable",
+    "ipa": "/ɪˈneɪbl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "olanak sağlamak, mümkün kılmak",
+        "def": "to make it possible for someone to do something or for something to happen",
+        "examples": ["The scholarship enabled her to study abroad.", "New software enables doctors to share records instantly."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(özellik, ayar) etkinleştirmek, açmak",
+        "def": "to turn on a feature or function on a computer or device",
+        "examples": ["You need to enable cookies to use this website."]
+      }
+    ],
+    "collocations": ["enable someone to do something", "enable access", "enable notifications", "help enable", "be enabled by"],
+    "synonyms": ["allow", "permit", "make possible", "empower", "activate"],
+    "family": [
+      { "word": "disable", "pos": "verb" },
+      { "word": "enabler", "pos": "noun" }
+    ],
+    "note": "Pattern: enable + object + to-infinitive (enable us to save time), NOT enable to do."
+  },
+  {
+    "word": "enact",
+    "ipa": "/ɪˈnækt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(yasa) çıkarmak, yürürlüğe koymak",
+        "def": "to make a proposal into law",
+        "examples": ["Congress enacted the law with support from both parties.", "Several states have enacted stricter gun laws."]
+      },
+      {
+        "pos": "verb",
+        "tr": "canlandırmak, sahnelemek",
+        "def": "to perform a story or scene, for example in a play (formal)",
+        "examples": ["The students enacted a scene from the trial."]
+      }
+    ],
+    "collocations": ["enact legislation", "enact a law", "enact reforms", "newly enacted", "enact a policy"],
+    "synonyms": ["pass", "legislate", "adopt", "perform", "act out"],
+    "family": [
+      { "word": "enactment", "pos": "noun" },
+      { "word": "reenact", "pos": "verb" }
+    ],
+    "note": "Formal, used in law and politics."
+  },
+  {
+    "word": "encompass",
+    "ipa": "/ɪnˈkʌmpəs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kapsamak, içine almak, kuşatmak",
+        "def": "to include a wide range of things or ideas",
+        "examples": ["The course encompasses both ancient and modern history.", "Her job encompasses everything from hiring to payroll."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çevrelemek, kuşatmak",
+        "def": "to surround an area completely",
+        "examples": ["The national park encompasses three lakes and a large forest."]
+      }
+    ],
+    "collocations": ["encompass a range of", "broadly encompass", "encompass all aspects", "encompass the whole"],
+    "synonyms": ["include", "cover", "comprise", "embrace", "span"],
+    "family": [
+      { "word": "all-encompassing", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "encounter",
+    "ipa": "/ɪnˈkaʊntər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(sorun, zorluk) karşılaşmak, karşısına çıkmak",
+        "def": "to experience something, especially a problem or something difficult",
+        "examples": ["We encountered heavy traffic on the way to the airport.", "Please call us if you encounter any problems with the app."]
+      },
+      {
+        "pos": "verb",
+        "tr": "rastlamak, karşılaşmak",
+        "def": "to meet someone or see something, especially unexpectedly",
+        "examples": ["It was the strangest animal she had ever encountered."]
+      },
+      {
+        "pos": "noun",
+        "tr": "karşılaşma, rastlaşma",
+        "def": "a meeting, often a sudden or unexpected one, or a brief experience of something",
+        "examples": ["He described his close encounter with a bear in Alaska.", "A chance encounter on a train changed her life."]
+      }
+    ],
+    "collocations": ["encounter problems", "encounter resistance", "encounter difficulties", "a chance encounter", "close encounter", "brief encounter"],
+    "synonyms": ["meet", "come across", "run into", "face", "experience"],
+    "family": [],
+    "note": "Formal for \"run into\" or \"come across\". Pattern: encounter something (no preposition)."
+  },
+  {
+    "word": "encourage",
+    "ipa": "/ɪnˈkɜːrɪdʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "cesaretlendirmek, teşvik etmek, yüreklendirmek",
+        "def": "to give someone support, confidence, or hope so they will do something",
+        "examples": ["My parents always encouraged me to follow my dreams.", "Teachers should encourage students to ask questions."]
+      },
+      {
+        "pos": "verb",
+        "tr": "teşvik etmek, desteklemek, -e yol açmak",
+        "def": "to make something more likely to happen or develop",
+        "examples": ["Low interest rates encourage people to borrow more.", "The city wants to encourage the use of public transit."]
+      }
+    ],
+    "collocations": ["encourage someone to do something", "strongly encourage", "actively encourage", "encourage growth", "encourage investment"],
+    "synonyms": ["motivate", "support", "inspire", "urge", "promote"],
+    "family": [
+      { "word": "encouragement", "pos": "noun" },
+      { "word": "encouraging", "pos": "adjective" },
+      { "word": "discourage", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "encouragement",
+    "ipa": "/ɪnˈkɜːrɪdʒmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "cesaret verme, teşvik, destek",
+        "def": "words or actions that give someone confidence or hope to do something",
+        "examples": ["With her coach's encouragement, she entered the marathon.", "Shy children need a lot of encouragement to speak in class."]
+      }
+    ],
+    "collocations": ["give encouragement", "words of encouragement", "with encouragement from", "need encouragement", "a great encouragement"],
+    "synonyms": ["support", "motivation", "inspiration", "reassurance"],
+    "family": [
+      { "word": "encourage", "pos": "verb" },
+      { "word": "encouraging", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "encouraging",
+    "ipa": "/ɪnˈkɜːrɪdʒɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "umut verici, cesaret verici",
+        "def": "giving you hope or confidence that something will succeed",
+        "examples": ["The early results of the trial are very encouraging.", "It's encouraging to see so many young people voting."]
+      }
+    ],
+    "collocations": ["encouraging signs", "encouraging results", "highly encouraging", "encouraging news", "an encouraging start"],
+    "synonyms": ["promising", "hopeful", "positive", "reassuring", "heartening"],
+    "family": [
+      { "word": "encourage", "pos": "verb" },
+      { "word": "encouragingly", "pos": "adverb" },
+      { "word": "discouraging", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "end",
+    "ipa": "/end/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "son, bitiş",
+        "def": "the final part of a period of time, event, activity, or story",
+        "examples": ["We're moving to Denver at the end of the month.", "I didn't understand the end of the movie."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uç, son kısım",
+        "def": "the furthest point or part of something long",
+        "examples": ["Our house is at the end of the street."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bitmek, sona ermek; bitirmek, sona erdirmek",
+        "def": "to finish, or to make something finish",
+        "examples": ["The meeting ended with a vote.", "Both sides want to end the war."]
+      }
+    ],
+    "collocations": ["at the end of", "in the end", "come to an end", "put an end to", "end up", "a happy ending"],
+    "synonyms": ["finish", "conclusion", "close", "stop", "edge"],
+    "family": [
+      { "word": "ending", "pos": "noun" },
+      { "word": "endless", "pos": "adjective" },
+      { "word": "endlessly", "pos": "adverb" }
+    ],
+    "note": "\"In the end\" = eventually (sonunda); \"at the end (of)\" = at the final point of. \"End up\" = to finally be in a situation."
+  },
+  {
+    "word": "endeavor",
+    "ipa": "/ɪnˈdevər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çaba, girişim, uğraş",
+        "def": "a serious attempt to do something new or difficult (formal)",
+        "examples": ["Space exploration is one of humanity's greatest endeavors.", "We wish you success in all your future endeavors."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çabalamak, uğraşmak, gayret etmek",
+        "def": "to try very hard to do something (formal)",
+        "examples": ["We will endeavor to answer every email within 24 hours."]
+      }
+    ],
+    "collocations": ["human endeavor", "future endeavors", "a joint endeavor", "scientific endeavor", "endeavor to do something"],
+    "synonyms": ["attempt", "effort", "undertaking", "venture", "try"],
+    "family": [],
+    "note": "British spelling: endeavour. Formal; in speech, use \"try\" or \"effort\"."
+  },
+  {
+    "word": "ending",
+    "ipa": "/ˈendɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "son, final",
+        "def": "the last part of a story, movie, or event",
+        "examples": ["I love books with a happy ending.", "The show's ending left many viewers disappointed."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(dilbilgisi) ek, son ek",
+        "def": "the last part of a word, such as -ed or -ing",
+        "examples": ["Past tense verbs usually take the ending -ed."]
+      }
+    ],
+    "collocations": ["a happy ending", "a surprise ending", "an alternative ending", "a sad ending", "the ending of"],
+    "synonyms": ["conclusion", "finale", "finish", "close"],
+    "family": [
+      { "word": "end", "pos": "noun" },
+      { "word": "never-ending", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "endless",
+    "ipa": "/ˈendləs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sonsuz, bitmek bilmeyen, uçsuz bucaksız",
+        "def": "very large in size or amount, or seeming never to stop",
+        "examples": ["I'm tired of endless meetings that achieve nothing.", "The desert seemed to stretch into an endless horizon."]
+      }
+    ],
+    "collocations": ["endless possibilities", "endless list", "endless supply", "seemingly endless", "endless stream of"],
+    "synonyms": ["infinite", "never-ending", "constant", "limitless", "interminable"],
+    "family": [
+      { "word": "endlessly", "pos": "adverb" },
+      { "word": "end", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "endorse",
+    "ipa": "/ɪnˈdɔːrs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "desteklemek, onaylamak, (aday) desteğini açıklamak",
+        "def": "to say publicly that you support a person, idea, or plan",
+        "examples": ["The newspaper endorsed her for governor.", "The committee endorsed the proposal unanimously."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(reklamda) ürünün yüzü olmak, tavsiye etmek",
+        "def": "to say in an advertisement that you use and like a product",
+        "examples": ["Famous athletes are paid millions to endorse sneakers."]
+      }
+    ],
+    "collocations": ["endorse a candidate", "endorse a plan", "fully endorse", "publicly endorse", "endorse a product"],
+    "synonyms": ["support", "back", "approve", "advocate", "recommend"],
+    "family": [
+      { "word": "endorsement", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "endorsement",
+    "ipa": "/ɪnˈdɔːrsmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "destek, onay, (açık) destek beyanı",
+        "def": "a public statement of support for a person, idea, or plan",
+        "examples": ["The senator won the endorsement of the largest teachers' union.", "The plan received a strong endorsement from economists."]
+      },
+      {
+        "pos": "noun",
+        "tr": "reklam anlaşması, ürün tanıtımı",
+        "def": "a deal in which a well-known person promotes a product for money",
+        "examples": ["The tennis star earns more from endorsements than from prize money."]
+      }
+    ],
+    "collocations": ["win an endorsement", "a strong endorsement", "public endorsement", "endorsement deal", "a ringing endorsement"],
+    "synonyms": ["support", "approval", "backing", "recommendation"],
+    "family": [
+      { "word": "endorse", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "endure",
+    "ipa": "/ɪnˈdʊr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "katlanmak, dayanmak, çekmek",
+        "def": "to experience and deal with something painful or unpleasant for a long time",
+        "examples": ["The refugees endured weeks of hunger and cold.", "She had to endure years of criticism before her work was accepted."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sürmek, kalıcı olmak, ayakta kalmak",
+        "def": "to continue to exist for a long time (formal)",
+        "examples": ["Their friendship endured for over sixty years."]
+      }
+    ],
+    "collocations": ["endure pain", "endure hardship", "be forced to endure", "endure suffering", "endure for years"],
+    "synonyms": ["bear", "tolerate", "suffer", "withstand", "last"],
+    "family": [
+      { "word": "endurance", "pos": "noun" },
+      { "word": "enduring", "pos": "adjective" },
+      { "word": "unendurable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "enemy",
+    "ipa": "/ˈenəmi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "düşman",
+        "def": "a person who hates or opposes someone and tries to harm them",
+        "examples": ["He made a lot of enemies during his time as mayor.", "The two families have been bitter enemies for generations."]
+      },
+      {
+        "pos": "noun",
+        "tr": "düşman (ordu, ülke)",
+        "def": "a country or army that you are fighting in a war",
+        "examples": ["The soldiers were captured behind enemy lines."]
+      }
+    ],
+    "collocations": ["make enemies", "bitter enemy", "worst enemy", "enemy forces", "behind enemy lines", "public enemy"],
+    "synonyms": ["opponent", "foe", "rival", "adversary"],
+    "family": [
+      { "word": "enmity", "pos": "noun" }
+    ],
+    "note": "Opposite: friend, ally. \"Your own worst enemy\" = someone who causes their own problems."
+  },
+  {
+    "word": "energy",
+    "ipa": "/ˈenərdʒi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "enerji, güç, dinç olma",
+        "def": "the physical and mental strength and enthusiasm you need to be active",
+        "examples": ["I don't have the energy to cook tonight.", "Kids have so much energy in the morning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "enerji (elektrik, yakıt vb.)",
+        "def": "power from electricity, fuel, the sun, etc. used to run machines and heat buildings",
+        "examples": ["The country gets most of its energy from wind and solar power.", "Energy prices rose sharply last winter."]
+      }
+    ],
+    "collocations": ["full of energy", "renewable energy", "energy prices", "save energy", "solar energy", "energy efficiency"],
+    "synonyms": ["vitality", "vigor", "strength", "power", "stamina"],
+    "family": [
+      { "word": "energetic", "pos": "adjective" },
+      { "word": "energize", "pos": "verb" },
+      { "word": "energetically", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "enforce",
+    "ipa": "/ɪnˈfɔːrs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(yasa, kural) uygulamak, yürürlüğe koymak",
+        "def": "to make sure that people obey a law or rule",
+        "examples": ["Police are now strictly enforcing the speed limit near schools.", "The rule is rarely enforced."]
+      },
+      {
+        "pos": "verb",
+        "tr": "zorla kabul ettirmek, dayatmak",
+        "def": "to make something happen or force a situation to exist",
+        "examples": ["You can't enforce discipline by shouting at people."]
+      }
+    ],
+    "collocations": ["enforce the law", "enforce rules", "strictly enforce", "enforce a ban", "enforce sanctions", "difficult to enforce"],
+    "synonyms": ["apply", "impose", "implement", "uphold", "administer"],
+    "family": [
+      { "word": "enforcement", "pos": "noun" },
+      { "word": "enforceable", "pos": "adjective" },
+      { "word": "enforcer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "enforcement",
+    "ipa": "/ɪnˈfɔːrsmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(yasanın) uygulanması, icra",
+        "def": "the act of making people obey a law or rule",
+        "examples": ["Stricter enforcement of traffic laws has reduced accidents.", "Local law enforcement officers arrived within minutes."]
+      }
+    ],
+    "collocations": ["law enforcement", "strict enforcement", "enforcement agency", "enforcement action", "immigration enforcement"],
+    "synonyms": ["application", "implementation", "policing"],
+    "family": [
+      { "word": "enforce", "pos": "verb" },
+      { "word": "enforceable", "pos": "adjective" }
+    ],
+    "note": "In American English \"law enforcement\" often means the police and similar agencies (kolluk kuvvetleri)."
+  },
+  {
+    "word": "engage",
+    "ipa": "/ɪnˈɡeɪdʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(ilgi, dikkat) çekmek, ilgisini canlı tutmak",
+        "def": "to attract and keep someone's interest or attention",
+        "examples": ["A good teacher knows how to engage a room full of teenagers.", "The museum uses games to engage young visitors."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir işe) katılmak, dahil olmak, uğraşmak",
+        "def": "to take part in an activity or become involved with someone (engage in / with)",
+        "examples": ["Students who engage in sports tend to do better at school.", "The company needs to engage more with its customers."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(birini) tutmak, işe almak",
+        "def": "to employ someone for a particular job (formal)",
+        "examples": ["They engaged a lawyer to handle the sale of the house."]
+      }
+    ],
+    "collocations": ["engage in", "engage with", "engage students", "engage the audience", "fully engaged", "engage in conversation"],
+    "synonyms": ["involve", "participate", "attract", "occupy", "hire"],
+    "family": [
+      { "word": "engagement", "pos": "noun" },
+      { "word": "engaged", "pos": "adjective" },
+      { "word": "engaging", "pos": "adjective" },
+      { "word": "disengage", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "engaged",
+    "ipa": "/ɪnˈɡeɪdʒd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "nişanlı",
+        "def": "having formally agreed to marry someone",
+        "examples": ["They got engaged last summer and plan to marry in June.", "She's engaged to a doctor from Chicago."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "meşgul, bir işle uğraşan, ilgili",
+        "def": "busy with or actively involved in something",
+        "examples": ["Students learn more when they are actively engaged in the lesson."]
+      }
+    ],
+    "collocations": ["get engaged", "engaged to someone", "newly engaged", "engaged in", "actively engaged", "fully engaged"],
+    "synonyms": ["betrothed", "involved", "occupied", "busy"],
+    "family": [
+      { "word": "engage", "pos": "verb" },
+      { "word": "engagement", "pos": "noun" },
+      { "word": "fiancé", "pos": "noun" }
+    ],
+    "note": "\"Engaged to\" (not \"with\") someone. In British English a phone line can be \"engaged\"; Americans say \"busy\"."
+  },
+  {
+    "word": "engagement",
+    "ipa": "/ɪnˈɡeɪdʒmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "nişan",
+        "def": "an agreement to marry someone, or the period before the wedding",
+        "examples": ["They announced their engagement at a family dinner.", "He gave her an antique engagement ring."]
+      },
+      {
+        "pos": "noun",
+        "tr": "katılım, ilgi, etkileşim",
+        "def": "the act of being involved with or interested in something",
+        "examples": ["The new app increased user engagement by 30 percent."]
+      },
+      {
+        "pos": "noun",
+        "tr": "randevu, görüşme, (iş) taahhüt",
+        "def": "an arrangement to do something or meet someone, especially officially",
+        "examples": ["The minister had to cancel several speaking engagements."]
+      }
+    ],
+    "collocations": ["engagement ring", "announce an engagement", "break off an engagement", "user engagement", "speaking engagement", "civic engagement"],
+    "synonyms": ["betrothal", "involvement", "participation", "appointment"],
+    "family": [
+      { "word": "engage", "pos": "verb" },
+      { "word": "engaged", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "engaging",
+    "ipa": "/ɪnˈɡeɪdʒɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ilgi çekici, sürükleyici, sevimli",
+        "def": "interesting or pleasant in a way that attracts and holds your attention",
+        "examples": ["She's an engaging speaker who keeps the audience laughing.", "The book is an engaging account of life on a farm."]
+      }
+    ],
+    "collocations": ["engaging personality", "engaging speaker", "highly engaging", "engaging content", "an engaging story"],
+    "synonyms": ["charming", "appealing", "captivating", "interesting", "absorbing"],
+    "family": [
+      { "word": "engage", "pos": "verb" },
+      { "word": "engagingly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "engine",
+    "ipa": "/ˈendʒɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "motor",
+        "def": "the part of a vehicle or machine that produces power to make it move",
+        "examples": ["The car's engine wouldn't start on the cold morning.", "One of the plane's engines caught fire shortly after takeoff."]
+      },
+      {
+        "pos": "noun",
+        "tr": "lokomotif",
+        "def": "a vehicle that pulls a train",
+        "examples": ["The old steam engine pulled six passenger cars."]
+      }
+    ],
+    "collocations": ["start the engine", "turn off the engine", "engine failure", "diesel engine", "search engine", "engine trouble"],
+    "synonyms": ["motor", "locomotive"],
+    "family": [
+      { "word": "engineer", "pos": "noun" },
+      { "word": "engineering", "pos": "noun" }
+    ],
+    "note": "\"Search engine\" = arama motoru. \"Motor\" is used for smaller electric machines; cars have engines."
+  },
+  {
+    "word": "engineer",
+    "ipa": "/ˌendʒɪˈnɪr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mühendis",
+        "def": "a person whose job is designing and building machines, structures, systems, or software",
+        "examples": ["She works as a software engineer at a startup in Austin.", "Civil engineers inspected the bridge after the earthquake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "makinist, teknisyen",
+        "def": "a person who drives a train or repairs and controls engines",
+        "examples": ["The train's engineer hit the brakes when he saw the car on the tracks."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tasarlamak, inşa etmek; (gizlice) ayarlamak, tezgâhlamak",
+        "def": "to design and build something, or to arrange something cleverly or secretly",
+        "examples": ["The crops have been genetically engineered to resist pests.", "Critics say the crisis was engineered for political gain."]
+      }
+    ],
+    "collocations": ["software engineer", "civil engineer", "mechanical engineer", "electrical engineer", "genetically engineered"],
+    "synonyms": ["designer", "builder", "technician", "mechanic", "orchestrate"],
+    "family": [
+      { "word": "engineering", "pos": "noun" },
+      { "word": "engine", "pos": "noun" }
+    ],
+    "note": "In American English the driver of a train is also called an \"engineer\"."
+  }
+]

@@ -1,0 +1,1192 @@
+[
+  {
+    "word": "advertise",
+    "ipa": "/ˈædvərtaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "reklam yapmak, reklamını yapmak",
+        "def": "to tell the public about a product or service to persuade them to buy or use it",
+        "examples": ["The company spent millions advertising its new phone.", "Cigarettes can no longer be advertised on TV."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ilan vermek, duyurmak",
+        "def": "to make something publicly known, such as a job opening or an event",
+        "examples": ["The position was advertised online last week.", "We advertised for a roommate on a local website."]
+      }
+    ],
+    "collocations": ["advertise a product", "advertise a job", "advertise on TV", "advertise for", "heavily advertised"],
+    "synonyms": ["promote", "publicize", "market", "announce"],
+    "family": [
+      { "word": "advertisement", "pos": "noun" },
+      { "word": "advertising", "pos": "noun" },
+      { "word": "advertiser", "pos": "noun" },
+      { "word": "ad", "pos": "noun" }
+    ],
+    "note": "American spelling ends in -ise, not -ize: advertise."
+  },
+  {
+    "word": "advertisement",
+    "ipa": "/ˌædvərˈtaɪzmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "reklam, ilan",
+        "def": "a notice, picture or video that tells people about a product, job or service",
+        "examples": ["The magazine is full of advertisements for luxury watches.", "She answered an advertisement for a part-time job."]
+      }
+    ],
+    "collocations": ["place an advertisement", "television advertisement", "newspaper advertisement", "job advertisement", "advertisement for"],
+    "synonyms": ["ad", "commercial", "promotion", "notice"],
+    "family": [
+      { "word": "advertise", "pos": "verb" },
+      { "word": "advertising", "pos": "noun" },
+      { "word": "advertiser", "pos": "noun" }
+    ],
+    "note": "American stress: ad-ver-TISE-ment. Everyday speech usually says \"ad\"; on TV/radio, \"commercial\"."
+  },
+  {
+    "word": "advertising",
+    "ipa": "/ˈædvərtaɪzɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "reklamcılık, reklam",
+        "def": "the activity or business of telling people about products and services to make them buy them",
+        "examples": ["She works in advertising for a firm in Manhattan.", "The company cut its advertising budget this year."]
+      }
+    ],
+    "collocations": ["advertising campaign", "advertising agency", "advertising revenue", "online advertising", "false advertising"],
+    "synonyms": ["marketing", "promotion", "publicity"],
+    "family": [
+      { "word": "advertise", "pos": "verb" },
+      { "word": "advertisement", "pos": "noun" },
+      { "word": "advertiser", "pos": "noun" }
+    ],
+    "note": "Uncountable: \"a lot of advertising\", not \"advertisings\"."
+  },
+  {
+    "word": "advice",
+    "ipa": "/ədˈvaɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tavsiye, öğüt, nasihat",
+        "def": "an opinion or suggestion about what someone should do",
+        "examples": ["Can I give you a piece of advice?", "You should get legal advice before signing the contract."]
+      }
+    ],
+    "collocations": ["give advice", "take someone's advice", "ask for advice", "a piece of advice", "seek advice", "follow advice"],
+    "synonyms": ["guidance", "recommendation", "tip", "counsel", "suggestion"],
+    "family": [
+      { "word": "advise", "pos": "verb" },
+      { "word": "adviser", "pos": "noun" },
+      { "word": "advisory", "pos": "adjective" },
+      { "word": "advisable", "pos": "adjective" }
+    ],
+    "note": "Uncountable: \"some advice\", \"a piece of advice\", never \"an advice\" or \"advices\". Noun advice /s/, verb advise /z/."
+  },
+  {
+    "word": "advise",
+    "ipa": "/ədˈvaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tavsiye etmek, öğüt vermek",
+        "def": "to tell someone what you think they should do",
+        "examples": ["My doctor advised me to cut down on sugar.", "I'd advise against driving in this snow."]
+      },
+      {
+        "pos": "verb",
+        "tr": "danışmanlık yapmak; (resmi) bildirmek",
+        "def": "to give expert help on a subject, or formally to inform someone of something",
+        "examples": ["She advises the government on energy policy.", "Passengers are advised that the flight is delayed."]
+      }
+    ],
+    "collocations": ["advise someone to do", "advise against", "strongly advise", "be well advised to", "advise on"],
+    "synonyms": ["recommend", "suggest", "counsel", "urge", "inform"],
+    "family": [
+      { "word": "advice", "pos": "noun" },
+      { "word": "adviser", "pos": "noun" },
+      { "word": "advisory", "pos": "adjective" },
+      { "word": "advisable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "advocate",
+    "ipa": "/ˈædvəkət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "savunucu, destekçi",
+        "def": "a person who publicly supports a particular idea, policy or group",
+        "examples": ["She is a passionate advocate for animal rights.", "Advocates of the plan say it will create jobs."]
+      },
+      {
+        "pos": "verb",
+        "tr": "savunmak, desteklemek, -den yana olmak",
+        "def": "to publicly support or recommend a particular idea or course of action",
+        "examples": ["Many doctors advocate a plant-based diet.", "The group advocates for better working conditions."]
+      },
+      {
+        "pos": "noun",
+        "tr": "avukat (bazı ülkelerde)",
+        "def": "a lawyer who defends someone in court",
+        "examples": ["The defendant was represented by a court-appointed advocate."]
+      }
+    ],
+    "collocations": ["a strong advocate", "advocate for", "patient advocate", "consumer advocate", "devil's advocate", "advocate a policy"],
+    "synonyms": ["supporter", "champion", "proponent", "support", "promote"],
+    "family": [{ "word": "advocacy", "pos": "noun" }],
+    "note": "Pronunciation: noun /ˈædvəkət/, verb /ˈædvəkeɪt/. \"Play devil's advocate\" = argue the opposite side for discussion."
+  },
+  {
+    "word": "aesthetic",
+    "ipa": "/esˈθetɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "estetik, güzellikle ilgili",
+        "def": "connected with beauty, art and the appreciation of beautiful things",
+        "examples": ["The building has little aesthetic value.", "Some people get cosmetic surgery for aesthetic reasons."]
+      },
+      {
+        "pos": "noun",
+        "tr": "estetik, tarz, görsel anlayış",
+        "def": "a set of ideas or a style that controls how something looks",
+        "examples": ["The café has a minimalist aesthetic with white walls and wooden tables."]
+      }
+    ],
+    "collocations": ["aesthetic value", "aesthetic appeal", "aesthetic reasons", "aesthetic sense", "aesthetic quality"],
+    "synonyms": ["artistic", "visual", "decorative", "style"],
+    "family": [
+      { "word": "aesthetics", "pos": "noun" },
+      { "word": "aesthetically", "pos": "adverb" }
+    ],
+    "note": "American English sometimes uses the spelling \"esthetic\". \"Aesthetics\" (noun) is the study of beauty."
+  },
+  {
+    "word": "affair",
+    "ipa": "/əˈfer/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işler, meseleler (kamusal)",
+        "def": "events or matters of public or political importance; usually plural",
+        "examples": ["She writes about foreign affairs for a major newspaper.", "The minister refused to discuss the internal affairs of the party."]
+      },
+      {
+        "pos": "noun",
+        "tr": "olay, mesele, iş",
+        "def": "an event or situation, often one that people talk about",
+        "examples": ["The whole affair has damaged his reputation.", "The wedding was a small, family affair."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ilişki, yasak aşk",
+        "def": "a secret sexual relationship, especially when one person is married",
+        "examples": ["He admitted to having an affair with a coworker."]
+      }
+    ],
+    "collocations": ["foreign affairs", "current affairs", "public affairs", "have an affair", "state of affairs", "my own affair"],
+    "synonyms": ["matter", "business", "issue", "event", "relationship"],
+    "family": [],
+    "note": "\"That's my affair\" = that's my business, not yours. \"State of affairs\" = the general situation."
+  },
+  {
+    "word": "affect",
+    "ipa": "/əˈfekt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "etkilemek",
+        "def": "to cause a change in someone or something",
+        "examples": ["The new tax will affect millions of families.", "Lack of sleep can affect your concentration."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(duygusal olarak) etkilemek, üzmek",
+        "def": "to make someone have strong feelings, especially sadness",
+        "examples": ["She was deeply affected by her father's death."]
+      }
+    ],
+    "collocations": ["directly affect", "adversely affect", "seriously affect", "be deeply affected", "affected area"],
+    "synonyms": ["influence", "impact", "change", "move", "touch"],
+    "family": [
+      { "word": "affected", "pos": "adjective" },
+      { "word": "unaffected", "pos": "adjective" },
+      { "word": "affection", "pos": "noun" }
+    ],
+    "note": "Affect is the verb; effect is usually the noun: \"Stress affects health\" / \"Stress has an effect on health.\" Don't say \"affect on\"."
+  },
+  {
+    "word": "affection",
+    "ipa": "/əˈfekʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sevgi, şefkat, düşkünlük",
+        "def": "a feeling of liking or loving someone or something and caring about them",
+        "examples": ["He has a deep affection for his grandparents.", "Cats show affection by rubbing against your legs."]
+      }
+    ],
+    "collocations": ["show affection", "deep affection", "great affection", "affection for", "public displays of affection", "with affection"],
+    "synonyms": ["fondness", "love", "warmth", "tenderness", "care"],
+    "family": [
+      { "word": "affectionate", "pos": "adjective" },
+      { "word": "affectionately", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "afford",
+    "ipa": "/əˈfɔːrd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(parası) yetmek, karşılayabilmek, -e gücü yetmek",
+        "def": "to have enough money to pay for something; usually with can, could or be able to",
+        "examples": ["We can't afford a new car right now.", "Many young people can't afford to buy a home."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(risk, zaman) göze alabilmek, kaldırabilmek",
+        "def": "to be able to do something without causing serious problems for yourself",
+        "examples": ["We can't afford to make any more mistakes.", "I can't afford to take a day off this week."]
+      }
+    ],
+    "collocations": ["can't afford to", "can afford", "afford to pay", "can ill afford", "afford the time"],
+    "synonyms": ["pay for", "manage", "spare", "bear the cost of"],
+    "family": [
+      { "word": "affordable", "pos": "adjective" },
+      { "word": "affordability", "pos": "noun" }
+    ],
+    "note": "Almost always with can/can't/could/be able to. Use \"afford to do\", not \"afford doing\"."
+  },
+  {
+    "word": "affordable",
+    "ipa": "/əˈfɔːrdəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "uygun fiyatlı, ekonomik, alınabilir",
+        "def": "cheap enough for ordinary people to pay for",
+        "examples": ["The city badly needs more affordable housing.", "The store sells stylish clothes at affordable prices."]
+      }
+    ],
+    "collocations": ["affordable housing", "affordable prices", "affordable health care", "more affordable", "affordable option"],
+    "synonyms": ["inexpensive", "cheap", "reasonable", "budget", "economical"],
+    "family": [
+      { "word": "afford", "pos": "verb" },
+      { "word": "affordability", "pos": "noun" },
+      { "word": "unaffordable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "afraid",
+    "ipa": "/əˈfreɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "korkmuş, korkan",
+        "def": "feeling fear, or worried that something bad might happen",
+        "examples": ["My little brother is afraid of the dark.", "Don't be afraid to ask questions in class."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(I'm afraid) maalesef, korkarım ki",
+        "def": "used in \"I'm afraid\" to politely say something unpleasant or disappointing",
+        "examples": ["I'm afraid we're fully booked tonight.", "\"Is there any coffee left?\" \"I'm afraid not.\""]
+      }
+    ],
+    "collocations": ["afraid of", "afraid to do", "afraid that", "I'm afraid so", "I'm afraid not", "terribly afraid"],
+    "synonyms": ["scared", "frightened", "fearful", "nervous", "sorry"],
+    "family": [],
+    "note": "Not used before a noun: \"the child was afraid\", but \"a frightened child\" (not \"an afraid child\")."
+  },
+  {
+    "word": "after",
+    "ipa": "/ˈæftər/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "-den sonra",
+        "def": "later than something; following something in time or order",
+        "examples": ["Let's go for a walk after dinner.", "Your name comes after mine on the list."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "-dikten sonra",
+        "def": "at a time later than when something happens",
+        "examples": ["I'll call you after I finish work.", "After she graduated, she moved to Seattle."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "sonra, ardından",
+        "def": "later in time; afterward",
+        "examples": ["They lived happily ever after.", "He got sick on Monday and died the week after."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "peşinde, arkasından; -in adını vererek",
+        "def": "trying to find or catch someone, or named to honor someone",
+        "examples": ["The police are after him for robbery.", "She was named after her grandmother."]
+      }
+    ],
+    "collocations": ["after all", "the day after tomorrow", "look after", "after a while", "named after", "one after another"],
+    "synonyms": ["following", "later", "subsequently", "afterward"],
+    "family": [
+      { "word": "afterward", "pos": "adverb" },
+      { "word": "aftermath", "pos": "noun" }
+    ],
+    "note": "After a conjunction, use present tense for future: \"after I finish\", not \"after I will finish\". \"Look after\" = take care of."
+  },
+  {
+    "word": "aftermath",
+    "ipa": "/ˈæftərmæθ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(kötü bir olayın) sonrası, ardından gelen durum",
+        "def": "the situation that follows an important, usually bad, event such as a war or disaster",
+        "examples": ["In the aftermath of the hurricane, thousands were left homeless.", "The country struggled in the aftermath of the war."]
+      }
+    ],
+    "collocations": ["in the aftermath of", "immediate aftermath", "the aftermath of the war", "deal with the aftermath"],
+    "synonyms": ["consequences", "repercussions", "wake", "results"],
+    "family": [],
+    "note": "Usually in the phrase \"in the aftermath of\"; it suggests something negative."
+  },
+  {
+    "word": "afternoon",
+    "ipa": "/ˌæftərˈnuːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öğleden sonra",
+        "def": "the part of the day from about noon until about six in the evening",
+        "examples": ["I have a dentist appointment on Tuesday afternoon.", "We spent the afternoon at the beach."]
+      }
+    ],
+    "collocations": ["in the afternoon", "on Friday afternoon", "this afternoon", "good afternoon", "late afternoon", "afternoon nap"],
+    "synonyms": [],
+    "family": [],
+    "note": "Use \"in the afternoon\" but \"on Monday afternoon\" and \"this/yesterday afternoon\" (no preposition)."
+  },
+  {
+    "word": "afterwards",
+    "ipa": "/ˈæftərwərdz/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "sonra, sonradan, daha sonra",
+        "def": "at a later time, after an event that has been mentioned",
+        "examples": ["We went to a movie and had dinner afterwards.", "Shortly afterwards, the police arrived."]
+      }
+    ],
+    "collocations": ["soon afterwards", "shortly afterwards", "long afterwards", "years afterwards"],
+    "synonyms": ["afterward", "later", "subsequently", "then", "after"],
+    "family": [{ "word": "after", "pos": "preposition" }],
+    "note": "\"Afterward\" (without -s) is more common in American English; \"afterwards\" is more British."
+  },
+  {
+    "word": "again",
+    "ipa": "/əˈɡen/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "tekrar, yine, yeniden",
+        "def": "one more time, or on another occasion",
+        "examples": ["Could you say that again, please?", "It's great to see you again!"]
+      },
+      {
+        "pos": "adverb",
+        "tr": "eski haline, tekrar (önceki durum)",
+        "def": "back to a previous place or condition",
+        "examples": ["She was happy to be home again after the long trip.", "It took him weeks to feel healthy again."]
+      }
+    ],
+    "collocations": ["once again", "again and again", "never again", "all over again", "yet again", "then again"],
+    "synonyms": ["once more", "anew", "afresh", "another time"],
+    "family": [],
+    "note": "\"Then again\" introduces a contrasting idea: \"It's expensive. Then again, it's very good quality.\""
+  },
+  {
+    "word": "against",
+    "ipa": "/əˈɡenst/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "karşı, aleyhinde",
+        "def": "opposing or disagreeing with someone or something",
+        "examples": ["Most residents are against the new airport.", "It's against the law to text while driving."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-e karşı (rakip, korunma)",
+        "def": "competing with an opponent, or protecting from something harmful",
+        "examples": ["We're playing against the best team in the league.", "Get vaccinated against the flu every fall."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-e dayalı, -e yaslanmış, -e çarparak",
+        "def": "touching or pressing on something, or hitting it",
+        "examples": ["He leaned his bike against the wall.", "The rain beat against the windows all night."]
+      }
+    ],
+    "collocations": ["against the law", "vote against", "fight against", "protect against", "against your will", "against all odds"],
+    "synonyms": ["opposed to", "versus", "counter to", "contrary to"],
+    "family": [],
+    "note": "Opposite in the \"opinion\" sense: \"for\" (Are you for or against the plan?)."
+  },
+  {
+    "word": "age",
+    "ipa": "/eɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yaş",
+        "def": "the number of years that a person has lived or a thing has existed",
+        "examples": ["She started playing the piano at the age of five.", "Children under the age of 12 get in free."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çağ, devir, dönem",
+        "def": "a particular period of history",
+        "examples": ["We live in the digital age.", "The Bronze Age lasted for about 2,000 years."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(ages) uzun zaman, asırlar",
+        "def": "a very long time; used informally in the plural",
+        "examples": ["I haven't seen you for ages!", "It took ages to find a parking space."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yaşlanmak; yıllandırmak",
+        "def": "to become older, or to make someone or something look or become older",
+        "examples": ["He has aged a lot since his wife died.", "The wine is aged in oak barrels."]
+      }
+    ],
+    "collocations": ["at the age of", "under age", "middle age", "old age", "for ages", "the digital age"],
+    "synonyms": ["years", "era", "period", "epoch", "grow old"],
+    "family": [
+      { "word": "aged", "pos": "adjective" },
+      { "word": "aging", "pos": "noun" },
+      { "word": "ageless", "pos": "adjective" },
+      { "word": "ageism", "pos": "noun" }
+    ],
+    "note": "American spelling: aging (British: ageing)."
+  },
+  {
+    "word": "aged",
+    "ipa": "/eɪdʒd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yaşında",
+        "def": "of a particular age",
+        "examples": ["The program is open to children aged 8 to 12.", "The victim, a man aged 45, was taken to the hospital."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yaşlı, ihtiyar",
+        "def": "very old; also \"the aged\" meaning old people as a group",
+        "examples": ["She takes care of her aged parents.", "The center provides care for the aged."]
+      }
+    ],
+    "collocations": ["aged between", "aged 18 and over", "aged parents", "the aged", "children aged"],
+    "synonyms": ["old", "elderly", "of the age of"],
+    "family": [{ "word": "age", "pos": "noun" }],
+    "note": "Pronounced /eɪdʒd/ for \"of the age of\", but often /ˈeɪdʒɪd/ when it means \"very old\" (my aged parents)."
+  },
+  {
+    "word": "agency",
+    "ipa": "/ˈeɪdʒənsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ajans, büro",
+        "def": "a business that provides a particular service, often for other companies or people",
+        "examples": ["We booked our trip through a travel agency.", "She found her job through a recruitment agency."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kurum, teşkilat, daire",
+        "def": "a government organization responsible for a particular area",
+        "examples": ["The Environmental Protection Agency issued new rules on air pollution.", "Several federal agencies are investigating the case."]
+      }
+    ],
+    "collocations": ["travel agency", "advertising agency", "government agency", "federal agency", "news agency", "aid agency"],
+    "synonyms": ["bureau", "office", "firm", "organization", "department"],
+    "family": [{ "word": "agent", "pos": "noun" }]
+  },
+  {
+    "word": "agenda",
+    "ipa": "/əˈdʒendə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gündem (toplantı)",
+        "def": "a list of things to be discussed at a meeting",
+        "examples": ["The budget is the first item on the agenda.", "Please send me the agenda before the meeting."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gündem, öncelikler; gizli amaç",
+        "def": "a list of goals or issues that a person or group considers important, sometimes kept secret",
+        "examples": ["Health care is high on the president's agenda.", "I think he has a hidden agenda."]
+      }
+    ],
+    "collocations": ["on the agenda", "set the agenda", "top of the agenda", "hidden agenda", "political agenda", "agenda item"],
+    "synonyms": ["schedule", "program", "plan", "priorities"],
+    "family": [],
+    "note": "False friend: an \"agenda\" is not a diary/planner (ajanda). For that, Americans say \"planner\" or \"calendar\"."
+  },
+  {
+    "word": "agent",
+    "ipa": "/ˈeɪdʒənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "temsilci, acente, menajer",
+        "def": "a person whose job is to act for or manage the business of other people",
+        "examples": ["Our real estate agent showed us five houses in one day.", "The actor's agent negotiated a bigger salary."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ajan, gizli görevli",
+        "def": "a person who works secretly for a government to get information",
+        "examples": ["FBI agents raided the office early in the morning.", "He was a secret agent during the Cold War."]
+      },
+      {
+        "pos": "noun",
+        "tr": "etken, madde",
+        "def": "a substance or thing that causes a change or has a particular effect",
+        "examples": ["Bleach is a powerful cleaning agent."]
+      }
+    ],
+    "collocations": ["real estate agent", "travel agent", "secret agent", "FBI agent", "free agent", "change agent"],
+    "synonyms": ["representative", "broker", "spy", "operative"],
+    "family": [{ "word": "agency", "pos": "noun" }],
+    "note": "\"Free agent\" = a player or person free to sign with any team or do as they like."
+  },
+  {
+    "word": "aggregate",
+    "ipa": "/ˈæɡrɪɡət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "toplam, toplu, bütünsel",
+        "def": "made up of many separate units combined together",
+        "examples": ["Aggregate demand fell sharply during the recession.", "The study looks at aggregate data, not individual cases."]
+      },
+      {
+        "pos": "noun",
+        "tr": "toplam, bütün",
+        "def": "a total formed by combining several separate amounts or things",
+        "examples": ["The team won 5–3 on aggregate over two games.", "In the aggregate, the changes made a big difference."]
+      },
+      {
+        "pos": "verb",
+        "tr": "toplamak, bir araya getirmek, birleştirmek",
+        "def": "to combine different amounts or pieces of information into one total or group",
+        "examples": ["The website aggregates news stories from hundreds of sources.", "The results were aggregated across all schools."]
+      }
+    ],
+    "collocations": ["aggregate demand", "aggregate data", "on aggregate", "in the aggregate", "aggregate score"],
+    "synonyms": ["total", "combined", "collective", "sum", "combine"],
+    "family": [
+      { "word": "aggregation", "pos": "noun" },
+      { "word": "aggregator", "pos": "noun" }
+    ],
+    "note": "Formal/technical. Pronunciation: noun/adjective /ˈæɡrɪɡət/, verb /ˈæɡrɪɡeɪt/."
+  },
+  {
+    "word": "aggression",
+    "ipa": "/əˈɡreʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "saldırganlık",
+        "def": "angry feelings or threatening, violent behavior toward others",
+        "examples": ["Some dogs show aggression toward strangers.", "Violent video games have been linked to aggression in children."]
+      },
+      {
+        "pos": "noun",
+        "tr": "saldırı, tecavüz (ülkeye)",
+        "def": "an attack by one country on another without a good reason",
+        "examples": ["The invasion was condemned as an act of aggression."]
+      }
+    ],
+    "collocations": ["act of aggression", "show aggression", "military aggression", "aggression toward", "physical aggression"],
+    "synonyms": ["hostility", "violence", "belligerence", "attack"],
+    "family": [
+      { "word": "aggressive", "pos": "adjective" },
+      { "word": "aggressively", "pos": "adverb" },
+      { "word": "aggressor", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "aggressive",
+    "ipa": "/əˈɡresɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "saldırgan, agresif",
+        "def": "angry and behaving in a threatening way, ready to attack",
+        "examples": ["The man became aggressive when the bartender refused to serve him.", "Keep away from that dog; it's aggressive."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "atak, iddialı, yoğun",
+        "def": "acting with determination and force to succeed or achieve a goal",
+        "examples": ["The company launched an aggressive marketing campaign.", "Doctors chose an aggressive treatment for the tumor."]
+      }
+    ],
+    "collocations": ["aggressive behavior", "aggressive driving", "aggressive campaign", "aggressive treatment", "highly aggressive"],
+    "synonyms": ["hostile", "violent", "forceful", "assertive", "pushy"],
+    "family": [
+      { "word": "aggression", "pos": "noun" },
+      { "word": "aggressively", "pos": "adverb" },
+      { "word": "aggressiveness", "pos": "noun" }
+    ],
+    "note": "In business English, \"aggressive\" can be positive (bold, ambitious); compare \"assertive\" for confident but not hostile."
+  },
+  {
+    "word": "ago",
+    "ipa": "/əˈɡoʊ/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "önce",
+        "def": "used after a period of time to say how far back in the past something happened",
+        "examples": ["We moved to Denver five years ago.", "I talked to her just a few minutes ago."]
+      }
+    ],
+    "collocations": ["years ago", "a long time ago", "a while ago", "not long ago", "a few days ago", "long ago"],
+    "synonyms": ["back", "earlier", "previously"],
+    "family": [],
+    "note": "Use with the simple past, not the present perfect: \"I saw him two days ago\" (not \"have seen\"). Use \"before\" for earlier than a past time."
+  },
+  {
+    "word": "agree",
+    "ipa": "/əˈɡriː/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "aynı fikirde olmak, katılmak",
+        "def": "to have the same opinion as someone",
+        "examples": ["I agree with you about the new design.", "Most experts agree that exercise improves mental health."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kabul etmek, razı olmak",
+        "def": "to say yes to a request or suggestion",
+        "examples": ["She agreed to help me move this weekend."]
+      },
+      {
+        "pos": "verb",
+        "tr": "anlaşmak, uzlaşmak",
+        "def": "to decide something together with someone after discussion",
+        "examples": ["The two sides finally agreed on a price.", "We agreed to meet at noon."]
+      }
+    ],
+    "collocations": ["agree with", "agree to", "agree on", "completely agree", "agree to disagree", "I couldn't agree more"],
+    "synonyms": ["concur", "consent", "accept", "settle on"],
+    "family": [
+      { "word": "agreement", "pos": "noun" },
+      { "word": "agreeable", "pos": "adjective" },
+      { "word": "disagree", "pos": "verb" }
+    ],
+    "note": "\"Agree\" is a verb: say \"I agree\", not \"I am agree\" (a common Turkish-speaker error)."
+  },
+  {
+    "word": "agreement",
+    "ipa": "/əˈɡriːmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "anlaşma, sözleşme",
+        "def": "an arrangement or contract made between people, groups or countries",
+        "examples": ["The two countries signed a trade agreement last month.", "We have a verbal agreement, but nothing in writing."]
+      },
+      {
+        "pos": "noun",
+        "tr": "mutabakat, aynı fikirde olma",
+        "def": "the state of having the same opinion",
+        "examples": ["We're all in agreement that the plan needs changes.", "She nodded in agreement."]
+      }
+    ],
+    "collocations": ["reach an agreement", "sign an agreement", "trade agreement", "in agreement", "under the agreement", "come to an agreement"],
+    "synonyms": ["deal", "contract", "accord", "consensus", "understanding"],
+    "family": [
+      { "word": "agree", "pos": "verb" },
+      { "word": "disagreement", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "agricultural",
+    "ipa": "/ˌæɡrɪˈkʌltʃərəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tarımsal, tarım",
+        "def": "connected with farming",
+        "examples": ["The region is famous for its agricultural products.", "Much of the land is used for agricultural purposes."]
+      }
+    ],
+    "collocations": ["agricultural land", "agricultural products", "agricultural production", "agricultural sector", "agricultural policy"],
+    "synonyms": ["farming", "agrarian", "rural"],
+    "family": [
+      { "word": "agriculture", "pos": "noun" },
+      { "word": "agriculturally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "agriculture",
+    "ipa": "/ˈæɡrɪkʌltʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tarım",
+        "def": "the science or work of farming, including growing crops and raising animals",
+        "examples": ["Agriculture is still the main source of income in the area.", "Climate change poses a serious threat to agriculture."]
+      }
+    ],
+    "collocations": ["modern agriculture", "sustainable agriculture", "organic agriculture", "Department of Agriculture", "agriculture and industry"],
+    "synonyms": ["farming", "cultivation", "agribusiness"],
+    "family": [
+      { "word": "agricultural", "pos": "adjective" },
+      { "word": "agriculturalist", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "ah",
+    "ipa": "/ɑː/",
+    "senses": [
+      {
+        "pos": "exclamation",
+        "tr": "ah, a!, hah",
+        "def": "used to show surprise, pleasure, sympathy or sudden understanding",
+        "examples": ["Ah, so that's why the door was locked!", "Ah, this coffee is exactly what I needed."]
+      }
+    ],
+    "collocations": ["ah, I see", "ah, well", "ah, there you are", "ah, yes"],
+    "synonyms": ["oh", "aha"],
+    "family": [],
+    "note": "\"Ah, well\" expresses accepting something disappointing."
+  },
+  {
+    "word": "ahead",
+    "ipa": "/əˈhed/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "ileride, önde, ileriye",
+        "def": "further forward in space, or in front of someone",
+        "examples": ["There's a gas station a mile ahead.", "She walked ahead of us, showing the way."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "ileride, gelecekte",
+        "def": "in or into the future",
+        "examples": ["We have a busy week ahead.", "It's important to plan ahead."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "önde, ileride (başarı, rekabet)",
+        "def": "winning or more advanced than others",
+        "examples": ["Our team was ahead by ten points at halftime."]
+      }
+    ],
+    "collocations": ["ahead of", "go ahead", "plan ahead", "look ahead", "ahead of time", "get ahead", "straight ahead"],
+    "synonyms": ["forward", "in front", "in advance", "in the lead"],
+    "family": [],
+    "note": "\"Go ahead\" = devam et / buyur (permission). \"Ahead of schedule\" = earlier than planned."
+  },
+  {
+    "word": "AIDS",
+    "ipa": "/eɪdz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "AIDS",
+        "def": "a serious illness caused by the HIV virus, which destroys the body's ability to fight infection",
+        "examples": ["New treatments have greatly reduced deaths from AIDS.", "The charity funds AIDS research in Africa."]
+      }
+    ],
+    "collocations": ["HIV/AIDS", "AIDS epidemic", "AIDS patients", "AIDS research", "die of AIDS"],
+    "synonyms": [],
+    "family": [],
+    "note": "Short for Acquired Immune Deficiency Syndrome. Always written in capital letters; Turkish uses the same abbreviation."
+  },
+  {
+    "word": "aid",
+    "ipa": "/eɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yardım (para, gıda vb.)",
+        "def": "money, food or other help given to countries or people in need",
+        "examples": ["The government sent emergency aid to the flood victims.", "Most students at the college receive financial aid."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yardımcı araç, gereç",
+        "def": "a device or tool that helps you do something",
+        "examples": ["My grandfather wears a hearing aid.", "Visual aids make a presentation easier to follow."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yardım etmek, kolaylaştırmak",
+        "def": "to help someone or make something easier",
+        "examples": ["Fiber aids digestion.", "The new software aids doctors in diagnosing cancer."]
+      }
+    ],
+    "collocations": ["foreign aid", "humanitarian aid", "financial aid", "first aid", "hearing aid", "come to someone's aid"],
+    "synonyms": ["help", "assistance", "support", "relief", "assist"],
+    "family": [{ "word": "aide", "pos": "noun" }],
+    "note": "The verb is formal; in everyday speech use \"help\". \"Aid\" and \"aide\" (assistant) sound the same."
+  },
+  {
+    "word": "aide",
+    "ipa": "/eɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yardımcı, danışman, maiyet üyesi",
+        "def": "a person who helps someone in an important job, especially a politician",
+        "examples": ["A senior White House aide spoke to reporters.", "The senator's aides refused to comment."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yardımcı personel, asistan",
+        "def": "a person who assists a teacher, nurse or other professional",
+        "examples": ["She works as a teacher's aide at an elementary school."]
+      }
+    ],
+    "collocations": ["senior aide", "top aide", "presidential aide", "teacher's aide", "home health aide", "former aide"],
+    "synonyms": ["assistant", "adviser", "helper", "staffer"],
+    "family": [{ "word": "aid", "pos": "verb" }]
+  },
+  {
+    "word": "aim",
+    "ipa": "/eɪm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "amaç, hedef",
+        "def": "the purpose of doing something; what you hope to achieve",
+        "examples": ["The main aim of the project is to reduce waste.", "She moved to New York with the aim of becoming an actress."]
+      },
+      {
+        "pos": "verb",
+        "tr": "amaçlamak, hedeflemek",
+        "def": "to try or plan to achieve something",
+        "examples": ["We aim to finish the work by Friday.", "The program is aimed at helping small businesses."]
+      },
+      {
+        "pos": "verb",
+        "tr": "nişan almak, doğrultmak",
+        "def": "to point a weapon or object at someone or something",
+        "examples": ["He aimed the camera at the stage and waited."]
+      }
+    ],
+    "collocations": ["the aim of", "with the aim of", "aim to do", "be aimed at", "take aim at", "achieve an aim"],
+    "synonyms": ["goal", "objective", "purpose", "target", "intend"],
+    "family": [
+      { "word": "aimless", "pos": "adjective" },
+      { "word": "aimlessly", "pos": "adverb" }
+    ],
+    "note": "\"Be aimed at\" = intended for: \"a book aimed at teenagers\"."
+  },
+  {
+    "word": "air",
+    "ipa": "/er/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hava",
+        "def": "the mixture of gases around the earth that we breathe",
+        "examples": ["Let's open a window and get some fresh air.", "Air pollution is a major problem in big cities."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hava (yol), uçak (ile)",
+        "def": "the space above the ground, or travel by plane",
+        "examples": ["The kids threw their hats in the air.", "Most of the goods are shipped by air."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hava, tavır, izlenim",
+        "def": "a particular feeling or quality that a person or place seems to have",
+        "examples": ["She has an air of confidence about her."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yayınlamak (TV, radyo); havalandırmak",
+        "def": "to broadcast a program, or to let fresh air into a room",
+        "examples": ["The show airs every Sunday night at nine."]
+      }
+    ],
+    "collocations": ["fresh air", "air pollution", "by air", "in the air", "on air", "air conditioning"],
+    "synonyms": ["atmosphere", "sky", "aura", "broadcast"],
+    "family": [
+      { "word": "airy", "pos": "adjective" },
+      { "word": "airless", "pos": "adjective" },
+      { "word": "airing", "pos": "noun" }
+    ],
+    "note": "\"On air\" = being broadcast live. \"Up in the air\" = not yet decided."
+  },
+  {
+    "word": "aircraft",
+    "ipa": "/ˈerkræft/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hava taşıtı, uçak",
+        "def": "any vehicle that can fly, such as a plane or helicopter",
+        "examples": ["The airline has ordered fifty new aircraft.", "A military aircraft crashed during a training exercise."]
+      }
+    ],
+    "collocations": ["military aircraft", "commercial aircraft", "aircraft carrier", "light aircraft", "board an aircraft"],
+    "synonyms": ["airplane", "plane", "jet", "helicopter"],
+    "family": [],
+    "note": "Plural is the same: one aircraft, two aircraft."
+  },
+  {
+    "word": "airline",
+    "ipa": "/ˈerlaɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "havayolu (şirketi)",
+        "def": "a company that provides regular flights for passengers and goods",
+        "examples": ["The airline canceled dozens of flights because of the storm.", "Which airline are you flying with?"]
+      }
+    ],
+    "collocations": ["low-cost airline", "budget airline", "airline industry", "airline ticket", "major airline", "airline passengers"],
+    "synonyms": ["carrier", "air carrier"],
+    "family": [{ "word": "airliner", "pos": "noun" }]
+  },
+  {
+    "word": "airport",
+    "ipa": "/ˈerpɔːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "havaalanı, havalimanı",
+        "def": "a place where planes take off and land, with buildings for passengers",
+        "examples": ["I'll pick you up at the airport at six.", "We got to the airport two hours before our flight."]
+      }
+    ],
+    "collocations": ["at the airport", "airport security", "international airport", "airport terminal", "drive to the airport", "airport lounge"],
+    "synonyms": ["airfield", "terminal"],
+    "family": [],
+    "note": "Say \"at the airport\" for location and \"to the airport\" for movement."
+  },
+  {
+    "word": "alarm",
+    "ipa": "/əˈlɑːrm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alarm, uyarı sinyali",
+        "def": "a loud sound or device that warns people of danger or wakes them up",
+        "examples": ["The fire alarm went off in the middle of the night.", "I set my alarm for 6:30."]
+      },
+      {
+        "pos": "noun",
+        "tr": "endişe, telaş, korku",
+        "def": "a sudden feeling of fear or worry that something bad might happen",
+        "examples": ["The news caused alarm among parents.", "There's no cause for alarm."]
+      },
+      {
+        "pos": "verb",
+        "tr": "endişelendirmek, korkutmak",
+        "def": "to make someone feel worried or afraid",
+        "examples": ["The rapid spread of the virus alarmed health officials."]
+      }
+    ],
+    "collocations": ["fire alarm", "alarm clock", "set the alarm", "the alarm goes off", "raise the alarm", "cause alarm"],
+    "synonyms": ["warning", "siren", "fear", "anxiety", "frighten"],
+    "family": [
+      { "word": "alarming", "pos": "adjective" },
+      { "word": "alarmed", "pos": "adjective" },
+      { "word": "alarmingly", "pos": "adverb" },
+      { "word": "alarmist", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "albeit",
+    "ipa": "/ˌɔːlˈbiːɪt/",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "tr": "gerçi, -se de, her ne kadar",
+        "def": "although; used to add something that makes the previous statement less strong",
+        "examples": ["The economy is growing, albeit slowly.", "He accepted the offer, albeit with some reluctance."]
+      }
+    ],
+    "collocations": ["albeit slowly", "albeit briefly", "albeit with", "albeit small", "albeit reluctantly"],
+    "synonyms": ["although", "though", "even though", "if"],
+    "family": [],
+    "note": "Formal. Usually followed by an adjective, adverb or phrase, not a full clause."
+  },
+  {
+    "word": "album",
+    "ipa": "/ˈælbəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "albüm (müzik)",
+        "def": "a collection of songs released together as one recording",
+        "examples": ["The band's new album comes out next month.", "It's one of the best-selling albums of all time."]
+      },
+      {
+        "pos": "noun",
+        "tr": "albüm (fotoğraf, pul vb.)",
+        "def": "a book with empty pages for keeping photos, stamps or similar things",
+        "examples": ["My mom keeps all our baby pictures in a photo album."]
+      }
+    ],
+    "collocations": ["release an album", "debut album", "studio album", "photo album", "new album", "album cover"],
+    "synonyms": ["record", "LP", "collection"],
+    "family": []
+  },
+  {
+    "word": "alcohol",
+    "ipa": "/ˈælkəhɔːl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alkol, alkollü içki",
+        "def": "drinks such as beer, wine and whiskey that can make people drunk",
+        "examples": ["You must be 21 to buy alcohol in the United States.", "He stopped drinking alcohol two years ago."]
+      },
+      {
+        "pos": "noun",
+        "tr": "alkol (kimyasal madde)",
+        "def": "a clear liquid used in drinks, medicines and cleaning products",
+        "examples": ["Clean the cut with rubbing alcohol."]
+      }
+    ],
+    "collocations": ["drink alcohol", "alcohol abuse", "alcohol consumption", "under the influence of alcohol", "alcohol-free", "rubbing alcohol"],
+    "synonyms": ["liquor", "booze", "drink", "spirits"],
+    "family": [
+      { "word": "alcoholic", "pos": "adjective" },
+      { "word": "alcoholism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "alcoholic",
+    "ipa": "/ˌælkəˈhɑːlɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "alkollü, alkol içeren",
+        "def": "containing alcohol, or connected with alcohol",
+        "examples": ["The bar also serves non-alcoholic cocktails.", "Alcoholic drinks are not allowed in the park."]
+      },
+      {
+        "pos": "noun",
+        "tr": "alkolik, alkol bağımlısı",
+        "def": "a person who is addicted to alcohol",
+        "examples": ["His father was an alcoholic who never sought help."]
+      }
+    ],
+    "collocations": ["alcoholic drinks", "alcoholic beverages", "non-alcoholic", "recovering alcoholic", "Alcoholics Anonymous"],
+    "synonyms": ["intoxicating", "addict", "drunkard"],
+    "family": [
+      { "word": "alcohol", "pos": "noun" },
+      { "word": "alcoholism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "alert",
+    "ipa": "/əˈlɜːrt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "uyanık, dikkatli, tetikte",
+        "def": "able to think quickly and notice things; watching carefully for danger",
+        "examples": ["Coffee helps me stay alert during long drives.", "Drivers should stay alert for deer on this road."]
+      },
+      {
+        "pos": "noun",
+        "tr": "alarm, uyarı, teyakkuz",
+        "def": "a warning about danger, or a situation in which people watch for danger",
+        "examples": ["Police are on high alert after the threats.", "I got a news alert on my phone about the earthquake."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uyarmak, haber vermek",
+        "def": "to warn someone about a danger or a situation that needs action",
+        "examples": ["A neighbor alerted the police after hearing screams."]
+      }
+    ],
+    "collocations": ["stay alert", "on high alert", "on the alert", "news alert", "alert someone to", "mentally alert"],
+    "synonyms": ["watchful", "attentive", "vigilant", "warning", "warn"],
+    "family": [
+      { "word": "alertness", "pos": "noun" },
+      { "word": "alertly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "alien",
+    "ipa": "/ˈeɪliən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "uzaylı",
+        "def": "a creature from another planet",
+        "examples": ["The movie is about aliens who invade Earth.", "Do you believe aliens have visited our planet?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "yabancı (uyruklu)",
+        "def": "(formal or legal) a person who is not a citizen of the country where they live",
+        "examples": ["Legal aliens must carry their green card at all times."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yabancı, alışılmadık, aykırı",
+        "def": "strange, unfamiliar and sometimes frightening",
+        "examples": ["The idea of working from home was alien to my parents.", "Life in the city felt alien to him at first."]
+      }
+    ],
+    "collocations": ["alien to", "illegal alien", "alien species", "alien invasion", "alien culture", "space alien"],
+    "synonyms": ["extraterrestrial", "foreigner", "strange", "unfamiliar", "foreign"],
+    "family": [
+      { "word": "alienate", "pos": "verb" },
+      { "word": "alienation", "pos": "noun" }
+    ],
+    "note": "\"Illegal alien\" is considered offensive by many; \"undocumented immigrant\" is now common."
+  },
+  {
+    "word": "align",
+    "ipa": "/əˈlaɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "hizalamak, aynı hizaya getirmek",
+        "def": "to arrange things in a straight line or in the correct position relative to each other",
+        "examples": ["Align the text to the left side of the page.", "The mechanic aligned the front wheels."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uyumlu hale getirmek; (align with) safında yer almak",
+        "def": "to change something so it matches something else, or to publicly support a group",
+        "examples": ["We need to align our budget with our goals.", "The party aligned itself with the labor unions."]
+      }
+    ],
+    "collocations": ["align with", "closely aligned", "align yourself with", "perfectly aligned", "align goals"],
+    "synonyms": ["line up", "arrange", "match", "ally", "coordinate"],
+    "family": [
+      { "word": "alignment", "pos": "noun" },
+      { "word": "misaligned", "pos": "adjective" },
+      { "word": "nonaligned", "pos": "adjective" }
+    ]
+  }
+]

@@ -1,0 +1,1234 @@
+[
+  {
+    "word": "calm",
+    "ipa": "/kɑːm/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sakin, soğukkanlı",
+        "def": "not excited, nervous, or upset",
+        "examples": ["Try to stay calm and explain what happened.", "She remained calm even when the plane started shaking."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(hava, deniz) durgun, sakin",
+        "def": "without strong wind or big waves",
+        "examples": ["The sea was calm enough for swimming."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sakinleştirmek, yatıştırmak",
+        "def": "to make someone or something quieter and more relaxed",
+        "examples": ["The mayor tried to calm angry residents at the meeting.", "Calm down, it's not a big deal."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sükunet, sakinlik",
+        "def": "a quiet, peaceful time or situation",
+        "examples": ["A strange calm settled over the city after the protests."]
+      }
+    ],
+    "collocations": ["stay calm", "keep calm", "calm down", "calm voice", "the calm before the storm"],
+    "synonyms": ["relaxed", "composed", "peaceful", "soothe", "settle"],
+    "family": [
+      { "word": "calmly", "pos": "adverb" },
+      { "word": "calmness", "pos": "noun" },
+      { "word": "calming", "pos": "adjective" }
+    ],
+    "note": "The l is silent in American English: /kɑːm/. Saying \"calm down\" to an angry person can sound rude."
+  },
+  {
+    "word": "camera",
+    "ipa": "/ˈkæmrə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fotoğraf makinesi, kamera",
+        "def": "a device for taking photographs or recording video",
+        "examples": ["My phone's camera takes better pictures than my old digital one.", "Security cameras recorded the robbery."]
+      }
+    ],
+    "collocations": ["security camera", "digital camera", "on camera", "camera crew", "smile for the camera"],
+    "synonyms": [],
+    "family": [{ "word": "cameraman", "pos": "noun" }],
+    "note": "\"On camera\" = being filmed. \"Off camera\" = not being filmed. Usually two syllables in speech: /ˈkæmrə/."
+  },
+  {
+    "word": "camp",
+    "ipa": "/kæmp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kamp, kamp yeri",
+        "def": "a place where people stay in tents or simple buildings for a short time",
+        "examples": ["We set up camp next to the river.", "Thousands of refugees are living in camps near the border."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yaz) kampı",
+        "def": "(American) a place where children go in summer to do activities",
+        "examples": ["The kids are going to summer camp for two weeks."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kamp yapmak",
+        "def": "to stay in a tent for a short time, usually for fun",
+        "examples": ["We camped in the mountains for three nights."]
+      }
+    ],
+    "collocations": ["set up camp", "summer camp", "refugee camp", "training camp", "go camping"],
+    "synonyms": ["campsite", "base", "encampment"],
+    "family": [
+      { "word": "camping", "pos": "noun" },
+      { "word": "camper", "pos": "noun" },
+      { "word": "campsite", "pos": "noun" }
+    ],
+    "note": "\"Camp\" can also mean a group with the same opinion: the two camps in the debate."
+  },
+  {
+    "word": "campaign",
+    "ipa": "/kæmˈpeɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kampanya",
+        "def": "a series of planned activities to achieve a political, social, or business goal",
+        "examples": ["The company launched an advertising campaign for its new phone.", "Her election campaign focused on health care."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kampanya yürütmek, mücadele etmek",
+        "def": "to work in an organized way to achieve something or to win an election",
+        "examples": ["Parents are campaigning for safer roads near the school.", "He campaigned in every state before the election."]
+      }
+    ],
+    "collocations": ["launch a campaign", "election campaign", "advertising campaign", "campaign for", "campaign against", "on the campaign trail"],
+    "synonyms": ["drive", "crusade", "movement", "fight"],
+    "family": [{ "word": "campaigner", "pos": "noun" }],
+    "note": "The g is silent: /kæmˈpeɪn/."
+  },
+  {
+    "word": "camping",
+    "ipa": "/ˈkæmpɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kamp yapma, kampçılık",
+        "def": "the activity of staying in a tent or simple shelter, usually on vacation",
+        "examples": ["We go camping in Yosemite every summer.", "Bring warm clothes; camping in the desert gets cold at night."]
+      }
+    ],
+    "collocations": ["go camping", "camping trip", "camping gear", "camping site"],
+    "synonyms": ["outdoor vacation"],
+    "family": [
+      { "word": "camp", "pos": "verb" },
+      { "word": "camper", "pos": "noun" }
+    ],
+    "note": "In Turkish \"kamping\" means a campsite; in English \"camping\" is the activity. The place is a \"campsite\" or \"campground\"."
+  },
+  {
+    "word": "campus",
+    "ipa": "/ˈkæmpəs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kampüs, yerleşke",
+        "def": "the buildings and land of a university, college, or company",
+        "examples": ["First-year students are required to live on campus.", "The company's new campus has its own gym and cafeteria."]
+      }
+    ],
+    "collocations": ["on campus", "off campus", "campus life", "university campus", "campus security"],
+    "synonyms": ["grounds", "site"],
+    "family": [],
+    "note": "Say \"on campus\", not \"in campus\". Plural: campuses."
+  },
+  {
+    "word": "can",
+    "ipa": "/kæn/",
+    "senses": [
+      {
+        "pos": "modal verb",
+        "tr": "-ebilmek, -abilmek",
+        "def": "used to say that someone is able to do something or that something is possible",
+        "examples": ["She can speak four languages.", "Smoking can cause serious health problems."]
+      },
+      {
+        "pos": "modal verb",
+        "tr": "(izin, rica) -ebilir miyim, -ebilirsin",
+        "def": "used to ask for or give permission, or to make a request",
+        "examples": ["Can I use your phone for a minute?", "You can leave early today if you want."]
+      },
+      {
+        "pos": "noun",
+        "tr": "teneke kutu, konserve kutusu",
+        "def": "a metal container for food or drink",
+        "examples": ["He opened a can of soda and sat down."]
+      }
+    ],
+    "collocations": ["can afford", "can't stand", "can't help", "a can of", "as soon as you can"],
+    "synonyms": ["be able to", "may", "tin"],
+    "family": [
+      { "word": "canned", "pos": "adjective" },
+      { "word": "cannot", "pos": "modal verb" }
+    ],
+    "note": "Past: could. Negative: cannot / can't. British English often says \"tin\" for a food can."
+  },
+  {
+    "word": "canal",
+    "ipa": "/kəˈnæl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kanal (su yolu)",
+        "def": "a long artificial waterway for boats or for carrying water",
+        "examples": ["The Panama Canal connects the Atlantic and Pacific Oceans.", "Venice is famous for its canals."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(vücutta) kanal, yol",
+        "def": "a tube inside the body that carries food, air, or other substances",
+        "examples": ["The dentist said I need a root canal."]
+      }
+    ],
+    "collocations": ["canal boat", "irrigation canal", "Suez Canal", "root canal"],
+    "synonyms": ["waterway", "channel"],
+    "family": [],
+    "note": "A TV \"kanal\" is a \"channel\" in English, not a canal."
+  },
+  {
+    "word": "cancel",
+    "ipa": "/ˈkænsl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "iptal etmek",
+        "def": "to decide that something arranged will not happen",
+        "examples": ["Our flight was canceled because of the snowstorm.", "I had to cancel my dentist appointment."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(abonelik, sipariş) iptal etmek",
+        "def": "to end an agreement, order, or subscription",
+        "examples": ["I canceled my gym membership after two months."]
+      }
+    ],
+    "collocations": ["cancel a flight", "cancel a meeting", "cancel an order", "cancel out", "canceled due to"],
+    "synonyms": ["call off", "scrap", "drop", "abandon"],
+    "family": [{ "word": "cancellation", "pos": "noun" }],
+    "note": "American spelling: canceled, canceling (British: cancelled). \"Cancel out\" means balance so there is no effect."
+  },
+  {
+    "word": "cancer",
+    "ipa": "/ˈkænsər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kanser",
+        "def": "a serious disease in which cells in the body grow in an uncontrolled way",
+        "examples": ["Smoking is the leading cause of lung cancer.", "Her mother was diagnosed with breast cancer last year."]
+      }
+    ],
+    "collocations": ["lung cancer", "breast cancer", "cancer treatment", "diagnosed with cancer", "cancer patient", "beat cancer"],
+    "synonyms": ["tumor", "malignancy"],
+    "family": [{ "word": "cancerous", "pos": "adjective" }]
+  },
+  {
+    "word": "candidate",
+    "ipa": "/ˈkændɪdət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "aday",
+        "def": "a person who is trying to be elected or who is applying for a job",
+        "examples": ["Three candidates are running for mayor.", "We interviewed ten candidates for the position."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uygun aday, olası seçenek",
+        "def": "someone or something likely to be chosen for something",
+        "examples": ["The old factory is a strong candidate for redevelopment."]
+      }
+    ],
+    "collocations": ["presidential candidate", "suitable candidate", "strong candidate", "candidate for", "successful candidate"],
+    "synonyms": ["applicant", "nominee", "contender"],
+    "family": [{ "word": "candidacy", "pos": "noun" }]
+  },
+  {
+    "word": "candle",
+    "ipa": "/ˈkændl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mum",
+        "def": "a stick of wax with a string in the middle that you burn to give light",
+        "examples": ["She blew out the candles on her birthday cake.", "We lit candles when the power went out."]
+      }
+    ],
+    "collocations": ["light a candle", "blow out a candle", "scented candle", "candle flame", "candlelight dinner"],
+    "synonyms": [],
+    "family": [
+      { "word": "candlelight", "pos": "noun" },
+      { "word": "candlestick", "pos": "noun" }
+    ],
+    "note": "\"Burn the candle at both ends\" means work too hard and sleep too little."
+  },
+  {
+    "word": "cannot",
+    "ipa": "/ˈkænɑːt/",
+    "senses": [
+      {
+        "pos": "modal verb",
+        "tr": "-emez, -amaz",
+        "def": "the negative form of can",
+        "examples": ["I cannot believe how quickly the year went by.", "Visitors cannot enter the building without an ID."]
+      }
+    ],
+    "collocations": ["cannot afford", "cannot help", "cannot wait", "cannot be overstated"],
+    "synonyms": ["can't", "be unable to"],
+    "family": [{ "word": "can", "pos": "modal verb" }],
+    "note": "Written as one word. \"Can't\" is the usual spoken form; \"cannot\" is more formal or emphatic."
+  },
+  {
+    "word": "canvas",
+    "ipa": "/ˈkænvəs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kanvas, branda bezi",
+        "def": "a strong, heavy cloth used for tents, bags, and shoes",
+        "examples": ["He wore old canvas sneakers.", "The tent was made of thick canvas."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tuval",
+        "def": "a piece of this cloth used for painting on, or a painting on it",
+        "examples": ["The artist stretched a large canvas over a wooden frame."]
+      }
+    ],
+    "collocations": ["canvas bag", "on canvas", "oil on canvas", "blank canvas"],
+    "synonyms": ["cloth", "painting"],
+    "family": [{ "word": "canvass", "pos": "verb" }],
+    "note": "\"Canvass\" (double s) is a different word: to ask people for votes or opinions."
+  },
+  {
+    "word": "cap",
+    "ipa": "/kæp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kep, şapka",
+        "def": "a soft, flat hat with a hard curved part at the front",
+        "examples": ["He always wears a baseball cap backward."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kapak",
+        "def": "a cover that protects the end of a pen, bottle, or tube",
+        "examples": ["Put the cap back on the toothpaste."]
+      },
+      {
+        "pos": "noun",
+        "tr": "üst sınır, tavan",
+        "def": "an upper limit on an amount of money",
+        "examples": ["The city placed a cap on rent increases."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sınırlamak, tavan koymak",
+        "def": "to put a limit on an amount",
+        "examples": ["Interest rates on student loans are capped at five percent."]
+      }
+    ],
+    "collocations": ["baseball cap", "bottle cap", "a cap on", "salary cap", "price cap"],
+    "synonyms": ["hat", "lid", "limit", "ceiling"],
+    "family": [],
+    "note": "\"To cap it all\" means \"as the final bad thing\"."
+  },
+  {
+    "word": "capability",
+    "ipa": "/ˌkeɪpəˈbɪləti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kapasite, yetenek, kabiliyet",
+        "def": "the ability or power to do something",
+        "examples": ["The new software has the capability to translate in real time.", "Some countries are developing nuclear capability."]
+      }
+    ],
+    "collocations": ["military capability", "nuclear capability", "have the capability to", "beyond your capabilities", "technical capabilities"],
+    "synonyms": ["ability", "capacity", "power", "competence"],
+    "family": [
+      { "word": "capable", "pos": "adjective" },
+      { "word": "capably", "pos": "adverb" }
+    ],
+    "note": "Common in plural for skills or features: the phone's camera capabilities."
+  },
+  {
+    "word": "capable",
+    "ipa": "/ˈkeɪpəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "(bir şeyi yapmaya) muktedir, yapabilecek durumda",
+        "def": "having the ability or power to do something",
+        "examples": ["The stadium is capable of holding fifty thousand people.", "I'm perfectly capable of making my own decisions."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yetenekli, becerikli",
+        "def": "good at your work; skilled",
+        "examples": ["She's a very capable manager."]
+      }
+    ],
+    "collocations": ["capable of", "highly capable", "perfectly capable", "in capable hands"],
+    "synonyms": ["able", "competent", "skilled", "qualified"],
+    "family": [
+      { "word": "capability", "pos": "noun" },
+      { "word": "incapable", "pos": "adjective" },
+      { "word": "capably", "pos": "adverb" }
+    ],
+    "note": "Pattern: capable OF doing something, not \"capable to do\"."
+  },
+  {
+    "word": "capacity",
+    "ipa": "/kəˈpæsəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kapasite, hacim",
+        "def": "the number of people or things that a place or container can hold",
+        "examples": ["The concert hall has a capacity of two thousand.", "The hospital is already full to capacity."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yeti, kapasite",
+        "def": "the ability to understand or do something",
+        "examples": ["Children have an amazing capacity for learning languages."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sıfat, konum",
+        "def": "an official position or role",
+        "examples": ["She attended the meeting in her capacity as company lawyer."]
+      }
+    ],
+    "collocations": ["full capacity", "seating capacity", "capacity for", "in my capacity as", "production capacity"],
+    "synonyms": ["volume", "size", "ability", "role"],
+    "family": [{ "word": "capacious", "pos": "adjective" }]
+  },
+  {
+    "word": "capital",
+    "ipa": "/ˈkæpɪtl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "başkent",
+        "def": "the city where a country's government is based",
+        "examples": ["Ankara is the capital of Turkey, not Istanbul."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sermaye",
+        "def": "money or property used to start a business or to invest",
+        "examples": ["They raised enough capital to open a second restaurant."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(harf) büyük",
+        "def": "(of a letter) in the large form used at the start of a sentence or name",
+        "examples": ["Names of countries always start with a capital letter."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(suç) idamlık, ölüm cezası gerektiren",
+        "def": "involving the death penalty",
+        "examples": ["Capital punishment was abolished in many states."]
+      }
+    ],
+    "collocations": ["capital city", "capital letter", "raise capital", "capital investment", "capital punishment"],
+    "synonyms": ["funds", "money", "assets", "uppercase"],
+    "family": [
+      { "word": "capitalism", "pos": "noun" },
+      { "word": "capitalize", "pos": "verb" },
+      { "word": "capitalist", "pos": "noun" }
+    ],
+    "note": "Don't confuse with \"Capitol\", the building where the US Congress meets."
+  },
+  {
+    "word": "capitalism",
+    "ipa": "/ˈkæpɪtəlɪzəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kapitalizm",
+        "def": "an economic system in which businesses are owned privately and run for profit",
+        "examples": ["Critics argue that capitalism increases inequality.", "The country moved from communism to capitalism in the 1990s."]
+      }
+    ],
+    "collocations": ["global capitalism", "free-market capitalism", "modern capitalism", "critique of capitalism"],
+    "synonyms": ["free enterprise", "free market"],
+    "family": [
+      { "word": "capitalist", "pos": "noun" },
+      { "word": "capitalist", "pos": "adjective" },
+      { "word": "capital", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "capitalist",
+    "ipa": "/ˈkæpɪtəlɪst/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kapitalist",
+        "def": "based on or supporting capitalism",
+        "examples": ["Most Western countries have capitalist economies.", "The book criticizes capitalist values."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kapitalist, sermayedar",
+        "def": "a person who supports capitalism or who owns a lot of business wealth",
+        "examples": ["Venture capitalists invested millions in the startup."]
+      }
+    ],
+    "collocations": ["capitalist economy", "capitalist system", "capitalist society", "venture capitalist"],
+    "synonyms": ["free-market", "investor", "financier"],
+    "family": [
+      { "word": "capitalism", "pos": "noun" },
+      { "word": "capital", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "captain",
+    "ipa": "/ˈkæptɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kaptan",
+        "def": "the person in charge of a ship or plane",
+        "examples": ["The captain announced that we would land in twenty minutes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "takım kaptanı",
+        "def": "the leader of a sports team",
+        "examples": ["She was named captain of the soccer team."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yüzbaşı",
+        "def": "an officer of middle rank in the army, navy, or police",
+        "examples": ["A police captain spoke to reporters outside the station."]
+      }
+    ],
+    "collocations": ["team captain", "ship's captain", "captain of industry", "club captain"],
+    "synonyms": ["commander", "skipper", "leader", "pilot"],
+    "family": [{ "word": "captaincy", "pos": "noun" }]
+  },
+  {
+    "word": "capture",
+    "ipa": "/ˈkæptʃər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yakalamak, esir almak, ele geçirmek",
+        "def": "to catch a person or animal, or to take control of a place by force",
+        "examples": ["Police captured the suspect after a two-day search.", "Rebels captured the city's airport."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(an, duygu) yakalamak, yansıtmak, ölümsüzleştirmek",
+        "def": "to record or show something accurately in words, pictures, or film",
+        "examples": ["The photo perfectly captures the joy of the moment."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yakalanma, ele geçirme",
+        "def": "the act of catching or being caught",
+        "examples": ["The soldier managed to avoid capture for weeks."]
+      }
+    ],
+    "collocations": ["capture attention", "capture the imagination", "capture the moment", "avoid capture", "capture market share"],
+    "synonyms": ["catch", "seize", "arrest", "record"],
+    "family": [
+      { "word": "captive", "pos": "noun" },
+      { "word": "captor", "pos": "noun" },
+      { "word": "captivity", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "car",
+    "ipa": "/kɑːr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "araba, otomobil",
+        "def": "a road vehicle with an engine and four wheels that carries a few people",
+        "examples": ["She drives an old car to work every day.", "We rented a car at the airport."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(tren) vagon",
+        "def": "(American) a separate part of a train",
+        "examples": ["The dining car is at the back of the train."]
+      }
+    ],
+    "collocations": ["drive a car", "by car", "get in the car", "car accident", "rental car", "car park"],
+    "synonyms": ["vehicle", "automobile", "auto"],
+    "family": [{ "word": "carpool", "pos": "noun" }],
+    "note": "\"Get in/out of a car\", but \"get on/off a bus or train\". British \"car park\" = American \"parking lot\"."
+  },
+  {
+    "word": "carbon",
+    "ipa": "/ˈkɑːrbən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "karbon",
+        "def": "a chemical element found in all living things, and in coal, diamonds, and graphite",
+        "examples": ["Diamonds are made of pure carbon.", "Trees absorb carbon from the air."]
+      },
+      {
+        "pos": "noun",
+        "tr": "karbon salımı, karbondioksit",
+        "def": "carbon dioxide or other carbon gases, especially as a cause of climate change",
+        "examples": ["The city plans to cut carbon emissions by half by 2035."]
+      }
+    ],
+    "collocations": ["carbon dioxide", "carbon emissions", "carbon footprint", "carbon neutral", "low-carbon"],
+    "synonyms": [],
+    "family": [
+      { "word": "carbonate", "pos": "noun" },
+      { "word": "carbonated", "pos": "adjective" }
+    ],
+    "note": "Your \"carbon footprint\" is the amount of carbon dioxide your activities produce. \"Carbonated\" drinks are fizzy."
+  },
+  {
+    "word": "card",
+    "ipa": "/kɑːrd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kart, tebrik kartı",
+        "def": "a folded piece of stiff paper with a message, sent on special occasions",
+        "examples": ["I sent my grandmother a birthday card."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kredi, kimlik) kart",
+        "def": "a small plastic card used for paying or identifying yourself",
+        "examples": ["Can I pay by card?", "Show your ID card at the entrance."]
+      },
+      {
+        "pos": "noun",
+        "tr": "iskambil kâğıdı",
+        "def": "one of a set of cards used for playing games",
+        "examples": ["We stayed up late playing cards."]
+      }
+    ],
+    "collocations": ["credit card", "birthday card", "pay by card", "play cards", "business card", "on the cards"],
+    "synonyms": [],
+    "family": [{ "word": "cardboard", "pos": "noun" }],
+    "note": "\"Put your cards on the table\" = be honest about your plans. \"In the cards\" (American) = likely to happen."
+  },
+  {
+    "word": "care",
+    "ipa": "/ker/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "umursamak, önemsemek",
+        "def": "to feel that something is important or to be worried about it",
+        "examples": ["I don't care what other people think.", "He really cares about the environment."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bakmak, ilgilenmek",
+        "def": "to look after someone who is sick, young, or old (care for)",
+        "examples": ["She quit her job to care for her elderly father."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bakım, ilgi",
+        "def": "the process of looking after someone and providing what they need",
+        "examples": ["The patients receive excellent care at this hospital."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dikkat, özen",
+        "def": "attention and effort to avoid damage or mistakes",
+        "examples": ["Handle the package with care; it's fragile."]
+      }
+    ],
+    "collocations": ["take care of", "care about", "care for", "health care", "with care", "I couldn't care less"],
+    "synonyms": ["mind", "look after", "attention", "caution"],
+    "family": [
+      { "word": "careful", "pos": "adjective" },
+      { "word": "careless", "pos": "adjective" },
+      { "word": "caring", "pos": "adjective" },
+      { "word": "caregiver", "pos": "noun" }
+    ],
+    "note": "\"Take care\" also means goodbye. \"I couldn't care less\" means \"I don't care at all\"."
+  },
+  {
+    "word": "career",
+    "ipa": "/kəˈrɪr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kariyer, meslek hayatı",
+        "def": "the series of jobs someone has in one area of work over their life",
+        "examples": ["She began her career as a reporter in Chicago.", "He's thinking about a career in medicine."]
+      }
+    ],
+    "collocations": ["career in", "career path", "change careers", "career change", "build a career", "career opportunities"],
+    "synonyms": ["profession", "occupation", "vocation", "line of work"],
+    "family": [],
+    "note": "Stress on the second syllable: ca-REER. Don't confuse with \"carrier\"."
+  },
+  {
+    "word": "careful",
+    "ipa": "/ˈkerfl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "dikkatli",
+        "def": "giving attention to what you are doing to avoid accidents or mistakes",
+        "examples": ["Be careful crossing the street.", "You need to be careful with your money."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "özenli, titiz",
+        "def": "done with a lot of attention to detail",
+        "examples": ["After careful consideration, we decided not to move."]
+      }
+    ],
+    "collocations": ["be careful", "careful with", "careful not to", "careful consideration", "careful planning"],
+    "synonyms": ["cautious", "attentive", "thorough", "meticulous"],
+    "family": [
+      { "word": "carefully", "pos": "adverb" },
+      { "word": "carefulness", "pos": "noun" },
+      { "word": "careless", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "carefully",
+    "ipa": "/ˈkerfəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "dikkatlice, özenle",
+        "def": "with a lot of attention to avoid mistakes, damage, or danger",
+        "examples": ["Read the instructions carefully before you start.", "He carefully placed the vase on the shelf."]
+      }
+    ],
+    "collocations": ["listen carefully", "read carefully", "drive carefully", "carefully planned", "think carefully"],
+    "synonyms": ["cautiously", "attentively", "thoroughly"],
+    "family": [
+      { "word": "careful", "pos": "adjective" },
+      { "word": "carelessly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "careless",
+    "ipa": "/ˈkerləs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "dikkatsiz, özensiz",
+        "def": "not giving enough attention to what you are doing, so that you make mistakes",
+        "examples": ["I lost points on the test because of careless mistakes.", "It was careless of you to leave the door unlocked."]
+      }
+    ],
+    "collocations": ["careless mistake", "careless driving", "careless with", "careless of"],
+    "synonyms": ["sloppy", "negligent", "thoughtless"],
+    "family": [
+      { "word": "carelessly", "pos": "adverb" },
+      { "word": "carelessness", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "cargo",
+    "ipa": "/ˈkɑːrɡəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yük (gemi, uçak), kargo",
+        "def": "the goods carried by a ship, plane, or truck",
+        "examples": ["The ship was carrying a cargo of grain to Egypt.", "Cargo planes land at the airport throughout the night."]
+      }
+    ],
+    "collocations": ["cargo ship", "cargo plane", "cargo hold", "carry cargo", "cargo pants"],
+    "synonyms": ["freight", "load", "shipment", "goods"],
+    "family": [],
+    "note": "Turkish \"kargo\" usually means a parcel delivery; in English that is a \"package\" or \"delivery\", not cargo."
+  },
+  {
+    "word": "carpet",
+    "ipa": "/ˈkɑːrpɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "halı, (duvardan duvara) halı",
+        "def": "thick material that covers a floor",
+        "examples": ["We're replacing the old carpet with wood floors.", "Take your shoes off so you don't get mud on the carpet."]
+      },
+      {
+        "pos": "noun",
+        "tr": "örtü, tabaka",
+        "def": "a thick layer of something on the ground",
+        "examples": ["A carpet of autumn leaves covered the path."]
+      }
+    ],
+    "collocations": ["red carpet", "wall-to-wall carpet", "sweep under the carpet", "carpet cleaner"],
+    "synonyms": ["rug", "mat"],
+    "family": [],
+    "note": "A \"rug\" covers part of a floor; \"carpet\" usually covers it all. \"Roll out the red carpet\" = welcome someone grandly."
+  },
+  {
+    "word": "carriage",
+    "ipa": "/ˈkærɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(at arabası) fayton, araba",
+        "def": "a vehicle pulled by horses, used especially in the past",
+        "examples": ["Tourists can ride a horse-drawn carriage through Central Park."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(tren) vagon",
+        "def": "(British) a separate section of a train for passengers",
+        "examples": ["The first carriage was packed, so we walked to the back."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bebek arabası",
+        "def": "(American) a baby carriage, a small vehicle for pushing a baby",
+        "examples": ["She pushed the baby carriage slowly through the park."]
+      }
+    ],
+    "collocations": ["horse-drawn carriage", "baby carriage", "first-class carriage", "carriage ride"],
+    "synonyms": ["coach", "car", "stroller"],
+    "family": [{ "word": "carry", "pos": "verb" }],
+    "note": "For a train section, Americans say \"car\" and the British say \"carriage\". A modern baby carriage is usually called a \"stroller\"."
+  },
+  {
+    "word": "carrot",
+    "ipa": "/ˈkærət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "havuç",
+        "def": "a long, pointed orange vegetable that grows under the ground",
+        "examples": ["Chop the carrots and add them to the soup.", "Kids often eat raw carrots as a snack."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ödül, teşvik",
+        "def": "something offered to persuade someone to do something",
+        "examples": ["The government is using tax breaks as a carrot to attract investors."]
+      }
+    ],
+    "collocations": ["carrot and stick", "grated carrot", "carrot cake", "raw carrots"],
+    "synonyms": ["incentive", "reward"],
+    "family": [],
+    "note": "\"Carrot and stick\" means using both rewards and punishments (Turkish: havuç ve sopa)."
+  },
+  {
+    "word": "carry",
+    "ipa": "/ˈkæri/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "taşımak",
+        "def": "to hold something and take it from one place to another",
+        "examples": ["Can you help me carry these boxes upstairs?", "The bus carries about fifty passengers."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yanında taşımak, bulundurmak",
+        "def": "to have something with you all the time",
+        "examples": ["I always carry an umbrella in my bag."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(risk, ceza vb.) içermek, beraberinde getirmek",
+        "def": "to involve something as a result or a risk",
+        "examples": ["The crime carries a sentence of up to ten years in prison."]
+      }
+    ],
+    "collocations": ["carry a bag", "carry on", "carry out", "carry a risk", "get carried away"],
+    "synonyms": ["bring", "transport", "hold", "bear"],
+    "family": [
+      { "word": "carrier", "pos": "noun" },
+      { "word": "carriage", "pos": "noun" }
+    ],
+    "note": "\"Carry out\" = do or complete (carry out research). \"Carry on\" = continue. \"Get carried away\" = become too excited."
+  },
+  {
+    "word": "cartoon",
+    "ipa": "/kɑːrˈtuːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çizgi film",
+        "def": "a film or TV show made from drawings, usually for children",
+        "examples": ["My kids watch cartoons every Saturday morning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "karikatür",
+        "def": "a funny drawing in a newspaper or magazine, often about politics",
+        "examples": ["The newspaper published a cartoon mocking the senator."]
+      }
+    ],
+    "collocations": ["cartoon character", "political cartoon", "watch cartoons", "cartoon strip"],
+    "synonyms": ["animation", "caricature", "comic strip"],
+    "family": [{ "word": "cartoonist", "pos": "noun" }],
+    "note": "A \"caricature\" exaggerates a real person's features; a \"cartoon\" is broader."
+  },
+  {
+    "word": "carve",
+    "ipa": "/kɑːrv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "oymak, yontmak, kazımak",
+        "def": "to make an object or pattern by cutting wood, stone, or another hard material",
+        "examples": ["He carved a small bird out of a piece of wood.", "Someone carved their initials into the tree."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(et) dilimlemek",
+        "def": "to cut cooked meat into slices",
+        "examples": ["Dad always carves the turkey on Thanksgiving."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(emekle) edinmek, oluşturmak",
+        "def": "to create a position or reputation through hard work (carve out)",
+        "examples": ["She has carved out a successful career in tech."]
+      }
+    ],
+    "collocations": ["carve out", "carve into", "carve wood", "carve the turkey", "carved in stone"],
+    "synonyms": ["cut", "sculpt", "engrave", "slice"],
+    "family": [
+      { "word": "carving", "pos": "noun" },
+      { "word": "carver", "pos": "noun" }
+    ],
+    "note": "\"Carved in stone\" means fixed and impossible to change: The plan isn't carved in stone."
+  },
+  {
+    "word": "case",
+    "ipa": "/keɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "durum, olay, örnek",
+        "def": "a particular situation or example of something",
+        "examples": ["In some cases, patients recover without any treatment.", "Take an umbrella in case it rains."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dava; (polis) vaka, dosya",
+        "def": "a matter decided in court, or a crime investigated by the police",
+        "examples": ["The case will go to trial next month.", "Detectives are still working on the case."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(hastalık) vaka",
+        "def": "an example of a disease or illness",
+        "examples": ["There have been thousands of new flu cases this week."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kutu, kılıf, çanta",
+        "def": "a container or cover that protects something",
+        "examples": ["I need a new case for my phone."]
+      }
+    ],
+    "collocations": ["in case", "in any case", "in that case", "court case", "make a case for", "case study"],
+    "synonyms": ["situation", "instance", "lawsuit", "container"],
+    "family": [],
+    "note": "\"In case\" = as a precaution (take a coat in case it gets cold), not the same as \"if\". \"Make a case for\" = argue in favor of."
+  },
+  {
+    "word": "cash",
+    "ipa": "/kæʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "nakit, peşin para",
+        "def": "money in the form of coins and bills",
+        "examples": ["Do you take cash or only cards?", "I don't carry much cash anymore."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bozdurmak, nakde çevirmek",
+        "def": "to exchange a check for money",
+        "examples": ["I need to cash this check at the bank."]
+      }
+    ],
+    "collocations": ["pay in cash", "cash payment", "short of cash", "cash flow", "cash in on"],
+    "synonyms": ["money", "currency", "bills", "change"],
+    "family": [
+      { "word": "cashier", "pos": "noun" },
+      { "word": "cashless", "pos": "adjective" }
+    ],
+    "note": "Uncountable: \"a lot of cash\". \"Cash in on\" means profit from a situation, often unfairly."
+  },
+  {
+    "word": "casino",
+    "ipa": "/kəˈsiːnəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kumarhane, gazino (kumar)",
+        "def": "a building where people play games for money, such as cards or roulette",
+        "examples": ["They lost a lot of money at a casino in Las Vegas.", "The new casino brought jobs but also problems to the town."]
+      }
+    ],
+    "collocations": ["casino resort", "online casino", "casino owner", "go to a casino"],
+    "synonyms": ["gambling house"],
+    "family": [],
+    "note": "Turkish \"gazino\" is usually a music venue; the English \"casino\" is only for gambling."
+  },
+  {
+    "word": "cast",
+    "ipa": "/kæst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "oyuncu kadrosu",
+        "def": "all the actors in a play, movie, or TV show",
+        "examples": ["The movie has an amazing cast of young actors."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bakış, gölge, şüphe) düşürmek, atmak",
+        "def": "to look in a direction, or to make light, a shadow, or doubt fall on something",
+        "examples": ["She cast a quick glance at the clock.", "The new evidence casts doubt on his story."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(oy) kullanmak",
+        "def": "to vote",
+        "examples": ["Over a million people cast their votes by mail."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(rol için) seçmek",
+        "def": "to choose an actor for a particular role",
+        "examples": ["She was cast as the lead in the new series."]
+      }
+    ],
+    "collocations": ["cast a vote", "cast doubt on", "cast a shadow", "cast a glance", "star-studded cast"],
+    "synonyms": ["actors", "throw", "choose", "project"],
+    "family": [
+      { "word": "casting", "pos": "noun" },
+      { "word": "outcast", "pos": "noun" }
+    ],
+    "note": "Irregular: cast – cast – cast. A \"cast\" is also the hard cover put on a broken arm or leg (alçı)."
+  },
+  {
+    "word": "castle",
+    "ipa": "/ˈkæsl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kale, şato",
+        "def": "a large, strong building with thick walls and towers, built in the past for defense",
+        "examples": ["We visited a medieval castle on top of the hill.", "The kids built a sand castle on the beach."]
+      }
+    ],
+    "collocations": ["medieval castle", "sand castle", "castle walls", "build castles in the air"],
+    "synonyms": ["fortress", "fort", "palace", "stronghold"],
+    "family": [],
+    "note": "The t is silent: /ˈkæsl/. \"Build castles in the air\" means make unrealistic plans."
+  },
+  {
+    "word": "casual",
+    "ipa": "/ˈkæʒuəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "(kıyafet, ortam) gündelik, rahat, resmi olmayan",
+        "def": "relaxed and not formal",
+        "examples": ["You can wear casual clothes to the office on Fridays.", "It was a casual dinner with a few friends."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "umursamaz, gelişigüzel",
+        "def": "not showing much care or interest",
+        "examples": ["His casual attitude toward safety worried the team."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "geçici, düzensiz; yüzeysel",
+        "def": "not regular or serious; happening by chance",
+        "examples": ["To a casual observer, the two paintings look identical."]
+      }
+    ],
+    "collocations": ["casual clothes", "business casual", "casual conversation", "casual attitude", "casual observer"],
+    "synonyms": ["informal", "relaxed", "careless", "offhand"],
+    "family": [
+      { "word": "casually", "pos": "adverb" },
+      { "word": "casualness", "pos": "noun" }
+    ],
+    "note": "\"Business casual\" is a dress code: neat but not a suit and tie."
+  },
+  {
+    "word": "casualty",
+    "ipa": "/ˈkæʒuəlti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kayıp, yaralı ya da ölü",
+        "def": "a person who is killed or injured in a war or accident",
+        "examples": ["The earthquake caused heavy casualties.", "There were no casualties in the fire, thanks to the alarm."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kurban, (bir şeyden) zarar gören",
+        "def": "someone or something that suffers as a result of an event",
+        "examples": ["Small shops were the first casualties of the recession."]
+      }
+    ],
+    "collocations": ["heavy casualties", "civilian casualties", "suffer casualties", "casualty figures"],
+    "synonyms": ["victim", "fatality", "loss"],
+    "family": [],
+    "note": "Includes both injured and killed people. \"Fatality\" means only someone who died."
+  },
+  {
+    "word": "cat",
+    "ipa": "/kæt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kedi",
+        "def": "a small furry animal often kept as a pet",
+        "examples": ["Our cat sleeps on the sofa all afternoon.", "Istanbul is famous for its street cats."]
+      },
+      {
+        "pos": "noun",
+        "tr": "büyük kedigiller (aslan, kaplan vb.)",
+        "def": "a large wild animal of the cat family",
+        "examples": ["Lions and tigers are the best-known big cats."]
+      }
+    ],
+    "collocations": ["stray cat", "pet cat", "big cats", "let the cat out of the bag", "raining cats and dogs"],
+    "synonyms": ["kitten", "kitty"],
+    "family": [{ "word": "kitten", "pos": "noun" }],
+    "note": "\"Let the cat out of the bag\" means reveal a secret by accident."
+  },
+  {
+    "word": "catalog",
+    "ipa": "/ˈkætəlɔːɡ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "katalog",
+        "def": "a complete list of items, such as products for sale or books in a library",
+        "examples": ["The store sends out a new catalog every season.", "You can search the library's online catalog."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(olumsuz şeyler) dizi, silsile",
+        "def": "a long series of bad things",
+        "examples": ["The report describes a catalog of errors by hospital staff."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kataloglamak, listelemek",
+        "def": "to make a list of things in an organized way",
+        "examples": ["Volunteers are cataloging thousands of old photographs."]
+      }
+    ],
+    "collocations": ["online catalog", "product catalog", "library catalog", "a catalog of errors", "mail-order catalog"],
+    "synonyms": ["list", "directory", "inventory", "register"],
+    "family": [{ "word": "cataloging", "pos": "noun" }],
+    "note": "American spelling: catalog. British spelling: catalogue."
+  },
+  {
+    "word": "catch",
+    "ipa": "/kætʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yakalamak, tutmak",
+        "def": "to stop and hold a moving object, or to capture a person or animal",
+        "examples": ["The dog jumped up to catch the ball.", "Police finally managed to catch the thief."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(otobüs, tren) yetişmek",
+        "def": "to get on a bus, train, or plane before it leaves",
+        "examples": ["I have to catch the 7:15 train."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(hastalık) kapmak",
+        "def": "to get an illness",
+        "examples": ["Wear a coat or you'll catch a cold."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yakalama, tutuş; (gizli) dezavantaj, tuzak",
+        "def": "the act of catching something; also a hidden problem",
+        "examples": ["What a great catch by the goalkeeper!", "The flights are so cheap; what's the catch?"]
+      }
+    ],
+    "collocations": ["catch a ball", "catch a bus", "catch a cold", "catch up", "catch someone's eye", "what's the catch"],
+    "synonyms": ["grab", "seize", "capture", "drawback"],
+    "family": [
+      { "word": "catchy", "pos": "adjective" },
+      { "word": "catcher", "pos": "noun" }
+    ],
+    "note": "Irregular verb: catch – caught – caught. \"Catch up\" = reach the same level; \"catch on\" = become popular."
+  },
+  {
+    "word": "category",
+    "ipa": "/ˈkætəɡɔːri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kategori, sınıf, grup",
+        "def": "a group of people or things with similar features",
+        "examples": ["The film was nominated in three categories.", "Most of our customers fall into the 25 to 40 age category."]
+      }
+    ],
+    "collocations": ["fall into a category", "age category", "broad category", "in the category of", "product category"],
+    "synonyms": ["class", "group", "type", "kind"],
+    "family": [
+      { "word": "categorize", "pos": "verb" },
+      { "word": "categorical", "pos": "adjective" },
+      { "word": "categorically", "pos": "adverb" }
+    ],
+    "note": "\"Categorically\" means completely and definitely: He categorically denied the claims."
+  },
+  {
+    "word": "cater",
+    "ipa": "/ˈkeɪtər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(yemek ve içecek) hizmeti vermek, catering yapmak",
+        "def": "to provide food and drinks for a party or event",
+        "examples": ["A local restaurant catered the wedding.", "The company caters for events of up to five hundred people."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hitap etmek, ihtiyaçlarını karşılamak",
+        "def": "to provide what a particular group of people needs or wants (cater to)",
+        "examples": ["The hotel caters to business travelers."]
+      }
+    ],
+    "collocations": ["cater to", "cater for", "cater a party", "catered event", "cater to every taste"],
+    "synonyms": ["serve", "provide for", "supply", "accommodate"],
+    "family": [
+      { "word": "catering", "pos": "noun" },
+      { "word": "caterer", "pos": "noun" }
+    ],
+    "note": "American English prefers \"cater to\"; British English uses \"cater for\". \"Cater to\" can also mean satisfy demands too much."
+  }
+]

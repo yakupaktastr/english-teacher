@@ -1,0 +1,1229 @@
+[
+  {
+    "word": "lead",
+    "ipa": "/liːd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yol göstermek, götürmek",
+        "def": "to go in front of someone or take them somewhere to show the way",
+        "examples": ["The guide led us through the old part of the city.", "This path leads to the beach."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yönetmek, liderlik etmek, başında olmak",
+        "def": "to be in charge of a group, organization or activity",
+        "examples": ["She was chosen to lead the research team.", "Who will lead the party into the next election?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "yol açmak, sonuçlanmak",
+        "def": "to cause something to happen as a result",
+        "examples": ["Too much stress can lead to serious health problems."]
+      },
+      {
+        "pos": "noun",
+        "tr": "önde olma, liderlik; ipucu",
+        "def": "a position ahead of others in a competition, or a piece of information that helps solve something",
+        "examples": ["Our team took the lead in the second half.", "Police are following up several new leads."]
+      }
+    ],
+    "collocations": ["lead to", "lead the way", "take the lead", "in the lead", "lead a team", "lead a normal life"],
+    "synonyms": ["guide", "direct", "head", "cause", "result in"],
+    "family": [
+      { "word": "leader", "pos": "noun" },
+      { "word": "leadership", "pos": "noun" },
+      { "word": "leading", "pos": "adjective" },
+      { "word": "misleading", "pos": "adjective" }
+    ],
+    "note": "Irregular: lead – led – led. The metal \"lead\" (kurşun) is pronounced /led/."
+  },
+  {
+    "word": "leader",
+    "ipa": "/ˈliːdər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lider, önder, başkan",
+        "def": "a person who is in charge of a group, organization or country",
+        "examples": ["World leaders met in Geneva to discuss climate change.", "She's a natural leader who inspires her team."]
+      },
+      {
+        "pos": "noun",
+        "tr": "lider, önde giden",
+        "def": "a person, team or company that is ahead of others or the most successful",
+        "examples": ["The company is a world leader in solar technology."]
+      }
+    ],
+    "collocations": ["world leader", "political leader", "team leader", "market leader", "natural leader", "party leader"],
+    "synonyms": ["head", "chief", "boss", "commander"],
+    "family": [
+      { "word": "lead", "pos": "verb" },
+      { "word": "leadership", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "leadership",
+    "ipa": "/ˈliːdərʃɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "liderlik, önderlik",
+        "def": "the position of being a leader, or the ability to lead people well",
+        "examples": ["Under her leadership, the company doubled its profits.", "The job requires strong leadership skills."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yönetim, liderlik kadrosu",
+        "def": "the people who lead an organization or group",
+        "examples": ["The party leadership refused to comment on the scandal."]
+      }
+    ],
+    "collocations": ["under someone's leadership", "leadership skills", "strong leadership", "leadership role", "party leadership"],
+    "synonyms": ["management", "direction", "guidance", "command"],
+    "family": [{ "word": "leader", "pos": "noun" }]
+  },
+  {
+    "word": "leading",
+    "ipa": "/ˈliːdɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "önde gelen, başlıca, en önemli",
+        "def": "most important, successful or influential",
+        "examples": ["She is one of the country's leading experts on cancer.", "Heart disease is the leading cause of death in the US."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "başrol, baş",
+        "def": "having the main part in a play or movie",
+        "examples": ["He played the leading role in the school musical."]
+      }
+    ],
+    "collocations": ["leading expert", "leading cause of", "leading role", "leading figure", "world-leading", "leading question"],
+    "synonyms": ["top", "major", "principal", "foremost", "prominent"],
+    "family": [{ "word": "lead", "pos": "verb" }],
+    "note": "A \"leading question\" is one asked in a way that pushes someone toward a particular answer."
+  },
+  {
+    "word": "leaf",
+    "ipa": "/liːf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yaprak",
+        "def": "one of the flat, usually green parts that grow from a plant's stem or branch",
+        "examples": ["A single yellow leaf fell from the tree.", "Add a bay leaf to the soup for extra flavor."]
+      }
+    ],
+    "collocations": ["green leaf", "fallen leaf", "bay leaf", "turn over a new leaf", "tea leaf"],
+    "synonyms": ["foliage"],
+    "family": [
+      { "word": "leafy", "pos": "adjective" },
+      { "word": "leaflet", "pos": "noun" }
+    ],
+    "note": "Plural: leaves. \"Turn over a new leaf\" means to start behaving better."
+  },
+  {
+    "word": "leaflet",
+    "ipa": "/ˈliːflət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "broşür, el ilanı",
+        "def": "a printed sheet of paper or a few pages given out free to advertise or inform",
+        "examples": ["Volunteers handed out leaflets about the election outside the station.", "The leaflet explains how to recycle properly."]
+      }
+    ],
+    "collocations": ["hand out leaflets", "distribute leaflets", "information leaflet", "leaflet about"],
+    "synonyms": ["flyer", "pamphlet", "brochure", "handout"],
+    "family": [{ "word": "leaf", "pos": "noun" }],
+    "note": "More common in British English. Americans usually say \"flyer\" or \"pamphlet\"."
+  },
+  {
+    "word": "league",
+    "ipa": "/liːɡ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lig",
+        "def": "a group of sports teams that play against each other to find the best",
+        "examples": ["The team finished third in the league last season.", "He plays in a local basketball league on weekends."]
+      },
+      {
+        "pos": "noun",
+        "tr": "seviye, ayar, sınıf",
+        "def": "a level of quality or ability",
+        "examples": ["That restaurant is way out of my league — it's far too expensive."]
+      }
+    ],
+    "collocations": ["major league", "league table", "league title", "out of someone's league", "in a different league", "in league with"],
+    "synonyms": ["division", "conference", "class", "alliance"],
+    "family": [],
+    "note": "\"Be in league with\" = to work secretly with someone, usually to do something bad."
+  },
+  {
+    "word": "leak",
+    "ipa": "/liːk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sızdırmak, akıtmak, sızmak",
+        "def": "to let liquid or gas escape through a small hole, or to escape in this way",
+        "examples": ["The roof leaks every time it rains.", "Gas was leaking from a broken pipe."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bilgi) sızdırmak",
+        "def": "to give secret information to the public or the media",
+        "examples": ["Someone leaked the report to the press before it was published."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sızıntı, kaçak; (bilgi) sızıntısı",
+        "def": "a small hole that lets liquid or gas escape, or a secret that is made public",
+        "examples": ["There's a leak in the kitchen faucet.", "The government is investigating the leak of classified documents."]
+      }
+    ],
+    "collocations": ["gas leak", "oil leak", "fix a leak", "spring a leak", "leak information", "leaked documents"],
+    "synonyms": ["drip", "seep", "escape", "disclose"],
+    "family": [
+      { "word": "leakage", "pos": "noun" },
+      { "word": "leaky", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "lean",
+    "ipa": "/liːn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "eğilmek, yaslanmak, dayamak",
+        "def": "to bend your body in a direction, or to rest against something for support",
+        "examples": ["She leaned forward to hear what he was saying.", "He leaned his bike against the wall."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir görüşe) meyletmek, eğilim göstermek",
+        "def": "to tend to support or prefer a particular opinion or choice",
+        "examples": ["Most voters in the district lean toward the left."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(et) yağsız; zayıf, ince; (şirket) verimli, tasarruflu",
+        "def": "having little fat, or using few resources",
+        "examples": ["Choose lean meat like chicken breast.", "The startup runs a lean operation with just five employees."]
+      }
+    ],
+    "collocations": ["lean forward", "lean back", "lean against", "lean on someone", "lean toward", "lean meat"],
+    "synonyms": ["bend", "tilt", "rest", "slim", "thin"],
+    "family": [{ "word": "leaning", "pos": "noun" }],
+    "note": "\"Lean on someone\" = depend on them for support. Past: leaned (American) or leant (British)."
+  },
+  {
+    "word": "leap",
+    "ipa": "/liːp/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sıçramak, atlamak",
+        "def": "to jump high or a long way, or move somewhere suddenly and quickly",
+        "examples": ["The dog leaped over the fence and ran into the street.", "She leaped out of bed when the alarm went off."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sıçrama, atlayış, (büyük) artış",
+        "def": "a long or high jump, or a sudden large increase or change",
+        "examples": ["Sales took a huge leap after the ad campaign.", "Moving abroad was a big leap for her."]
+      }
+    ],
+    "collocations": ["a leap forward", "quantum leap", "leap at the chance", "leap of faith", "by leaps and bounds", "leap year"],
+    "synonyms": ["jump", "spring", "bound", "surge"],
+    "family": [{ "word": "leapfrog", "pos": "noun" }],
+    "note": "Past: leaped (common in American) or leapt. \"Leap at the chance\" = accept eagerly."
+  },
+  {
+    "word": "learn",
+    "ipa": "/lɜːrn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "öğrenmek",
+        "def": "to gain knowledge or a skill by studying, practicing or being taught",
+        "examples": ["I'm learning to play the guitar.", "Kids learn languages faster than adults."]
+      },
+      {
+        "pos": "verb",
+        "tr": "öğrenmek, haber almak, duymak",
+        "def": "to find out about something",
+        "examples": ["We learned about the accident from the local news.", "She was shocked to learn that she had been fired."]
+      }
+    ],
+    "collocations": ["learn to do", "learn how to", "learn from mistakes", "learn about", "learn a lesson", "learn by heart"],
+    "synonyms": ["study", "master", "pick up", "discover", "find out"],
+    "family": [
+      { "word": "learner", "pos": "noun" },
+      { "word": "learning", "pos": "noun" },
+      { "word": "learned", "pos": "adjective" }
+    ],
+    "note": "Trap: don't say \"learn someone something\". Use \"teach\": She taught me Spanish."
+  },
+  {
+    "word": "learning",
+    "ipa": "/ˈlɜːrnɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öğrenme, öğrenim",
+        "def": "the process of gaining knowledge or skills",
+        "examples": ["The app makes language learning fun and easy.", "Children with learning difficulties may need extra support."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bilgi birikimi, ilim",
+        "def": "knowledge gained by a lot of study",
+        "examples": ["He was a man of great learning and wisdom."]
+      }
+    ],
+    "collocations": ["online learning", "distance learning", "learning curve", "machine learning", "lifelong learning", "learning disability"],
+    "synonyms": ["education", "study", "knowledge", "scholarship"],
+    "family": [
+      { "word": "learn", "pos": "verb" },
+      { "word": "learner", "pos": "noun" }
+    ],
+    "note": "\"A steep learning curve\" means you have to learn a lot quickly."
+  },
+  {
+    "word": "least",
+    "ipa": "/liːst/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "en az",
+        "def": "to the smallest degree",
+        "examples": ["This is the least expensive hotel in town.", "The problem appeared when we least expected it."]
+      },
+      {
+        "pos": "determiner",
+        "tr": "en az, en küçük",
+        "def": "the smallest in amount or degree",
+        "examples": ["The bus is the option that uses the least energy."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "en az (miktar)",
+        "def": "the smallest amount or number",
+        "examples": ["It's the least I can do after all your help."]
+      }
+    ],
+    "collocations": ["at least", "the least I can do", "not in the least", "last but not least", "least likely", "to say the least"],
+    "synonyms": ["fewest", "smallest", "minimum"],
+    "family": [{ "word": "less", "pos": "determiner" }],
+    "note": "\"At least\" = not less than / anyway. \"Not in the least\" = not at all."
+  },
+  {
+    "word": "leather",
+    "ipa": "/ˈleðər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "deri",
+        "def": "material made from animal skin, used to make shoes, bags, jackets, etc.",
+        "examples": ["He bought a black leather jacket in Florence.", "The sofa is made of real leather."]
+      }
+    ],
+    "collocations": ["leather jacket", "leather shoes", "genuine leather", "made of leather", "leather bag", "leather seats"],
+    "synonyms": ["hide", "skin"],
+    "family": [{ "word": "leathery", "pos": "adjective" }]
+  },
+  {
+    "word": "leave",
+    "ipa": "/liːv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ayrılmak, çıkmak, gitmek",
+        "def": "to go away from a person or place",
+        "examples": ["What time do you leave for work?", "She left the party early because she had a headache."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bırakmak, unutmak",
+        "def": "to let something stay where it is, or to forget to take it",
+        "examples": ["I left my phone in the taxi.", "Leave the door open, please."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bırakmak, terk etmek, (işten) ayrılmak",
+        "def": "to stop living with someone or stop being part of a job or organization",
+        "examples": ["He left his job to start his own business."]
+      },
+      {
+        "pos": "noun",
+        "tr": "izin",
+        "def": "a period of time when you are allowed to be away from work",
+        "examples": ["She's on maternity leave until March.", "He took two weeks of sick leave."]
+      }
+    ],
+    "collocations": ["leave for", "leave home", "leave a message", "leave someone alone", "on leave", "maternity leave", "sick leave"],
+    "synonyms": ["depart", "go", "quit", "abandon", "vacation"],
+    "family": [{ "word": "leaver", "pos": "noun" }],
+    "note": "Irregular: leave – left – left. \"Leave for\" shows destination: \"leave for Paris\" (Paris'e gitmek üzere ayrılmak)."
+  },
+  {
+    "word": "lecture",
+    "ipa": "/ˈlektʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ders, konferans, sunum",
+        "def": "a talk given to a group of people to teach them about a subject, especially at a university",
+        "examples": ["The professor gave a lecture on climate science.", "I missed the morning lecture because I overslept."]
+      },
+      {
+        "pos": "noun",
+        "tr": "nutuk, azar, uzun nasihat",
+        "def": "a long, serious talk criticizing someone or telling them how to behave",
+        "examples": ["My dad gave me a lecture about coming home late."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ders vermek; nutuk atmak, azarlamak",
+        "def": "to give a talk to teach people, or to criticize someone in a long, serious way",
+        "examples": ["She lectures in economics at a state university.", "Stop lecturing me — I know I made a mistake."]
+      }
+    ],
+    "collocations": ["give a lecture", "attend a lecture", "lecture hall", "lecture on", "a lecture about"],
+    "synonyms": ["talk", "speech", "presentation", "lesson", "scold"],
+    "family": [{ "word": "lecturer", "pos": "noun" }],
+    "note": "Trap: Turkish \"lektör\" is not a lecturer. A \"lecturer\" is a university teacher (öğretim görevlisi)."
+  },
+  {
+    "word": "left",
+    "ipa": "/left/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sol",
+        "def": "on the side of your body that is toward the west when you face north",
+        "examples": ["She wears her watch on her left wrist.", "The bathroom is the second door on the left side."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "sola",
+        "def": "toward the left side",
+        "examples": ["Turn left at the next traffic light."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sol taraf; (siyaset) sol",
+        "def": "the left side or direction, or political groups that support social equality and change",
+        "examples": ["The school is on your left after the bridge.", "Many on the left criticized the new tax plan."]
+      }
+    ],
+    "collocations": ["on the left", "to the left", "turn left", "left-hand side", "the political left", "left-wing"],
+    "synonyms": [],
+    "family": [
+      { "word": "left-handed", "pos": "adjective" },
+      { "word": "left-wing", "pos": "adjective" },
+      { "word": "leftist", "pos": "noun" }
+    ],
+    "note": "\"Left\" is also the past of \"leave\": I left early. \"Left over\" = remaining."
+  },
+  {
+    "word": "leg",
+    "ipa": "/leɡ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bacak",
+        "def": "one of the long parts of the body that connect the feet to the rest of the body",
+        "examples": ["He broke his leg playing soccer.", "My legs were sore after the long hike."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(masa, sandalye) ayak",
+        "def": "one of the parts that support a table, chair, etc.",
+        "examples": ["One leg of the table is shorter than the others."]
+      },
+      {
+        "pos": "noun",
+        "tr": "etap, ayak (yolculuk, turne)",
+        "def": "one part of a journey, race or competition",
+        "examples": ["The band starts the European leg of its tour next month."]
+      }
+    ],
+    "collocations": ["break your leg", "stretch your legs", "leg injury", "table leg", "the first leg", "pull someone's leg"],
+    "synonyms": ["limb", "stage", "part"],
+    "family": [{ "word": "legged", "pos": "adjective" }],
+    "note": "\"Pull someone's leg\" = joke with them. \"Break a leg!\" = good luck (to performers)."
+  },
+  {
+    "word": "legacy",
+    "ipa": "/ˈleɡəsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "miras, kalıt",
+        "def": "money or property left to someone after a person's death",
+        "examples": ["She left a large legacy to the local hospital."]
+      },
+      {
+        "pos": "noun",
+        "tr": "miras, bıraktığı iz, kalıntı",
+        "def": "something, good or bad, that exists as a result of past events or a person's actions",
+        "examples": ["The president's legacy will be judged by future generations.", "Pollution is the legacy of decades of heavy industry."]
+      }
+    ],
+    "collocations": ["leave a legacy", "lasting legacy", "cultural legacy", "legacy of the past", "legacy system"],
+    "synonyms": ["inheritance", "heritage", "bequest", "consequence"],
+    "family": [],
+    "note": "In tech, \"legacy\" describes old systems still in use: legacy software."
+  },
+  {
+    "word": "legal",
+    "ipa": "/ˈliːɡl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "hukuki, yasal (hukukla ilgili)",
+        "def": "connected with the law",
+        "examples": ["You should get legal advice before you sign anything.", "The company is facing legal action from former employees."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yasal, kanuni, meşru",
+        "def": "allowed by the law",
+        "examples": ["Is it legal to drive with headphones on?", "The legal drinking age in the US is 21."]
+      }
+    ],
+    "collocations": ["legal advice", "legal action", "legal system", "legal requirement", "perfectly legal", "legal age"],
+    "synonyms": ["lawful", "legitimate", "judicial", "permitted"],
+    "family": [
+      { "word": "illegal", "pos": "adjective" },
+      { "word": "legally", "pos": "adverb" },
+      { "word": "legality", "pos": "noun" },
+      { "word": "legalize", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "legend",
+    "ipa": "/ˈledʒənd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "efsane, söylence",
+        "def": "an old story about people and events that may or may not be true",
+        "examples": ["According to legend, the lake was formed by a giant's tears.", "The legend of King Arthur has been told for centuries."]
+      },
+      {
+        "pos": "noun",
+        "tr": "efsane (kişi), efsanevi isim",
+        "def": "a very famous person, admired for their skill in a particular area",
+        "examples": ["He's a basketball legend who inspired a generation of players."]
+      }
+    ],
+    "collocations": ["according to legend", "local legend", "living legend", "urban legend", "legend has it that", "sporting legend"],
+    "synonyms": ["myth", "tale", "folklore", "icon", "celebrity"],
+    "family": [{ "word": "legendary", "pos": "adjective" }],
+    "note": "An \"urban legend\" is a modern story that many people believe but is probably false."
+  },
+  {
+    "word": "legendary",
+    "ipa": "/ˈledʒənderi/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "efsanevi, dillere destan",
+        "def": "very famous and much talked about, often because of special skill",
+        "examples": ["The chef is legendary for his perfect steaks.", "The band's legendary 1985 concert is still talked about today."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "efsanevi, efsanelerde geçen",
+        "def": "mentioned in old stories",
+        "examples": ["The dragon is a legendary creature found in many cultures."]
+      }
+    ],
+    "collocations": ["legendary figure", "legendary status", "legendary for", "legendary performance", "legendary hero"],
+    "synonyms": ["famous", "renowned", "iconic", "mythical"],
+    "family": [{ "word": "legend", "pos": "noun" }]
+  },
+  {
+    "word": "legislate",
+    "ipa": "/ˈledʒɪsleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yasa çıkarmak, yasayla düzenlemek",
+        "def": "to make a law that affects or controls something",
+        "examples": ["Congress has been slow to legislate on artificial intelligence.", "Several states have legislated against smoking in public places."]
+      }
+    ],
+    "collocations": ["legislate for", "legislate against", "legislate on", "power to legislate"],
+    "synonyms": ["enact", "regulate", "pass laws"],
+    "family": [
+      { "word": "legislation", "pos": "noun" },
+      { "word": "legislative", "pos": "adjective" },
+      { "word": "legislator", "pos": "noun" },
+      { "word": "legislature", "pos": "noun" }
+    ],
+    "note": "Formal. You can't \"legislate morality\" means laws cannot force people to be good."
+  },
+  {
+    "word": "legislation",
+    "ipa": "/ˌledʒɪsˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mevzuat, yasa(lar), yasama",
+        "def": "a law or set of laws passed by a parliament or government",
+        "examples": ["New legislation will ban single-use plastic bags.", "The Senate passed the legislation by a narrow margin."]
+      }
+    ],
+    "collocations": ["pass legislation", "introduce legislation", "new legislation", "piece of legislation", "under current legislation", "legislation on"],
+    "synonyms": ["law", "laws", "regulations", "statute"],
+    "family": [
+      { "word": "legislate", "pos": "verb" },
+      { "word": "legislative", "pos": "adjective" },
+      { "word": "legislator", "pos": "noun" }
+    ],
+    "note": "Uncountable: \"a piece of legislation\", not \"a legislation\"."
+  },
+  {
+    "word": "legislative",
+    "ipa": "/ˈledʒɪsleɪtɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yasama ile ilgili, yasama",
+        "def": "connected with making and passing laws",
+        "examples": ["Congress is the legislative branch of the US government.", "The bill faced several legislative hurdles."]
+      }
+    ],
+    "collocations": ["legislative branch", "legislative body", "legislative process", "legislative power", "legislative agenda"],
+    "synonyms": ["lawmaking", "parliamentary", "congressional"],
+    "family": [
+      { "word": "legislate", "pos": "verb" },
+      { "word": "legislation", "pos": "noun" },
+      { "word": "legislature", "pos": "noun" }
+    ],
+    "note": "The three branches of US government: legislative, executive and judicial (yasama, yürütme, yargı)."
+  },
+  {
+    "word": "legislature",
+    "ipa": "/ˈledʒɪsleɪtʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yasama meclisi, yasama organı",
+        "def": "a group of people with the power to make and change laws",
+        "examples": ["The state legislature voted to raise the minimum wage.", "The bill now goes to the legislature for approval."]
+      }
+    ],
+    "collocations": ["state legislature", "national legislature", "the legislature passed", "members of the legislature"],
+    "synonyms": ["parliament", "congress", "assembly", "senate"],
+    "family": [
+      { "word": "legislator", "pos": "noun" },
+      { "word": "legislative", "pos": "adjective" }
+    ],
+    "note": "Legislature = the body (meclis); legislation = the laws it makes (mevzuat); legislator = a member (milletvekili)."
+  },
+  {
+    "word": "legitimate",
+    "ipa": "/lɪˈdʒɪtɪmət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "makul, haklı, geçerli",
+        "def": "having a fair and acceptable reason",
+        "examples": ["That's a perfectly legitimate question.", "Customers have a legitimate reason to complain about the delays."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yasal, meşru",
+        "def": "allowed and recognized by law or by accepted rules",
+        "examples": ["Is this a legitimate business or a scam?", "The election was seen as free and legitimate."]
+      }
+    ],
+    "collocations": ["legitimate concern", "legitimate reason", "legitimate question", "legitimate business", "legitimate government"],
+    "synonyms": ["valid", "reasonable", "justified", "lawful", "legal"],
+    "family": [
+      { "word": "legitimacy", "pos": "noun" },
+      { "word": "legitimately", "pos": "adverb" },
+      { "word": "illegitimate", "pos": "adjective" },
+      { "word": "legitimize", "pos": "verb" }
+    ],
+    "note": "Informal short form: \"legit\" (That place is totally legit)."
+  },
+  {
+    "word": "leisure",
+    "ipa": "/ˈliːʒər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "boş zaman, serbest zaman",
+        "def": "time when you are not working or studying and can relax",
+        "examples": ["Most people spend their leisure time watching TV or online.", "The hotel has excellent leisure facilities, including a pool and spa."]
+      }
+    ],
+    "collocations": ["leisure time", "leisure activities", "at your leisure", "leisure facilities", "leisure center"],
+    "synonyms": ["free time", "spare time", "relaxation", "recreation"],
+    "family": [
+      { "word": "leisurely", "pos": "adjective" }
+    ],
+    "note": "\"At your leisure\" = when it is convenient for you. American pronunciation: /ˈliːʒər/ (LEE-zher)."
+  },
+  {
+    "word": "lemon",
+    "ipa": "/ˈlemən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "limon",
+        "def": "a yellow fruit with sour juice, used in cooking and drinks",
+        "examples": ["Squeeze some lemon over the fish before serving.", "She drinks hot water with lemon every morning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(araba vb.) sürekli arıza çıkaran, çürük mal",
+        "def": "a product, especially a car, that has many faults (informal, American)",
+        "examples": ["The used car turned out to be a total lemon."]
+      }
+    ],
+    "collocations": ["lemon juice", "a slice of lemon", "squeeze a lemon", "lemon tree", "lemon zest"],
+    "synonyms": ["dud"],
+    "family": [{ "word": "lemonade", "pos": "noun" }],
+    "note": "In the US, \"lemonade\" is usually a still drink of lemon juice, sugar and water, not a fizzy soda."
+  },
+  {
+    "word": "lend",
+    "ipa": "/lend/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ödünç vermek, borç vermek",
+        "def": "to give something to someone for a time, expecting them to give it back",
+        "examples": ["Could you lend me twenty dollars until Friday?", "The bank refused to lend them money for a new house."]
+      },
+      {
+        "pos": "verb",
+        "tr": "katmak, vermek, (yardım) etmek",
+        "def": "to add a particular quality to something, or to give help or support",
+        "examples": ["The candles lend a romantic feel to the room.", "Can you lend me a hand with these boxes?"]
+      }
+    ],
+    "collocations": ["lend money", "lend someone something", "lend a hand", "lend support", "lend weight to", "lend itself to"],
+    "synonyms": ["loan", "advance", "give", "provide"],
+    "family": [
+      { "word": "lender", "pos": "noun" },
+      { "word": "lending", "pos": "noun" }
+    ],
+    "note": "Irregular: lend – lent – lent. Lend = give temporarily; borrow = take temporarily. Turkish \"ödünç almak\" = borrow."
+  },
+  {
+    "word": "length",
+    "ipa": "/leŋkθ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "uzunluk, boy",
+        "def": "the size of something from one end to the other",
+        "examples": ["The bridge is about two miles in length.", "Measure the length and width of the room."]
+      },
+      {
+        "pos": "noun",
+        "tr": "süre, uzunluk",
+        "def": "the amount of time something lasts or the amount of writing in something",
+        "examples": ["The length of the movie is almost three hours.", "Essays should be around 2,000 words in length."]
+      }
+    ],
+    "collocations": ["in length", "the length of", "at length", "go to great lengths", "full-length", "length of time"],
+    "synonyms": ["extent", "distance", "duration", "span"],
+    "family": [
+      { "word": "long", "pos": "adjective" },
+      { "word": "lengthy", "pos": "adjective" },
+      { "word": "lengthen", "pos": "verb" }
+    ],
+    "note": "\"Go to great lengths\" = make a big effort. \"At length\" = for a long time / in detail."
+  },
+  {
+    "word": "lengthy",
+    "ipa": "/ˈleŋkθi/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "uzun, uzun soluklu, upuzun",
+        "def": "very long in time or size, often too long",
+        "examples": ["After a lengthy discussion, they finally agreed on a plan.", "The application process is lengthy and complicated."]
+      }
+    ],
+    "collocations": ["lengthy process", "lengthy discussion", "lengthy delay", "lengthy report", "lengthy period"],
+    "synonyms": ["long", "prolonged", "extended", "drawn-out"],
+    "family": [
+      { "word": "length", "pos": "noun" },
+      { "word": "lengthen", "pos": "verb" }
+    ],
+    "note": "Often slightly negative, suggesting something is longer than necessary."
+  },
+  {
+    "word": "lens",
+    "ipa": "/lenz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mercek, lens, objektif",
+        "def": "a curved piece of glass or plastic that makes things look larger, smaller or clearer",
+        "examples": ["She bought a new lens for her camera.", "I wear contact lenses instead of glasses."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bakış açısı, perspektif",
+        "def": "a particular way of looking at or understanding something",
+        "examples": ["The book examines history through the lens of women's experience."]
+      }
+    ],
+    "collocations": ["contact lens", "camera lens", "zoom lens", "wide-angle lens", "through the lens of"],
+    "synonyms": ["glass", "perspective", "viewpoint"],
+    "family": [],
+    "note": "Plural: lenses. In Turkish \"lens\" usually means contact lens; in English it means any lens."
+  },
+  {
+    "word": "lesbian",
+    "ipa": "/ˈlezbiən/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "lezbiyen",
+        "def": "used about a woman who is sexually attracted to other women, or connected with such women",
+        "examples": ["The film tells the story of a lesbian couple raising two kids.", "She was one of the first openly lesbian politicians in the state."]
+      },
+      {
+        "pos": "noun",
+        "tr": "lezbiyen",
+        "def": "a woman who is sexually attracted to other women",
+        "examples": ["The group offers support for lesbians and gay men."]
+      }
+    ],
+    "collocations": ["lesbian couple", "openly lesbian", "lesbian and gay", "lesbian community"],
+    "synonyms": ["gay"],
+    "family": [{ "word": "lesbianism", "pos": "noun" }]
+  },
+  {
+    "word": "less",
+    "ipa": "/les/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "daha az",
+        "def": "to a smaller degree; not so much",
+        "examples": ["The second movie was less exciting than the first.", "I've been eating less since I started the diet."]
+      },
+      {
+        "pos": "determiner",
+        "tr": "daha az",
+        "def": "a smaller amount of (used with uncountable nouns)",
+        "examples": ["You should spend less time on your phone.", "The new model uses less fuel."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "daha azı, daha az miktar",
+        "def": "a smaller amount",
+        "examples": ["The repair cost less than we expected."]
+      }
+    ],
+    "collocations": ["less than", "more or less", "less and less", "no less than", "much less", "less often"],
+    "synonyms": ["fewer", "lower", "not as much"],
+    "family": [
+      { "word": "lesser", "pos": "adjective" },
+      { "word": "lessen", "pos": "verb" },
+      { "word": "least", "pos": "adverb" }
+    ],
+    "note": "Traditionally, use \"less\" with uncountable nouns (less money) and \"fewer\" with plurals (fewer people)."
+  },
+  {
+    "word": "lesser",
+    "ipa": "/ˈlesər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "daha az, daha küçük, daha önemsiz",
+        "def": "not as great in size, amount or importance as something else",
+        "examples": ["He chose the lesser of two evils and voted for the moderate candidate.", "The storm hit the coast hard and inland areas to a lesser extent."]
+      }
+    ],
+    "collocations": ["to a lesser extent", "to a lesser degree", "the lesser of two evils", "lesser-known", "lesser amount"],
+    "synonyms": ["smaller", "minor", "lower", "inferior"],
+    "family": [{ "word": "less", "pos": "determiner" }],
+    "note": "Used before nouns or in fixed phrases, never with \"than\": say \"less than\", not \"lesser than\"."
+  },
+  {
+    "word": "lesson",
+    "ipa": "/ˈlesn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ders",
+        "def": "a period of time when someone is taught something",
+        "examples": ["She takes piano lessons twice a week.", "Today's lesson is about the American Civil War."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ders, ibret",
+        "def": "an experience that teaches you something, especially what not to do",
+        "examples": ["Losing all my files taught me a lesson: always make backups.", "The government must learn the lessons of the last crisis."]
+      }
+    ],
+    "collocations": ["take lessons", "driving lessons", "learn a lesson", "teach someone a lesson", "lessons learned", "a valuable lesson"],
+    "synonyms": ["class", "session", "lecture", "moral", "warning"],
+    "family": [],
+    "note": "Turkish \"ders\" can also mean a school subject; for that, English says \"subject\": My favorite subject is math."
+  },
+  {
+    "word": "let",
+    "ipa": "/let/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "izin vermek, bırakmak",
+        "def": "to allow someone to do something or something to happen",
+        "examples": ["My parents never let me stay out after ten.", "Don't let the dog sleep on the bed."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(öneri) hadi, -elim",
+        "def": "used in \"let's\" to make a suggestion or in \"let me\" to offer something",
+        "examples": ["Let's grab lunch after the meeting.", "Let me help you with those bags."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kiraya vermek",
+        "def": "to allow someone to use a room or building in return for rent (mainly British)",
+        "examples": ["They let the apartment to students during the school year."]
+      }
+    ],
+    "collocations": ["let someone do", "let's go", "let me know", "let go of", "let someone down", "let alone"],
+    "synonyms": ["allow", "permit", "rent"],
+    "family": [],
+    "note": "Irregular: let – let – let. No \"to\" after let: \"let me go\", not \"let me to go\". \"Let alone\" = still less."
+  },
+  {
+    "word": "lethal",
+    "ipa": "/ˈliːθl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "öldürücü, ölümcül",
+        "def": "causing or able to cause death",
+        "examples": ["The drug can be lethal if mixed with alcohol.", "He was executed by lethal injection."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "çok tehlikeli, yıkıcı",
+        "def": "very harmful or effective (informal)",
+        "examples": ["The striker is lethal in front of the goal."]
+      }
+    ],
+    "collocations": ["lethal dose", "lethal injection", "lethal weapon", "potentially lethal", "lethal combination"],
+    "synonyms": ["deadly", "fatal", "mortal", "toxic"],
+    "family": [
+      { "word": "lethally", "pos": "adverb" },
+      { "word": "lethality", "pos": "noun" }
+    ],
+    "note": "Lethal = able to kill; fatal = actually caused death (a fatal accident)."
+  },
+  {
+    "word": "letter",
+    "ipa": "/ˈletər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mektup",
+        "def": "a written message that is sent to someone in an envelope or by email",
+        "examples": ["I received a letter from the bank about my account.", "She wrote a cover letter to go with her application."]
+      },
+      {
+        "pos": "noun",
+        "tr": "harf",
+        "def": "a written symbol that represents a sound in a language",
+        "examples": ["The English alphabet has 26 letters.", "Write your name in capital letters."]
+      }
+    ],
+    "collocations": ["write a letter", "send a letter", "cover letter", "capital letter", "to the letter", "letter of recommendation"],
+    "synonyms": ["message", "note", "character"],
+    "family": [{ "word": "letterhead", "pos": "noun" }],
+    "note": "\"Follow instructions to the letter\" = exactly. A \"cover letter\" is \"ön yazı\" for a job application."
+  },
+  {
+    "word": "level",
+    "ipa": "/ˈlevl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "seviye, düzey",
+        "def": "the amount, degree or standard of something",
+        "examples": ["Pollution levels in the city have risen sharply.", "This course is designed for students at an advanced level."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yükseklik, seviye; kat",
+        "def": "the height of something, or a floor in a building",
+        "examples": ["The town is 2,000 feet above sea level.", "The parking garage has four levels."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "düz, yatay, eşit",
+        "def": "having a flat surface that does not slope, or at the same height or position",
+        "examples": ["Make sure the shelf is level before you screw it in."]
+      },
+      {
+        "pos": "verb",
+        "tr": "düzlemek, yerle bir etmek; (skor) eşitlemek",
+        "def": "to make something flat, or to destroy a building completely",
+        "examples": ["The earthquake leveled half the town."]
+      }
+    ],
+    "collocations": ["high level", "sea level", "level of", "at a level", "on the level", "level off", "level playing field"],
+    "synonyms": ["degree", "standard", "height", "flat", "even"],
+    "family": [{ "word": "leveled", "pos": "adjective" }],
+    "note": "\"A level playing field\" = a fair situation for everyone. American spelling: leveled, leveling."
+  },
+  {
+    "word": "levy",
+    "ipa": "/ˈlevi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "vergi, harç, resim",
+        "def": "an extra amount of money that must be paid, such as a tax",
+        "examples": ["The city introduced a levy on plastic bags.", "Airlines pay a levy on every ticket sold."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(vergi, ceza) koymak, uygulamak",
+        "def": "to officially demand and collect a tax or fine",
+        "examples": ["The government plans to levy a new tax on sugary drinks.", "A fine was levied on the company for polluting the river."]
+      }
+    ],
+    "collocations": ["levy a tax", "levy a fine", "impose a levy", "levy on", "tax levy"],
+    "synonyms": ["tax", "duty", "charge", "impose", "tariff"],
+    "family": [],
+    "note": "Formal. The verb is usually used with \"tax\", \"fine\" or \"charge\" as object: levy a tax on something."
+  },
+  {
+    "word": "liable",
+    "ipa": "/ˈlaɪəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "(hukuken) sorumlu, yükümlü",
+        "def": "legally responsible for paying for something or for damage",
+        "examples": ["The landlord was held liable for the tenant's injuries.", "You may be liable for any damage to the rental car."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "-mesi muhtemel, -meye yatkın",
+        "def": "likely to do something or be affected by something, usually something bad",
+        "examples": ["Old bridges are liable to collapse in strong earthquakes."]
+      }
+    ],
+    "collocations": ["liable for", "held liable", "legally liable", "liable to do something", "personally liable"],
+    "synonyms": ["responsible", "accountable", "likely", "prone"],
+    "family": [{ "word": "liability", "pos": "noun" }],
+    "note": "\"Be liable to\" is often used for negative possibilities. \"Liability\" also means a person or thing that causes problems."
+  },
+  {
+    "word": "liberal",
+    "ipa": "/ˈlɪbərəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "liberal, hoşgörülü, açık fikirli",
+        "def": "respecting others' opinions and behavior and supporting personal freedom",
+        "examples": ["She grew up in a liberal household where everything could be discussed.", "The city is known for its liberal attitudes."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(ABD siyaseti) sol eğilimli, liberal",
+        "def": "in US politics, supporting social change and government action to help people",
+        "examples": ["Liberal voters strongly supported the healthcare bill."]
+      },
+      {
+        "pos": "noun",
+        "tr": "liberal (kişi)",
+        "def": "a person who has liberal views",
+        "examples": ["He describes himself as a lifelong liberal."]
+      }
+    ],
+    "collocations": ["liberal views", "liberal democracy", "liberal arts", "liberal attitude", "liberal party", "liberal use of"],
+    "synonyms": ["tolerant", "open-minded", "progressive", "generous"],
+    "family": [
+      { "word": "liberalism", "pos": "noun" },
+      { "word": "liberalize", "pos": "verb" },
+      { "word": "liberally", "pos": "adverb" }
+    ],
+    "note": "In the US, \"liberal\" means left-leaning. In Europe and Turkey it often means pro-free-market. \"Liberal arts\" = humanities."
+  },
+  {
+    "word": "liberation",
+    "ipa": "/ˌlɪbəˈreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kurtuluş, özgürleşme, kurtarılma",
+        "def": "the act of freeing a country, group or person from someone else's control",
+        "examples": ["The city celebrates its liberation from occupation every year.", "The women's liberation movement grew rapidly in the 1970s."]
+      }
+    ],
+    "collocations": ["liberation movement", "national liberation", "women's liberation", "liberation from", "liberation army"],
+    "synonyms": ["freedom", "release", "emancipation", "deliverance"],
+    "family": [
+      { "word": "liberate", "pos": "verb" },
+      { "word": "liberated", "pos": "adjective" },
+      { "word": "liberator", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "liberty",
+    "ipa": "/ˈlɪbərti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "özgürlük, hürriyet",
+        "def": "freedom to live as you choose without too many limits from authority",
+        "examples": ["The constitution protects basic civil liberties.", "They fought for liberty and independence."]
+      },
+      {
+        "pos": "noun",
+        "tr": "serbestlik, (bir şeyi yapma) özgürlüğü",
+        "def": "the freedom or right to do something",
+        "examples": ["I'm not at liberty to discuss the details of the case."]
+      }
+    ],
+    "collocations": ["civil liberties", "individual liberty", "at liberty to", "take the liberty of", "personal liberty"],
+    "synonyms": ["freedom", "independence", "autonomy", "right"],
+    "family": [
+      { "word": "liberate", "pos": "verb" },
+      { "word": "libertarian", "pos": "noun" }
+    ],
+    "note": "\"Take the liberty of doing\" = do something without asking permission. \"Take liberties\" = act too freely."
+  },
+  {
+    "word": "library",
+    "ipa": "/ˈlaɪbreri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kütüphane",
+        "def": "a building or room where books and other materials are kept for people to read or borrow",
+        "examples": ["I borrowed three novels from the public library.", "She spends most afternoons studying in the university library."]
+      },
+      {
+        "pos": "noun",
+        "tr": "koleksiyon, arşiv; (yazılım) kütüphane",
+        "def": "a collection of books, music, films or software",
+        "examples": ["The app gives you access to a huge music library."]
+      }
+    ],
+    "collocations": ["public library", "school library", "library card", "library book", "borrow from the library"],
+    "synonyms": ["archive", "collection"],
+    "family": [{ "word": "librarian", "pos": "noun" }],
+    "note": "Trap: \"library\" is not \"kitapçı\" (bookstore). You borrow from a library and buy from a bookstore."
+  },
+  {
+    "word": "license",
+    "ipa": "/ˈlaɪsns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ruhsat, ehliyet, lisans, izin belgesi",
+        "def": "an official document that shows you have permission to do, own or use something",
+        "examples": ["You need a valid driver's license to rent a car.", "The bar lost its liquor license after the incident."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ruhsat vermek, lisans vermek",
+        "def": "to officially give someone permission to do, own or use something",
+        "examples": ["The restaurant is licensed to serve alcohol.", "The software is licensed to schools for free."]
+      }
+    ],
+    "collocations": ["driver's license", "license plate", "lose your license", "under license", "license to", "licensed to"],
+    "synonyms": ["permit", "certificate", "permission", "authorize"],
+    "family": [
+      { "word": "licensed", "pos": "adjective" },
+      { "word": "licensing", "pos": "noun" },
+      { "word": "licensee", "pos": "noun" }
+    ],
+    "note": "American English uses \"license\" for both noun and verb. British uses \"licence\" (noun) and \"license\" (verb)."
+  },
+  {
+    "word": "lie",
+    "ipa": "/laɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "uzanmak, yatmak",
+        "def": "to be or put yourself in a flat position, for example on a bed",
+        "examples": ["I just want to lie on the couch and watch TV.", "He was lying on the beach reading a book."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bulunmak, yer almak",
+        "def": "to be in a particular place or state",
+        "examples": ["The town lies at the foot of the mountains.", "The problem lies in poor communication."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yalan söylemek",
+        "def": "to say something that you know is not true",
+        "examples": ["He lied about his age to get the job.", "Don't lie to me — I know what happened."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yalan",
+        "def": "a statement that you know is not true",
+        "examples": ["She told a lie to avoid getting in trouble."]
+      }
+    ],
+    "collocations": ["lie down", "lie in bed", "lie to someone", "tell a lie", "white lie", "lie in"],
+    "synonyms": ["recline", "rest", "be located", "fib", "falsehood"],
+    "family": [
+      { "word": "liar", "pos": "noun" },
+      { "word": "lying", "pos": "noun" }
+    ],
+    "note": "Two verbs: lie – lay – lain (be flat) and lie – lied – lied (say false things). -ing form: lying."
+  },
+  {
+    "word": "life",
+    "ipa": "/laɪf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hayat, yaşam, can",
+        "def": "the state of being alive, or the period between birth and death",
+        "examples": ["The firefighter risked his life to save the children.", "She spent her whole life in the same small town."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hayat, yaşantı, yaşam tarzı",
+        "def": "the way a person lives or a particular part of someone's experience",
+        "examples": ["City life can be stressful.", "He keeps his private life out of the media."]
+      },
+      {
+        "pos": "noun",
+        "tr": "canlılar, canlı varlıklar",
+        "def": "living things in general",
+        "examples": ["Scientists are searching for signs of life on Mars."]
+      }
+    ],
+    "collocations": ["save someone's life", "risk your life", "real life", "daily life", "way of life", "life expectancy", "for life"],
+    "synonyms": ["existence", "being", "lifetime", "lifestyle"],
+    "family": [
+      { "word": "live", "pos": "verb" },
+      { "word": "lifelong", "pos": "adjective" },
+      { "word": "lifetime", "pos": "noun" },
+      { "word": "lifeless", "pos": "adjective" }
+    ],
+    "note": "Plural: lives /laɪvz/. \"For life\" = for the rest of your life (a life sentence)."
+  }
+]

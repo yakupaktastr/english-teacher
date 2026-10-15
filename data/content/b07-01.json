@@ -1,0 +1,1092 @@
+[
+  {
+    "word": "notify",
+    "ipa": "/ˈnəʊtɪfaɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(resmi olarak) bildirmek, haber vermek",
+        "def": "to tell someone about something officially or formally",
+        "examples": ["Passengers will be notified by text message if the flight is delayed.", "You must notify the bank immediately if your card is stolen."]
+      }
+    ],
+    "collocations": ["notify someone of something", "notify the police", "be notified in writing", "notify someone immediately"],
+    "synonyms": ["inform", "tell", "advise", "alert"],
+    "family": [{ "word": "notification", "pos": "noun" }],
+    "note": "Pattern: notify someone OF something (not \"notify something to someone\" in everyday use). More formal than tell."
+  },
+  {
+    "word": "notion",
+    "ipa": "/ˈnəʊʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fikir, kavram, düşünce",
+        "def": "an idea or belief about something, often one that is vague or not fully accepted",
+        "examples": ["She rejected the notion that women are less ambitious than men.", "I had no notion of how expensive the repairs would be."]
+      }
+    ],
+    "collocations": ["the notion that", "reject the notion", "have no notion of", "a vague notion", "challenge the notion"],
+    "synonyms": ["idea", "concept", "belief", "impression"],
+    "family": [{ "word": "notional", "pos": "adjective" }]
+  },
+  {
+    "word": "notorious",
+    "ipa": "/nəʊˈtɔːriəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kötü şöhretli, adı çıkmış, dillere düşmüş",
+        "def": "famous for something bad",
+        "examples": ["The intersection is notorious for traffic accidents.", "He was a notorious gang leader in the 1990s."]
+      }
+    ],
+    "collocations": ["notorious for", "a notorious criminal", "notoriously difficult", "become notorious"],
+    "synonyms": ["infamous", "disreputable"],
+    "family": [
+      { "word": "notoriously", "pos": "adverb" },
+      { "word": "notoriety", "pos": "noun" }
+    ],
+    "note": "Always negative, unlike famous. Trap: Turkish \"meşhur\" can be neutral, but notorious is never a compliment."
+  },
+  {
+    "word": "notwithstanding",
+    "ipa": "/ˌnɑːtwɪθˈstændɪŋ/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "-e rağmen, -e karşın",
+        "def": "despite something; without being affected by it",
+        "examples": ["Notwithstanding the bad weather, the festival drew a huge crowd.", "The project went ahead, budget problems notwithstanding."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yine de, buna rağmen",
+        "def": "in spite of what has just been said",
+        "examples": ["The plan has some flaws; notwithstanding, we should give it a try."]
+      }
+    ],
+    "collocations": ["notwithstanding the fact that", "notwithstanding these difficulties", "concerns notwithstanding"],
+    "synonyms": ["despite", "in spite of", "nevertheless"],
+    "family": [],
+    "note": "Very formal, typical of legal and academic writing. It can come before or after the noun."
+  },
+  {
+    "word": "novel",
+    "ipa": "/ˈnɑːvl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "roman",
+        "def": "a long written story about imaginary people and events, filling a whole book",
+        "examples": ["She spent three years writing her first novel.", "I read a crime novel on the flight home."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yeni, alışılmadık, yenilikçi",
+        "def": "new and different from anything seen or done before",
+        "examples": ["Researchers have found a novel way to recycle plastic bottles.", "The virus was a novel strain that doctors had never seen."]
+      }
+    ],
+    "collocations": ["write a novel", "a historical novel", "a graphic novel", "a novel approach", "a novel idea"],
+    "synonyms": ["book", "fiction", "new", "original", "innovative"],
+    "family": [
+      { "word": "novelist", "pos": "noun" },
+      { "word": "novelty", "pos": "noun" }
+    ],
+    "note": "Trap: a novel is fiction. A non-fiction book is not a novel."
+  },
+  {
+    "word": "novelist",
+    "ipa": "/ˈnɑːvəlɪst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "romancı, roman yazarı",
+        "def": "a person who writes novels",
+        "examples": ["The novelist based the story on her childhood in Ohio.", "He is best known as a novelist, but he also writes poetry."]
+      }
+    ],
+    "collocations": ["a best-selling novelist", "a famous novelist", "an award-winning novelist", "a first-time novelist"],
+    "synonyms": ["author", "writer"],
+    "family": [{ "word": "novel", "pos": "noun" }]
+  },
+  {
+    "word": "November",
+    "ipa": "/nəʊˈvembər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kasım",
+        "def": "the eleventh month of the year, after October and before December",
+        "examples": ["Americans celebrate Thanksgiving in late November.", "The election will be held on November 5."]
+      }
+    ],
+    "collocations": ["in November", "on November 5", "early November", "last November"],
+    "synonyms": [],
+    "family": [],
+    "note": "Months always start with a capital letter in English. Use \"in November\" but \"on November 5\"."
+  },
+  {
+    "word": "now",
+    "ipa": "/naʊ/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "şimdi, şu an",
+        "def": "at the present time",
+        "examples": ["I'm busy right now, can I call you back?", "She now lives in Chicago with her husband."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "hemen, derhal",
+        "def": "immediately",
+        "examples": ["If we leave now, we can still catch the train."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "-dığına göre, madem ki artık",
+        "def": "because something has happened or is now true",
+        "examples": ["Now that the kids are in college, the house feels very quiet."]
+      }
+    ],
+    "collocations": ["right now", "just now", "for now", "from now on", "now that", "by now"],
+    "synonyms": ["currently", "at present", "immediately"],
+    "family": [{ "word": "nowadays", "pos": "adverb" }],
+    "note": "\"Now that\" means \"because now\". \"For now\" means \"for the time being\" (şimdilik)."
+  },
+  {
+    "word": "nowadays",
+    "ipa": "/ˈnaʊədeɪz/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "günümüzde, bugünlerde, artık",
+        "def": "at the present time, compared with the past",
+        "examples": ["Nowadays most people pay with their phones instead of cash.", "Kids nowadays spend hours a day on screens."]
+      }
+    ],
+    "collocations": ["kids nowadays", "nowadays people", "especially nowadays"],
+    "synonyms": ["these days", "today", "currently"],
+    "family": [],
+    "note": "Used to contrast the present with the past. Do not use it for a single moment: say \"now\", not \"nowadays I'm busy\"."
+  },
+  {
+    "word": "nowhere",
+    "ipa": "/ˈnəʊwer/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "hiçbir yer(d)e, hiçbir yere",
+        "def": "not in any place or to any place",
+        "examples": ["The keys were nowhere to be found.", "We had nowhere to stay, so we slept in the car."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "hiçbir sonuca, bir yere varamamak",
+        "def": "used to say that there is no progress or success",
+        "examples": ["The negotiations are going nowhere."]
+      }
+    ],
+    "collocations": ["nowhere to be found", "nowhere near", "get nowhere", "in the middle of nowhere", "out of nowhere", "nowhere else"],
+    "synonyms": ["no place"],
+    "family": [],
+    "note": "\"Out of nowhere\" = suddenly. \"Nowhere near\" = not at all, far from (\"nowhere near enough\")."
+  },
+  {
+    "word": "nuclear",
+    "ipa": "/ˈnuːkliər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "nükleer",
+        "def": "using or connected with the energy released when atoms are split or joined",
+        "examples": ["The country gets about a fifth of its electricity from nuclear power.", "World leaders met to discuss reducing nuclear weapons."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(biyoloji) çekirdeğe ait",
+        "def": "connected with the nucleus of a cell or an atom",
+        "examples": ["The study looked at changes in nuclear DNA."]
+      }
+    ],
+    "collocations": ["nuclear power", "nuclear weapons", "nuclear energy", "nuclear plant", "nuclear war", "nuclear family"],
+    "synonyms": ["atomic"],
+    "family": [{ "word": "nucleus", "pos": "noun" }],
+    "note": "\"Nuclear family\" = parents and their children only (çekirdek aile)."
+  },
+  {
+    "word": "number",
+    "ipa": "/ˈnʌmbər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sayı, rakam, numara",
+        "def": "a word or symbol that shows an amount, or a set of digits used to identify something",
+        "examples": ["Can I have your phone number?", "Pick a number between one and ten."]
+      },
+      {
+        "pos": "noun",
+        "tr": "miktar, sayı",
+        "def": "an amount or quantity of people or things",
+        "examples": ["A large number of students failed the test.", "The number of cyclists in the city has doubled."]
+      },
+      {
+        "pos": "verb",
+        "tr": "numaralandırmak",
+        "def": "to give each thing in a series a number",
+        "examples": ["Please number the pages before you print the report."]
+      }
+    ],
+    "collocations": ["phone number", "a large number of", "the number of", "in large numbers", "a number of", "number one"],
+    "synonyms": ["figure", "digit", "amount", "quantity"],
+    "family": [
+      { "word": "numerous", "pos": "adjective" },
+      { "word": "numerical", "pos": "adjective" },
+      { "word": "numbered", "pos": "adjective" }
+    ],
+    "note": "\"A number of\" takes a plural verb (A number of people are...), but \"the number of\" takes a singular verb (The number is...)."
+  },
+  {
+    "word": "numerous",
+    "ipa": "/ˈnuːmərəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çok sayıda, pek çok",
+        "def": "existing in large numbers; many",
+        "examples": ["The senator has appeared on numerous TV shows.", "We tried numerous times to contact the landlord."]
+      }
+    ],
+    "collocations": ["numerous times", "numerous occasions", "numerous studies", "on numerous occasions", "too numerous to mention"],
+    "synonyms": ["many", "countless", "several", "plenty of"],
+    "family": [{ "word": "number", "pos": "noun" }],
+    "note": "More formal than many. Use it with plural countable nouns only."
+  },
+  {
+    "word": "nurse",
+    "ipa": "/nɜːrs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hemşire",
+        "def": "a person trained to care for sick or injured people, usually in a hospital",
+        "examples": ["The nurse checked my blood pressure before the doctor came in.", "She has worked as a nurse in the emergency room for ten years."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bakmak, tedavi etmek",
+        "def": "to care for someone who is sick or injured",
+        "examples": ["He nursed his wife through a long illness."]
+      }
+    ],
+    "collocations": ["a registered nurse", "a school nurse", "a night nurse", "nurse someone back to health"],
+    "synonyms": ["caregiver"],
+    "family": [
+      { "word": "nursing", "pos": "noun" },
+      { "word": "nursery", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "nursery",
+    "ipa": "/ˈnɜːrsəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kreş, yuva",
+        "def": "a place where young children are looked after while their parents are at work",
+        "examples": ["She drops her son off at the nursery before work.", "The company runs a nursery for employees' children."]
+      },
+      {
+        "pos": "noun",
+        "tr": "fidanlık",
+        "def": "a place where young plants and trees are grown for sale",
+        "examples": ["We bought two apple trees at the local plant nursery."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bebek odası, çocuk odası",
+        "def": "a room in a house where a baby sleeps",
+        "examples": ["They painted the nursery yellow before the baby arrived."]
+      }
+    ],
+    "collocations": ["nursery school", "a day nursery", "a plant nursery", "nursery rhyme"],
+    "synonyms": ["daycare", "preschool", "kindergarten"],
+    "family": [],
+    "note": "In American English, daycare or preschool is more common than nursery for childcare. \"Nursery rhyme\" = çocuk tekerlemesi."
+  },
+  {
+    "word": "nursing",
+    "ipa": "/ˈnɜːrsɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hemşirelik",
+        "def": "the job or skill of caring for sick or injured people",
+        "examples": ["She is studying nursing at a state university.", "There is a shortage of nursing staff in rural hospitals."]
+      }
+    ],
+    "collocations": ["nursing home", "nursing staff", "a nursing degree", "nursing care", "a career in nursing"],
+    "synonyms": ["caregiving"],
+    "family": [{ "word": "nurse", "pos": "noun" }],
+    "note": "\"Nursing home\" = a place where old people live and get care (huzurevi, bakımevi)."
+  },
+  {
+    "word": "nut",
+    "ipa": "/nʌt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kuruyemiş, fındık/ceviz vb.",
+        "def": "a dry fruit with a hard shell that grows on some trees",
+        "examples": ["He snacks on nuts and fruit instead of chips.", "This cake may contain nuts, so be careful if you're allergic."]
+      },
+      {
+        "pos": "noun",
+        "tr": "somun (cıvata)",
+        "def": "a small metal piece with a hole in it that screws onto a bolt",
+        "examples": ["Tighten the nuts on the wheel before you drive."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gayriresmi) meraklı, hasta, deli",
+        "def": "a person who is very enthusiastic about something, or who is a little crazy",
+        "examples": ["My uncle is a real fitness nut who runs every morning."]
+      }
+    ],
+    "collocations": ["nut allergy", "mixed nuts", "nuts and bolts", "a health nut", "a tough nut to crack"],
+    "synonyms": ["fanatic", "enthusiast"],
+    "family": [
+      { "word": "nutty", "pos": "adjective" },
+      { "word": "nuts", "pos": "adjective" }
+    ],
+    "note": "Informal: \"go nuts\" = get very excited or angry; \"the nuts and bolts\" = the basic practical details."
+  },
+  {
+    "word": "nutrition",
+    "ipa": "/nuˈtrɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "beslenme",
+        "def": "the process of getting the food needed for health and growth, or the study of this",
+        "examples": ["Good nutrition is essential for children's development.", "Check the nutrition label for sugar and salt."]
+      }
+    ],
+    "collocations": ["good nutrition", "poor nutrition", "nutrition facts", "a nutrition expert", "sports nutrition"],
+    "synonyms": ["nourishment", "diet"],
+    "family": [
+      { "word": "nutritional", "pos": "adjective" },
+      { "word": "nutritious", "pos": "adjective" },
+      { "word": "nutrient", "pos": "noun" },
+      { "word": "nutritionist", "pos": "noun" }
+    ],
+    "note": "Nutritious food is healthy food; nutritional describes things related to nutrition (nutritional value)."
+  },
+  {
+    "word": "o'clock",
+    "ipa": "/əˈklɑːk/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "saat (tam)",
+        "def": "used after the numbers one to twelve to say an exact hour",
+        "examples": ["The meeting starts at ten o'clock sharp.", "I woke up at six o'clock this morning."]
+      }
+    ],
+    "collocations": ["at five o'clock", "about two o'clock", "nine o'clock in the morning"],
+    "synonyms": [],
+    "family": [],
+    "note": "Only for exact hours: say \"three o'clock\" but not \"three thirty o'clock\" or \"15 o'clock\"."
+  },
+  {
+    "word": "obesity",
+    "ipa": "/əʊˈbiːsəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "obezite, aşırı şişmanlık",
+        "def": "the condition of being so overweight that it is dangerous to health",
+        "examples": ["Childhood obesity has risen sharply over the past thirty years.", "Obesity increases the risk of heart disease and diabetes."]
+      }
+    ],
+    "collocations": ["childhood obesity", "rates of obesity", "the obesity epidemic", "tackle obesity"],
+    "synonyms": ["overweight"],
+    "family": [{ "word": "obese", "pos": "adjective" }]
+  },
+  {
+    "word": "obey",
+    "ipa": "/əˈbeɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "itaat etmek, uymak, söz dinlemek",
+        "def": "to do what a person, law or rule tells you to do",
+        "examples": ["Soldiers are trained to obey orders without question.", "Drivers must obey the speed limit near schools."]
+      }
+    ],
+    "collocations": ["obey the law", "obey orders", "obey the rules", "refuse to obey", "obey instructions"],
+    "synonyms": ["follow", "comply with", "observe", "abide by"],
+    "family": [
+      { "word": "obedience", "pos": "noun" },
+      { "word": "obedient", "pos": "adjective" },
+      { "word": "disobey", "pos": "verb" }
+    ],
+    "note": "Transitive: obey the law, not \"obey to the law\" (a common trap from Turkish \"-e uymak\")."
+  },
+  {
+    "word": "object",
+    "ipa": "/ˈɑːbdʒɪkt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "nesne, cisim, obje",
+        "def": "a thing that you can see and touch but that is not alive",
+        "examples": ["The museum displays everyday objects from ancient Rome.", "Police found a sharp object in his bag."]
+      },
+      {
+        "pos": "noun",
+        "tr": "amaç, hedef",
+        "def": "the purpose or aim of an activity",
+        "examples": ["The object of the game is to collect as many points as possible."]
+      },
+      {
+        "pos": "verb",
+        "tr": "itiraz etmek, karşı çıkmak",
+        "def": "to say that you disagree with or do not like something",
+        "examples": ["Many residents objected to the new parking rules.", "I object to being treated like a child."]
+      }
+    ],
+    "collocations": ["object to something", "strongly object", "a foreign object", "the object of the exercise", "an everyday object"],
+    "synonyms": ["thing", "item", "aim", "goal", "oppose", "protest"],
+    "family": [
+      { "word": "objection", "pos": "noun" },
+      { "word": "objective", "pos": "adjective" },
+      { "word": "objectionable", "pos": "adjective" }
+    ],
+    "note": "Stress shift: noun OBject /ˈɑːbdʒɪkt/, verb obJECT /əbˈdʒekt/. Verb pattern: object to + noun/-ing."
+  },
+  {
+    "word": "objection",
+    "ipa": "/əbˈdʒekʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "itiraz, karşı çıkma",
+        "def": "a reason why you disagree with or oppose something, or a statement of this",
+        "examples": ["Does anyone have any objection to moving the meeting to Friday?", "The plan went ahead despite strong objections from local residents."]
+      }
+    ],
+    "collocations": ["raise an objection", "have no objection to", "strong objections", "an objection to something", "over the objections of"],
+    "synonyms": ["protest", "complaint", "opposition"],
+    "family": [
+      { "word": "object", "pos": "verb" },
+      { "word": "objectionable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "objective",
+    "ipa": "/əbˈdʒektɪv/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hedef, amaç",
+        "def": "something you are trying to achieve",
+        "examples": ["Our main objective this year is to reduce costs.", "The course has clear learning objectives."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "nesnel, tarafsız, objektif",
+        "def": "based on facts rather than personal feelings or opinions",
+        "examples": ["It's hard to be objective when your own child is involved.", "We need objective evidence, not just opinions."]
+      }
+    ],
+    "collocations": ["main objective", "achieve an objective", "set objectives", "objective evidence", "remain objective"],
+    "synonyms": ["goal", "aim", "target", "impartial", "unbiased"],
+    "family": [
+      { "word": "objectively", "pos": "adverb" },
+      { "word": "objectivity", "pos": "noun" }
+    ],
+    "note": "Opposite of the adjective: subjective."
+  },
+  {
+    "word": "obligation",
+    "ipa": "/ˌɑːblɪˈɡeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yükümlülük, zorunluluk, mecburiyet",
+        "def": "something you must do because of a law, a promise or a duty",
+        "examples": ["Employers have a legal obligation to provide a safe workplace.", "You are under no obligation to buy anything."]
+      }
+    ],
+    "collocations": ["legal obligation", "moral obligation", "under no obligation", "an obligation to do something", "meet your obligations", "feel an obligation"],
+    "synonyms": ["duty", "responsibility", "commitment", "requirement"],
+    "family": [
+      { "word": "oblige", "pos": "verb" },
+      { "word": "obligatory", "pos": "adjective" }
+    ],
+    "note": "\"No obligation\" in ads means you don't have to buy or commit (\"a free, no-obligation quote\")."
+  },
+  {
+    "word": "oblige",
+    "ipa": "/əˈblaɪdʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "zorunda bırakmak, mecbur etmek",
+        "def": "to force someone to do something because of a law, rule or duty",
+        "examples": ["The law obliges companies to publish their annual accounts.", "I felt obliged to invite her, since she had invited me."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(birinin isteğini) yerine getirmek, iyilik yapmak",
+        "def": "to help someone by doing what they ask",
+        "examples": ["When the reporters asked for a photo, the singer happily obliged."]
+      }
+    ],
+    "collocations": ["be obliged to do something", "feel obliged to", "legally obliged", "happy to oblige"],
+    "synonyms": ["require", "force", "compel", "help"],
+    "family": [
+      { "word": "obligation", "pos": "noun" },
+      { "word": "obliging", "pos": "adjective" },
+      { "word": "obligatory", "pos": "adjective" }
+    ],
+    "note": "Usually passive: be/feel obliged to do something. \"Much obliged\" is an old-fashioned way to say thank you."
+  },
+  {
+    "word": "observation",
+    "ipa": "/ˌɑːbzərˈveɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gözlem, gözetim",
+        "def": "the act of watching something carefully over time to learn about it",
+        "examples": ["The patient was kept in the hospital overnight for observation.", "Her findings are based on years of careful observation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yorum, tespit, gözlem",
+        "def": "a comment based on something you have noticed",
+        "examples": ["He made an interesting observation about the way people use their phones."]
+      }
+    ],
+    "collocations": ["under observation", "careful observation", "powers of observation", "make an observation", "observation deck"],
+    "synonyms": ["monitoring", "study", "remark", "comment"],
+    "family": [
+      { "word": "observe", "pos": "verb" },
+      { "word": "observer", "pos": "noun" },
+      { "word": "observant", "pos": "adjective" },
+      { "word": "observatory", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "observe",
+    "ipa": "/əbˈzɜːrv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "gözlemlemek, fark etmek",
+        "def": "to see or notice something, or to watch it carefully",
+        "examples": ["Scientists observed the birds' behavior for six months.", "Witnesses observed a man leaving the building at midnight."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kurala, yasaya) uymak",
+        "def": "to obey a rule or law, or to follow a custom",
+        "examples": ["All visitors must observe the safety regulations.", "Many families observe the holiday with a special meal."]
+      },
+      {
+        "pos": "verb",
+        "tr": "belirtmek, söylemek",
+        "def": "to make a remark about something you have noticed",
+        "examples": ["\"It's getting late,\" she observed."]
+      }
+    ],
+    "collocations": ["observe closely", "observe the rules", "observe a minute of silence", "observe behavior", "be observed doing something"],
+    "synonyms": ["watch", "notice", "obey", "follow", "remark"],
+    "family": [
+      { "word": "observation", "pos": "noun" },
+      { "word": "observer", "pos": "noun" },
+      { "word": "observance", "pos": "noun" },
+      { "word": "observant", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "observer",
+    "ipa": "/əbˈzɜːrvər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gözlemci, izleyici",
+        "def": "a person who watches or notices something, or whose job is to watch an event and report on it",
+        "examples": ["International observers said the election was free and fair.", "To a casual observer, the two paintings look identical."]
+      }
+    ],
+    "collocations": ["international observers", "a casual observer", "a keen observer", "political observers", "an independent observer"],
+    "synonyms": ["onlooker", "witness", "spectator", "monitor"],
+    "family": [{ "word": "observe", "pos": "verb" }]
+  },
+  {
+    "word": "obsess",
+    "ipa": "/əbˈses/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "aklını takmak, takıntı haline getirmek",
+        "def": "to fill someone's mind completely, or to think and worry about something all the time",
+        "examples": ["Stop obsessing about your weight; you look great.", "She is obsessed with true crime podcasts."]
+      }
+    ],
+    "collocations": ["obsess about", "obsess over", "be obsessed with", "become obsessed with"],
+    "synonyms": ["fixate", "dwell on", "worry"],
+    "family": [
+      { "word": "obsession", "pos": "noun" },
+      { "word": "obsessive", "pos": "adjective" },
+      { "word": "obsessed", "pos": "adjective" }
+    ],
+    "note": "Most common as \"be obsessed with\". Active use: obsess about/over something."
+  },
+  {
+    "word": "obsession",
+    "ipa": "/əbˈseʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "takıntı, saplantı",
+        "def": "a state in which one thing or person fills your mind all the time, in a way that is not normal",
+        "examples": ["His obsession with video games was hurting his grades.", "Cleanliness has become an obsession for her."]
+      }
+    ],
+    "collocations": ["an obsession with", "an unhealthy obsession", "a national obsession", "become an obsession"],
+    "synonyms": ["fixation", "preoccupation", "compulsion", "passion"],
+    "family": [
+      { "word": "obsess", "pos": "verb" },
+      { "word": "obsessive", "pos": "adjective" },
+      { "word": "obsessed", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "obstacle",
+    "ipa": "/ˈɑːbstəkl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "engel, mani",
+        "def": "something that blocks your way or makes it hard to achieve something",
+        "examples": ["Lack of money is the biggest obstacle to starting a business.", "The runners had to jump over several obstacles."]
+      }
+    ],
+    "collocations": ["a major obstacle", "overcome an obstacle", "an obstacle to something", "remove obstacles", "obstacle course"],
+    "synonyms": ["barrier", "hurdle", "obstruction", "difficulty"],
+    "family": [],
+    "note": "Pattern: an obstacle TO something (an obstacle to peace)."
+  },
+  {
+    "word": "obtain",
+    "ipa": "/əbˈteɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "elde etmek, edinmek, temin etmek",
+        "def": "to get something, especially through effort or an official process",
+        "examples": ["You need to obtain a visa before you travel.", "The journalist obtained a copy of the secret report."]
+      }
+    ],
+    "collocations": ["obtain permission", "obtain information", "obtain a license", "difficult to obtain", "obtain data"],
+    "synonyms": ["get", "acquire", "gain", "secure"],
+    "family": [{ "word": "obtainable", "pos": "adjective" }],
+    "note": "Formal. In everyday speech, people usually say get."
+  },
+  {
+    "word": "obvious",
+    "ipa": "/ˈɑːbviəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "belli, açık, aşikâr, bariz",
+        "def": "easy to see, notice or understand",
+        "examples": ["It was obvious that she had been crying.", "For obvious reasons, we can't discuss the case in public."]
+      }
+    ],
+    "collocations": ["for obvious reasons", "it is obvious that", "an obvious choice", "fairly obvious", "state the obvious"],
+    "synonyms": ["clear", "evident", "plain", "apparent"],
+    "family": [{ "word": "obviously", "pos": "adverb" }],
+    "note": "\"State the obvious\" = say something everyone already knows."
+  },
+  {
+    "word": "obviously",
+    "ipa": "/ˈɑːbviəsli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "tabii ki, belli ki, açıkçası",
+        "def": "used to say that something is easy to see or understand, or that people should already know it",
+        "examples": ["Obviously, we can't afford a new car right now.", "He was obviously upset when he heard the news."]
+      }
+    ],
+    "collocations": ["quite obviously", "obviously not", "obviously true"],
+    "synonyms": ["clearly", "evidently", "of course", "plainly"],
+    "family": [{ "word": "obvious", "pos": "adjective" }]
+  },
+  {
+    "word": "occasion",
+    "ipa": "/əˈkeɪʒn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sefer, kez, durum",
+        "def": "a particular time when something happens",
+        "examples": ["I've met him on several occasions.", "On one occasion, the train was three hours late."]
+      },
+      {
+        "pos": "noun",
+        "tr": "özel gün, tören, etkinlik",
+        "def": "a special event or celebration",
+        "examples": ["She saves her best dress for special occasions.", "The wedding was a joyful occasion for the whole family."]
+      }
+    ],
+    "collocations": ["on occasion", "a special occasion", "on several occasions", "mark the occasion", "rise to the occasion"],
+    "synonyms": ["time", "instance", "event", "celebration"],
+    "family": [
+      { "word": "occasional", "pos": "adjective" },
+      { "word": "occasionally", "pos": "adverb" }
+    ],
+    "note": "Spelling: two c's, one s. \"Rise to the occasion\" = deal successfully with a difficult situation."
+  },
+  {
+    "word": "occasional",
+    "ipa": "/əˈkeɪʒənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ara sıra olan, arada bir",
+        "def": "happening sometimes, but not often or regularly",
+        "examples": ["I don't smoke, apart from the occasional cigar at weddings.", "The forecast is for sun with occasional showers."]
+      }
+    ],
+    "collocations": ["the occasional glass of wine", "occasional showers", "an occasional visitor", "occasional use"],
+    "synonyms": ["infrequent", "sporadic", "irregular", "periodic"],
+    "family": [
+      { "word": "occasion", "pos": "noun" },
+      { "word": "occasionally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "occasionally",
+    "ipa": "/əˈkeɪʒnəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "ara sıra, arada bir, zaman zaman",
+        "def": "sometimes, but not often",
+        "examples": ["We occasionally eat out, but usually we cook at home.", "Occasionally, the system crashes and we lose our work."]
+      }
+    ],
+    "collocations": ["only occasionally", "very occasionally", "occasionally visit"],
+    "synonyms": ["sometimes", "from time to time", "now and then", "once in a while"],
+    "family": [
+      { "word": "occasion", "pos": "noun" },
+      { "word": "occasional", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "occupation",
+    "ipa": "/ˌɑːkjuˈpeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "meslek, iş",
+        "def": "a job or profession",
+        "examples": ["Please write your name, age and occupation on the form.", "Nursing is one of the fastest-growing occupations."]
+      },
+      {
+        "pos": "noun",
+        "tr": "işgal",
+        "def": "the act of an army taking control of a country or area",
+        "examples": ["The city was under military occupation for five years."]
+      }
+    ],
+    "collocations": ["military occupation", "under occupation", "change occupation", "occupation forces"],
+    "synonyms": ["job", "profession", "career", "invasion"],
+    "family": [
+      { "word": "occupy", "pos": "verb" },
+      { "word": "occupational", "pos": "adjective" },
+      { "word": "occupant", "pos": "noun" }
+    ],
+    "note": "\"Occupation\" is formal and used on forms; in conversation, ask \"What do you do?\""
+  },
+  {
+    "word": "occupy",
+    "ipa": "/ˈɑːkjupaɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(yer, zaman) kaplamak, doldurmak, kullanmak",
+        "def": "to fill or use a space, area or period of time",
+        "examples": ["The bookshelves occupy an entire wall of the living room.", "Is this seat occupied?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "oyalamak, meşgul etmek",
+        "def": "to keep someone busy",
+        "examples": ["I brought some games to keep the kids occupied on the trip."]
+      },
+      {
+        "pos": "verb",
+        "tr": "işgal etmek",
+        "def": "to take control of a place by military force or as a protest",
+        "examples": ["Protesters occupied the university building for three days."]
+      }
+    ],
+    "collocations": ["keep someone occupied", "occupy a position", "occupied territory", "occupy space", "occupy your time"],
+    "synonyms": ["fill", "take up", "use", "seize", "invade"],
+    "family": [
+      { "word": "occupation", "pos": "noun" },
+      { "word": "occupant", "pos": "noun" },
+      { "word": "occupied", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "occur",
+    "ipa": "/əˈkɜːr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "olmak, meydana gelmek",
+        "def": "to happen, especially without being planned",
+        "examples": ["The accident occurred on the highway just after midnight.", "Most of these errors occur when users are tired."]
+      },
+      {
+        "pos": "verb",
+        "tr": "aklına gelmek",
+        "def": "to come into your mind",
+        "examples": ["It never occurred to me that he might be lying."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bulunmak, görülmek",
+        "def": "to exist or be found somewhere",
+        "examples": ["This mineral occurs naturally in volcanic rock."]
+      }
+    ],
+    "collocations": ["occur naturally", "it occurs to me that", "commonly occur", "the accident occurred", "occur frequently"],
+    "synonyms": ["happen", "take place", "arise", "come to mind"],
+    "family": [{ "word": "occurrence", "pos": "noun" }],
+    "note": "Doubles the r: occurred, occurring, occurrence. \"It occurred to me\" = I suddenly thought of it."
+  },
+  {
+    "word": "occurrence",
+    "ipa": "/əˈkɜːrəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "olay, vaka",
+        "def": "something that happens",
+        "examples": ["Power cuts are a common occurrence in this part of the city.", "Car thefts are a rare occurrence in our neighborhood."]
+      },
+      {
+        "pos": "noun",
+        "tr": "görülme, meydana gelme",
+        "def": "the fact of something happening or existing, or how often it does",
+        "examples": ["Doctors are studying the occurrence of the disease in young adults."]
+      }
+    ],
+    "collocations": ["a common occurrence", "a rare occurrence", "a daily occurrence", "a regular occurrence"],
+    "synonyms": ["event", "incident", "happening", "instance"],
+    "family": [{ "word": "occur", "pos": "verb" }],
+    "note": "Spelling: double c, double r: occurrence."
+  },
+  {
+    "word": "ocean",
+    "ipa": "/ˈəʊʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "okyanus, deniz",
+        "def": "the mass of salt water that covers most of the earth, or one of its large areas",
+        "examples": ["They rented a house with a view of the Pacific Ocean.", "Plastic waste is a growing threat to ocean life."]
+      }
+    ],
+    "collocations": ["the Atlantic Ocean", "ocean floor", "ocean view", "across the ocean", "a drop in the ocean"],
+    "synonyms": ["sea"],
+    "family": [{ "word": "oceanic", "pos": "adjective" }],
+    "note": "Americans often say \"the ocean\" where British people say \"the sea\" (go swimming in the ocean)."
+  },
+  {
+    "word": "October",
+    "ipa": "/ɑːkˈtəʊbər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ekim",
+        "def": "the tenth month of the year, after September and before November",
+        "examples": ["Halloween is celebrated on October 31.", "The leaves start changing color in early October."]
+      }
+    ],
+    "collocations": ["in October", "on October 31", "late October", "next October"],
+    "synonyms": [],
+    "family": [],
+    "note": "Months always start with a capital letter in English."
+  },
+  {
+    "word": "odd",
+    "ipa": "/ɑːd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "garip, tuhaf, acayip",
+        "def": "strange or unusual",
+        "examples": ["It's odd that she hasn't called; she usually calls every day.", "There was an odd smell coming from the fridge."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tek (sayı)",
+        "def": "(of a number) that cannot be divided exactly by two",
+        "examples": ["1, 3, 5 and 7 are odd numbers."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ara sıra olan, çeşitli; teki kayıp",
+        "def": "happening sometimes but not regularly, or not part of a matching pair",
+        "examples": ["He does odd jobs around the neighborhood for extra money.", "I have a drawer full of odd socks."]
+      }
+    ],
+    "collocations": ["odd number", "an odd feeling", "odd jobs", "the odd one out", "seem odd", "odd socks"],
+    "synonyms": ["strange", "weird", "unusual", "peculiar", "bizarre"],
+    "family": [
+      { "word": "oddly", "pos": "adverb" },
+      { "word": "oddity", "pos": "noun" },
+      { "word": "odds", "pos": "noun" }
+    ],
+    "note": "\"The odd one out\" = the one that is different from the rest. Opposite of odd number: even number."
+  },
+  {
+    "word": "odds",
+    "ipa": "/ɑːdz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "olasılık, ihtimal, şans",
+        "def": "how likely it is that something will happen",
+        "examples": ["The odds of winning the lottery are about one in 300 million.", "The odds are that prices will keep rising."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zorluklar, olumsuz koşullar",
+        "def": "difficulties that make success seem unlikely",
+        "examples": ["Against all odds, the small team won the championship."]
+      }
+    ],
+    "collocations": ["against all odds", "the odds are", "the odds of", "beat the odds", "at odds with", "odds are stacked against"],
+    "synonyms": ["chances", "likelihood", "probability"],
+    "family": [{ "word": "odd", "pos": "adjective" }],
+    "note": "Always plural. \"Be at odds with\" = disagree or not match (görüş ayrılığı içinde olmak)."
+  },
+  {
+    "word": "of",
+    "ipa": "/əv/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "-in, -ın (iyelik, aidiyet)",
+        "def": "belonging to or connected with someone or something",
+        "examples": ["The roof of the house was damaged in the storm.", "She is a friend of my sister."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "(miktar, parça) -den, -lik",
+        "def": "used to show an amount, a part or what something contains",
+        "examples": ["Could I have a glass of water, please?", "Some of the students missed the bus."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "hakkında, ile ilgili",
+        "def": "about or concerning",
+        "examples": ["Have you heard of this band?", "I'm afraid of spiders."]
+      }
+    ],
+    "collocations": ["a cup of", "one of the", "most of", "think of", "because of", "kind of"],
+    "synonyms": [],
+    "family": [],
+    "note": "In fast speech it often sounds like /ə/ (\"kinda\", \"lotta\"). Never write \"could of\"; the correct form is \"could have\"."
+  },
+  {
+    "word": "off",
+    "ipa": "/ɔːf/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kapalı; (bir şeyden) çıkmış, kopmuş",
+        "def": "removed or separated, or no longer working or switched on",
+        "examples": ["Please turn off the lights when you leave.", "Take your shoes off before you come in."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "izinli; uzağa, gitmek",
+        "def": "away from a place, or not at work",
+        "examples": ["I'm off tomorrow, so let's meet for lunch.", "She waved and drove off."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-den (aşağı, uzağa)",
+        "def": "down from or away from a surface or place",
+        "examples": ["The cat knocked the glass off the table.", "Keep off the grass."]
+      }
+    ],
+    "collocations": ["turn off", "day off", "take off", "off the record", "get off the bus", "off and on"],
+    "synonyms": ["away", "disconnected"],
+    "family": [],
+    "note": "Trap: don't say \"off of\" in formal writing; \"off the table\" is enough. Also \"20% off\" = indirimli."
+  },
+  {
+    "word": "offend",
+    "ipa": "/əˈfend/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "gücendirmek, kırmak, rencide etmek",
+        "def": "to upset or insult someone by being rude or thoughtless",
+        "examples": ["I didn't mean to offend you; it was only a joke.", "Many viewers were offended by the ad."]
+      },
+      {
+        "pos": "verb",
+        "tr": "suç işlemek",
+        "def": "to commit a crime",
+        "examples": ["Young people who offend are often victims themselves."]
+      }
+    ],
+    "collocations": ["deeply offended", "be offended by", "easily offended", "offend someone's feelings", "no offense"],
+    "synonyms": ["insult", "upset", "hurt", "affront"],
+    "family": [
+      { "word": "offense", "pos": "noun" },
+      { "word": "offensive", "pos": "adjective" },
+      { "word": "offender", "pos": "noun" },
+      { "word": "offended", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "offender",
+    "ipa": "/əˈfendər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "suçlu, fail",
+        "def": "a person who has committed a crime",
+        "examples": ["The program helps young offenders find jobs after prison.", "First-time offenders usually receive a lighter sentence."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bir sorunun) baş sorumlusu",
+        "def": "a person or thing that does something wrong or causes a problem",
+        "examples": ["When it comes to air pollution, coal plants are the worst offenders."]
+      }
+    ],
+    "collocations": ["young offenders", "repeat offender", "first-time offender", "sex offender", "the worst offender"],
+    "synonyms": ["criminal", "lawbreaker", "culprit", "wrongdoer"],
+    "family": [
+      { "word": "offend", "pos": "verb" },
+      { "word": "offense", "pos": "noun" }
+    ]
+  }
+]

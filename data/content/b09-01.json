@@ -1,0 +1,1196 @@
+[
+  {
+    "word": "shelf",
+    "ipa": "/ʃelf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "raf",
+        "def": "a flat board fixed to a wall or inside a cupboard, used for putting things on",
+        "examples": ["She put the vase on the top shelf, out of the kids' reach.", "The new phone sold out within hours of hitting the shelves."]
+      }
+    ],
+    "collocations": ["top shelf", "bottom shelf", "on the shelf", "shelf life", "fly off the shelves"],
+    "synonyms": ["ledge", "rack"],
+    "family": [
+      { "word": "shelve", "pos": "verb" },
+      { "word": "shelving", "pos": "noun" }
+    ],
+    "note": "Plural: shelves. \"Shelf life\" = how long a product stays fresh or usable."
+  },
+  {
+    "word": "shell",
+    "ipa": "/ʃel/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kabuk, deniz kabuğu",
+        "def": "the hard outer covering of an egg, nut, or animal such as a snail or crab",
+        "examples": ["Crack the eggs into a bowl and throw away the shells.", "The kids spent the morning collecting shells on the beach."]
+      },
+      {
+        "pos": "noun",
+        "tr": "top mermisi, obüs",
+        "def": "a metal case full of explosives that is fired from a large gun",
+        "examples": ["Shells landed near the hospital throughout the night."]
+      }
+    ],
+    "collocations": ["crack the shell", "come out of your shell", "shell company", "empty shell", "turtle shell"],
+    "synonyms": ["casing", "husk", "crust"],
+    "family": [
+      { "word": "seashell", "pos": "noun" },
+      { "word": "eggshell", "pos": "noun" },
+      { "word": "shellfish", "pos": "noun" }
+    ],
+    "note": "\"Come out of your shell\" = become less shy and more confident."
+  },
+  {
+    "word": "shelter",
+    "ipa": "/ˈʃeltər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "barınak, sığınak, barınma",
+        "def": "a place that protects you from bad weather or danger, or having a place to live",
+        "examples": ["Thousands of families are in urgent need of food and shelter.", "We took shelter under a tree when the storm hit."]
+      },
+      {
+        "pos": "verb",
+        "tr": "korumak, barındırmak, sığınmak",
+        "def": "to protect someone or something from weather or danger, or to stay somewhere for protection",
+        "examples": ["A tall hedge shelters the garden from the cold wind.", "The hikers sheltered in a cave until the rain stopped."]
+      }
+    ],
+    "collocations": ["take shelter", "seek shelter", "food and shelter", "homeless shelter", "animal shelter"],
+    "synonyms": ["refuge", "protection", "cover", "protect"],
+    "family": [{ "word": "sheltered", "pos": "adjective" }],
+    "note": "\"A sheltered life/childhood\" = protected too much from the difficulties of the real world."
+  },
+  {
+    "word": "shift",
+    "ipa": "/ʃɪft/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "vardiya",
+        "def": "a set period of work, especially when different groups of workers take turns",
+        "examples": ["She works the night shift at the hospital.", "My shift starts at six, so I'll be home late."]
+      },
+      {
+        "pos": "noun",
+        "tr": "değişim, kayma",
+        "def": "a change in position, direction, opinion, or policy",
+        "examples": ["Polls show a major shift in public opinion on the issue."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kaydırmak, yerini değiştirmek, değişmek",
+        "def": "to move something to a different place or position, or to change direction or focus",
+        "examples": ["Can you help me shift this sofa closer to the window?", "The company has shifted its focus to online sales."]
+      }
+    ],
+    "collocations": ["night shift", "work a shift", "a shift in", "shift the blame", "shift focus", "paradigm shift"],
+    "synonyms": ["change", "move", "switch", "transfer"],
+    "family": [
+      { "word": "shifting", "pos": "adjective" },
+      { "word": "shifty", "pos": "adjective" }
+    ],
+    "note": "\"Shift the blame (onto someone)\" = make someone else seem responsible."
+  },
+  {
+    "word": "shine",
+    "ipa": "/ʃaɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "parlamak, ışıldamak",
+        "def": "to give out or reflect bright light",
+        "examples": ["The sun was shining when we left the house.", "Her eyes were shining with excitement."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ışık) tutmak, doğrultmak",
+        "def": "to point a light in a particular direction",
+        "examples": ["He shined a flashlight into the dark basement."]
+      },
+      {
+        "pos": "verb",
+        "tr": "parlamak, öne çıkmak, başarılı olmak",
+        "def": "to be very good at something, so that people notice you",
+        "examples": ["She really shines in math and science."]
+      }
+    ],
+    "collocations": ["the sun shines", "shine a light on", "shine through", "rise and shine", "shine at something"],
+    "synonyms": ["glow", "gleam", "sparkle", "excel"],
+    "family": [
+      { "word": "shiny", "pos": "adjective" },
+      { "word": "sunshine", "pos": "noun" }
+    ],
+    "note": "Past form: shone /ʃoʊn/ (light) or shined (pointing a light, polishing shoes)."
+  },
+  {
+    "word": "shiny",
+    "ipa": "/ˈʃaɪni/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "parlak, parıl parıl",
+        "def": "smooth and bright, so that it reflects light",
+        "examples": ["He drove up in a shiny new sports car.", "Wash your hair with this to make it soft and shiny."]
+      }
+    ],
+    "collocations": ["shiny new", "shiny hair", "shiny surface", "bright and shiny"],
+    "synonyms": ["glossy", "gleaming", "polished", "bright"],
+    "family": [{ "word": "shine", "pos": "verb" }]
+  },
+  {
+    "word": "ship",
+    "ipa": "/ʃɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gemi",
+        "def": "a large boat that carries people or goods across the sea",
+        "examples": ["The ship docked in the port early this morning.", "There were over 3,000 passengers on board the cruise ship."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kargo ile) göndermek, sevk etmek",
+        "def": "to send goods to someone, by any kind of transport",
+        "examples": ["We ship all orders within two business days.", "The company ships its products to over forty countries."]
+      }
+    ],
+    "collocations": ["cargo ship", "cruise ship", "on board a ship", "ship goods", "ship overseas"],
+    "synonyms": ["vessel", "boat", "send", "deliver"],
+    "family": [
+      { "word": "shipping", "pos": "noun" },
+      { "word": "shipment", "pos": "noun" },
+      { "word": "shipwreck", "pos": "noun" },
+      { "word": "shipyard", "pos": "noun" }
+    ],
+    "note": "In American English, \"ship\" (verb) means to send by any method, including trucks and planes."
+  },
+  {
+    "word": "shipping",
+    "ipa": "/ˈʃɪpɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gemiler, deniz trafiği, deniz taşımacılığı",
+        "def": "ships considered as a group, or the business of carrying goods by ship",
+        "examples": ["The canal was closed to shipping for six days.", "Rising fuel costs have hit the shipping industry hard."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kargo, gönderim (ücreti)",
+        "def": "the act or cost of sending goods to customers",
+        "examples": ["Shipping is free on all orders over $50."]
+      }
+    ],
+    "collocations": ["free shipping", "shipping costs", "shipping company", "shipping lanes", "shipping industry"],
+    "synonyms": ["freight", "transport", "delivery"],
+    "family": [
+      { "word": "ship", "pos": "verb" },
+      { "word": "shipment", "pos": "noun" },
+      { "word": "shipper", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "shirt",
+    "ipa": "/ʃɜːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gömlek",
+        "def": "a piece of clothing for the upper body, usually with a collar, sleeves, and buttons down the front",
+        "examples": ["He wore a white shirt and a tie to the interview.", "Can you iron my blue shirt for tomorrow?"]
+      }
+    ],
+    "collocations": ["dress shirt", "long-sleeved shirt", "iron a shirt", "tuck in your shirt", "shirt collar"],
+    "synonyms": ["blouse", "top"],
+    "family": [
+      { "word": "T-shirt", "pos": "noun" },
+      { "word": "sweatshirt", "pos": "noun" },
+      { "word": "shirtless", "pos": "adjective" }
+    ],
+    "note": "A \"shirt\" usually has a collar and buttons; Turkish \"tişört\" is a T-shirt."
+  },
+  {
+    "word": "shock",
+    "ipa": "/ʃɑːk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şok, sarsıntı, büyük şaşkınlık",
+        "def": "a strong feeling of surprise and upset, or the unpleasant event that causes it",
+        "examples": ["The news of his death came as a shock to everyone.", "She was still in shock hours after the accident."]
+      },
+      {
+        "pos": "verb",
+        "tr": "şoke etmek, sarsmak, dehşete düşürmek",
+        "def": "to surprise and upset someone very much",
+        "examples": ["The violence in the film shocked many viewers."]
+      }
+    ],
+    "collocations": ["come as a shock", "in shock", "state of shock", "culture shock", "electric shock"],
+    "synonyms": ["surprise", "blow", "trauma", "stun", "horrify"],
+    "family": [
+      { "word": "shocked", "pos": "adjective" },
+      { "word": "shocking", "pos": "adjective" },
+      { "word": "shockingly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "shocked",
+    "ipa": "/ʃɑːkt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "şoke olmuş, şaşkına dönmüş, sarsılmış",
+        "def": "feeling or showing great surprise and upset",
+        "examples": ["I was shocked to hear that the store had closed.", "There was a shocked silence when she announced her resignation."]
+      }
+    ],
+    "collocations": ["shocked to hear", "shocked by", "deeply shocked", "shocked silence", "shocked and saddened"],
+    "synonyms": ["stunned", "appalled", "horrified", "astonished"],
+    "family": [
+      { "word": "shock", "pos": "noun" },
+      { "word": "shocking", "pos": "adjective" }
+    ],
+    "note": "Shocked = how you feel; shocking = what causes the feeling."
+  },
+  {
+    "word": "shocking",
+    "ipa": "/ˈʃɑːkɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "şok edici, korkunç, skandal",
+        "def": "very surprising and upsetting, or morally wrong",
+        "examples": ["The report revealed shocking levels of child poverty.", "It's shocking that nobody was punished for the mistake."]
+      }
+    ],
+    "collocations": ["shocking news", "shocking images", "absolutely shocking", "it is shocking that", "the shocking truth"],
+    "synonyms": ["appalling", "outrageous", "disturbing", "scandalous"],
+    "family": [
+      { "word": "shock", "pos": "noun" },
+      { "word": "shockingly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "shoe",
+    "ipa": "/ʃuː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ayakkabı",
+        "def": "one of a pair of coverings for your feet, usually made of leather or plastic",
+        "examples": ["These shoes are comfortable enough to wear all day.", "Please take off your shoes before you come in."]
+      }
+    ],
+    "collocations": ["a pair of shoes", "put on your shoes", "take off your shoes", "running shoes", "in someone's shoes"],
+    "synonyms": [],
+    "family": [
+      { "word": "shoelace", "pos": "noun" },
+      { "word": "horseshoe", "pos": "noun" }
+    ],
+    "note": "\"In someone's shoes\" = in their situation: \"I wouldn't want to be in her shoes.\""
+  },
+  {
+    "word": "shoot",
+    "ipa": "/ʃuːt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ateş etmek, vurmak",
+        "def": "to fire a gun or other weapon, or to hit someone with a bullet",
+        "examples": ["A police officer was shot in the leg during the chase.", "Don't shoot! We're unarmed!"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(film, fotoğraf) çekmek; şut çekmek",
+        "def": "to film or photograph something, or to kick or throw a ball toward the goal",
+        "examples": ["The movie was shot entirely in New Mexico.", "He shoots with his left foot."]
+      },
+      {
+        "pos": "noun",
+        "tr": "filiz, sürgün; (fotoğraf) çekim",
+        "def": "a new part growing from a plant, or a session of taking photos or filming",
+        "examples": ["Green shoots appeared in the garden after the first warm week.", "The model has a photo shoot in Miami tomorrow."]
+      }
+    ],
+    "collocations": ["shoot someone dead", "shoot a film", "shoot at", "photo shoot", "green shoots"],
+    "synonyms": ["fire", "film", "sprout"],
+    "family": [
+      { "word": "shooting", "pos": "noun" },
+      { "word": "shooter", "pos": "noun" },
+      { "word": "shot", "pos": "noun" },
+      { "word": "offshoot", "pos": "noun" }
+    ],
+    "note": "Irregular: shoot – shot – shot. \"Green shoots\" also means early signs of economic recovery."
+  },
+  {
+    "word": "shooting",
+    "ipa": "/ˈʃuːtɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "silahlı saldırı, ateş açma olayı",
+        "def": "an event in which someone is shot with a gun",
+        "examples": ["Two people were injured in a shooting outside a nightclub.", "Police are investigating the shooting."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(film) çekim",
+        "def": "the process of filming a movie or TV show",
+        "examples": ["Shooting for the new series begins in March."]
+      }
+    ],
+    "collocations": ["mass shooting", "fatal shooting", "school shooting", "drive-by shooting", "shooting range"],
+    "synonyms": ["gunfire", "attack", "filming"],
+    "family": [
+      { "word": "shoot", "pos": "verb" },
+      { "word": "shooter", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "shop",
+    "ipa": "/ʃɑːp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dükkân, mağaza; atölye",
+        "def": "a place where you can buy goods or services, or a place where things are made or repaired",
+        "examples": ["She runs a small coffee shop near the campus.", "I took my car to the repair shop."]
+      },
+      {
+        "pos": "verb",
+        "tr": "alışveriş yapmak",
+        "def": "to go to stores or websites to buy things",
+        "examples": ["We usually shop for groceries on Saturday mornings.", "More people now shop online than in malls."]
+      }
+    ],
+    "collocations": ["coffee shop", "gift shop", "repair shop", "shop around", "shop online", "go shopping"],
+    "synonyms": ["store", "boutique", "buy"],
+    "family": [
+      { "word": "shopper", "pos": "noun" },
+      { "word": "shopping", "pos": "noun" },
+      { "word": "shopkeeper", "pos": "noun" },
+      { "word": "shoplifting", "pos": "noun" },
+      { "word": "workshop", "pos": "noun" }
+    ],
+    "note": "Americans usually say \"store\" for most places that sell things; \"shop\" is for small or specialist ones. \"Shop around\" = compare prices."
+  },
+  {
+    "word": "shopping",
+    "ipa": "/ˈʃɑːpɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alışveriş",
+        "def": "the activity of buying things in stores or online",
+        "examples": ["I need to do some shopping before the guests arrive.", "Online shopping has hurt many small retailers."]
+      }
+    ],
+    "collocations": ["go shopping", "do the shopping", "online shopping", "shopping list", "shopping cart", "shopping mall"],
+    "synonyms": ["buying", "purchasing"],
+    "family": [
+      { "word": "shop", "pos": "verb" },
+      { "word": "shopper", "pos": "noun" }
+    ],
+    "note": "Say \"go shopping\" or \"do the shopping\", not \"make shopping\". US \"shopping cart\" = UK \"trolley\"."
+  },
+  {
+    "word": "shore",
+    "ipa": "/ʃɔːr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kıyı, sahil",
+        "def": "the land along the edge of a sea, ocean, or lake",
+        "examples": ["We walked along the shore, collecting shells.", "The boat was a mile from shore when the engine failed."]
+      }
+    ],
+    "collocations": ["along the shore", "on the shores of", "close to shore", "wash ashore", "shore up"],
+    "synonyms": ["coast", "beach", "bank", "coastline"],
+    "family": [
+      { "word": "ashore", "pos": "adverb" },
+      { "word": "offshore", "pos": "adjective" },
+      { "word": "onshore", "pos": "adjective" },
+      { "word": "seashore", "pos": "noun" }
+    ],
+    "note": "\"Shore up\" (phrasal verb) = support or strengthen something weak: \"shore up the economy\"."
+  },
+  {
+    "word": "short",
+    "ipa": "/ʃɔːrt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kısa",
+        "def": "small in length, distance, or time",
+        "examples": ["It's only a short walk from the hotel to the beach.", "The meeting was short and to the point."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kısa boylu",
+        "def": "smaller in height than most people",
+        "examples": ["He's a bit short for a basketball player."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "eksik, yetersiz",
+        "def": "not having enough of something",
+        "examples": ["We're short of staff this week, so everyone is working extra hours.", "I'm a little short on cash right now."]
+      }
+    ],
+    "collocations": ["a short time", "short of money", "in short", "short for", "run short of", "short notice"],
+    "synonyms": ["brief", "small", "lacking"],
+    "family": [
+      { "word": "shortly", "pos": "adverb" },
+      { "word": "shorten", "pos": "verb" },
+      { "word": "shortage", "pos": "noun" },
+      { "word": "shorts", "pos": "noun" }
+    ],
+    "note": "\"Short for\" = a shorter form of a name: \"Liz is short for Elizabeth.\" \"In short\" = to summarize."
+  },
+  {
+    "word": "short-term",
+    "ipa": "/ˌʃɔːrt ˈtɜːrm/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kısa vadeli, kısa süreli",
+        "def": "lasting only a short time, or planned for the near future only",
+        "examples": ["The loan is only a short-term solution to the company's problems.", "Lack of sleep can damage your short-term memory."]
+      }
+    ],
+    "collocations": ["short-term solution", "short-term memory", "short-term goals", "short-term loan", "in the short term"],
+    "synonyms": ["temporary", "brief", "interim"],
+    "family": [],
+    "note": "Opposite: long-term. Hyphenated before a noun, but no hyphen in \"in the short term\"."
+  },
+  {
+    "word": "shortage",
+    "ipa": "/ˈʃɔːrtɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kıtlık, eksiklik, sıkıntı",
+        "def": "a situation in which there is not enough of something that people need",
+        "examples": ["The hospital is facing a serious shortage of nurses.", "Water shortages are common in the region during summer."]
+      }
+    ],
+    "collocations": ["a shortage of", "severe shortage", "housing shortage", "labor shortage", "food shortage"],
+    "synonyms": ["lack", "scarcity", "deficit", "deficiency"],
+    "family": [
+      { "word": "short", "pos": "adjective" },
+      { "word": "shortfall", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "shortly",
+    "ipa": "/ˈʃɔːrtli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "birazdan, kısa süre sonra",
+        "def": "soon, or a short time before or after something",
+        "examples": ["The doctor will see you shortly.", "Shortly after midnight, the power went out."]
+      }
+    ],
+    "collocations": ["shortly after", "shortly before", "shortly afterward", "will be here shortly"],
+    "synonyms": ["soon", "presently", "in a moment"],
+    "family": [{ "word": "short", "pos": "adjective" }],
+    "note": "\"Shortly\" means \"soon\", not \"briefly\" or \"in a few words\"."
+  },
+  {
+    "word": "shot",
+    "ipa": "/ʃɑːt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "atış, el ateşi (sesi)",
+        "def": "the act of firing a gun, or the sound this makes",
+        "examples": ["Neighbors said they heard three shots around 2 a.m."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şut, atış; fotoğraf, kare",
+        "def": "a kick, throw, or hit toward a goal, or a photograph or a scene in a film",
+        "examples": ["Her shot from outside the box hit the post.", "I got a great shot of the sunset."]
+      },
+      {
+        "pos": "noun",
+        "tr": "aşı, iğne",
+        "def": "(informal, American) an injection of medicine",
+        "examples": ["Have you had your flu shot this year?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "deneme, şans",
+        "def": "(informal) an attempt to do something",
+        "examples": ["I've never tried surfing, but I'll give it a shot."]
+      }
+    ],
+    "collocations": ["fire a shot", "give it a shot", "flu shot", "a long shot", "take a shot at", "big shot"],
+    "synonyms": ["gunshot", "attempt", "try", "injection", "photo"],
+    "family": [
+      { "word": "gunshot", "pos": "noun" },
+      { "word": "snapshot", "pos": "noun" },
+      { "word": "screenshot", "pos": "noun" }
+    ],
+    "note": "\"A long shot\" = something unlikely to succeed. \"Big shot\" (informal) = an important person."
+  },
+  {
+    "word": "should",
+    "ipa": "/ʃəd/",
+    "senses": [
+      {
+        "pos": "modal verb",
+        "tr": "-meli, -malı (tavsiye, görev)",
+        "def": "used to give advice or say what is right or sensible",
+        "examples": ["You should see a doctor about that cough.", "Kids should wear helmets when they ride bikes."]
+      },
+      {
+        "pos": "modal verb",
+        "tr": "muhtemelen, -mesi lazım (beklenti)",
+        "def": "used to say that something is expected or probable",
+        "examples": ["The package should arrive by Friday."]
+      },
+      {
+        "pos": "modal verb",
+        "tr": "-meliydi (pişmanlık, eleştiri)",
+        "def": "used with 'have' to say that something did not happen but would have been right",
+        "examples": ["You should have told me you were coming."]
+      }
+    ],
+    "collocations": ["should have done", "you should", "should be able to", "should I", "should be fine"],
+    "synonyms": ["ought to", "had better"],
+    "family": [],
+    "note": "\"Should have + past participle\" criticizes or regrets past actions. Never \"should to\"."
+  },
+  {
+    "word": "shoulder",
+    "ipa": "/ˈʃəʊldər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "omuz",
+        "def": "either of the two parts of the body between the top of the arm and the neck",
+        "examples": ["She carried her bag over one shoulder.", "He hurt his shoulder playing tennis."]
+      }
+    ],
+    "collocations": ["shoulder to shoulder", "a shoulder to cry on", "look over your shoulder", "shrug your shoulders", "shoulder pain"],
+    "synonyms": [],
+    "family": [{ "word": "shoulder blade", "pos": "noun" }],
+    "note": "As a verb, \"shoulder the cost/blame/burden\" = accept a difficult responsibility."
+  },
+  {
+    "word": "shout",
+    "ipa": "/ʃaʊt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "bağırmak",
+        "def": "to say something very loudly, often because you are angry or want to be heard",
+        "examples": ["Don't shout at me — I'm standing right here!", "She shouted for help, but no one heard her."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bağırış, çığlık",
+        "def": "a loud cry of anger, fear, or excitement",
+        "examples": ["We heard shouts coming from the apartment upstairs."]
+      }
+    ],
+    "collocations": ["shout at someone", "shout for help", "shout out", "shout to someone", "a shout of joy"],
+    "synonyms": ["yell", "scream", "cry", "call out"],
+    "family": [{ "word": "shouting", "pos": "noun" }],
+    "note": "\"Shout at\" someone = angrily; \"shout to\" someone = so they can hear you from far away."
+  },
+  {
+    "word": "show",
+    "ipa": "/ʃəʊ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "göstermek",
+        "def": "to let someone see something, or to explain how to do something",
+        "examples": ["Can you show me how this machine works?", "She showed us photos of her trip."]
+      },
+      {
+        "pos": "verb",
+        "tr": "göstermek, kanıtlamak, ortaya koymak",
+        "def": "to make a fact or feeling clear, or to prove it",
+        "examples": ["The study shows that sleep improves memory.", "He never shows his emotions."]
+      },
+      {
+        "pos": "noun",
+        "tr": "program, şov; gösteri, fuar",
+        "def": "a program on TV or radio, or a performance or public event where things are displayed",
+        "examples": ["It's one of the most popular shows on TV right now.", "They unveiled the new model at the car show."]
+      }
+    ],
+    "collocations": ["show someone something", "studies show", "TV show", "talk show", "show up", "show interest"],
+    "synonyms": ["display", "demonstrate", "prove", "program", "exhibition"],
+    "family": [
+      { "word": "showing", "pos": "noun" },
+      { "word": "showy", "pos": "adjective" },
+      { "word": "showcase", "pos": "noun" }
+    ],
+    "note": "Past participle: shown (sometimes showed). \"Show up\" = arrive, often late or unexpectedly."
+  },
+  {
+    "word": "shower",
+    "ipa": "/ˈʃaʊər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "duş",
+        "def": "a device that sprays water on you to wash your body, or the act of washing this way",
+        "examples": ["I'm going to take a quick shower before dinner.", "The shower in our hotel room didn't work."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sağanak, kısa süreli yağmur",
+        "def": "a short period of rain",
+        "examples": ["Scattered showers are expected this afternoon."]
+      }
+    ],
+    "collocations": ["take a shower", "hot shower", "shower gel", "rain showers", "baby shower"],
+    "synonyms": ["drizzle"],
+    "family": [{ "word": "showerhead", "pos": "noun" }],
+    "note": "Americans \"take a shower\". A \"baby shower\" is a party with gifts for a woman expecting a baby."
+  },
+  {
+    "word": "shrink",
+    "ipa": "/ʃrɪŋk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(kumaş) çekmek, küçülmek",
+        "def": "to become smaller, especially after being washed in hot water",
+        "examples": ["Wash it in cold water or it will shrink.", "My favorite wool sweater shrinks a little every time I wash it."]
+      },
+      {
+        "pos": "verb",
+        "tr": "azalmak, küçülmek, daralmak",
+        "def": "to become smaller in size, amount, or value",
+        "examples": ["The economy is expected to shrink by 2% this year.", "The middle class has been shrinking for decades."]
+      }
+    ],
+    "collocations": ["shrink in the wash", "shrink in size", "shrinking economy", "shrink from", "shrink by"],
+    "synonyms": ["contract", "decrease", "diminish", "get smaller"],
+    "family": [
+      { "word": "shrinkage", "pos": "noun" },
+      { "word": "shrunken", "pos": "adjective" }
+    ],
+    "note": "Irregular: shrink – shrank – shrunk. Informally, a \"shrink\" is a psychiatrist."
+  },
+  {
+    "word": "shrug",
+    "ipa": "/ʃrʌɡ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "omuz silkmek",
+        "def": "to raise your shoulders and drop them to show you don't know or don't care",
+        "examples": ["When I asked where he'd been, he just shrugged.", "She shrugged her shoulders and said, 'Who knows?'"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(shrug off) önemsememek, umursamamak",
+        "def": "to treat something as unimportant or not worth worrying about",
+        "examples": ["The company shrugged off concerns about falling sales."]
+      }
+    ],
+    "collocations": ["shrug your shoulders", "shrug off", "shrug it off", "with a shrug", "shrug off criticism"],
+    "synonyms": ["dismiss", "brush off"],
+    "family": []
+  },
+  {
+    "word": "shut",
+    "ipa": "/ʃʌt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kapatmak, kapanmak",
+        "def": "to close something, or to become closed",
+        "examples": ["Please shut the door on your way out.", "The factory was shut down after years of losses."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kapalı",
+        "def": "not open",
+        "examples": ["Keep your eyes shut until I say so."]
+      }
+    ],
+    "collocations": ["shut the door", "shut down", "shut up", "keep your mouth shut", "slam shut", "shut your eyes"],
+    "synonyms": ["close", "closed", "seal"],
+    "family": [
+      { "word": "shutdown", "pos": "noun" },
+      { "word": "shutter", "pos": "noun" }
+    ],
+    "note": "Irregular: shut – shut – shut. \"Shut up\" is rude; \"Please be quiet\" is polite."
+  },
+  {
+    "word": "shy",
+    "ipa": "/ʃaɪ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "utangaç, çekingen",
+        "def": "nervous and uncomfortable about meeting or talking to other people",
+        "examples": ["He was too shy to ask her to dance.", "Don't be shy — come and say hello."]
+      }
+    ],
+    "collocations": ["too shy to", "painfully shy", "shy away from", "camera-shy", "shy smile"],
+    "synonyms": ["timid", "bashful", "reserved", "introverted"],
+    "family": [
+      { "word": "shyly", "pos": "adverb" },
+      { "word": "shyness", "pos": "noun" }
+    ],
+    "note": "\"Shy away from\" = avoid something: \"The company never shied away from risk.\""
+  },
+  {
+    "word": "sibling",
+    "ipa": "/ˈsɪblɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kardeş",
+        "def": "a brother or sister",
+        "examples": ["I have three siblings: two brothers and a sister.", "Sibling rivalry is common in large families."]
+      }
+    ],
+    "collocations": ["sibling rivalry", "older sibling", "younger sibling", "half-sibling"],
+    "synonyms": ["brother", "sister"],
+    "family": [],
+    "note": "Fairly formal. In daily speech people say \"brothers and sisters\"; \"sibling\" is used when gender doesn't matter."
+  },
+  {
+    "word": "sick",
+    "ipa": "/sɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "hasta",
+        "def": "physically or mentally ill",
+        "examples": ["She called in sick because she had a fever.", "Half the class is out sick this week."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "midesi bulanmış",
+        "def": "feeling that you are going to vomit",
+        "examples": ["I felt sick after the long boat ride."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(sick of) bıkmış, usanmış",
+        "def": "bored or annoyed with something because it has happened too much",
+        "examples": ["I'm sick of hearing the same excuses."]
+      }
+    ],
+    "collocations": ["get sick", "call in sick", "feel sick", "sick leave", "sick of", "sick and tired"],
+    "synonyms": ["ill", "unwell", "nauseous", "fed up"],
+    "family": [
+      { "word": "sickness", "pos": "noun" },
+      { "word": "sickly", "pos": "adjective" },
+      { "word": "sicken", "pos": "verb" },
+      { "word": "sickening", "pos": "adjective" }
+    ],
+    "note": "In American English \"sick\" = ill in general. In British English \"be sick\" often means vomit."
+  },
+  {
+    "word": "side",
+    "ipa": "/saɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yan, taraf, kenar",
+        "def": "one of the two halves or edges of something, or a position to the left or right",
+        "examples": ["There's a gas station on the other side of the road.", "She sleeps on her left side."]
+      },
+      {
+        "pos": "noun",
+        "tr": "taraf (anlaşmazlıkta, maçta)",
+        "def": "one of the people or groups in an argument, war, or game",
+        "examples": ["She always takes her brother's side in an argument."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yön, yanı",
+        "def": "a particular part or aspect of a situation or of someone's character",
+        "examples": ["City life has its good and bad sides."]
+      }
+    ],
+    "collocations": ["on the other side", "side by side", "take sides", "on someone's side", "side effect", "the bright side"],
+    "synonyms": ["edge", "part", "aspect", "team"],
+    "family": [
+      { "word": "sidewalk", "pos": "noun" },
+      { "word": "sideways", "pos": "adverb" },
+      { "word": "beside", "pos": "preposition" }
+    ],
+    "note": "\"Look on the bright side\" = focus on the positive part of a bad situation."
+  },
+  {
+    "word": "sigh",
+    "ipa": "/saɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "iç çekmek, ah çekmek",
+        "def": "to breathe out slowly and loudly to show you are tired, sad, or relieved",
+        "examples": ["She sighed and closed her laptop.", "He sighs every time I mention the budget."]
+      },
+      {
+        "pos": "noun",
+        "tr": "iç çekiş, ah",
+        "def": "the act or sound of breathing out slowly and loudly",
+        "examples": ["He let out a sigh of relief when the test results came back normal."]
+      }
+    ],
+    "collocations": ["a sigh of relief", "breathe a sigh", "heave a sigh", "sigh deeply", "let out a sigh"],
+    "synonyms": ["exhale", "groan"],
+    "family": []
+  },
+  {
+    "word": "sight",
+    "ipa": "/saɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "görme (yetisi), görüş",
+        "def": "the ability to see",
+        "examples": ["My grandfather is slowly losing his sight."]
+      },
+      {
+        "pos": "noun",
+        "tr": "görüş alanı",
+        "def": "the area that you can see from where you are",
+        "examples": ["The plane was soon out of sight.", "There was no one in sight."]
+      },
+      {
+        "pos": "noun",
+        "tr": "manzara, görüntü; (the sights) görülecek yerler",
+        "def": "something you see, especially something impressive, or famous places tourists visit",
+        "examples": ["The sunset over the canyon was an amazing sight.", "We saw all the sights of Washington in two days."]
+      }
+    ],
+    "collocations": ["lose your sight", "out of sight", "in sight", "at first sight", "catch sight of", "see the sights"],
+    "synonyms": ["vision", "eyesight", "view", "scene"],
+    "family": [
+      { "word": "eyesight", "pos": "noun" },
+      { "word": "sightseeing", "pos": "noun" },
+      { "word": "insight", "pos": "noun" }
+    ],
+    "note": "Sight, site, and cite all sound the same (/saɪt/). \"Love at first sight\" = ilk görüşte aşk."
+  },
+  {
+    "word": "sign",
+    "ipa": "/saɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işaret, belirti",
+        "def": "something that shows that something exists, is happening, or may happen",
+        "examples": ["Losing weight without trying can be a sign of illness.", "There's no sign of the rain stopping."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tabela, levha",
+        "def": "a board or notice with words or pictures giving information or instructions",
+        "examples": ["The sign on the gate said 'No Parking'."]
+      },
+      {
+        "pos": "verb",
+        "tr": "imzalamak; (sözleşme ile) transfer etmek",
+        "def": "to write your name on a document, or to make someone join a team by contract",
+        "examples": ["Please sign the form at the bottom.", "The team signed a new striker last week."]
+      }
+    ],
+    "collocations": ["a sign of", "show signs of", "warning sign", "road sign", "sign a contract", "sign up for"],
+    "synonyms": ["indication", "signal", "symptom", "notice"],
+    "family": [
+      { "word": "signature", "pos": "noun" },
+      { "word": "signal", "pos": "noun" },
+      { "word": "signing", "pos": "noun" },
+      { "word": "signage", "pos": "noun" }
+    ],
+    "note": "\"Sign up (for)\" = register. Your written name is a \"signature\", not a \"sign\" (Turkish \"imza\")."
+  },
+  {
+    "word": "signal",
+    "ipa": "/ˈsɪɡnəl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işaret, sinyal",
+        "def": "a movement, sound, or event that gives information, a warning, or an instruction",
+        "examples": ["The referee blew his whistle as a signal to stop play.", "The rate cut sent a clear signal to investors."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(telefon, radyo) sinyal, çekim",
+        "def": "radio waves or electrical pulses that carry sounds or pictures",
+        "examples": ["I can't call you — there's no signal here."]
+      },
+      {
+        "pos": "verb",
+        "tr": "işaret vermek; belli etmek, göstermek",
+        "def": "to make a movement or sound to give a message, or to show that something is likely",
+        "examples": ["The driver signaled before turning left.", "The central bank signaled that rates would rise."]
+      }
+    ],
+    "collocations": ["send a signal", "a clear signal", "warning signal", "cell signal", "signal a change"],
+    "synonyms": ["sign", "indication", "cue", "gesture", "indicate"],
+    "family": [],
+    "note": "American spelling: signaled, signaling (British: signalled, signalling)."
+  },
+  {
+    "word": "signature",
+    "ipa": "/ˈsɪɡnətʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "imza",
+        "def": "your name written in your own special way, for example on a document",
+        "examples": ["The contract isn't valid without your signature.", "Activists collected 10,000 signatures for the petition."]
+      },
+      {
+        "pos": "noun",
+        "tr": "imza (niteliğinde), alamet-i farika",
+        "def": "a feature or style that makes someone or something easy to recognize",
+        "examples": ["Grilled octopus is the chef's signature dish."]
+      }
+    ],
+    "collocations": ["collect signatures", "forge a signature", "signature dish", "electronic signature", "signature style"],
+    "synonyms": ["autograph", "hallmark", "trademark"],
+    "family": [
+      { "word": "sign", "pos": "verb" },
+      { "word": "signatory", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "significance",
+    "ipa": "/sɪɡˈnɪfɪkəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "önem, anlam",
+        "def": "the importance or meaning of something, especially its effect on the future",
+        "examples": ["Few people understood the significance of the discovery at the time.", "The date has special significance for our family."]
+      }
+    ],
+    "collocations": ["of great significance", "historical significance", "the significance of", "political significance", "statistical significance"],
+    "synonyms": ["importance", "meaning", "relevance", "weight"],
+    "family": [
+      { "word": "significant", "pos": "adjective" },
+      { "word": "significantly", "pos": "adverb" },
+      { "word": "signify", "pos": "verb" },
+      { "word": "insignificance", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "significant",
+    "ipa": "/sɪɡˈnɪfɪkənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "önemli, kayda değer, ciddi",
+        "def": "large or important enough to have an effect or be noticed",
+        "examples": ["There has been a significant increase in housing prices.", "She played a significant role in the negotiations."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(istatistik) anlamlı",
+        "def": "in statistics, too large to be caused by chance",
+        "examples": ["The difference between the two groups was not statistically significant."]
+      }
+    ],
+    "collocations": ["significant increase", "significant impact", "significant role", "statistically significant", "significant other"],
+    "synonyms": ["considerable", "substantial", "important", "notable", "major"],
+    "family": [
+      { "word": "significance", "pos": "noun" },
+      { "word": "significantly", "pos": "adverb" },
+      { "word": "insignificant", "pos": "adjective" }
+    ],
+    "note": "\"Significant other\" = your romantic partner (informal, American)."
+  },
+  {
+    "word": "significantly",
+    "ipa": "/sɪɡˈnɪfɪkəntli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "önemli ölçüde, kayda değer biçimde",
+        "def": "by a large or important amount",
+        "examples": ["Prices have risen significantly over the past year.", "The new drug significantly reduces the risk of a heart attack."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "dikkat çekici şekilde",
+        "def": "used to show that a fact is important or meaningful",
+        "examples": ["Significantly, none of the managers attended the meeting."]
+      }
+    ],
+    "collocations": ["significantly higher", "significantly reduce", "differ significantly", "increase significantly", "significantly more"],
+    "synonyms": ["considerably", "substantially", "markedly", "notably"],
+    "family": [
+      { "word": "significant", "pos": "adjective" },
+      { "word": "significance", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "silence",
+    "ipa": "/ˈsaɪləns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sessizlik",
+        "def": "a complete lack of sound or of people speaking",
+        "examples": ["There was a long silence before anyone answered.", "The crowd stood in silence to honor the victims."]
+      },
+      {
+        "pos": "noun",
+        "tr": "suskunluk, sessiz kalma",
+        "def": "a refusal or failure to talk about something",
+        "examples": ["The government's silence on the issue has angered many voters."]
+      },
+      {
+        "pos": "verb",
+        "tr": "susturmak",
+        "def": "to make someone stop speaking or expressing their opinions",
+        "examples": ["The new law is an attempt to silence critics."]
+      }
+    ],
+    "collocations": ["in silence", "break the silence", "a moment of silence", "an awkward silence", "silence critics"],
+    "synonyms": ["quiet", "hush", "stillness"],
+    "family": [
+      { "word": "silent", "pos": "adjective" },
+      { "word": "silently", "pos": "adverb" },
+      { "word": "silencer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "silent",
+    "ipa": "/ˈsaɪlənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sessiz",
+        "def": "with no sound, or making no sound",
+        "examples": ["The house was completely silent after the kids went to bed.", "The 'k' in 'knife' is silent."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "suskun, sessiz kalan",
+        "def": "not speaking, or not saying anything about a subject",
+        "examples": ["She remained silent throughout the police interview."]
+      }
+    ],
+    "collocations": ["remain silent", "fall silent", "go silent", "silent film", "the right to remain silent", "silent majority"],
+    "synonyms": ["quiet", "mute", "speechless", "soundless"],
+    "family": [
+      { "word": "silence", "pos": "noun" },
+      { "word": "silently", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "silk",
+    "ipa": "/sɪlk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ipek",
+        "def": "a fine, soft, smooth cloth made from threads produced by silkworms",
+        "examples": ["She wore a red silk scarf to the party.", "Silk was traded along routes connecting China to Europe."]
+      }
+    ],
+    "collocations": ["silk scarf", "silk shirt", "pure silk", "smooth as silk", "the Silk Road"],
+    "synonyms": [],
+    "family": [
+      { "word": "silky", "pos": "adjective" },
+      { "word": "silkworm", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "silly",
+    "ipa": "/ˈsɪli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "aptalca, saçma, şapşal",
+        "def": "showing a lack of thought or good judgment, often in a harmless or funny way",
+        "examples": ["It was silly of me to leave my keys in the car.", "The kids were making silly faces at the camera."]
+      }
+    ],
+    "collocations": ["silly mistake", "silly question", "feel silly", "look silly", "don't be silly"],
+    "synonyms": ["foolish", "stupid", "ridiculous", "childish"],
+    "family": [{ "word": "silliness", "pos": "noun" }],
+    "note": "Milder and friendlier than \"stupid\"; often used playfully."
+  },
+  {
+    "word": "silver",
+    "ipa": "/ˈsɪlvər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gümüş",
+        "def": "a shiny, gray-white precious metal used for jewelry, coins, and decorative objects",
+        "examples": ["The necklace is made of solid silver.", "My grandmother keeps the family silver in a locked cabinet."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "gümüş rengi, gümüşi",
+        "def": "having a shiny, gray-white color",
+        "examples": ["He drives a silver pickup truck.", "She won a silver medal in the 200 meters."]
+      }
+    ],
+    "collocations": ["silver medal", "sterling silver", "silver jewelry", "silver hair", "silver lining"],
+    "synonyms": ["gray"],
+    "family": [
+      { "word": "silverware", "pos": "noun" },
+      { "word": "silvery", "pos": "adjective" }
+    ],
+    "note": "\"Every cloud has a silver lining\" = something good comes from every bad situation. US \"silverware\" = knives, forks, spoons."
+  },
+  {
+    "word": "similar",
+    "ipa": "/ˈsɪmələr/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "benzer",
+        "def": "like someone or something else, but not exactly the same",
+        "examples": ["My sister and I have similar tastes in music.", "The new model is similar to the old one but much lighter."]
+      }
+    ],
+    "collocations": ["similar to", "very similar", "remarkably similar", "in a similar way", "similar in size"],
+    "synonyms": ["alike", "comparable", "like", "analogous"],
+    "family": [
+      { "word": "similarity", "pos": "noun" },
+      { "word": "similarly", "pos": "adverb" },
+      { "word": "dissimilar", "pos": "adjective" }
+    ],
+    "note": "Use \"similar to\", not \"similar with\" (a common trap from Turkish \"ile benzer\")."
+  },
+  {
+    "word": "similarity",
+    "ipa": "/ˌsɪməˈlærəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "benzerlik",
+        "def": "the fact of being alike, or a way in which two things are alike",
+        "examples": ["There are striking similarities between the two cases.", "The similarity between the two brothers is remarkable."]
+      }
+    ],
+    "collocations": ["similarity between", "similarity to", "striking similarity", "bear a similarity to", "similarities and differences"],
+    "synonyms": ["resemblance", "likeness", "parallel"],
+    "family": [
+      { "word": "similar", "pos": "adjective" },
+      { "word": "similarly", "pos": "adverb" }
+    ]
+  }
+]

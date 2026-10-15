@@ -1,0 +1,1164 @@
+[
+  {
+    "word": "angry",
+    "ipa": "/ˈæŋɡri/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kızgın, öfkeli, sinirli",
+        "def": "having strong feelings about something you think is bad, unfair or annoying",
+        "examples": ["My dad was angry with me for coming home so late.", "Angry customers lined up to demand refunds."]
+      }
+    ],
+    "collocations": ["angry with someone", "angry about something", "get angry", "make someone angry", "angry at", "angry crowd"],
+    "synonyms": ["mad", "furious", "annoyed", "irritated", "upset"],
+    "family": [
+      { "word": "anger", "pos": "noun" },
+      { "word": "angrily", "pos": "adverb" }
+    ],
+    "note": "Angry with/at a person, angry about a situation. In American English, \"mad\" is a very common informal synonym."
+  },
+  {
+    "word": "animal",
+    "ipa": "/ˈænɪml/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hayvan",
+        "def": "a living creature that can move and feel, especially one that is not a human, bird, fish or insect",
+        "examples": ["Lions, elephants and other wild animals live in the park.", "Do you have any animals at home?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "hayvan gibi kişi, vahşi",
+        "def": "a person who behaves in a cruel, violent or very unpleasant way",
+        "examples": ["The man who attacked her was an animal."]
+      }
+    ],
+    "collocations": ["wild animals", "farm animals", "animal rights", "animal welfare", "domestic animals", "endangered animals"],
+    "synonyms": ["creature", "beast", "brute"],
+    "family": [
+      { "word": "animalistic", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "animation",
+    "ipa": "/ˌænɪˈmeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "animasyon, canlandırma",
+        "def": "the process of making films, videos or games in which drawings or models seem to move",
+        "examples": ["She studied computer animation in college.", "The studio is famous for its stunning animation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "canlılık, hareketlilik, coşku",
+        "def": "energy and excitement in the way someone talks or behaves",
+        "examples": ["He spoke with great animation about his trip."]
+      }
+    ],
+    "collocations": ["computer animation", "3D animation", "animation studio", "animated film", "with animation"],
+    "synonyms": ["cartoon", "liveliness", "energy", "enthusiasm"],
+    "family": [
+      { "word": "animate", "pos": "verb" },
+      { "word": "animated", "pos": "adjective" },
+      { "word": "animator", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "ankle",
+    "ipa": "/ˈæŋkl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ayak bileği",
+        "def": "the joint that connects the foot to the leg",
+        "examples": ["She twisted her ankle playing basketball.", "The water was only ankle-deep."]
+      }
+    ],
+    "collocations": ["sprain your ankle", "twist your ankle", "broken ankle", "ankle-deep", "ankle boots"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"Wrist\" is the wrist of the hand (el bileği); \"ankle\" is ayak bileği."
+  },
+  {
+    "word": "anniversary",
+    "ipa": "/ˌænɪˈvɜːrsəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yıldönümü",
+        "def": "a date on which you remember an important event from a previous year",
+        "examples": ["My parents are celebrating their 30th wedding anniversary.", "The city held a ceremony on the tenth anniversary of the attack."]
+      }
+    ],
+    "collocations": ["wedding anniversary", "celebrate an anniversary", "mark the anniversary", "tenth anniversary", "anniversary party"],
+    "synonyms": ["commemoration", "jubilee"],
+    "family": [],
+    "note": "Use \"birthday\" for the day you were born, not \"anniversary\"."
+  },
+  {
+    "word": "announce",
+    "ipa": "/əˈnaʊns/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "duyurmak, açıklamak, ilan etmek",
+        "def": "to tell people something officially, especially a decision or plan",
+        "examples": ["The company announced plans to close three factories.", "They announced their engagement on social media."]
+      },
+      {
+        "pos": "verb",
+        "tr": "anons etmek, bildirmek",
+        "def": "to give information about something through a loudspeaker, especially at an airport or station",
+        "examples": ["The pilot announced that we would be landing in twenty minutes."]
+      }
+    ],
+    "collocations": ["announce plans", "announce a decision", "officially announce", "announce the winner", "announce your retirement"],
+    "synonyms": ["declare", "reveal", "state", "make public", "proclaim"],
+    "family": [
+      { "word": "announcement", "pos": "noun" },
+      { "word": "announcer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "announcement",
+    "ipa": "/əˈnaʊnsmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "duyuru, açıklama, anons",
+        "def": "a spoken or written statement that tells people about something",
+        "examples": ["The president will make an important announcement tonight.", "I didn't hear the announcement about the gate change."]
+      }
+    ],
+    "collocations": ["make an announcement", "official announcement", "public announcement", "surprise announcement", "announcement of"],
+    "synonyms": ["statement", "declaration", "notice", "news", "bulletin"],
+    "family": [
+      { "word": "announce", "pos": "verb" },
+      { "word": "announcer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "annoy",
+    "ipa": "/əˈnɔɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sinirlendirmek, rahatsız etmek, canını sıkmak",
+        "def": "to make someone slightly angry or impatient",
+        "examples": ["It really annoys me when people talk during movies.", "Stop annoying your sister and do your homework."]
+      }
+    ],
+    "collocations": ["really annoy", "annoy the neighbors", "it annoys me when", "begin to annoy"],
+    "synonyms": ["irritate", "bother", "bug", "get on someone's nerves"],
+    "family": [
+      { "word": "annoyance", "pos": "noun" },
+      { "word": "annoyed", "pos": "adjective" },
+      { "word": "annoying", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "annoyed",
+    "ipa": "/əˈnɔɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sinirli, rahatsız, canı sıkılmış",
+        "def": "slightly angry",
+        "examples": ["She was annoyed with him for forgetting her birthday.", "I get annoyed when the bus is late."]
+      }
+    ],
+    "collocations": ["annoyed with someone", "annoyed at", "annoyed about", "get annoyed", "slightly annoyed"],
+    "synonyms": ["irritated", "bothered", "cross", "upset", "frustrated"],
+    "family": [
+      { "word": "annoy", "pos": "verb" },
+      { "word": "annoying", "pos": "adjective" },
+      { "word": "annoyance", "pos": "noun" }
+    ],
+    "note": "\"I'm annoyed\" = I feel it; \"It's annoying\" = it causes the feeling."
+  },
+  {
+    "word": "annoying",
+    "ipa": "/əˈnɔɪɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sinir bozucu, can sıkıcı, rahatsız edici",
+        "def": "making you feel slightly angry",
+        "examples": ["The car alarm made an annoying beeping sound all night.", "It's annoying when people don't reply to emails."]
+      }
+    ],
+    "collocations": ["really annoying", "annoying habit", "slightly annoying", "the annoying thing is", "annoying noise"],
+    "synonyms": ["irritating", "frustrating", "bothersome", "infuriating"],
+    "family": [
+      { "word": "annoy", "pos": "verb" },
+      { "word": "annoyed", "pos": "adjective" },
+      { "word": "annoyingly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "annual",
+    "ipa": "/ˈænjuəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yıllık, senelik",
+        "def": "happening or done once every year",
+        "examples": ["The town holds an annual music festival every July.", "Don't forget your annual checkup with the doctor."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yıllık (bir yıl için hesaplanan)",
+        "def": "calculated over a period of one year",
+        "examples": ["Her annual income is about $60,000."]
+      }
+    ],
+    "collocations": ["annual meeting", "annual report", "annual income", "annual budget", "annual event", "annual salary"],
+    "synonyms": ["yearly", "once a year", "per year"],
+    "family": [{ "word": "annually", "pos": "adverb" }]
+  },
+  {
+    "word": "annually",
+    "ipa": "/ˈænjuəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yılda bir, her yıl, yıllık olarak",
+        "def": "once a year, or every year",
+        "examples": ["The conference is held annually in Chicago.", "The company exports over $5 million worth of goods annually."]
+      }
+    ],
+    "collocations": ["held annually", "updated annually", "reviewed annually", "paid annually"],
+    "synonyms": ["yearly", "every year", "once a year", "per year"],
+    "family": [{ "word": "annual", "pos": "adjective" }]
+  },
+  {
+    "word": "anonymous",
+    "ipa": "/əˈnɑːnɪməs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "isimsiz, adı bilinmeyen, anonim",
+        "def": "with a name that is not known or not made public",
+        "examples": ["An anonymous donor gave $1 million to the hospital.", "The survey is completely anonymous."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sıradan, kişiliksiz, tekdüze",
+        "def": "without any interesting or unusual features",
+        "examples": ["They stayed in an anonymous hotel near the highway."]
+      }
+    ],
+    "collocations": ["remain anonymous", "anonymous donor", "anonymous letter", "anonymous source", "anonymous tip", "speak on condition of anonymity"],
+    "synonyms": ["unnamed", "unidentified", "unknown", "nameless", "faceless"],
+    "family": [
+      { "word": "anonymity", "pos": "noun" },
+      { "word": "anonymously", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "another",
+    "ipa": "/əˈnʌðər/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "bir ... daha, başka bir",
+        "def": "one more of the same kind, or a different one",
+        "examples": ["Would you like another cup of coffee?", "Let's meet another day; I'm busy today."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "bir tane daha, başka biri",
+        "def": "an additional or different person or thing",
+        "examples": ["This cookie is delicious; can I have another?", "One problem after another kept delaying the project."]
+      }
+    ],
+    "collocations": ["one another", "another one", "another time", "yet another", "one after another", "in another way"],
+    "synonyms": ["one more", "an additional", "a different", "a further"],
+    "family": [{ "word": "other", "pos": "adjective" }],
+    "note": "Used with singular nouns (another book), or with numbers + plural (another three days). \"One another\" = each other."
+  },
+  {
+    "word": "answer",
+    "ipa": "/ˈænsər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "cevap, yanıt",
+        "def": "something you say, write or do in reply to a question, letter or situation",
+        "examples": ["I asked her a question, but she didn't give me an answer.", "The answer to question five is wrong."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çözüm, çare",
+        "def": "a solution to a problem",
+        "examples": ["Building more roads isn't the answer to traffic congestion."]
+      },
+      {
+        "pos": "verb",
+        "tr": "cevaplamak, yanıtlamak; (telefon, kapı) açmak",
+        "def": "to reply to a question or letter, or to pick up a ringing phone or open the door",
+        "examples": ["Please answer all the questions on the form.", "Can someone answer the door?"]
+      }
+    ],
+    "collocations": ["the answer to", "give an answer", "answer the phone", "answer the door", "answer a question", "correct answer"],
+    "synonyms": ["reply", "response", "solution", "respond"],
+    "family": [
+      { "word": "answerable", "pos": "adjective" },
+      { "word": "unanswered", "pos": "adjective" }
+    ],
+    "note": "The noun takes \"to\" (the answer to the question), but the verb takes no preposition (answer the question, not \"answer to\")."
+  },
+  {
+    "word": "anticipate",
+    "ipa": "/ænˈtɪsɪpeɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "beklemek, öngörmek, tahmin etmek",
+        "def": "to expect something to happen",
+        "examples": ["We anticipate heavy traffic on the holiday weekend.", "The project took longer than anticipated."]
+      },
+      {
+        "pos": "verb",
+        "tr": "önceden görüp hazırlıklı olmak",
+        "def": "to see what might happen and prepare for it in advance",
+        "examples": ["Good teachers anticipate the questions students will ask."]
+      },
+      {
+        "pos": "verb",
+        "tr": "dört gözle beklemek",
+        "def": "to look forward to something",
+        "examples": ["Fans eagerly anticipated the band's first tour in a decade."]
+      }
+    ],
+    "collocations": ["anticipate problems", "than anticipated", "eagerly anticipated", "anticipate demand", "fully anticipate"],
+    "synonyms": ["expect", "foresee", "predict", "look forward to"],
+    "family": [
+      { "word": "anticipation", "pos": "noun" },
+      { "word": "anticipated", "pos": "adjective" },
+      { "word": "unanticipated", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "anxiety",
+    "ipa": "/æŋˈzaɪəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kaygı, endişe, anksiyete",
+        "def": "a feeling of worry or nervousness about something that might happen",
+        "examples": ["Many students feel anxiety before exams.", "She suffers from anxiety and sees a therapist."]
+      }
+    ],
+    "collocations": ["anxiety about", "cause anxiety", "anxiety disorder", "social anxiety", "reduce anxiety", "anxiety attack"],
+    "synonyms": ["worry", "nervousness", "stress", "unease", "apprehension"],
+    "family": [
+      { "word": "anxious", "pos": "adjective" },
+      { "word": "anxiously", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "anxious",
+    "ipa": "/ˈæŋkʃəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "endişeli, kaygılı, tedirgin",
+        "def": "feeling worried or nervous about something",
+        "examples": ["She was anxious about her test results.", "We spent an anxious night waiting for news."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "can atan, hevesli, istekli",
+        "def": "wanting something very much",
+        "examples": ["He's anxious to make a good impression on his new boss."]
+      }
+    ],
+    "collocations": ["anxious about", "anxious to do", "feel anxious", "anxious moment", "increasingly anxious"],
+    "synonyms": ["worried", "nervous", "uneasy", "eager", "keen"],
+    "family": [
+      { "word": "anxiety", "pos": "noun" },
+      { "word": "anxiously", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "any",
+    "ipa": "/ˈeni/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "hiç, herhangi bir",
+        "def": "used in questions and negatives to mean some amount or number, however small",
+        "examples": ["Do you have any questions?", "We don't have any milk left."]
+      },
+      {
+        "pos": "determiner",
+        "tr": "herhangi bir, hangisi olursa",
+        "def": "used to say it doesn't matter which person or thing",
+        "examples": ["Call me any time.", "Any student can join the club."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "hiç, hiçbiri, herhangi biri",
+        "def": "an amount or number of something, used in questions and negatives",
+        "examples": ["I wanted some cake, but there wasn't any left."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "hiç, biraz olsun",
+        "def": "at all; used to emphasize a comparative in questions and negatives",
+        "examples": ["I can't walk any faster.", "Is she feeling any better today?"]
+      }
+    ],
+    "collocations": ["any time", "in any case", "any longer", "if any", "any more", "at any rate"],
+    "synonyms": ["some", "whichever", "at all"],
+    "family": [
+      { "word": "anybody", "pos": "pronoun" },
+      { "word": "anything", "pos": "pronoun" },
+      { "word": "anyway", "pos": "adverb" },
+      { "word": "anywhere", "pos": "adverb" }
+    ],
+    "note": "In positive sentences, \"any\" means \"it doesn't matter which\": \"Take any seat.\""
+  },
+  {
+    "word": "any more",
+    "ipa": "/ˌeni ˈmɔːr/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "artık (olumsuz cümlede)",
+        "def": "used at the end of negative sentences and questions to mean 'any longer' or 'now'",
+        "examples": ["She doesn't live here any more.", "I can't eat any more; I'm full."]
+      }
+    ],
+    "collocations": ["not any more", "don't ... any more", "can't take it any more", "not anymore"],
+    "synonyms": ["anymore", "any longer", "no longer"],
+    "family": [],
+    "note": "American English usually writes \"anymore\" as one word for the time meaning: \"I don't drink coffee anymore.\""
+  },
+  {
+    "word": "anybody",
+    "ipa": "/ˈenibɑːdi/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "kimse, birisi (soru ve olumsuzda)",
+        "def": "used instead of 'somebody' in questions and negative sentences",
+        "examples": ["Is anybody home?", "I didn't tell anybody about the surprise party."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "herhangi biri, kim olursa",
+        "def": "any person at all; it doesn't matter who",
+        "examples": ["Anybody can learn to cook with a little practice."]
+      }
+    ],
+    "collocations": ["anybody else", "hardly anybody", "if anybody", "anybody at all", "anybody who"],
+    "synonyms": ["anyone", "anyone at all", "a person"],
+    "family": [
+      { "word": "any", "pos": "determiner" },
+      { "word": "anyone", "pos": "pronoun" }
+    ],
+    "note": "Means the same as \"anyone\", but is slightly more informal."
+  },
+  {
+    "word": "anyone",
+    "ipa": "/ˈeniwʌn/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "kimse, birisi (soru ve olumsuzda)",
+        "def": "used instead of 'someone' in questions and negative sentences",
+        "examples": ["Does anyone have a pen I could borrow?", "There wasn't anyone in the office when I arrived."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "herhangi biri, kim olursa olsun",
+        "def": "any person at all; it doesn't matter who",
+        "examples": ["Anyone can apply for the job.", "She's the kindest person I know, more than anyone."]
+      }
+    ],
+    "collocations": ["anyone else", "if anyone", "hardly anyone", "anyone who", "anyone at all"],
+    "synonyms": ["anybody", "any person"],
+    "family": [
+      { "word": "any", "pos": "determiner" },
+      { "word": "anybody", "pos": "pronoun" }
+    ],
+    "note": "\"Anyone\" (one word) = any person. \"Any one\" (two words) = any single item: \"any one of these books\"."
+  },
+  {
+    "word": "anything",
+    "ipa": "/ˈeniθɪŋ/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "hiçbir şey, bir şey (soru ve olumsuzda)",
+        "def": "used instead of 'something' in questions and negative sentences",
+        "examples": ["Do you need anything from the store?", "I didn't eat anything all day."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "her şey, ne olursa",
+        "def": "any thing at all; it doesn't matter what",
+        "examples": ["I'm so hungry I could eat anything.", "She would do anything for her kids."]
+      }
+    ],
+    "collocations": ["anything else", "anything but", "if anything", "or anything", "anything like", "anything at all"],
+    "synonyms": ["something", "whatever", "everything"],
+    "family": [{ "word": "any", "pos": "determiner" }],
+    "note": "\"Anything but\" = definitely not: \"The trip was anything but relaxing.\""
+  },
+  {
+    "word": "anyway",
+    "ipa": "/ˈeniweɪ/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yine de, her halükârda",
+        "def": "despite something; used to say something is still true or will still happen",
+        "examples": ["The tickets were expensive, but we went anyway.", "I don't need help, but thanks anyway."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "zaten, hem",
+        "def": "used to add something that supports what you just said",
+        "examples": ["I don't want to go out tonight. I'm too tired anyway."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "neyse, her neyse",
+        "def": "used in speech to change the subject, return to a topic or end a conversation",
+        "examples": ["Anyway, what were we talking about?", "Anyway, I'd better get going."]
+      }
+    ],
+    "collocations": ["thanks anyway", "do it anyway", "anyway, ...", "but anyway"],
+    "synonyms": ["nevertheless", "regardless", "in any case", "anyhow", "besides"],
+    "family": [{ "word": "any", "pos": "determiner" }],
+    "note": "\"Anyways\" is very informal and considered nonstandard."
+  },
+  {
+    "word": "anywhere",
+    "ipa": "/ˈeniwer/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "hiçbir yerde/yere, bir yerde (soru ve olumsuzda)",
+        "def": "in, at or to any place; used in questions and negatives instead of 'somewhere'",
+        "examples": ["I can't find my keys anywhere.", "Are you going anywhere this summer?"]
+      },
+      {
+        "pos": "adverb",
+        "tr": "herhangi bir yerde, nerede olursa",
+        "def": "in or to any place at all; it doesn't matter where",
+        "examples": ["Sit anywhere you like."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "herhangi bir yer",
+        "def": "any place",
+        "examples": ["We need anywhere with free Wi-Fi to work for an hour."]
+      }
+    ],
+    "collocations": ["anywhere else", "anywhere near", "not get anywhere", "anywhere in the world", "anywhere from ... to"],
+    "synonyms": ["anyplace", "wherever", "any place"],
+    "family": [{ "word": "any", "pos": "determiner" }],
+    "note": "\"Not anywhere near\" = not at all: \"We're not anywhere near finished.\" \"Anywhere from 10 to 20\" = between 10 and 20."
+  },
+  {
+    "word": "apart",
+    "ipa": "/əˈpɑːrt/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "ayrı, uzak, aralıklı",
+        "def": "separated by a distance in space or time",
+        "examples": ["The two towns are about ten miles apart.", "Our birthdays are just three days apart."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "ayrı ayrı, birbirinden ayrı",
+        "def": "not together; separately",
+        "examples": ["The couple have been living apart for a year.", "I can't tell the twins apart."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "parça parça, parçalara",
+        "def": "into separate pieces",
+        "examples": ["He took the old radio apart to see how it worked."]
+      }
+    ],
+    "collocations": ["apart from", "take apart", "fall apart", "tell apart", "live apart", "far apart"],
+    "synonyms": ["separately", "away", "aside", "to pieces"],
+    "family": [],
+    "note": "\"Apart from\" = except for, or in addition to (-in dışında). \"Fall apart\" = dağılmak."
+  },
+  {
+    "word": "apartment",
+    "ipa": "/əˈpɑːrtmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "daire, apartman dairesi",
+        "def": "a set of rooms for living in, usually on one floor of a larger building",
+        "examples": ["They rent a two-bedroom apartment downtown.", "Our apartment is on the third floor."]
+      }
+    ],
+    "collocations": ["apartment building", "rent an apartment", "studio apartment", "one-bedroom apartment", "apartment complex"],
+    "synonyms": ["flat", "unit", "condo"],
+    "family": [],
+    "note": "False friend: \"apartment\" = one flat (daire); the whole building is an \"apartment building\". British English: flat."
+  },
+  {
+    "word": "apologize",
+    "ipa": "/əˈpɑːlədʒaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "özür dilemek",
+        "def": "to say that you are sorry for doing something wrong or causing a problem",
+        "examples": ["I apologize for being late.", "He apologized to his neighbor for the noise."]
+      }
+    ],
+    "collocations": ["apologize for", "apologize to someone", "publicly apologize", "sincerely apologize", "refuse to apologize"],
+    "synonyms": ["say sorry", "express regret", "beg pardon"],
+    "family": [
+      { "word": "apology", "pos": "noun" },
+      { "word": "apologetic", "pos": "adjective" }
+    ],
+    "note": "Apologize TO a person FOR something. American spelling: -ize (British: apologise)."
+  },
+  {
+    "word": "apology",
+    "ipa": "/əˈpɑːlədʒi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "özür",
+        "def": "something you say or write to show you are sorry for doing something wrong",
+        "examples": ["She owes you an apology for what she said.", "The airline issued an apology to all passengers."]
+      }
+    ],
+    "collocations": ["make an apology", "owe someone an apology", "accept an apology", "public apology", "sincere apology", "issue an apology"],
+    "synonyms": ["regrets", "excuse", "acknowledgment"],
+    "family": [
+      { "word": "apologize", "pos": "verb" },
+      { "word": "apologetic", "pos": "adjective" }
+    ],
+    "note": "\"Make no apologies for\" = not feel sorry about something you believe is right."
+  },
+  {
+    "word": "app",
+    "ipa": "/æp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "uygulama",
+        "def": "a computer program, especially one you download to a phone or tablet",
+        "examples": ["I use an app to track my running.", "You can order food through the restaurant's app."]
+      }
+    ],
+    "collocations": ["download an app", "mobile app", "dating app", "app store", "use an app", "banking app"],
+    "synonyms": ["application", "program", "software"],
+    "family": [{ "word": "application", "pos": "noun" }]
+  },
+  {
+    "word": "apparatus",
+    "ipa": "/ˌæpəˈrætəs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alet, cihaz, düzenek",
+        "def": "the tools or equipment needed for a particular activity or task",
+        "examples": ["Firefighters wear breathing apparatus in smoke-filled buildings.", "The lab was full of scientific apparatus."]
+      },
+      {
+        "pos": "noun",
+        "tr": "aygıt, teşkilat, mekanizma",
+        "def": "the structure of a system or organization, especially a political one",
+        "examples": ["The country's security apparatus was accused of torture."]
+      }
+    ],
+    "collocations": ["breathing apparatus", "scientific apparatus", "state apparatus", "security apparatus", "piece of apparatus"],
+    "synonyms": ["equipment", "device", "machinery", "system", "structure"],
+    "family": []
+  },
+  {
+    "word": "apparent",
+    "ipa": "/əˈpærənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "açık, belli, aşikâr",
+        "def": "easy to see or understand",
+        "examples": ["It soon became apparent that she was lying.", "For no apparent reason, the car stopped."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "görünürdeki, görünüşteki",
+        "def": "seeming to be real or true, although it may not be",
+        "examples": ["Despite his apparent confidence, he was very nervous."]
+      }
+    ],
+    "collocations": ["become apparent", "for no apparent reason", "readily apparent", "apparent success", "it is apparent that"],
+    "synonyms": ["obvious", "clear", "evident", "seeming", "visible"],
+    "family": [
+      { "word": "apparently", "pos": "adverb" },
+      { "word": "appear", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "apparently",
+    "ipa": "/əˈpærəntli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "anlaşılan, görünüşe göre, duyduğuma göre",
+        "def": "according to what you have heard or read, or how things seem",
+        "examples": ["Apparently, the restaurant is closing next month.", "He was apparently trying to fix the roof when he fell."]
+      }
+    ],
+    "collocations": ["apparently not", "apparently so", "apparently unaware", "apparently true"],
+    "synonyms": ["seemingly", "evidently", "reportedly", "supposedly", "allegedly"],
+    "family": [{ "word": "apparent", "pos": "adjective" }],
+    "note": "Often signals news you heard from someone else, like Turkish \"-mış\": \"Apparently he quit\" = istifa etmiş."
+  },
+  {
+    "word": "appeal",
+    "ipa": "/əˈpiːl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çağrı, yardım çağrısı",
+        "def": "a serious public request for money, help or information",
+        "examples": ["Police issued an appeal for witnesses to the accident.", "The charity launched an appeal to help flood victims."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çekicilik, cazibe",
+        "def": "a quality that makes people like or be interested in something",
+        "examples": ["I don't understand the appeal of reality TV."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çağrıda bulunmak, rica etmek",
+        "def": "to make a serious request for help, money or information",
+        "examples": ["The family appealed for information about their missing son."]
+      },
+      {
+        "pos": "verb",
+        "tr": "itiraz etmek, temyize gitmek; cazip gelmek",
+        "def": "to formally ask a higher court to change a decision, or to attract or interest someone",
+        "examples": ["His lawyers plan to appeal the verdict.", "The idea of living abroad really appeals to me."]
+      }
+    ],
+    "collocations": ["appeal for", "launch an appeal", "appeal to", "broad appeal", "sex appeal", "appeal a decision"],
+    "synonyms": ["request", "plea", "attraction", "charm", "plead"],
+    "family": [
+      { "word": "appealing", "pos": "adjective" },
+      { "word": "appellate", "pos": "adjective" }
+    ],
+    "note": "\"It appeals to me\" = I find it attractive (bana cazip geliyor). In US law, you \"appeal a decision\" (no \"against\")."
+  },
+  {
+    "word": "appealing",
+    "ipa": "/əˈpiːlɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çekici, cazip, hoş",
+        "def": "attractive or interesting",
+        "examples": ["The idea of a four-day work week is very appealing.", "The restaurant has an appealing menu with lots of vegetarian options."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yalvaran, yardım isteyen (bakış vb.)",
+        "def": "showing that you want help or sympathy",
+        "examples": ["The dog gave me an appealing look from under the table."]
+      }
+    ],
+    "collocations": ["very appealing", "visually appealing", "appealing to", "an appealing idea", "less appealing"],
+    "synonyms": ["attractive", "tempting", "inviting", "charming", "pleasing"],
+    "family": [
+      { "word": "appeal", "pos": "noun" },
+      { "word": "unappealing", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "appear",
+    "ipa": "/əˈpɪr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "görünmek, ortaya çıkmak, belirmek",
+        "def": "to start to be seen, or to arrive suddenly",
+        "examples": ["A strange message appeared on my screen.", "She suddenly appeared at the door."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gibi görünmek, -mış gibi durmak",
+        "def": "to seem to be or do something",
+        "examples": ["He appeared calm, but he was terrified.", "There appears to be a problem with your account."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yer almak, rol almak, (mahkemeye) çıkmak",
+        "def": "to take part in a film or show, to be published, or to go to court officially",
+        "examples": ["She has appeared in over thirty films.", "He will appear in court on Monday."]
+      }
+    ],
+    "collocations": ["appear to be", "it appears that", "suddenly appear", "appear in court", "appear on TV", "would appear"],
+    "synonyms": ["emerge", "show up", "turn up", "seem", "look"],
+    "family": [
+      { "word": "appearance", "pos": "noun" },
+      { "word": "apparent", "pos": "adjective" },
+      { "word": "disappear", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "appearance",
+    "ipa": "/əˈpɪrəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "görünüş, dış görünüş",
+        "def": "the way someone or something looks",
+        "examples": ["She cares a lot about her appearance.", "The old house has a gloomy appearance."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ortaya çıkma, görünme, (TV vb.) çıkış",
+        "def": "the act of arriving or being seen, or of taking part in a public event",
+        "examples": ["The singer made a surprise appearance at the festival.", "The appearance of mold on the walls worried the tenants."]
+      }
+    ],
+    "collocations": ["physical appearance", "make an appearance", "public appearance", "keep up appearances", "by all appearances", "first appearance"],
+    "synonyms": ["look", "looks", "image", "arrival", "emergence"],
+    "family": [
+      { "word": "appear", "pos": "verb" },
+      { "word": "disappearance", "pos": "noun" }
+    ],
+    "note": "\"Keep up appearances\" = pretend everything is fine. \"Appearances can be deceptive\" = görünüş aldatıcıdır."
+  },
+  {
+    "word": "append",
+    "ipa": "/əˈpend/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "eklemek, iliştirmek (yazının sonuna)",
+        "def": "to add something, especially at the end of a document or piece of writing",
+        "examples": ["A list of references is appended to the report.", "She appended a short note to the bottom of the email."]
+      }
+    ],
+    "collocations": ["append to", "append a note", "append a signature", "appended list"],
+    "synonyms": ["add", "attach", "affix", "tack on"],
+    "family": [
+      { "word": "appendix", "pos": "noun" },
+      { "word": "appendage", "pos": "noun" }
+    ],
+    "note": "Formal or technical; in everyday English, \"add\" or \"attach\" is more natural."
+  },
+  {
+    "word": "appetite",
+    "ipa": "/ˈæpɪtaɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iştah",
+        "def": "the physical desire for food",
+        "examples": ["The long hike gave us a huge appetite.", "Loss of appetite can be a sign of illness."]
+      },
+      {
+        "pos": "noun",
+        "tr": "istek, arzu, ilgi",
+        "def": "a strong desire or enthusiasm for something",
+        "examples": ["There's little public appetite for another war.", "She has a great appetite for learning."]
+      }
+    ],
+    "collocations": ["lose your appetite", "healthy appetite", "spoil your appetite", "appetite for", "whet your appetite", "loss of appetite"],
+    "synonyms": ["hunger", "desire", "craving", "taste", "eagerness"],
+    "family": [
+      { "word": "appetizer", "pos": "noun" },
+      { "word": "appetizing", "pos": "adjective" }
+    ],
+    "note": "\"Whet your appetite\" = make you want more. An \"appetizer\" is a starter (meze, başlangıç)."
+  },
+  {
+    "word": "applaud",
+    "ipa": "/əˈplɔːd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "alkışlamak",
+        "def": "to clap your hands to show you enjoyed or approve of something",
+        "examples": ["The audience applauded loudly at the end of the show.", "Everyone stood up and applauded the speaker."]
+      },
+      {
+        "pos": "verb",
+        "tr": "takdir etmek, övmek",
+        "def": "to express praise or approval for someone or something",
+        "examples": ["We applaud the city's decision to build more bike lanes."]
+      }
+    ],
+    "collocations": ["applaud loudly", "applaud warmly", "applaud a decision", "applaud the efforts", "be applauded for"],
+    "synonyms": ["clap", "cheer", "praise", "commend", "welcome"],
+    "family": [{ "word": "applause", "pos": "noun" }]
+  },
+  {
+    "word": "apple",
+    "ipa": "/ˈæpl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "elma",
+        "def": "a round fruit with red, green or yellow skin and firm white flesh",
+        "examples": ["She packed an apple and a sandwich for lunch.", "We picked apples at a farm in the fall."]
+      }
+    ],
+    "collocations": ["apple pie", "apple juice", "apple tree", "the apple of your eye", "Big Apple", "apples and oranges"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"The apple of your eye\" = someone you love most. \"The Big Apple\" = New York City. \"Apples and oranges\" = things that can't be compared."
+  },
+  {
+    "word": "applicable",
+    "ipa": "/ˈæplɪkəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "uygulanabilir, geçerli, ilgili",
+        "def": "relevant to or affecting a particular person or situation",
+        "examples": ["The new rules are applicable to all employees.", "Fill in your maiden name, if applicable."]
+      }
+    ],
+    "collocations": ["applicable to", "if applicable", "where applicable", "applicable law", "generally applicable", "not applicable"],
+    "synonyms": ["relevant", "appropriate", "valid", "pertinent"],
+    "family": [
+      { "word": "apply", "pos": "verb" },
+      { "word": "applicability", "pos": "noun" },
+      { "word": "inapplicable", "pos": "adjective" }
+    ],
+    "note": "On forms, \"N/A\" means \"not applicable\" (uygulanmaz)."
+  },
+  {
+    "word": "applicant",
+    "ipa": "/ˈæplɪkənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "başvuran, aday, müracaat eden",
+        "def": "a person who formally asks for something, such as a job or a place at a college",
+        "examples": ["There were over 200 applicants for the position.", "Successful applicants will be contacted by email."]
+      }
+    ],
+    "collocations": ["job applicant", "successful applicant", "qualified applicant", "applicant for", "visa applicant"],
+    "synonyms": ["candidate", "applier", "claimant"],
+    "family": [
+      { "word": "apply", "pos": "verb" },
+      { "word": "application", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "application",
+    "ipa": "/ˌæplɪˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "başvuru, müracaat",
+        "def": "a formal request for something, such as a job or permission, usually in writing",
+        "examples": ["I sent in my application for the job last week.", "Fill out the application form and bring it to the office."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uygulama, kullanım",
+        "def": "the practical use of something, especially a theory or discovery",
+        "examples": ["The research has many practical applications in medicine."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yazılım) uygulama, program",
+        "def": "a computer program designed for a particular task",
+        "examples": ["Close all applications before restarting your computer."]
+      }
+    ],
+    "collocations": ["application form", "job application", "submit an application", "application for", "practical application", "application deadline"],
+    "synonyms": ["request", "claim", "use", "program", "app"],
+    "family": [
+      { "word": "apply", "pos": "verb" },
+      { "word": "applicant", "pos": "noun" },
+      { "word": "applicable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "apply",
+    "ipa": "/əˈplaɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "başvurmak, müracaat etmek",
+        "def": "to formally ask for something, such as a job or a place at a college, usually in writing",
+        "examples": ["She applied for a job at a hospital in Boston.", "He applied to five universities."]
+      },
+      {
+        "pos": "verb",
+        "tr": "geçerli olmak, ilgilendirmek",
+        "def": "to be relevant to or affect someone or something",
+        "examples": ["The discount only applies to online orders."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uygulamak, kullanmak; sürmek",
+        "def": "to use a method or rule, or to put a substance on a surface",
+        "examples": ["Apply the cream twice a day to the affected area.", "We can apply the same principle to other problems."]
+      }
+    ],
+    "collocations": ["apply for a job", "apply to a university", "apply to", "apply pressure", "apply a rule", "apply for a visa"],
+    "synonyms": ["request", "put in for", "be relevant", "use", "put on"],
+    "family": [
+      { "word": "application", "pos": "noun" },
+      { "word": "applicant", "pos": "noun" },
+      { "word": "applicable", "pos": "adjective" },
+      { "word": "applied", "pos": "adjective" }
+    ],
+    "note": "Apply FOR a job/visa (what you want); apply TO a company/university (who you ask)."
+  },
+  {
+    "word": "appoint",
+    "ipa": "/əˈpɔɪnt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "atamak, tayin etmek",
+        "def": "to officially choose someone for a job or position",
+        "examples": ["She was appointed head of the marketing department.", "The president appointed a new Supreme Court justice."]
+      }
+    ],
+    "collocations": ["appoint someone as", "be appointed to", "newly appointed", "appoint a committee", "court-appointed"],
+    "synonyms": ["name", "nominate", "choose", "select", "assign"],
+    "family": [
+      { "word": "appointment", "pos": "noun" },
+      { "word": "appointee", "pos": "noun" },
+      { "word": "disappoint", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "appointment",
+    "ipa": "/əˈpɔɪntmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "randevu",
+        "def": "an arrangement to meet someone at a particular time, especially for professional reasons",
+        "examples": ["I have a doctor's appointment at three.", "You need to make an appointment to see the manager."]
+      },
+      {
+        "pos": "noun",
+        "tr": "atama, tayin",
+        "def": "the act of choosing someone for a job, or the job itself",
+        "examples": ["The appointment of a new CEO surprised investors."]
+      }
+    ],
+    "collocations": ["make an appointment", "dental appointment", "cancel an appointment", "by appointment only", "keep an appointment", "appointment of"],
+    "synonyms": ["meeting", "engagement", "consultation", "nomination", "selection"],
+    "family": [
+      { "word": "appoint", "pos": "verb" },
+      { "word": "appointee", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "appreciate",
+    "ipa": "/əˈpriːʃieɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "minnettar olmak, takdir etmek",
+        "def": "to be grateful for something someone has done",
+        "examples": ["I really appreciate your help with the move.", "I'd appreciate it if you could call me back."]
+      },
+      {
+        "pos": "verb",
+        "tr": "değerini bilmek, kıymetini anlamak",
+        "def": "to recognize the good qualities or value of someone or something",
+        "examples": ["You don't appreciate your health until you lose it."]
+      },
+      {
+        "pos": "verb",
+        "tr": "farkında olmak, anlamak; (değer) artmak",
+        "def": "to understand a situation fully, or (of property) to increase in value",
+        "examples": ["I appreciate that this is a difficult time for you.", "Homes in the area have appreciated by 20%."]
+      }
+    ],
+    "collocations": ["really appreciate", "greatly appreciate", "I'd appreciate it if", "fully appreciate", "much appreciated"],
+    "synonyms": ["be grateful for", "value", "treasure", "understand", "realize"],
+    "family": [
+      { "word": "appreciation", "pos": "noun" },
+      { "word": "appreciative", "pos": "adjective" },
+      { "word": "unappreciated", "pos": "adjective" }
+    ],
+    "note": "Say \"I'd appreciate it if...\" (not \"I'd appreciate if...\"). The opposite of \"appreciate in value\" is \"depreciate\"."
+  },
+  {
+    "word": "appreciation",
+    "ipa": "/əˌpriːʃiˈeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "minnet, teşekkür, takdir",
+        "def": "the feeling of being grateful for something",
+        "examples": ["We gave her flowers as a token of our appreciation.", "He expressed his appreciation to all the volunteers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "beğeni, anlayış, kıymet bilme",
+        "def": "understanding and enjoyment of the good qualities of something, such as art",
+        "examples": ["The course aims to develop an appreciation of classical music."]
+      },
+      {
+        "pos": "noun",
+        "tr": "değer artışı",
+        "def": "an increase in value over time",
+        "examples": ["The appreciation of the dollar made imports cheaper."]
+      }
+    ],
+    "collocations": ["in appreciation of", "show appreciation", "express appreciation", "deep appreciation", "token of appreciation", "art appreciation"],
+    "synonyms": ["gratitude", "thanks", "recognition", "understanding", "increase"],
+    "family": [
+      { "word": "appreciate", "pos": "verb" },
+      { "word": "appreciative", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "approach",
+    "ipa": "/əˈproʊtʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yaklaşım, yöntem",
+        "def": "a way of dealing with a problem or doing something",
+        "examples": ["We need a completely new approach to the problem.", "Her teaching approach focuses on practical skills."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yaklaşmak",
+        "def": "to come near or nearer to someone or something in distance or time",
+        "examples": ["As we approached the city, the traffic got heavier.", "Winter is fast approaching."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ele almak; (birine) başvurmak, yanaşmak",
+        "def": "to start dealing with a problem in a particular way, or to speak to someone with a request",
+        "examples": ["He approached his boss about a raise.", "Let's approach this question from a different angle."]
+      }
+    ],
+    "collocations": ["approach to", "new approach", "take an approach", "different approach", "fast approaching", "approach someone about"],
+    "synonyms": ["method", "strategy", "attitude", "come near", "tackle"],
+    "family": [
+      { "word": "approachable", "pos": "adjective" },
+      { "word": "unapproachable", "pos": "adjective" }
+    ],
+    "note": "The verb takes no preposition: \"approach the city\" (not \"approach to the city\"). The noun takes \"to\": \"an approach to learning\"."
+  }
+]

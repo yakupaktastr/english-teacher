@@ -1,0 +1,1121 @@
+[
+  {
+    "word": "engineering",
+    "ipa": "/ˌendʒɪˈnɪrɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mühendislik",
+        "def": "the work or study of using science to design and build machines, structures, and systems",
+        "examples": ["He has a degree in mechanical engineering from Purdue.", "The bridge is a remarkable piece of engineering."]
+      }
+    ],
+    "collocations": ["civil engineering", "software engineering", "electrical engineering", "engineering degree", "genetic engineering", "a feat of engineering"],
+    "synonyms": ["technology", "design"],
+    "family": [
+      { "word": "engineer", "pos": "noun" },
+      { "word": "engine", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "enhance",
+    "ipa": "/ɪnˈhæns/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "artırmak, geliştirmek, iyileştirmek",
+        "def": "to improve the quality, value, or strength of something",
+        "examples": ["A fresh coat of paint can enhance the value of your home.", "The new lighting enhances the colors of the paintings."]
+      }
+    ],
+    "collocations": ["enhance performance", "enhance quality", "greatly enhance", "enhance the reputation of", "enhance security", "performance-enhancing drugs"],
+    "synonyms": ["improve", "boost", "increase", "strengthen", "upgrade"],
+    "family": [
+      { "word": "enhancement", "pos": "noun" },
+      { "word": "enhanced", "pos": "adjective" }
+    ],
+    "note": "Used for making good things better (enhance a reputation), not for repairing something bad."
+  },
+  {
+    "word": "enjoy",
+    "ipa": "/ɪnˈdʒɔɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "zevk almak, keyif almak, sevmek",
+        "def": "to get pleasure from something",
+        "examples": ["I really enjoy cooking for friends on the weekend.", "Did you enjoy the concert last night?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(hak, avantaj) sahip olmak, -den yararlanmak",
+        "def": "to have something good, such as a right or advantage (formal)",
+        "examples": ["The region enjoys a mild climate all year round."]
+      }
+    ],
+    "collocations": ["enjoy yourself", "enjoy doing something", "really enjoy", "enjoy the view", "enjoy success", "enjoy your meal"],
+    "synonyms": ["like", "love", "appreciate", "relish", "have"],
+    "family": [
+      { "word": "enjoyable", "pos": "adjective" },
+      { "word": "enjoyment", "pos": "noun" }
+    ],
+    "note": "Enjoy needs an object or reflexive: \"enjoy yourself\" (NOT \"I enjoyed\" alone). Followed by -ing: enjoy swimming."
+  },
+  {
+    "word": "enjoyable",
+    "ipa": "/ɪnˈdʒɔɪəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "keyifli, zevkli, hoş",
+        "def": "giving pleasure",
+        "examples": ["We had a very enjoyable evening at the lake.", "The hike was long but surprisingly enjoyable."]
+      }
+    ],
+    "collocations": ["highly enjoyable", "thoroughly enjoyable", "an enjoyable experience", "an enjoyable evening", "make something more enjoyable"],
+    "synonyms": ["pleasant", "fun", "delightful", "entertaining", "nice"],
+    "family": [
+      { "word": "enjoy", "pos": "verb" },
+      { "word": "enjoyment", "pos": "noun" },
+      { "word": "enjoyably", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "enormous",
+    "ipa": "/ɪˈnɔːrməs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "muazzam, kocaman, devasa",
+        "def": "extremely large in size, amount, or degree",
+        "examples": ["They live in an enormous house with seven bedrooms.", "The project was an enormous success."]
+      }
+    ],
+    "collocations": ["an enormous amount of", "enormous pressure", "enormous potential", "enormous success", "an enormous impact"],
+    "synonyms": ["huge", "vast", "massive", "immense", "gigantic"],
+    "family": [
+      { "word": "enormously", "pos": "adverb" },
+      { "word": "enormity", "pos": "noun" }
+    ],
+    "note": "\"Enormity\" usually means the great seriousness of something bad, not just large size."
+  },
+  {
+    "word": "enough",
+    "ipa": "/ɪˈnʌf/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "yeterli, yeteri kadar",
+        "def": "as much or as many as you need or want",
+        "examples": ["We don't have enough chairs for everyone.", "Is there enough time to grab a coffee?"]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yeterince, yeteri kadar",
+        "def": "to the necessary degree (placed after an adjective, adverb, or verb)",
+        "examples": ["He isn't old enough to drive.", "You're not studying hard enough."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "yeterli miktar, yeter",
+        "def": "a sufficient amount, or as much as you can accept",
+        "examples": ["I've had enough of your excuses.", "Thanks, that's enough for me."]
+      }
+    ],
+    "collocations": ["enough time", "old enough to", "more than enough", "have had enough", "fair enough", "strangely enough"],
+    "synonyms": ["sufficient", "adequate", "sufficiently", "plenty"],
+    "family": [],
+    "note": "Word order trap: enough + noun (enough money), but adjective + enough (big enough), never \"enough big\"."
+  },
+  {
+    "word": "enquire",
+    "ipa": "/ɪnˈkwaɪər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sormak, bilgi almak, soruşturmak",
+        "def": "to ask someone for information (formal)",
+        "examples": ["Several customers called to enquire about the delay.", "I'm writing to enquire whether the position is still open."]
+      }
+    ],
+    "collocations": ["enquire about", "enquire into", "enquire after someone", "enquire whether", "enquire within"],
+    "synonyms": ["ask", "inquire", "query", "investigate"],
+    "family": [
+      { "word": "enquiry", "pos": "noun" },
+      { "word": "enquiring", "pos": "adjective" }
+    ],
+    "note": "Mainly British spelling. American English almost always uses \"inquire\"."
+  },
+  {
+    "word": "enquiry",
+    "ipa": "/ˈɪnkwəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "soru, bilgi talebi",
+        "def": "a question you ask in order to get information",
+        "examples": ["We received hundreds of enquiries about the job."]
+      },
+      {
+        "pos": "noun",
+        "tr": "soruşturma, araştırma",
+        "def": "an official investigation into the cause of something",
+        "examples": ["The government has ordered an enquiry into the hospital deaths."]
+      }
+    ],
+    "collocations": ["make an enquiry", "public enquiry", "an enquiry into", "answer an enquiry", "enquiries desk"],
+    "synonyms": ["inquiry", "question", "investigation", "query", "probe"],
+    "family": [
+      { "word": "enquire", "pos": "verb" }
+    ],
+    "note": "Mainly British spelling; Americans write \"inquiry\" (pronounced /ˈɪŋkwəri/ or /ɪnˈkwaɪəri/)."
+  },
+  {
+    "word": "enrich",
+    "ipa": "/ɪnˈrɪtʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "zenginleştirmek",
+        "def": "to improve the quality of something, often by adding something to it",
+        "examples": ["Traveling abroad really enriched my life.", "The cereal is enriched with iron and vitamins."]
+      },
+      {
+        "pos": "verb",
+        "tr": "zengin etmek, servet kazandırmak",
+        "def": "to make someone richer, often unfairly",
+        "examples": ["Critics say the deal only enriched a few insiders."]
+      }
+    ],
+    "collocations": ["enrich your life", "enrich the soil", "enriched with vitamins", "enriched uranium", "culturally enriching"],
+    "synonyms": ["enhance", "improve", "add to", "boost"],
+    "family": [
+      { "word": "enrichment", "pos": "noun" },
+      { "word": "enriching", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "enroll",
+    "ipa": "/ɪnˈrəʊl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kaydolmak, kayıt yaptırmak; kaydetmek",
+        "def": "to officially join a course, school, or program, or to arrange for someone to join",
+        "examples": ["She enrolled in a night class to learn Spanish.", "More than 2,000 students are enrolled at the college."]
+      }
+    ],
+    "collocations": ["enroll in a course", "enroll at a university", "be enrolled in", "enroll students", "open to enroll"],
+    "synonyms": ["register", "sign up", "join", "matriculate"],
+    "family": [
+      { "word": "enrollment", "pos": "noun" }
+    ],
+    "note": "American spelling: enroll, enrollment; British: enrol, enrolment. Americans say \"enroll in\" a course."
+  },
+  {
+    "word": "ensue",
+    "ipa": "/ɪnˈsuː/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ardından gelmek, sonucunda ortaya çıkmak",
+        "def": "to happen after something or as a result of it (formal)",
+        "examples": ["The referee made a bad call, and a fight ensued.", "In the ensuing chaos, several people were injured."]
+      }
+    ],
+    "collocations": ["chaos ensued", "a debate ensued", "the ensuing years", "ensuing panic", "ensue from"],
+    "synonyms": ["follow", "result", "arise", "come next", "develop"],
+    "family": [
+      { "word": "ensuing", "pos": "adjective" }
+    ],
+    "note": "Formal. Usually intransitive and often in the form \"the ensuing + noun\"."
+  },
+  {
+    "word": "ensure",
+    "ipa": "/ɪnˈʃʊr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sağlamak, garanti etmek, güvence altına almak",
+        "def": "to make certain that something happens or is true",
+        "examples": ["Please ensure that all windows are closed before you leave.", "The new rules ensure equal pay for equal work."]
+      }
+    ],
+    "collocations": ["ensure that", "ensure safety", "ensure success", "help ensure", "ensure compliance", "in order to ensure"],
+    "synonyms": ["make sure", "guarantee", "secure", "see to it"],
+    "family": [],
+    "note": "Don't confuse with \"insure\" (sigortalamak) and \"assure\" (birine güvence vermek: assure someone that...)."
+  },
+  {
+    "word": "enter",
+    "ipa": "/ˈentər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "girmek",
+        "def": "to come or go into a place",
+        "examples": ["Everyone stood up when the judge entered the room.", "Thieves entered the house through a back window."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bilgi) girmek, yazmak",
+        "def": "to type or write information into a computer or form",
+        "examples": ["Enter your password and click \"Log in\"."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(yarışmaya) katılmak; (meslek, dönem) başlamak",
+        "def": "to take part in a competition, or to begin a job, period, or activity",
+        "examples": ["She entered the race at the last minute.", "The war has entered its third year."]
+      }
+    ],
+    "collocations": ["enter a room", "enter a password", "enter a competition", "enter the market", "enter into an agreement", "enter politics"],
+    "synonyms": ["go in", "come in", "type in", "join", "begin"],
+    "family": [
+      { "word": "entrance", "pos": "noun" },
+      { "word": "entry", "pos": "noun" }
+    ],
+    "note": "No preposition after enter for places: enter the room (NOT enter to/into the room). But \"enter into\" an agreement or discussion."
+  },
+  {
+    "word": "enterprise",
+    "ipa": "/ˈentərpraɪz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şirket, işletme, kuruluş",
+        "def": "a company or business",
+        "examples": ["The program offers loans to small and medium-sized enterprises.", "The software is designed for large enterprises."]
+      },
+      {
+        "pos": "noun",
+        "tr": "girişim, proje, iş",
+        "def": "a large or difficult project, especially a new one",
+        "examples": ["Building the railroad was a huge and risky enterprise."]
+      },
+      {
+        "pos": "noun",
+        "tr": "girişimcilik, atılganlık",
+        "def": "the ability to think of new projects and the energy to make them succeed",
+        "examples": ["The town's revival owes a lot to local enterprise."]
+      }
+    ],
+    "collocations": ["free enterprise", "private enterprise", "small enterprises", "state-owned enterprise", "a joint enterprise", "spirit of enterprise"],
+    "synonyms": ["business", "company", "firm", "venture", "undertaking"],
+    "family": [
+      { "word": "enterprising", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "entertain",
+    "ipa": "/ˌentərˈteɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "eğlendirmek, oyalamak",
+        "def": "to interest or amuse people in order to give them pleasure",
+        "examples": ["A clown was hired to entertain the kids at the party.", "The show aims to entertain as well as educate."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ağırlamak, misafir etmek",
+        "def": "to invite people to your home and give them food and drink",
+        "examples": ["They love to entertain, so their house is always full of guests."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(fikir, ihtimal) aklından geçirmek, göz önünde bulundurmak",
+        "def": "to consider an idea or possibility (formal)",
+        "examples": ["I never entertained the idea of quitting."]
+      }
+    ],
+    "collocations": ["entertain guests", "entertain the crowd", "entertain an idea", "keep someone entertained", "entertain a possibility"],
+    "synonyms": ["amuse", "delight", "host", "consider"],
+    "family": [
+      { "word": "entertainment", "pos": "noun" },
+      { "word": "entertainer", "pos": "noun" },
+      { "word": "entertaining", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "entertaining",
+    "ipa": "/ˌentərˈteɪnɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "eğlenceli, keyifli",
+        "def": "enjoyable and interesting to watch, read, or listen to",
+        "examples": ["The movie is silly but very entertaining.", "He's an entertaining storyteller who always makes us laugh."]
+      }
+    ],
+    "collocations": ["highly entertaining", "hugely entertaining", "an entertaining read", "entertaining evening", "entertaining and informative"],
+    "synonyms": ["amusing", "fun", "enjoyable", "engaging", "diverting"],
+    "family": [
+      { "word": "entertain", "pos": "verb" },
+      { "word": "entertainment", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "entertainment",
+    "ipa": "/ˌentərˈteɪnmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eğlence",
+        "def": "movies, music, shows, games, etc. that people enjoy, or the business that produces them",
+        "examples": ["There's live entertainment at the hotel every Friday night.", "She works in the entertainment industry in Los Angeles."]
+      }
+    ],
+    "collocations": ["entertainment industry", "live entertainment", "home entertainment", "for entertainment", "entertainment value", "a form of entertainment"],
+    "synonyms": ["amusement", "fun", "recreation", "show business"],
+    "family": [
+      { "word": "entertain", "pos": "verb" },
+      { "word": "entertainer", "pos": "noun" },
+      { "word": "entertaining", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "enthusiasm",
+    "ipa": "/ɪnˈθuːziæzəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "heves, coşku, şevk",
+        "def": "a strong feeling of excitement and interest in something",
+        "examples": ["The new coach brought energy and enthusiasm to the team.", "She talked about her trip with great enthusiasm."]
+      }
+    ],
+    "collocations": ["with enthusiasm", "great enthusiasm", "lack of enthusiasm", "enthusiasm for something", "show enthusiasm", "lose enthusiasm"],
+    "synonyms": ["eagerness", "excitement", "passion", "zeal", "keenness"],
+    "family": [
+      { "word": "enthusiastic", "pos": "adjective" },
+      { "word": "enthusiast", "pos": "noun" },
+      { "word": "enthusiastically", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "enthusiast",
+    "ipa": "/ɪnˈθuːziæst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "meraklı, tutkun, hayran",
+        "def": "a person who is very interested in an activity or subject and spends a lot of time on it",
+        "examples": ["The museum is popular with railroad enthusiasts.", "He's a keen fitness enthusiast who runs every morning."]
+      }
+    ],
+    "collocations": ["car enthusiast", "sports enthusiast", "fitness enthusiast", "music enthusiast", "a keen enthusiast"],
+    "synonyms": ["fan", "fanatic", "lover", "buff", "devotee"],
+    "family": [
+      { "word": "enthusiasm", "pos": "noun" },
+      { "word": "enthusiastic", "pos": "adjective" }
+    ],
+    "note": "Informal American alternatives: \"buff\" (a history buff), \"junkie\", \"nut\"."
+  },
+  {
+    "word": "enthusiastic",
+    "ipa": "/ɪnˌθuːziˈæstɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "hevesli, istekli, coşkulu",
+        "def": "feeling or showing a lot of excitement and interest",
+        "examples": ["The kids were very enthusiastic about the camping trip.", "The band got an enthusiastic welcome from the crowd."]
+      }
+    ],
+    "collocations": ["enthusiastic about", "wildly enthusiastic", "enthusiastic support", "enthusiastic response", "less than enthusiastic"],
+    "synonyms": ["eager", "keen", "excited", "passionate", "avid"],
+    "family": [
+      { "word": "enthusiasm", "pos": "noun" },
+      { "word": "enthusiastically", "pos": "adverb" },
+      { "word": "unenthusiastic", "pos": "adjective" }
+    ],
+    "note": "Use \"enthusiastic about\" (NOT for/on)."
+  },
+  {
+    "word": "entire",
+    "ipa": "/ɪnˈtaɪər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "bütün, tüm, tamamı",
+        "def": "including every part, person, or thing; whole",
+        "examples": ["I spent the entire weekend cleaning the garage.", "The entire town came out to watch the parade."]
+      }
+    ],
+    "collocations": ["the entire world", "the entire time", "the entire country", "an entire day", "your entire life"],
+    "synonyms": ["whole", "complete", "full", "total"],
+    "family": [
+      { "word": "entirely", "pos": "adverb" },
+      { "word": "entirety", "pos": "noun" }
+    ],
+    "note": "Used before a noun, usually with the/my/an: the entire team. \"In its entirety\" = as a whole."
+  },
+  {
+    "word": "entirely",
+    "ipa": "/ɪnˈtaɪərli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "tamamen, bütünüyle, büsbütün",
+        "def": "completely; in every way",
+        "examples": ["The meal was made entirely from local ingredients.", "I'm not entirely sure what she meant."]
+      }
+    ],
+    "collocations": ["entirely different", "not entirely", "entirely possible", "entirely new", "almost entirely", "entirely up to you"],
+    "synonyms": ["completely", "totally", "wholly", "fully", "absolutely"],
+    "family": [
+      { "word": "entire", "pos": "adjective" },
+      { "word": "entirety", "pos": "noun" }
+    ],
+    "note": "\"Not entirely\" is a polite way to say \"partly not\": I'm not entirely convinced."
+  },
+  {
+    "word": "entitle",
+    "ipa": "/ɪnˈtaɪtl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "hak kazandırmak, (birine) hak vermek",
+        "def": "to give someone the right to have or do something",
+        "examples": ["Full-time staff are entitled to four weeks of paid vacation.", "This ticket entitles you to a free drink."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kitap vb.) adını koymak, başlık vermek",
+        "def": "to give a title to a book, movie, etc.",
+        "examples": ["Her first novel was entitled \"The Long Road Home\"."]
+      }
+    ],
+    "collocations": ["be entitled to", "entitled to compensation", "entitle someone to do something", "fully entitled", "legally entitled"],
+    "synonyms": ["qualify", "allow", "permit", "authorize", "title"],
+    "family": [
+      { "word": "entitlement", "pos": "noun" },
+      { "word": "entitled", "pos": "adjective" }
+    ],
+    "note": "Mostly passive: be entitled to (something / do something). \"Entitled\" as an adjective can also mean spoiled, believing you deserve special treatment."
+  },
+  {
+    "word": "entity",
+    "ipa": "/ˈentəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "varlık, kurum, tüzel kişilik",
+        "def": "something that exists separately and has its own identity, such as an organization",
+        "examples": ["After the merger, the two banks became a single entity.", "The company operates as a separate legal entity."]
+      }
+    ],
+    "collocations": ["legal entity", "separate entity", "single entity", "distinct entity", "political entity", "business entity"],
+    "synonyms": ["body", "organization", "being", "unit", "thing"],
+    "family": [],
+    "note": "Formal and academic; common in law and business."
+  },
+  {
+    "word": "entrance",
+    "ipa": "/ˈentrəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "giriş, giriş kapısı",
+        "def": "a door, gate, or passage that you use to enter a place",
+        "examples": ["Meet me at the main entrance of the museum.", "The building has a separate entrance for deliveries."]
+      },
+      {
+        "pos": "noun",
+        "tr": "giriş (hakkı), kabul; (sahneye) giriş",
+        "def": "the right to go into a place or join a group; the act of coming into a room or onto a stage",
+        "examples": ["She passed the entrance exam for law school.", "The actor made a dramatic entrance in the second act."]
+      }
+    ],
+    "collocations": ["main entrance", "front entrance", "entrance fee", "entrance exam", "make an entrance", "at the entrance"],
+    "synonyms": ["entry", "way in", "door", "gate", "admission"],
+    "family": [
+      { "word": "enter", "pos": "verb" },
+      { "word": "entry", "pos": "noun" }
+    ],
+    "note": "Opposite: exit. \"Entrance exam\" = giriş sınavı."
+  },
+  {
+    "word": "entrepreneur",
+    "ipa": "/ˌɑːntrəprəˈnɜːr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "girişimci",
+        "def": "a person who starts and runs businesses, especially when this involves financial risk",
+        "examples": ["The young entrepreneur launched her first company at 22.", "The city offers grants to help local entrepreneurs."]
+      }
+    ],
+    "collocations": ["successful entrepreneur", "young entrepreneur", "tech entrepreneur", "serial entrepreneur", "social entrepreneur"],
+    "synonyms": ["businessperson", "founder", "business owner", "industrialist"],
+    "family": [
+      { "word": "entrepreneurial", "pos": "adjective" },
+      { "word": "entrepreneurship", "pos": "noun" }
+    ],
+    "note": "Tricky spelling from French: entre-pre-neur."
+  },
+  {
+    "word": "entry",
+    "ipa": "/ˈentri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "giriş, girme",
+        "def": "the act of going into a place, or the right to go in",
+        "examples": ["The thieves gained entry through an open window.", "He was refused entry to the country because his visa had expired."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kayıt, madde, (sözlük) madde başı",
+        "def": "a separate item in a diary, list, dictionary, or database",
+        "examples": ["The dictionary has over 50,000 entries.", "Her last diary entry was dated June 3."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yarışmaya katılan eser, başvuru",
+        "def": "something you submit in a competition",
+        "examples": ["The winning entry will be published in the magazine."]
+      }
+    ],
+    "collocations": ["gain entry", "refuse entry", "no entry", "entry fee", "diary entry", "entry-level job"],
+    "synonyms": ["entrance", "admission", "access", "item", "record"],
+    "family": [
+      { "word": "enter", "pos": "verb" },
+      { "word": "entrance", "pos": "noun" }
+    ],
+    "note": "\"Entry-level\" = for beginners, with no experience needed (giriş seviyesi)."
+  },
+  {
+    "word": "envelope",
+    "ipa": "/ˈenvələʊp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "zarf",
+        "def": "a flat paper cover that you put a letter or card in before sending it",
+        "examples": ["She sealed the envelope and put a stamp on it.", "The check arrived in a brown envelope."]
+      }
+    ],
+    "collocations": ["seal an envelope", "open an envelope", "a stamped envelope", "back of an envelope", "push the envelope"],
+    "synonyms": ["cover", "wrapper", "packet"],
+    "family": [
+      { "word": "envelop", "pos": "verb" }
+    ],
+    "note": "\"Push the envelope\" = to go beyond normal limits. Don't confuse with the verb \"envelop\" /ɪnˈveləp/ (sarmak, kuşatmak)."
+  },
+  {
+    "word": "environment",
+    "ipa": "/ɪnˈvaɪrənmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çevre, doğa",
+        "def": "the natural world of land, water, air, plants, and animals",
+        "examples": ["Plastic waste is causing serious damage to the environment.", "We need to protect the environment for future generations."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ortam, çevre, koşullar",
+        "def": "the conditions and surroundings that affect how people live or work",
+        "examples": ["Children need a safe and loving environment to grow up in.", "It's a fast-paced work environment."]
+      }
+    ],
+    "collocations": ["protect the environment", "harm the environment", "work environment", "learning environment", "natural environment", "safe environment"],
+    "synonyms": ["nature", "surroundings", "setting", "atmosphere", "conditions"],
+    "family": [
+      { "word": "environmental", "pos": "adjective" },
+      { "word": "environmentally", "pos": "adverb" },
+      { "word": "environmentalist", "pos": "noun" }
+    ],
+    "note": "In the \"nature\" sense it takes \"the\": damage the environment. Note the spelling: enviro-n-ment."
+  },
+  {
+    "word": "environmental",
+    "ipa": "/ɪnˌvaɪrənˈmentl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çevresel, çevreyle ilgili",
+        "def": "connected with the natural world and its protection, or with surrounding conditions",
+        "examples": ["The new airport could have a serious environmental impact.", "She joined an environmental group that cleans up local rivers."]
+      }
+    ],
+    "collocations": ["environmental impact", "environmental protection", "environmental issues", "environmental damage", "environmental policy", "environmental factors"],
+    "synonyms": ["ecological", "green"],
+    "family": [
+      { "word": "environment", "pos": "noun" },
+      { "word": "environmentally", "pos": "adverb" },
+      { "word": "environmentalist", "pos": "noun" }
+    ],
+    "note": "\"Environmentally friendly\" = çevre dostu."
+  },
+  {
+    "word": "epidemic",
+    "ipa": "/ˌepɪˈdemɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "salgın",
+        "def": "a large number of cases of a disease in one community at the same time",
+        "examples": ["A flu epidemic closed schools across the state.", "Health officials warned of a cholera epidemic after the floods."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(sorun) salgın, hızla yayılan sorun",
+        "def": "a sudden, fast increase in something bad",
+        "examples": ["Doctors are worried about the obesity epidemic among children."]
+      }
+    ],
+    "collocations": ["flu epidemic", "obesity epidemic", "opioid epidemic", "an epidemic of", "reach epidemic proportions"],
+    "synonyms": ["outbreak", "plague", "pandemic", "wave", "spread"],
+    "family": [
+      { "word": "epidemiology", "pos": "noun" },
+      { "word": "epidemiologist", "pos": "noun" }
+    ],
+    "note": "Epidemic = in one area or country; pandemic = across the world."
+  },
+  {
+    "word": "episode",
+    "ipa": "/ˈepɪsəʊd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bölüm",
+        "def": "one part of a TV or radio series, or a podcast",
+        "examples": ["I stayed up late to watch the final episode of the season.", "New episodes come out every Tuesday."]
+      },
+      {
+        "pos": "noun",
+        "tr": "olay, dönem, (hastalık) kriz, nöbet",
+        "def": "a single event or short period that is important or unusual",
+        "examples": ["It was an embarrassing episode that he'd rather forget.", "She had another episode of severe depression last year."]
+      }
+    ],
+    "collocations": ["the latest episode", "final episode", "pilot episode", "watch an episode", "an unfortunate episode"],
+    "synonyms": ["installment", "part", "incident", "event", "period"],
+    "family": [
+      { "word": "episodic", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "equal",
+    "ipa": "/ˈiːkwəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "eşit",
+        "def": "the same in size, number, value, or rights as something or someone else",
+        "examples": ["Cut the cake into eight equal pieces.", "Women and men should get equal pay for the same job."]
+      },
+      {
+        "pos": "noun",
+        "tr": "eşit, dengi",
+        "def": "a person or thing with the same ability, rank, or rights as another",
+        "examples": ["She treats her employees as equals.", "As a pianist, he had no equal."]
+      },
+      {
+        "pos": "verb",
+        "tr": "eşit olmak, etmek; (rekora) eşitlemek",
+        "def": "to be the same in amount or value as something, or to be as good as something",
+        "examples": ["Two plus three equals five.", "Her time equaled the world record."]
+      }
+    ],
+    "collocations": ["equal rights", "equal opportunities", "equal pay", "equal to", "on equal terms", "treat as equals"],
+    "synonyms": ["same", "identical", "equivalent", "peer", "match"],
+    "family": [
+      { "word": "equality", "pos": "noun" },
+      { "word": "equally", "pos": "adverb" },
+      { "word": "unequal", "pos": "adjective" },
+      { "word": "equalize", "pos": "verb" }
+    ],
+    "note": "American spelling: equaled, equaling (British: equalled). \"Be equal to a task\" = be able to do it."
+  },
+  {
+    "word": "equality",
+    "ipa": "/iˈkwɑːləti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eşitlik",
+        "def": "the state of having the same rights, status, and opportunities as others",
+        "examples": ["The movement fought for racial equality in the 1960s.", "Gender equality in the workplace is still a long way off."]
+      }
+    ],
+    "collocations": ["gender equality", "racial equality", "equality of opportunity", "fight for equality", "marriage equality", "equality before the law"],
+    "synonyms": ["fairness", "parity", "equal rights", "justice"],
+    "family": [
+      { "word": "equal", "pos": "adjective" },
+      { "word": "inequality", "pos": "noun" },
+      { "word": "egalitarian", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "equally",
+    "ipa": "/ˈiːkwəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "eşit derecede, aynı derecede",
+        "def": "to the same degree or amount",
+        "examples": ["Both candidates are equally qualified for the job.", "The prize money will be shared equally among the winners."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "aynı şekilde, bununla birlikte",
+        "def": "used to add a second point that is as important as the first",
+        "examples": ["Exercise is important; equally, you need enough sleep."]
+      }
+    ],
+    "collocations": ["equally important", "equally divided", "share equally", "treat equally", "equally likely", "equally well"],
+    "synonyms": ["evenly", "just as", "likewise", "similarly", "fairly"],
+    "family": [
+      { "word": "equal", "pos": "adjective" },
+      { "word": "equality", "pos": "noun" }
+    ],
+    "note": "Avoid \"equally as\": say \"equally important\" or \"just as important\"."
+  },
+  {
+    "word": "equate",
+    "ipa": "/iˈkweɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "eş tutmak, bir tutmak, özdeşleştirmek",
+        "def": "to think that one thing is the same as or closely linked to another",
+        "examples": ["Many people equate success with making a lot of money.", "You can't equate criticism with disloyalty."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir şeye) denk gelmek, eşit olmak",
+        "def": "to be equal to something in amount or value (equate to)",
+        "examples": ["The pay rise equates to about $50 a week."]
+      }
+    ],
+    "collocations": ["equate something with something", "equate to", "tend to equate", "simply equate", "roughly equate"],
+    "synonyms": ["identify with", "associate", "liken", "correspond to", "amount to"],
+    "family": [
+      { "word": "equation", "pos": "noun" }
+    ],
+    "note": "Pattern: equate A with B. The idea is often criticized: \"don't equate X with Y\"."
+  },
+  {
+    "word": "equation",
+    "ipa": "/ɪˈkweɪʒn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "denklem",
+        "def": "a mathematical statement showing that two amounts are equal, such as 2x + 3 = 7",
+        "examples": ["The students had to solve five equations in ten minutes.", "Einstein's famous equation links energy and mass."]
+      },
+      {
+        "pos": "noun",
+        "tr": "denklem, (durumu etkileyen) faktörler bütünü",
+        "def": "a situation in which several things must be considered together",
+        "examples": ["When you add children to the equation, moving abroad gets complicated."]
+      }
+    ],
+    "collocations": ["solve an equation", "a simple equation", "quadratic equation", "part of the equation", "the other side of the equation"],
+    "synonyms": ["formula", "calculation", "situation"],
+    "family": [
+      { "word": "equate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "equip",
+    "ipa": "/ɪˈkwɪp/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "donatmak, teçhiz etmek",
+        "def": "to provide someone or something with the tools or things needed for a purpose",
+        "examples": ["All police cars are equipped with cameras.", "The gym is fully equipped with modern machines."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hazırlamak, (bilgi, beceri ile) donatmak",
+        "def": "to give someone the skills or knowledge they need",
+        "examples": ["The course equips students to work in the tech industry."]
+      }
+    ],
+    "collocations": ["equipped with", "well equipped", "fully equipped", "equip someone for", "equip someone to do something", "poorly equipped"],
+    "synonyms": ["supply", "provide", "furnish", "prepare", "fit out"],
+    "family": [
+      { "word": "equipment", "pos": "noun" },
+      { "word": "equipped", "pos": "adjective" }
+    ],
+    "note": "The p doubles: equipped, equipping."
+  },
+  {
+    "word": "equipment",
+    "ipa": "/ɪˈkwɪpmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ekipman, teçhizat, donanım, alet edevat",
+        "def": "the tools, machines, or other things needed for a particular activity",
+        "examples": ["The hospital needs new medical equipment.", "We rented all our camping equipment from a local store."]
+      }
+    ],
+    "collocations": ["a piece of equipment", "medical equipment", "sports equipment", "safety equipment", "office equipment", "equipment failure"],
+    "synonyms": ["gear", "kit", "apparatus", "tools", "supplies"],
+    "family": [
+      { "word": "equip", "pos": "verb" }
+    ],
+    "note": "Uncountable: NOT \"equipments\" or \"an equipment\". Say \"a piece of equipment\"."
+  },
+  {
+    "word": "equivalent",
+    "ipa": "/ɪˈkwɪvələnt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "eşdeğer, denk",
+        "def": "equal in value, amount, meaning, or importance",
+        "examples": ["The fine is equivalent to a month's salary.", "Is there an equivalent word in Turkish?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "karşılık, muadil, eşdeğer",
+        "def": "something that has the same value, purpose, or meaning as something else",
+        "examples": ["A tablespoon is the equivalent of three teaspoons.", "He drank the equivalent of ten cups of coffee."]
+      }
+    ],
+    "collocations": ["equivalent to", "the equivalent of", "roughly equivalent", "direct equivalent", "closest equivalent", "full-time equivalent"],
+    "synonyms": ["equal", "comparable", "corresponding", "counterpart", "match"],
+    "family": [
+      { "word": "equivalence", "pos": "noun" }
+    ],
+    "note": "\"Equivalent to\" (adjective) vs. \"the equivalent of\" (noun)."
+  },
+  {
+    "word": "era",
+    "ipa": "/ˈɪrə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çağ, dönem, devir",
+        "def": "a period of history with particular features or events",
+        "examples": ["The fall of the Berlin Wall marked the end of an era.", "We live in the era of social media."]
+      }
+    ],
+    "collocations": ["the end of an era", "a new era", "the modern era", "the digital era", "the Cold War era", "usher in an era"],
+    "synonyms": ["age", "period", "epoch", "time", "generation"],
+    "family": [],
+    "note": "\"Usher in a new era\" = to start a new period."
+  },
+  {
+    "word": "erect",
+    "ipa": "/ɪˈrekt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dikmek, inşa etmek, kurmak",
+        "def": "to build something or put something in an upright position (formal)",
+        "examples": ["The town erected a statue in honor of the fallen soldiers.", "Police erected barriers along the parade route."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "dik, dimdik",
+        "def": "standing or sitting straight up",
+        "examples": ["The soldier stood erect as the flag was raised."]
+      }
+    ],
+    "collocations": ["erect a statue", "erect a monument", "erect a barrier", "erect a fence", "stand erect"],
+    "synonyms": ["build", "construct", "put up", "raise", "upright"],
+    "family": [
+      { "word": "erection", "pos": "noun" }
+    ],
+    "note": "Formal; in everyday speech use \"put up\" or \"build\"."
+  },
+  {
+    "word": "erode",
+    "ipa": "/ɪˈroʊd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "aşındırmak, aşınmak, (toprak) erozyona uğramak",
+        "def": "to gradually wear away rock, soil, etc. by wind, water, or ice, or to be worn away",
+        "examples": ["The waves have eroded the cliffs over thousands of years.", "Without trees, the soil quickly erodes."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(güven, değer) zayıflatmak, aşındırmak, azaltmak",
+        "def": "to gradually weaken or destroy something such as trust, power, or value",
+        "examples": ["The scandal has eroded public trust in the police.", "Inflation is eroding people's savings."]
+      }
+    ],
+    "collocations": ["erode trust", "erode confidence", "erode support", "gradually erode", "eroded by the sea", "erode savings"],
+    "synonyms": ["wear away", "wear down", "undermine", "weaken", "diminish"],
+    "family": [
+      { "word": "erosion", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "error",
+    "ipa": "/ˈerər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hata, yanlışlık",
+        "def": "a mistake, especially one that causes problems or affects a result",
+        "examples": ["The crash was caused by human error.", "There's an error in the second paragraph of your report."]
+      }
+    ],
+    "collocations": ["make an error", "human error", "in error", "error message", "a serious error", "trial and error"],
+    "synonyms": ["mistake", "fault", "inaccuracy", "slip", "blunder"],
+    "family": [
+      { "word": "err", "pos": "verb" },
+      { "word": "erroneous", "pos": "adjective" }
+    ],
+    "note": "More formal than \"mistake\". \"Make an error\" (NOT do an error). \"Trial and error\" = deneme yanılma."
+  },
+  {
+    "word": "erupt",
+    "ipa": "/ɪˈrʌpt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(yanardağ) püskürmek, faaliyete geçmek",
+        "def": "when a volcano erupts, it suddenly throws out fire, rocks, smoke, and lava",
+        "examples": ["The volcano erupted for the first time in 40 years."]
+      },
+      {
+        "pos": "verb",
+        "tr": "patlak vermek, birden başlamak",
+        "def": "to start suddenly and violently or loudly",
+        "examples": ["Fighting erupted between rival gangs downtown.", "The crowd erupted in cheers when the goal was scored."]
+      }
+    ],
+    "collocations": ["violence erupted", "fighting erupted", "erupt into", "erupt in laughter", "the volcano erupted", "erupt in anger"],
+    "synonyms": ["explode", "break out", "burst out", "flare up"],
+    "family": [
+      { "word": "eruption", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "escalate",
+    "ipa": "/ˈeskəleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tırmanmak, kızışmak, büyümek; tırmandırmak",
+        "def": "to become or make something worse, more serious, or more intense",
+        "examples": ["The argument quickly escalated into a fistfight.", "Both sides are trying not to escalate the conflict."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(fiyat, maliyet) hızla artmak",
+        "def": "to rise rapidly in amount or cost",
+        "examples": ["Healthcare costs continue to escalate."]
+      }
+    ],
+    "collocations": ["escalate into", "escalate tensions", "the conflict escalated", "rapidly escalate", "escalating costs", "escalate the situation"],
+    "synonyms": ["intensify", "worsen", "increase", "grow", "spiral"],
+    "family": [
+      { "word": "escalation", "pos": "noun" },
+      { "word": "de-escalate", "pos": "verb" }
+    ],
+    "note": "\"Escalate an issue\" in workplaces means to pass a problem to a higher manager."
+  },
+  {
+    "word": "escape",
+    "ipa": "/ɪˈskeɪp/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kaçmak, firar etmek",
+        "def": "to get away from a place where you are kept against your will or from danger",
+        "examples": ["Two prisoners escaped from the jail overnight.", "The family escaped the fire through a window."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kötü bir şeyden) kurtulmak, yakayı sıyırmak; gözden kaçmak",
+        "def": "to avoid something bad, or to not be noticed or remembered",
+        "examples": ["The driver escaped serious injury.", "Her name escapes me right now."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kaçış, firar; (gerçeklerden) kaçış",
+        "def": "the act of escaping, or something that helps you forget daily life",
+        "examples": ["The prisoner's escape made national news.", "For me, reading is an escape from stress."]
+      }
+    ],
+    "collocations": ["escape from", "narrow escape", "escape injury", "escape route", "make your escape", "escape the heat"],
+    "synonyms": ["flee", "get away", "break out", "avoid", "evade"],
+    "family": [
+      { "word": "escapism", "pos": "noun" },
+      { "word": "escapee", "pos": "noun" },
+      { "word": "inescapable", "pos": "adjective" }
+    ],
+    "note": "\"A narrow escape\" = kıl payı kurtuluş. \"His name escapes me\" = I can't remember it."
+  },
+  {
+    "word": "especially",
+    "ipa": "/ɪˈspeʃəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "özellikle, bilhassa",
+        "def": "more than usual or more than others; particularly",
+        "examples": ["I love fruit, especially strawberries.", "Driving is dangerous here, especially at night."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "özel olarak, sırf (biri/bir şey) için",
+        "def": "for a particular purpose or person",
+        "examples": ["I made this cake especially for you."]
+      }
+    ],
+    "collocations": ["especially when", "especially if", "especially since", "especially important", "and especially", "not especially"],
+    "synonyms": ["particularly", "specially", "above all", "mainly", "notably"],
+    "family": [
+      { "word": "especial", "pos": "adjective" }
+    ],
+    "note": "Position: usually right before the word it highlights (especially at night). \"Specially\" is mainly used for purpose: specially designed."
+  },
+  {
+    "word": "essay",
+    "ipa": "/ˈeseɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kompozisyon, deneme, makale",
+        "def": "a short piece of writing on a subject, especially one written by a student",
+        "examples": ["The professor asked us to write a 2,000-word essay on the Civil War.", "Her college application essay was about her grandmother."]
+      }
+    ],
+    "collocations": ["write an essay", "an essay on", "essay question", "college essay", "hand in an essay", "personal essay"],
+    "synonyms": ["paper", "composition", "article", "piece"],
+    "family": [
+      { "word": "essayist", "pos": "noun" }
+    ],
+    "note": "In US universities, students often say \"paper\" instead of essay."
+  },
+  {
+    "word": "essence",
+    "ipa": "/ˈesns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öz, esas, ana fikir",
+        "def": "the most important quality of something that makes it what it is",
+        "examples": ["The essence of good teaching is listening to students.", "In essence, the plan is to cut costs by 20 percent."]
+      },
+      {
+        "pos": "noun",
+        "tr": "esans, öz",
+        "def": "a strong liquid taken from a plant and used for its flavor or smell",
+        "examples": ["Add a few drops of vanilla essence to the batter."]
+      }
+    ],
+    "collocations": ["in essence", "the essence of", "time is of the essence", "capture the essence", "vanilla essence"],
+    "synonyms": ["core", "heart", "nature", "substance", "gist"],
+    "family": [
+      { "word": "essential", "pos": "adjective" },
+      { "word": "essentially", "pos": "adverb" }
+    ],
+    "note": "\"Time is of the essence\" = time is extremely important; we must hurry. Americans usually say \"vanilla extract\"."
+  }
+]

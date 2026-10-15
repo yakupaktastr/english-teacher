@@ -1,0 +1,1212 @@
+[
+  {
+    "word": "reduce",
+    "ipa": "/rɪˈduːs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "azaltmak, düşürmek, indirmek",
+        "def": "to make something smaller or less in size, amount, or price",
+        "examples": ["Regular exercise can reduce the risk of heart disease.", "The store reduced prices on all winter coats."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kötü bir duruma) düşürmek, -e çevirmek",
+        "def": "to bring someone or something into a worse state (reduce to)",
+        "examples": ["The fire reduced the old theater to ashes.", "The sad ending reduced her to tears."]
+      }
+    ],
+    "collocations": ["reduce the risk", "reduce costs", "reduce emissions", "significantly reduce", "reduced price", "reduce to tears"],
+    "synonyms": ["decrease", "lower", "cut", "lessen", "diminish"],
+    "family": [
+      { "word": "reduction", "pos": "noun" },
+      { "word": "reduced", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "reduction",
+    "ipa": "/rɪˈdʌkʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "azalma, azaltma, indirim",
+        "def": "the act of making something smaller or less, or the amount by which it is made less",
+        "examples": ["The new law led to a 20 percent reduction in traffic deaths.", "Customers will see a reduction in their monthly bills."]
+      }
+    ],
+    "collocations": ["a reduction in", "price reduction", "tax reduction", "significant reduction", "cost reduction", "weight reduction"],
+    "synonyms": ["decrease", "cut", "drop", "decline", "discount"],
+    "family": [{ "word": "reduce", "pos": "verb" }],
+    "note": "Use \"a reduction in\" something, not \"of\" (\"a reduction in costs\")."
+  },
+  {
+    "word": "refer",
+    "ipa": "/rɪˈfɜːr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "değinmek, bahsetmek, atıfta bulunmak",
+        "def": "to mention or speak about someone or something (refer to)",
+        "examples": ["In his speech, he referred to the recent floods.", "She never refers to her ex-husband by name."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(birine/bir yere) yönlendirmek, sevk etmek",
+        "def": "to send someone to another person or place for help, advice, or a decision",
+        "examples": ["My doctor referred me to a specialist for further tests."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kaynağa) bakmak, başvurmak; ifade etmek, kastetmek",
+        "def": "to look at something for information, or (of a word) to describe or mean something",
+        "examples": ["Please refer to the manual for setup instructions.", "The term \"millennials\" refers to people born between about 1981 and 1996."]
+      }
+    ],
+    "collocations": ["refer to", "refer someone to", "commonly referred to as", "refer back to", "refer to the manual"],
+    "synonyms": ["mention", "allude to", "send", "consult", "denote"],
+    "family": [
+      { "word": "reference", "pos": "noun" },
+      { "word": "referral", "pos": "noun" },
+      { "word": "referee", "pos": "noun" }
+    ],
+    "note": "Always \"refer to\". Spelling: referred, referring (double r)."
+  },
+  {
+    "word": "referee",
+    "ipa": "/ˌrefəˈriː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hakem",
+        "def": "an official who controls a game in sports like soccer, basketball, or boxing",
+        "examples": ["The referee gave him a red card for the tackle.", "Fans booed the referee after the controversial call."]
+      },
+      {
+        "pos": "noun",
+        "tr": "referans (kişi)",
+        "def": "(British) a person who gives information about your character and abilities for a job application",
+        "examples": ["Please list two referees who can comment on your work."]
+      }
+    ],
+    "collocations": ["the referee blew the whistle", "referee's decision", "assistant referee", "act as referee", "independent referee"],
+    "synonyms": ["umpire", "official", "judge", "reference"],
+    "family": [{ "word": "referee", "pos": "verb" }],
+    "note": "In baseball and tennis, Americans say \"umpire\". For job applications, Americans say \"reference\" rather than \"referee\"."
+  },
+  {
+    "word": "reference",
+    "ipa": "/ˈrefrəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "atıf, değinme, söz etme",
+        "def": "something you say or write that mentions someone or something",
+        "examples": ["The movie is full of references to classic horror films.", "She made no reference to the scandal in her speech."]
+      },
+      {
+        "pos": "noun",
+        "tr": "başvuru, bakma; kaynak",
+        "def": "the act of looking at something for information, or a source of information",
+        "examples": ["Keep the user guide for future reference.", "The paper includes a full list of references at the end."]
+      },
+      {
+        "pos": "noun",
+        "tr": "referans (mektubu/kişi)",
+        "def": "a letter or person describing your character and abilities, for a new job",
+        "examples": ["My former boss agreed to give me a reference."]
+      }
+    ],
+    "collocations": ["make reference to", "with reference to", "for future reference", "reference book", "point of reference", "letter of reference"],
+    "synonyms": ["mention", "allusion", "citation", "source", "recommendation"],
+    "family": [
+      { "word": "refer", "pos": "verb" },
+      { "word": "reference", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "referendum",
+    "ipa": "/ˌrefəˈrendəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "referandum, halk oylaması",
+        "def": "a vote in which all the people of a country or area decide on one important issue",
+        "examples": ["The country held a referendum on whether to change the constitution.", "Voters rejected the proposal in a referendum last spring."]
+      }
+    ],
+    "collocations": ["hold a referendum", "a referendum on", "call a referendum", "win a referendum", "national referendum"],
+    "synonyms": ["vote", "ballot", "plebiscite", "poll"],
+    "family": [],
+    "note": "Plural: referendums or (formal) referenda. In US states, such votes are often called \"ballot measures\"."
+  },
+  {
+    "word": "refine",
+    "ipa": "/rɪˈfaɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "geliştirmek, inceltmek, rötuşlamak",
+        "def": "to improve something by making small changes to it",
+        "examples": ["The team spent months refining the design of the app.", "Researchers are refining their methods based on early results."]
+      },
+      {
+        "pos": "verb",
+        "tr": "arıtmak, rafine etmek",
+        "def": "to make a natural substance pure by removing other substances from it",
+        "examples": ["Crude oil is refined to make gasoline and diesel."]
+      }
+    ],
+    "collocations": ["refine a technique", "refine a process", "refine your skills", "refined sugar", "refine oil", "further refine"],
+    "synonyms": ["improve", "polish", "perfect", "purify", "process"],
+    "family": [
+      { "word": "refined", "pos": "adjective" },
+      { "word": "refinement", "pos": "noun" },
+      { "word": "refinery", "pos": "noun" }
+    ],
+    "note": "\"Refined\" can also describe a person who is elegant and well-mannered."
+  },
+  {
+    "word": "reflect",
+    "ipa": "/rɪˈflekt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yansıtmak, aksettirmek",
+        "def": "to send back light, heat, or sound, or to show an image on a surface",
+        "examples": ["The mountains were reflected in the still lake.", "White surfaces reflect sunlight and stay cooler."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yansıtmak, göstermek",
+        "def": "to show or be a sign of something, such as an attitude or situation",
+        "examples": ["The rise in prices reflects higher energy costs.", "Her choices reflect her values."]
+      },
+      {
+        "pos": "verb",
+        "tr": "derin düşünmek, üzerinde düşünmek",
+        "def": "to think carefully and seriously about something",
+        "examples": ["He took some time off to reflect on his career."]
+      }
+    ],
+    "collocations": ["reflect on", "reflect light", "reflect the fact that", "accurately reflect", "be reflected in", "reflect badly on"],
+    "synonyms": ["mirror", "show", "indicate", "think about", "consider"],
+    "family": [
+      { "word": "reflection", "pos": "noun" },
+      { "word": "reflective", "pos": "adjective" },
+      { "word": "reflector", "pos": "noun" }
+    ],
+    "note": "\"Reflect badly/well on someone\" = give a bad/good impression of them."
+  },
+  {
+    "word": "reflection",
+    "ipa": "/rɪˈflekʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yansıma, aksi",
+        "def": "an image seen in a mirror, on water, or on another shiny surface",
+        "examples": ["She looked at her reflection in the shop window.", "The reflection of the trees on the lake was beautiful."]
+      },
+      {
+        "pos": "noun",
+        "tr": "derin düşünme, tefekkür; düşünce",
+        "def": "careful thought about something, or an opinion formed after such thought",
+        "examples": ["On reflection, I think we made the right decision.", "The book is full of reflections on aging."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yansıması, göstergesi",
+        "def": "a sign or result of something",
+        "examples": ["The empty stores are a reflection of the weak economy."]
+      }
+    ],
+    "collocations": ["on reflection", "a reflection of", "time for reflection", "a reflection on", "see your reflection", "a sad reflection"],
+    "synonyms": ["image", "mirror image", "thought", "consideration", "sign"],
+    "family": [
+      { "word": "reflect", "pos": "verb" },
+      { "word": "reflective", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "reform",
+    "ipa": "/rɪˈfɔːrm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "reform, iyileştirme, düzenleme",
+        "def": "a change made to a system, law, or organization to improve it",
+        "examples": ["The government promised major reforms to the health care system.", "Many voters support immigration reform."]
+      },
+      {
+        "pos": "verb",
+        "tr": "reform yapmak, iyileştirmek, düzeltmek",
+        "def": "to improve a system or organization by changing it",
+        "examples": ["The new mayor has pledged to reform the police department."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kişi) ıslah olmak, yola gelmek",
+        "def": "to improve your behavior, or to make someone behave better",
+        "examples": ["He was a heavy gambler, but he reformed after his son was born."]
+      }
+    ],
+    "collocations": ["economic reform", "political reform", "tax reform", "reform the system", "sweeping reforms", "carry out reforms"],
+    "synonyms": ["change", "improvement", "overhaul", "restructure", "amend"],
+    "family": [
+      { "word": "reformer", "pos": "noun" },
+      { "word": "reformed", "pos": "adjective" },
+      { "word": "reformation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "refuge",
+    "ipa": "/ˈrefjuːdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sığınak, barınak, sığınma",
+        "def": "shelter or protection from danger or trouble, or a place that provides it",
+        "examples": ["Hikers took refuge in a cave during the storm.", "Thousands sought refuge across the border."]
+      },
+      {
+        "pos": "noun",
+        "tr": "koruma alanı",
+        "def": "a protected area where wild animals can live safely",
+        "examples": ["The wildlife refuge is home to more than 200 species of birds."]
+      }
+    ],
+    "collocations": ["take refuge", "seek refuge", "find refuge", "a place of refuge", "wildlife refuge", "refuge from"],
+    "synonyms": ["shelter", "sanctuary", "haven", "protection", "safety"],
+    "family": [{ "word": "refugee", "pos": "noun" }]
+  },
+  {
+    "word": "refugee",
+    "ipa": "/ˌrefjuˈdʒiː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mülteci, sığınmacı",
+        "def": "a person who has been forced to leave their country because of war or danger",
+        "examples": ["Millions of refugees fled the war and crossed into neighboring countries.", "The city opened a new center to help refugees find jobs."]
+      }
+    ],
+    "collocations": ["refugee camp", "political refugee", "refugee crisis", "refugee status", "climate refugees", "flood of refugees"],
+    "synonyms": ["asylum seeker", "displaced person", "exile", "evacuee"],
+    "family": [{ "word": "refuge", "pos": "noun" }],
+    "note": "An \"asylum seeker\" has applied for protection but has not yet been officially accepted as a refugee."
+  },
+  {
+    "word": "refusal",
+    "ipa": "/rɪˈfjuːzl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ret, reddetme, geri çevirme",
+        "def": "the act of saying or showing that you will not do, give, or accept something",
+        "examples": ["His refusal to apologize made the situation worse.", "The bank's refusal of the loan forced them to sell the house."]
+      }
+    ],
+    "collocations": ["refusal to do something", "flat refusal", "outright refusal", "point-blank refusal", "refusal of permission"],
+    "synonyms": ["rejection", "denial", "no", "rebuff"],
+    "family": [{ "word": "refuse", "pos": "verb" }]
+  },
+  {
+    "word": "refuse",
+    "ipa": "/rɪˈfjuːz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "reddetmek, kabul etmemek, -meyi reddetmek",
+        "def": "to say or show that you will not do, accept, or give something",
+        "examples": ["The witness refused to answer any more questions.", "She was refused entry to the club because she didn't have ID."]
+      }
+    ],
+    "collocations": ["refuse to do", "flatly refuse", "refuse an offer", "refuse permission", "an offer you can't refuse"],
+    "synonyms": ["decline", "reject", "turn down", "deny"],
+    "family": [
+      { "word": "refusal", "pos": "noun" }
+    ],
+    "note": "Pattern: refuse TO do. The noun \"refuse\" /ˈrefjuːs/ (formal) means garbage."
+  },
+  {
+    "word": "regain",
+    "ipa": "/rɪˈɡeɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yeniden kazanmak, geri kazanmak",
+        "def": "to get back something you have lost, such as an ability, quality, or control",
+        "examples": ["It took her months to regain her strength after the illness.", "The rebels regained control of the city."]
+      }
+    ],
+    "collocations": ["regain control", "regain consciousness", "regain confidence", "regain the lead", "regain your balance", "regain trust"],
+    "synonyms": ["recover", "get back", "win back", "retrieve", "recapture"],
+    "family": [{ "word": "gain", "pos": "verb" }]
+  },
+  {
+    "word": "regard",
+    "ipa": "/rɪˈɡɑːrd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "saymak, kabul etmek, (gözüyle) bakmak",
+        "def": "to think about someone or something in a particular way",
+        "examples": ["She is widely regarded as the best surgeon in the state.", "Many people regard the plan with suspicion."]
+      },
+      {
+        "pos": "noun",
+        "tr": "saygı, itibar; dikkat, önem verme",
+        "def": "respect or admiration for someone, or attention and care",
+        "examples": ["I have a high regard for her work.", "He drove fast, without any regard for safety."]
+      },
+      {
+        "pos": "noun",
+        "tr": "selamlar, saygılar",
+        "def": "friendly greetings (regards), often at the end of a message",
+        "examples": ["Give my regards to your parents.", "Kind regards, and see you next week."]
+      }
+    ],
+    "collocations": ["regard as", "highly regarded", "with regard to", "in this regard", "high regard", "best regards"],
+    "synonyms": ["consider", "view", "see", "respect", "esteem"],
+    "family": [
+      { "word": "regarding", "pos": "preposition" },
+      { "word": "regardless", "pos": "adverb" },
+      { "word": "disregard", "pos": "verb" }
+    ],
+    "note": "\"With regard to\" (singular) or \"as regards\" = about. Not \"with regards to\" in formal writing."
+  },
+  {
+    "word": "regardless",
+    "ipa": "/rɪˈɡɑːrdləs/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "her şeye rağmen, yine de, ne olursa olsun",
+        "def": "without paying attention to problems or difficulties; anyway",
+        "examples": ["The weather was terrible, but we went hiking regardless.", "He knew the risks but carried on regardless."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(-den) bağımsız olarak, -e bakılmaksızın",
+        "def": "without being affected by something (regardless of)",
+        "examples": ["Everyone is welcome, regardless of age or background."]
+      }
+    ],
+    "collocations": ["regardless of", "carry on regardless", "regardless of cost", "regardless of whether", "regardless of age"],
+    "synonyms": ["anyway", "nevertheless", "irrespective of", "in spite of"],
+    "family": [{ "word": "regard", "pos": "noun" }],
+    "note": "\"Irregardless\" is nonstandard; use \"regardless\"."
+  },
+  {
+    "word": "regime",
+    "ipa": "/reɪˈʒiːm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "rejim, yönetim",
+        "def": "a government, especially one that was not elected fairly and controls people strictly",
+        "examples": ["The military regime banned all opposition parties.", "Thousands fled the country to escape the regime."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sistem, düzen, uygulama",
+        "def": "a system or set of rules for managing something",
+        "examples": ["The new tax regime favors small businesses."]
+      }
+    ],
+    "collocations": ["military regime", "authoritarian regime", "regime change", "brutal regime", "the former regime", "tax regime"],
+    "synonyms": ["government", "administration", "dictatorship", "system"],
+    "family": [],
+    "note": "Usually negative when used for governments. Do not confuse with \"regimen\" (a diet or exercise plan)."
+  },
+  {
+    "word": "region",
+    "ipa": "/ˈriːdʒən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bölge, yöre",
+        "def": "a large area of a country or the world, often without exact borders",
+        "examples": ["The region is famous for its wine.", "Heavy snow is expected in mountain regions tonight."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(vücut) bölge",
+        "def": "a part of the body",
+        "examples": ["He felt a sharp pain in the lower back region."]
+      }
+    ],
+    "collocations": ["the region of", "in the region", "coastal region", "border region", "remote region", "in the region of"],
+    "synonyms": ["area", "zone", "territory", "district", "part"],
+    "family": [
+      { "word": "regional", "pos": "adjective" },
+      { "word": "regionally", "pos": "adverb" }
+    ],
+    "note": "\"In the region of\" means approximately: \"in the region of $5 million\"."
+  },
+  {
+    "word": "regional",
+    "ipa": "/ˈriːdʒənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "bölgesel, yöresel",
+        "def": "relating to a particular region",
+        "examples": ["The restaurant serves regional dishes from southern Italy.", "Regional airports have lost many flights to big hubs."]
+      }
+    ],
+    "collocations": ["regional government", "regional differences", "regional accent", "regional development", "regional office", "regional conflict"],
+    "synonyms": ["local", "provincial", "territorial", "area"],
+    "family": [
+      { "word": "region", "pos": "noun" },
+      { "word": "regionally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "register",
+    "ipa": "/ˈredʒɪstər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kayıt olmak, kaydettirmek, tescil ettirmek",
+        "def": "to put your name or something's details on an official list",
+        "examples": ["You must register to vote at least 30 days before the election.", "The car is registered in my wife's name."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kayıt defteri, sicil",
+        "def": "an official list or record of names or items",
+        "examples": ["The hotel asked us to sign the guest register."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yazar kasa, kasa",
+        "def": "(American) a machine in a store that keeps money and records sales (cash register)",
+        "examples": ["Please pay at the register by the door."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ölçüm) göstermek; (duygu) yansıtmak; fark etmek",
+        "def": "to show a measurement or feeling, or to notice something",
+        "examples": ["The earthquake registered 6.2 on the Richter scale.", "It took a moment for the news to register."]
+      }
+    ],
+    "collocations": ["register for", "register to vote", "register a complaint", "cash register", "electoral register", "registered nurse"],
+    "synonyms": ["enroll", "sign up", "record", "list", "roll"],
+    "family": [
+      { "word": "registration", "pos": "noun" },
+      { "word": "registry", "pos": "noun" },
+      { "word": "registered", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "registration",
+    "ipa": "/ˌredʒɪˈstreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kayıt, tescil",
+        "def": "the act of putting a name or details on an official list",
+        "examples": ["Online registration for the conference closes on Friday.", "Voter registration has increased sharply among young people."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ruhsat; plaka",
+        "def": "an official document for a vehicle, or (British) a car's license plate number",
+        "examples": ["The officer asked to see my license and registration."]
+      }
+    ],
+    "collocations": ["registration fee", "registration form", "voter registration", "online registration", "registration deadline", "vehicle registration"],
+    "synonyms": ["enrollment", "sign-up", "recording", "listing"],
+    "family": [{ "word": "register", "pos": "verb" }],
+    "note": "In the US, a car's number is the \"license plate\"; \"registration\" is the document."
+  },
+  {
+    "word": "regret",
+    "ipa": "/rɪˈɡret/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "pişman olmak, pişmanlık duymak",
+        "def": "to feel sorry or sad about something you did or did not do",
+        "examples": ["I regret not studying harder in college.", "You'll regret it if you don't take this chance."]
+      },
+      {
+        "pos": "verb",
+        "tr": "üzüntüyle bildirmek, üzülerek belirtmek",
+        "def": "(formal) used to say politely that you are sorry about something",
+        "examples": ["We regret to inform you that your flight has been canceled."]
+      },
+      {
+        "pos": "noun",
+        "tr": "pişmanlık, üzüntü",
+        "def": "a feeling of sadness about something you did or did not do",
+        "examples": ["She has no regrets about leaving her job.", "He expressed deep regret for the accident."]
+      }
+    ],
+    "collocations": ["regret doing", "regret to inform", "deeply regret", "no regrets", "express regret", "live to regret"],
+    "synonyms": ["be sorry", "repent", "remorse", "sorrow"],
+    "family": [
+      { "word": "regretful", "pos": "adjective" },
+      { "word": "regrettable", "pos": "adjective" },
+      { "word": "regrettably", "pos": "adverb" }
+    ],
+    "note": "\"Regret doing\" = sorry about a past action; \"regret to do\" = sorry about what you are going to say (formal)."
+  },
+  {
+    "word": "regular",
+    "ipa": "/ˈreɡjələr/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "düzenli, muntazam",
+        "def": "happening at the same times or with the same space between each one",
+        "examples": ["Regular exercise is good for your mental health.", "The buses run at regular intervals throughout the day."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "müdavim, daimi; olağan, her zamanki",
+        "def": "doing something often, or usual and normal",
+        "examples": ["She's a regular customer at the café.", "I'll just have my regular order, please."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "normal, standart (boy)",
+        "def": "(American) of standard or medium size, or ordinary",
+        "examples": ["Can I get a regular coffee and a large orange juice?"]
+      }
+    ],
+    "collocations": ["regular basis", "regular customer", "regular exercise", "regular intervals", "regular checkups", "regular season"],
+    "synonyms": ["routine", "frequent", "consistent", "usual", "normal"],
+    "family": [
+      { "word": "regularly", "pos": "adverb" },
+      { "word": "regularity", "pos": "noun" },
+      { "word": "irregular", "pos": "adjective" },
+      { "word": "regular", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "regularly",
+    "ipa": "/ˈreɡjələrli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "düzenli olarak, sık sık",
+        "def": "often, or at regular times",
+        "examples": ["She regularly volunteers at the animal shelter.", "Change your passwords regularly to stay safe online."]
+      }
+    ],
+    "collocations": ["meet regularly", "regularly update", "check regularly", "exercise regularly", "regularly scheduled"],
+    "synonyms": ["often", "frequently", "routinely", "consistently"],
+    "family": [{ "word": "regular", "pos": "adjective" }]
+  },
+  {
+    "word": "regulate",
+    "ipa": "/ˈreɡjuleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "düzenlemek, denetlemek (kurallarla)",
+        "def": "to control an activity or industry using rules",
+        "examples": ["The government regulates the sale of alcohol and tobacco.", "Some lawmakers want to regulate social media companies more strictly."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ayarlamak, düzenlemek",
+        "def": "to control the speed, temperature, or amount of something so it works properly",
+        "examples": ["Sweating helps the body regulate its temperature."]
+      }
+    ],
+    "collocations": ["strictly regulate", "heavily regulated", "regulate the industry", "regulate temperature", "regulate the flow"],
+    "synonyms": ["control", "govern", "oversee", "manage", "adjust"],
+    "family": [
+      { "word": "regulation", "pos": "noun" },
+      { "word": "regulator", "pos": "noun" },
+      { "word": "regulatory", "pos": "adjective" },
+      { "word": "deregulate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "regulation",
+    "ipa": "/ˌreɡjuˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yönetmelik, kural, düzenleme",
+        "def": "an official rule made by a government or other authority",
+        "examples": ["New safety regulations require all workers to wear helmets.", "The restaurant was closed for breaking health regulations."]
+      },
+      {
+        "pos": "noun",
+        "tr": "denetim, düzenleme",
+        "def": "control of something by means of rules",
+        "examples": ["Banks have called for less regulation of the financial sector."]
+      }
+    ],
+    "collocations": ["safety regulations", "rules and regulations", "comply with regulations", "strict regulations", "government regulation", "under the regulations"],
+    "synonyms": ["rule", "law", "requirement", "control", "oversight"],
+    "family": [
+      { "word": "regulate", "pos": "verb" },
+      { "word": "deregulation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "regulator",
+    "ipa": "/ˈreɡjuleɪtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "düzenleyici kurum, denetleyici kurul",
+        "def": "a person or organization that officially controls an industry to make sure it operates fairly",
+        "examples": ["Banking regulators fined the company $50 million.", "The energy regulator approved the price increase."]
+      },
+      {
+        "pos": "noun",
+        "tr": "regülatör, ayar cihazı",
+        "def": "a device that controls pressure, temperature, or flow in a machine",
+        "examples": ["Divers check the regulator on their air tank before each dive."]
+      }
+    ],
+    "collocations": ["financial regulators", "banking regulator", "independent regulator", "regulators approved", "pressure regulator"],
+    "synonyms": ["watchdog", "supervisor", "controller", "authority"],
+    "family": [
+      { "word": "regulate", "pos": "verb" },
+      { "word": "regulatory", "pos": "adjective" }
+    ],
+    "note": "In news headlines, regulators are often called \"watchdogs\"."
+  },
+  {
+    "word": "regulatory",
+    "ipa": "/ˈreɡjələtɔːri/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "düzenleyici, denetleyici",
+        "def": "having the power to control an industry or activity through rules",
+        "examples": ["The drug still needs regulatory approval before it can be sold.", "Regulatory agencies are investigating the bank."]
+      }
+    ],
+    "collocations": ["regulatory approval", "regulatory body", "regulatory framework", "regulatory agency", "regulatory requirements"],
+    "synonyms": ["supervisory", "governing", "controlling"],
+    "family": [
+      { "word": "regulate", "pos": "verb" },
+      { "word": "regulator", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "rehabilitation",
+    "ipa": "/ˌriːəˌbɪlɪˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "rehabilitasyon, tedavi, iyileştirme",
+        "def": "the process of helping someone return to a normal life after illness, injury, addiction, or prison",
+        "examples": ["After the knee surgery, he spent six weeks in rehabilitation.", "The program focuses on the rehabilitation of young offenders."]
+      },
+      {
+        "pos": "noun",
+        "tr": "restorasyon, yenileme",
+        "def": "the process of returning a building or area to good condition",
+        "examples": ["The rehabilitation of the old train station cost $40 million."]
+      }
+    ],
+    "collocations": ["rehabilitation center", "drug rehabilitation", "physical rehabilitation", "rehabilitation program", "undergo rehabilitation"],
+    "synonyms": ["rehab", "recovery", "therapy", "restoration"],
+    "family": [
+      { "word": "rehabilitate", "pos": "verb" },
+      { "word": "rehab", "pos": "noun" }
+    ],
+    "note": "Informally shortened to \"rehab\", especially for addiction treatment: \"go to rehab\"."
+  },
+  {
+    "word": "reign",
+    "ipa": "/reɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "saltanat, hükümdarlık (dönemi)",
+        "def": "the period during which a king, queen, or emperor rules",
+        "examples": ["The castle was built during the reign of Henry VIII.", "Her reign lasted more than sixty years."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hüküm sürmek, saltanat sürmek",
+        "def": "to rule as a king, queen, or emperor",
+        "examples": ["The emperor reigned for over forty years."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hâkim olmak, egemen olmak",
+        "def": "(of a feeling or situation) to be the main feature of a place or time",
+        "examples": ["Chaos reigned at the airport after the power outage.", "She is the reigning world champion."]
+      }
+    ],
+    "collocations": ["during the reign of", "reign of terror", "reign supreme", "chaos reigned", "reigning champion", "long reign"],
+    "synonyms": ["rule", "sovereignty", "govern", "prevail", "dominate"],
+    "family": [],
+    "note": "Same pronunciation as \"rain\" and \"rein\". \"Give free rein\" (not \"reign\") = allow full freedom."
+  },
+  {
+    "word": "reinforce",
+    "ipa": "/ˌriːɪnˈfɔːrs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "pekiştirmek, güçlendirmek",
+        "def": "to make an idea, feeling, or belief stronger",
+        "examples": ["The study reinforces the link between sleep and memory.", "Ads like this reinforce gender stereotypes."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(fiziksel olarak) sağlamlaştırmak, takviye etmek",
+        "def": "to make a structure or group stronger, e.g. by adding material or more people",
+        "examples": ["Engineers reinforced the old bridge with steel beams.", "More troops were sent to reinforce the border."]
+      }
+    ],
+    "collocations": ["reinforce the idea", "reinforce stereotypes", "reinforce a message", "reinforced concrete", "mutually reinforcing"],
+    "synonyms": ["strengthen", "support", "bolster", "boost", "fortify"],
+    "family": [
+      { "word": "reinforcement", "pos": "noun" },
+      { "word": "reinforced", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "reject",
+    "ipa": "/rɪˈdʒekt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "reddetmek, kabul etmemek",
+        "def": "to refuse to accept, believe, or consider something",
+        "examples": ["The board rejected the proposal by a vote of 7 to 2.", "Voters rejected the tax increase."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(başvuru) geri çevirmek; dışlamak, itmek",
+        "def": "to refuse to accept someone for a job or course, or to refuse to love or support someone",
+        "examples": ["Her application was rejected by three universities.", "He felt rejected by his own family."]
+      }
+    ],
+    "collocations": ["reject a proposal", "reject an offer", "reject a claim", "firmly reject", "flatly reject", "reject the idea"],
+    "synonyms": ["refuse", "turn down", "decline", "dismiss", "rebuff"],
+    "family": [
+      { "word": "rejection", "pos": "noun" },
+      { "word": "reject", "pos": "noun" }
+    ],
+    "note": "Stress: verb re-JECT, noun REE-ject (a thing or person that has been rejected)."
+  },
+  {
+    "word": "rejection",
+    "ipa": "/rɪˈdʒekʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ret, reddetme",
+        "def": "the act of refusing to accept or consider something",
+        "examples": ["The rejection of the peace plan led to more fighting.", "She got a rejection letter from the publisher."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dışlanma, reddedilme",
+        "def": "the feeling of not being loved or wanted",
+        "examples": ["Fear of rejection stopped him from asking her out."]
+      }
+    ],
+    "collocations": ["rejection letter", "fear of rejection", "face rejection", "outright rejection", "deal with rejection"],
+    "synonyms": ["refusal", "denial", "dismissal", "rebuff"],
+    "family": [{ "word": "reject", "pos": "verb" }]
+  },
+  {
+    "word": "relate",
+    "ipa": "/rɪˈleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ilişkilendirmek, ilgili olmak, bağlantı kurmak",
+        "def": "to show or be a connection between two or more things",
+        "examples": ["The study relates diet to heart health.", "Most of the questions relate to the company's finances."]
+      },
+      {
+        "pos": "verb",
+        "tr": "anlamak, empati kurmak, kendini (yerine) koyabilmek",
+        "def": "to understand someone's situation or feelings because you have had similar experiences",
+        "examples": ["I can really relate to the main character in that show."]
+      },
+      {
+        "pos": "verb",
+        "tr": "anlatmak, nakletmek",
+        "def": "(formal) to tell a story or describe events",
+        "examples": ["She related the details of her journey across the desert."]
+      }
+    ],
+    "collocations": ["relate to", "relate A to B", "relating to", "can relate", "closely related"],
+    "synonyms": ["connect", "link", "associate", "identify with", "recount"],
+    "family": [
+      { "word": "related", "pos": "adjective" },
+      { "word": "relation", "pos": "noun" },
+      { "word": "relatable", "pos": "adjective" }
+    ],
+    "note": "\"Relatable\" (informal) = easy to identify with: \"a relatable character\"."
+  },
+  {
+    "word": "related",
+    "ipa": "/rɪˈleɪtɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ilgili, bağlantılı, alakalı",
+        "def": "connected with something in some way",
+        "examples": ["Police are investigating two related crimes in the area.", "Stress-related illnesses are becoming more common."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "akraba",
+        "def": "in the same family",
+        "examples": ["Are you related to the woman who owns the bakery?"]
+      }
+    ],
+    "collocations": ["related to", "closely related", "directly related", "work-related", "drug-related", "related issues"],
+    "synonyms": ["connected", "linked", "associated", "relevant", "akin"],
+    "family": [
+      { "word": "relate", "pos": "verb" },
+      { "word": "unrelated", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "relation",
+    "ipa": "/rɪˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ilişkiler",
+        "def": "the way people, groups, or countries behave toward each other (usually relations)",
+        "examples": ["Relations between the two countries have improved.", "The company works hard to maintain good relations with its customers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ilgi, bağlantı",
+        "def": "the way two things are connected",
+        "examples": ["The fee bears no relation to the actual cost of the service.", "I have a question in relation to my bill."]
+      },
+      {
+        "pos": "noun",
+        "tr": "akraba",
+        "def": "a member of your family",
+        "examples": ["We're spending the holidays with relations in Texas."]
+      }
+    ],
+    "collocations": ["diplomatic relations", "in relation to", "public relations", "bear no relation to", "race relations", "international relations"],
+    "synonyms": ["relationship", "connection", "link", "ties", "relative"],
+    "family": [
+      { "word": "relate", "pos": "verb" },
+      { "word": "relationship", "pos": "noun" }
+    ],
+    "note": "For family members, \"relative\" is more common than \"relation\" in American English."
+  },
+  {
+    "word": "relationship",
+    "ipa": "/rɪˈleɪʃnʃɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ilişki",
+        "def": "the way two people or groups feel about and behave toward each other",
+        "examples": ["She has a close relationship with her grandmother.", "The relationship between the coach and the players broke down."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(romantik) ilişki, beraberlik",
+        "def": "a romantic or sexual connection between two people",
+        "examples": ["They've been in a relationship for three years."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bağlantı, ilişki",
+        "def": "the way two or more things are connected",
+        "examples": ["Researchers studied the relationship between screen time and sleep."]
+      }
+    ],
+    "collocations": ["close relationship", "in a relationship", "the relationship between", "long-term relationship", "build a relationship", "working relationship"],
+    "synonyms": ["connection", "bond", "link", "association", "romance"],
+    "family": [{ "word": "relation", "pos": "noun" }]
+  },
+  {
+    "word": "relative",
+    "ipa": "/ˈrelətɪv/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "akraba",
+        "def": "a member of your family",
+        "examples": ["We have relatives in Ohio and Michigan.", "Only close relatives were invited to the funeral."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "göreli, nispi, göreceli",
+        "def": "considered or judged by comparison with something else",
+        "examples": ["After years of war, the country is enjoying relative peace.", "Beauty is relative; everyone has different tastes."]
+      }
+    ],
+    "collocations": ["close relative", "distant relative", "relative to", "relative ease", "relative peace", "in relative terms"],
+    "synonyms": ["family member", "relation", "comparative", "proportionate"],
+    "family": [
+      { "word": "relatively", "pos": "adverb" },
+      { "word": "relativity", "pos": "noun" }
+    ],
+    "note": "\"Relative to\" means compared with: \"Prices are low relative to income.\""
+  },
+  {
+    "word": "relatively",
+    "ipa": "/ˈrelətɪvli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "nispeten, görece, oldukça",
+        "def": "to a fairly large degree, especially compared with other things",
+        "examples": ["The test was relatively easy compared with last year's.", "The disease is relatively rare in young children."]
+      }
+    ],
+    "collocations": ["relatively easy", "relatively small", "relatively few", "relatively speaking", "relatively new", "relatively high"],
+    "synonyms": ["comparatively", "fairly", "quite", "somewhat", "rather"],
+    "family": [{ "word": "relative", "pos": "adjective" }]
+  },
+  {
+    "word": "relax",
+    "ipa": "/rɪˈlæks/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dinlenmek, rahatlamak, gevşemek",
+        "def": "to rest and become calm, or to make a part of your body less tight",
+        "examples": ["I like to relax with a good book on Sunday afternoons.", "Take a deep breath and relax your shoulders."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kural vb.) gevşetmek, yumuşatmak",
+        "def": "to make rules or controls less strict",
+        "examples": ["The city relaxed parking rules during the holidays."]
+      }
+    ],
+    "collocations": ["relax and enjoy", "try to relax", "just relax", "relax the rules", "relax your muscles", "relax restrictions"],
+    "synonyms": ["rest", "unwind", "chill out", "loosen", "ease"],
+    "family": [
+      { "word": "relaxation", "pos": "noun" },
+      { "word": "relaxed", "pos": "adjective" },
+      { "word": "relaxing", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "relaxed",
+    "ipa": "/rɪˈlækst/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "rahat, sakin, gevşek",
+        "def": "calm and not worried or nervous",
+        "examples": ["You seem very relaxed after your vacation.", "The restaurant has a relaxed, friendly atmosphere."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(kural) gevşek, esnek, rahat",
+        "def": "not strict",
+        "examples": ["The company has a relaxed dress code on Fridays."]
+      }
+    ],
+    "collocations": ["feel relaxed", "relaxed atmosphere", "relaxed attitude", "relaxed about", "relaxed approach"],
+    "synonyms": ["calm", "easygoing", "laid-back", "at ease", "informal"],
+    "family": [
+      { "word": "relax", "pos": "verb" },
+      { "word": "relaxing", "pos": "adjective" }
+    ],
+    "note": "Relaxed = how a person feels; relaxing = something that makes you feel relaxed."
+  },
+  {
+    "word": "relaxing",
+    "ipa": "/rɪˈlæksɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "rahatlatıcı, dinlendirici",
+        "def": "helping you to rest and feel calm",
+        "examples": ["We had a relaxing weekend at the beach.", "A hot bath is very relaxing after a long day."]
+      }
+    ],
+    "collocations": ["relaxing atmosphere", "relaxing holiday", "relaxing music", "relaxing bath", "very relaxing"],
+    "synonyms": ["calming", "soothing", "restful", "peaceful"],
+    "family": [
+      { "word": "relax", "pos": "verb" },
+      { "word": "relaxed", "pos": "adjective" },
+      { "word": "relaxation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "release",
+    "ipa": "/rɪˈliːs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "serbest bırakmak, salıvermek",
+        "def": "to let someone or something go free",
+        "examples": ["The prisoner was released after serving ten years.", "The hostages were released unharmed."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(piyasaya) sürmek, yayımlamak, açıklamak",
+        "def": "to make a film, album, product, or information available to the public",
+        "examples": ["The band will release their new album in March.", "Police have not released the victim's name."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tahliye, serbest bırakılma; yayın, piyasaya çıkış",
+        "def": "the act of setting someone free, or of making something available to the public",
+        "examples": ["Her family campaigned for her release.", "The film's release has been delayed until next year."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(gaz, madde) salmak, yaymak",
+        "def": "to let a substance flow out",
+        "examples": ["The factory released toxic chemicals into the river."]
+      }
+    ],
+    "collocations": ["release from prison", "release an album", "press release", "release a statement", "new release", "release tension"],
+    "synonyms": ["free", "let go", "publish", "launch", "discharge"],
+    "family": [],
+    "note": "A \"press release\" is an official statement given to journalists."
+  },
+  {
+    "word": "relevance",
+    "ipa": "/ˈreləvəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ilgi, alaka, önem",
+        "def": "how closely something is connected to the subject or situation",
+        "examples": ["I don't see the relevance of your question to this discussion.", "The book still has great relevance today."]
+      }
+    ],
+    "collocations": ["relevance to", "of little relevance", "direct relevance", "practical relevance", "lose relevance"],
+    "synonyms": ["pertinence", "importance", "significance", "connection"],
+    "family": [
+      { "word": "relevant", "pos": "adjective" },
+      { "word": "irrelevance", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "relevant",
+    "ipa": "/ˈreləvənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ilgili, alakalı, konuyla ilgili",
+        "def": "closely connected with the subject or situation you are dealing with",
+        "examples": ["Please include all relevant documents with your application.", "Is that really relevant to what we're discussing?"]
+      },
+      {
+        "pos": "adjective",
+        "tr": "güncel, önemli, işe yarar",
+        "def": "having ideas or value that are useful to people today",
+        "examples": ["The museum is trying to stay relevant to younger visitors."]
+      }
+    ],
+    "collocations": ["relevant to", "highly relevant", "relevant information", "relevant experience", "the relevant authorities", "remain relevant"],
+    "synonyms": ["pertinent", "applicable", "related", "appropriate", "significant"],
+    "family": [
+      { "word": "relevance", "pos": "noun" },
+      { "word": "irrelevant", "pos": "adjective" }
+    ],
+    "note": "Opposite: irrelevant. Use \"relevant to\", not \"relevant with\"."
+  },
+  {
+    "word": "reliability",
+    "ipa": "/rɪˌlaɪəˈbɪləti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "güvenilirlik",
+        "def": "the quality of being able to be trusted or of working well consistently",
+        "examples": ["The car is known for its reliability and low running costs.", "Experts questioned the reliability of the witness's testimony."]
+      }
+    ],
+    "collocations": ["reliability of", "high reliability", "question the reliability", "improve reliability", "reliability and validity"],
+    "synonyms": ["dependability", "trustworthiness", "consistency", "accuracy"],
+    "family": [
+      { "word": "reliable", "pos": "adjective" },
+      { "word": "unreliability", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "reliable",
+    "ipa": "/rɪˈlaɪəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "güvenilir, sağlam",
+        "def": "able to be trusted to do something well, or likely to be correct",
+        "examples": ["I need a reliable car for my long commute.", "We got the information from a reliable source."]
+      }
+    ],
+    "collocations": ["reliable source", "reliable information", "highly reliable", "reliable evidence", "reliable partner"],
+    "synonyms": ["dependable", "trustworthy", "consistent", "sound"],
+    "family": [
+      { "word": "rely", "pos": "verb" },
+      { "word": "reliability", "pos": "noun" },
+      { "word": "reliably", "pos": "adverb" },
+      { "word": "unreliable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "relief",
+    "ipa": "/rɪˈliːf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "rahatlama, ferahlama, oh deme",
+        "def": "the happy feeling when something unpleasant stops or does not happen",
+        "examples": ["It was a huge relief to hear that everyone was safe.", "She breathed a sigh of relief when the plane landed."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(ağrı) giderme, hafifletme",
+        "def": "the reduction of pain or discomfort",
+        "examples": ["This cream gives quick relief from itching."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yardım (afet)",
+        "def": "food, money, or supplies given to people in need, especially after a disaster",
+        "examples": ["Aid groups are sending relief to the earthquake zone."]
+      }
+    ],
+    "collocations": ["a sense of relief", "sigh of relief", "what a relief", "pain relief", "disaster relief", "tax relief"],
+    "synonyms": ["comfort", "ease", "reassurance", "aid", "assistance"],
+    "family": [
+      { "word": "relieve", "pos": "verb" },
+      { "word": "relieved", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "relieve",
+    "ipa": "/rɪˈliːv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(ağrı, sıkıntı) hafifletmek, gidermek",
+        "def": "to reduce or remove pain or an unpleasant feeling or problem",
+        "examples": ["The medicine should relieve your headache within an hour.", "Building a new road will relieve traffic in the town center."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(nöbeti) devralmak, yerine geçmek; (görevden) almak",
+        "def": "to replace someone at work, or to take a job or duty away from someone",
+        "examples": ["The night nurse relieves her at 11 p.m.", "The manager was relieved of his duties after the scandal."]
+      }
+    ],
+    "collocations": ["relieve pain", "relieve stress", "relieve pressure", "relieve symptoms", "relieve someone of"],
+    "synonyms": ["ease", "alleviate", "reduce", "soothe", "replace"],
+    "family": [
+      { "word": "relief", "pos": "noun" },
+      { "word": "relieved", "pos": "adjective" }
+    ],
+    "note": "\"Relieve yourself\" is a polite way to say go to the toilet."
+  }
+]

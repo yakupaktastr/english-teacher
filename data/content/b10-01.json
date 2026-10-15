@@ -1,0 +1,1206 @@
+[
+  {
+    "word": "themselves",
+    "ipa": "/ðəmˈselvz/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "kendilerini, kendilerine, kendileri",
+        "def": "used as the object when the people or things doing an action are also affected by it",
+        "examples": ["The kids hurt themselves jumping off the trampoline.", "Many voters see themselves as independents rather than party members."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "bizzat kendileri, kendi başlarına",
+        "def": "used to emphasize that a group did something personally or without help",
+        "examples": ["The owners built the cabin themselves over two summers.", "The students organized the whole conference by themselves."]
+      }
+    ],
+    "collocations": ["by themselves", "for themselves", "enjoy themselves", "see themselves as", "keep to themselves"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"By themselves\" = alone / without help. In informal English, \"themselves\" can refer to one person of unknown gender."
+  },
+  {
+    "word": "then",
+    "ipa": "/ðen/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "o zaman, o zamanlar",
+        "def": "at a particular time in the past or future that has already been mentioned",
+        "examples": ["We lived in Ohio back then, before the move to Texas.", "Call me Friday morning; I should know more by then."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "sonra, ardından",
+        "def": "next, after something else happens",
+        "examples": ["Mix the flour and sugar, then add the eggs one at a time."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "o halde, öyleyse",
+        "def": "used to show that something follows logically from what was just said",
+        "examples": ["If you're not hungry, then we can eat later.", "So you're leaving tomorrow, then?"]
+      }
+    ],
+    "collocations": ["back then", "by then", "since then", "until then", "and then", "if ... then"],
+    "synonyms": ["next", "afterward", "at that time", "so"],
+    "family": [],
+    "note": "Don't confuse \"then\" (time/sequence) with \"than\" (comparison): \"bigger than\", not \"bigger then\"."
+  },
+  {
+    "word": "theology",
+    "ipa": "/θiˈɑːlədʒi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ilahiyat, teoloji",
+        "def": "the study of religion, God, and religious beliefs, or a particular system of these beliefs",
+        "examples": ["She earned a master's degree in theology before becoming a hospital chaplain.", "The book compares Christian and Islamic theology on the question of free will."]
+      }
+    ],
+    "collocations": ["study theology", "Christian theology", "Islamic theology", "professor of theology", "school of theology"],
+    "synonyms": ["divinity", "religious studies"],
+    "family": [
+      { "word": "theologian", "pos": "noun" },
+      { "word": "theological", "pos": "adjective" }
+    ],
+    "note": "\"İlahiyat fakültesi\" is usually \"school of theology\" or \"divinity school\" in the US."
+  },
+  {
+    "word": "theoretical",
+    "ipa": "/ˌθiːəˈretɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kuramsal, teorik",
+        "def": "based on ideas and principles rather than on practical experience or experiments",
+        "examples": ["The course combines theoretical knowledge with hands-on lab work.", "She works in theoretical physics, so most of her research happens on paper."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "teoride mümkün olan, kâğıt üzerinde",
+        "def": "possible in principle but not likely to happen in reality",
+        "examples": ["The risk of an explosion is purely theoretical, according to engineers."]
+      }
+    ],
+    "collocations": ["theoretical framework", "theoretical knowledge", "theoretical physics", "purely theoretical", "theoretical possibility"],
+    "synonyms": ["abstract", "hypothetical", "conceptual"],
+    "family": [
+      { "word": "theory", "pos": "noun" },
+      { "word": "theoretically", "pos": "adverb" },
+      { "word": "theorist", "pos": "noun" }
+    ],
+    "note": "Opposite: practical / applied / empirical."
+  },
+  {
+    "word": "theory",
+    "ipa": "/ˈθiːəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kuram, teori",
+        "def": "a formal set of ideas intended to explain why something happens or exists",
+        "examples": ["Darwin's theory of evolution changed how scientists understood life on Earth.", "The theory has been tested in hundreds of experiments."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tahmin, varsayım, fikir",
+        "def": "an idea or opinion someone has about something, which may not be proven",
+        "examples": ["My theory is that the dog ate the missing sandwich.", "Police are working on the theory that the fire was set deliberately."]
+      }
+    ],
+    "collocations": ["in theory", "develop a theory", "test a theory", "conspiracy theory", "theory of evolution", "support a theory"],
+    "synonyms": ["hypothesis", "idea", "explanation", "assumption"],
+    "family": [
+      { "word": "theoretical", "pos": "adjective" },
+      { "word": "theoretically", "pos": "adverb" },
+      { "word": "theorist", "pos": "noun" },
+      { "word": "theorize", "pos": "verb" }
+    ],
+    "note": "\"In theory\" is usually followed by a contrast: \"In theory it works, but in practice it doesn't.\""
+  },
+  {
+    "word": "therapist",
+    "ipa": "/ˈθerəpɪst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "terapist, psikoterapist",
+        "def": "a trained person who treats mental or emotional problems by talking with patients",
+        "examples": ["After the divorce, he started seeing a therapist once a week.", "My therapist helped me find ways to manage my anxiety."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(fizik, konuşma vb.) terapist, uzman",
+        "def": "a specialist who treats a particular physical problem using a specific kind of treatment",
+        "examples": ["A physical therapist worked with her knee for months after the surgery."]
+      }
+    ],
+    "collocations": ["see a therapist", "physical therapist", "speech therapist", "licensed therapist", "talk to a therapist"],
+    "synonyms": ["counselor", "psychotherapist", "psychologist"],
+    "family": [
+      { "word": "therapy", "pos": "noun" },
+      { "word": "therapeutic", "pos": "adjective" }
+    ],
+    "note": "American \"physical therapist\" = British \"physiotherapist\" (Turkish: fizyoterapist)."
+  },
+  {
+    "word": "therapy",
+    "ipa": "/ˈθerəpi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tedavi, terapi",
+        "def": "treatment for an illness or injury, often over a period of time",
+        "examples": ["The patient is responding well to the new drug therapy.", "After the stroke, he needed months of speech therapy."]
+      },
+      {
+        "pos": "noun",
+        "tr": "psikoterapi, terapi",
+        "def": "treatment of mental or emotional problems by talking to a trained professional",
+        "examples": ["She has been in therapy since her father died.", "Couples therapy saved their marriage."]
+      }
+    ],
+    "collocations": ["in therapy", "go to therapy", "physical therapy", "speech therapy", "gene therapy", "couples therapy"],
+    "synonyms": ["treatment", "counseling", "psychotherapy"],
+    "family": [
+      { "word": "therapist", "pos": "noun" },
+      { "word": "therapeutic", "pos": "adjective" }
+    ],
+    "note": "\"Be in therapy\" means to see a therapist regularly. American \"physical therapy\" = British \"physiotherapy\"."
+  },
+  {
+    "word": "there",
+    "ipa": "/ðer/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "(var olmak) ... var, ... vardı",
+        "def": "used with \"be\" and some other verbs to say that something exists or happens",
+        "examples": ["There's a great pizza place around the corner.", "There were over two hundred people at the wedding."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "orada, oraya",
+        "def": "in, at, or to a place that is not where the speaker is",
+        "examples": ["Put the boxes over there by the door.", "We drove to Chicago and stayed there for a week."]
+      }
+    ],
+    "collocations": ["there is", "there are", "over there", "out there", "get there", "there you go"],
+    "synonyms": [],
+    "family": [
+      { "word": "thereafter", "pos": "adverb" },
+      { "word": "thereby", "pos": "adverb" },
+      { "word": "therefore", "pos": "adverb" }
+    ],
+    "note": "Don't confuse there / their / they're. \"There is\" + singular, \"there are\" + plural; Turkish \"var\" covers both."
+  },
+  {
+    "word": "thereafter",
+    "ipa": "/ˌðerˈæftər/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "ondan sonra, bundan böyle, akabinde",
+        "def": "after the time or event that was just mentioned",
+        "examples": ["The first month of membership is free and costs $15 a month thereafter.", "He moved to Denver in 2010 and married shortly thereafter."]
+      }
+    ],
+    "collocations": ["shortly thereafter", "soon thereafter", "and thereafter", "each year thereafter"],
+    "synonyms": ["afterward", "subsequently", "from then on", "later"],
+    "family": [],
+    "note": "Formal; common in legal, business, and academic writing. In conversation, say \"after that\"."
+  },
+  {
+    "word": "thereby",
+    "ipa": "/ˌðerˈbaɪ/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "böylece, bu sayede, bu şekilde",
+        "def": "as a result of the action that was just mentioned",
+        "examples": ["The city added more bus lanes, thereby cutting average commute times.", "She paid off the loan early, thereby saving thousands in interest."]
+      }
+    ],
+    "collocations": ["thereby reducing", "thereby increasing", "thereby allowing", "thereby making"],
+    "synonyms": ["thus", "in this way", "as a result", "consequently"],
+    "family": [],
+    "note": "Formal. Usually followed by an -ing form: \"..., thereby reducing costs.\""
+  },
+  {
+    "word": "therefore",
+    "ipa": "/ˈðerfɔːr/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "bu nedenle, bu yüzden, dolayısıyla",
+        "def": "for the reason just mentioned; as a logical result",
+        "examples": ["The road was closed, and therefore we had to take a long detour.", "The sample was small; the results should therefore be treated with caution."]
+      }
+    ],
+    "collocations": ["and therefore", "it is therefore", "should therefore", "therefore it follows that"],
+    "synonyms": ["so", "thus", "consequently", "hence", "as a result"],
+    "family": [],
+    "note": "More formal than \"so\". It is an adverb, not a conjunction: use a semicolon or period before it, not just a comma."
+  },
+  {
+    "word": "thesis",
+    "ipa": "/ˈθiːsɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tez, bitirme tezi",
+        "def": "a long piece of writing based on original research, done as part of a university degree",
+        "examples": ["She wrote her master's thesis on water pollution in rural Mexico.", "He spent two years researching his thesis before defending it."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tez, ana fikir, iddia",
+        "def": "the main idea or argument that a writer or speaker tries to prove",
+        "examples": ["The author's central thesis is that cities need fewer cars, not wider roads."]
+      }
+    ],
+    "collocations": ["write a thesis", "master's thesis", "doctoral thesis", "defend a thesis", "thesis statement", "central thesis"],
+    "synonyms": ["dissertation", "argument", "proposition"],
+    "family": [],
+    "note": "Plural: theses /ˈθiːsiːz/. In the US, a PhD thesis is usually called a \"dissertation\"; \"thesis\" is used more for a master's degree."
+  },
+  {
+    "word": "they",
+    "ipa": "/ðeɪ/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "onlar",
+        "def": "used as the subject of a verb to refer to people or things already mentioned",
+        "examples": ["I called my parents, but they weren't home.", "Where are my keys? They were on the table a minute ago."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "(genel olarak) insanlar, yetkililer",
+        "def": "people in general, or people in authority",
+        "examples": ["They say it's going to snow this weekend.", "They're building a new highway near the airport."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "o (cinsiyeti belirtilmeyen kişi için)",
+        "def": "used to refer to one person whose gender is not known or not stated",
+        "examples": ["If anyone calls, tell them I'll be back at three, and ask if they can leave a number."]
+      }
+    ],
+    "collocations": ["they say", "they said", "they are", "they have"],
+    "synonyms": [],
+    "family": [
+      { "word": "them", "pos": "pronoun" },
+      { "word": "their", "pos": "determiner" },
+      { "word": "theirs", "pos": "pronoun" },
+      { "word": "themselves", "pos": "pronoun" }
+    ],
+    "note": "Singular \"they\" (for someone whose gender is unknown) is standard in modern English and still takes a plural verb: \"they are\"."
+  },
+  {
+    "word": "thick",
+    "ipa": "/θɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kalın",
+        "def": "having a large distance between opposite sides or surfaces",
+        "examples": ["The castle walls are three feet thick.", "She cut herself a thick slice of bread."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "gür, sık, yoğun",
+        "def": "growing closely together, or difficult to see through",
+        "examples": ["He has thick dark hair.", "Thick fog closed the airport for most of the morning."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "koyu, yoğun kıvamlı",
+        "def": "(of a liquid) not flowing easily",
+        "examples": ["Stir the sauce until it becomes thick and creamy."]
+      }
+    ],
+    "collocations": ["thick fog", "thick smoke", "thick hair", "thick accent", "thick layer of", "through thick and thin"],
+    "synonyms": ["wide", "dense", "heavy"],
+    "family": [
+      { "word": "thickness", "pos": "noun" },
+      { "word": "thicken", "pos": "verb" },
+      { "word": "thickly", "pos": "adverb" }
+    ],
+    "note": "Opposite: thin. \"Through thick and thin\" = in good times and bad (iyi günde kötü günde)."
+  },
+  {
+    "word": "thief",
+    "ipa": "/θiːf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hırsız",
+        "def": "a person who steals things from someone or somewhere",
+        "examples": ["A thief broke into the car and took my laptop.", "Car thieves often target vehicles parked on quiet streets."]
+      }
+    ],
+    "collocations": ["car thief", "identity thief", "jewel thief", "petty thief", "catch a thief"],
+    "synonyms": ["robber", "burglar", "shoplifter", "pickpocket"],
+    "family": [
+      { "word": "theft", "pos": "noun" }
+    ],
+    "note": "Plural: thieves. A thief steals secretly; a robber uses force or threats; a burglar breaks into buildings."
+  },
+  {
+    "word": "thin",
+    "ipa": "/θɪn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ince",
+        "def": "having a small distance between opposite sides or surfaces",
+        "examples": ["The walls are so thin we can hear our neighbors talking.", "Slice the cucumber into thin rounds."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "zayıf, ince",
+        "def": "(of a person) having little fat on the body",
+        "examples": ["He looked pale and thin after weeks in the hospital."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "seyrek, az; sulu, cıvık",
+        "def": "not dense or not many; (of a liquid) containing a lot of water",
+        "examples": ["His hair is getting thin on top.", "The soup was thin and tasteless."]
+      }
+    ],
+    "collocations": ["thin layer", "thin air", "wear thin", "thin slice", "paper-thin", "vanish into thin air"],
+    "synonyms": ["slim", "slender", "skinny", "fine"],
+    "family": [
+      { "word": "thinly", "pos": "adverb" },
+      { "word": "thinness", "pos": "noun" }
+    ],
+    "note": "\"Slim\" is a compliment, \"skinny\" can be negative. \"My patience is wearing thin\" = I'm losing patience."
+  },
+  {
+    "word": "thing",
+    "ipa": "/θɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şey, nesne",
+        "def": "an object whose name is not used because it is not known or not needed",
+        "examples": ["What's that thing on your desk?", "Pack your things; we're leaving in ten minutes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şey, konu, mesele, durum",
+        "def": "an idea, event, action, or situation",
+        "examples": ["The first thing we need to do is call the insurance company.", "A strange thing happened at work today."]
+      }
+    ],
+    "collocations": ["the thing is", "first thing", "the main thing", "the same thing", "a good thing", "do your own thing"],
+    "synonyms": ["object", "item", "matter", "issue"],
+    "family": [],
+    "note": "\"The thing is, ...\" introduces a problem or explanation. \"Things\" can mean life in general: \"How are things?\""
+  },
+  {
+    "word": "think",
+    "ipa": "/θɪŋk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "düşünmek, sanmak, zannetmek",
+        "def": "to have a particular opinion or belief about something",
+        "examples": ["I think the restaurant closes at ten.", "What do you think of her new boyfriend?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "düşünmek, kafa yormak",
+        "def": "to use your mind to consider something or solve a problem",
+        "examples": ["Let me think about it and get back to you tomorrow.", "He sat quietly, thinking hard about what to say."]
+      }
+    ],
+    "collocations": ["think about", "think of", "think twice", "think ahead", "think over", "think outside the box"],
+    "synonyms": ["believe", "consider", "suppose", "reckon"],
+    "family": [
+      { "word": "thinker", "pos": "noun" },
+      { "word": "thinking", "pos": "noun" },
+      { "word": "thought", "pos": "noun" }
+    ],
+    "note": "Irregular: think – thought – thought. \"Think of\" = have an idea/opinion; \"think about\" = consider carefully."
+  },
+  {
+    "word": "thinking",
+    "ipa": "/ˈθɪŋkɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "düşünme, düşünce",
+        "def": "the process of using your mind to consider something",
+        "examples": ["The puzzle requires some careful thinking.", "Schools should teach critical thinking, not just facts."]
+      },
+      {
+        "pos": "noun",
+        "tr": "görüş, düşünce tarzı, anlayış",
+        "def": "ideas or opinions about something, or a way of thinking",
+        "examples": ["What's your thinking on the new budget?", "Current thinking on diet has changed a lot since the 1980s."]
+      }
+    ],
+    "collocations": ["critical thinking", "wishful thinking", "positive thinking", "way of thinking", "current thinking", "creative thinking"],
+    "synonyms": ["reasoning", "thought", "view", "opinion"],
+    "family": [
+      { "word": "think", "pos": "verb" },
+      { "word": "thinker", "pos": "noun" }
+    ],
+    "note": "\"Wishful thinking\" = believing something because you want it to be true (hüsnükuruntu)."
+  },
+  {
+    "word": "third",
+    "ipa": "/θɜːrd/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "üçüncü",
+        "def": "coming after two others in order",
+        "examples": ["Our apartment is on the third floor.", "She finished third in the marathon."]
+      },
+      {
+        "pos": "noun",
+        "tr": "üçte bir",
+        "def": "one of three equal parts of something",
+        "examples": ["About a third of the students failed the test.", "Two-thirds of voters supported the proposal."]
+      }
+    ],
+    "collocations": ["a third of", "two-thirds", "third place", "third party", "for the third time", "third world"],
+    "synonyms": [],
+    "family": [
+      { "word": "thirdly", "pos": "adverb" }
+    ],
+    "note": "\"Third party\" = a person or company not directly involved (üçüncü şahıs)."
+  },
+  {
+    "word": "thirsty",
+    "ipa": "/ˈθɜːrsti/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "susamış, susuz",
+        "def": "needing or wanting something to drink",
+        "examples": ["I'm really thirsty after that run. Is there any water?", "Salty food always makes me thirsty."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(bir şeye) aç, hasret",
+        "def": "having a strong desire for something",
+        "examples": ["The young team was thirsty for success."]
+      }
+    ],
+    "collocations": ["feel thirsty", "get thirsty", "thirsty work", "thirsty for"],
+    "synonyms": ["parched", "dry"],
+    "family": [
+      { "word": "thirst", "pos": "noun" },
+      { "word": "thirstily", "pos": "adverb" }
+    ],
+    "note": "English uses \"be\" + adjective: \"I'm thirsty\" (not \"I have thirst\") for Turkish \"susadım\"."
+  },
+  {
+    "word": "thirteen",
+    "ipa": "/ˌθɜːrˈtiːn/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "on üç",
+        "def": "the number 13",
+        "examples": ["My daughter turns thirteen next month.", "The trip took thirteen hours by bus."]
+      }
+    ],
+    "collocations": ["thirteen years old", "thirteen percent", "number thirteen"],
+    "synonyms": [],
+    "family": [
+      { "word": "thirteenth", "pos": "number" }
+    ],
+    "note": "Stress is on the second syllable (thir-TEEN), which helps distinguish it from THIR-ty."
+  },
+  {
+    "word": "thirty",
+    "ipa": "/ˈθɜːrti/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "otuz",
+        "def": "the number 30",
+        "examples": ["The meeting starts in thirty minutes.", "She was in her early thirties when she started her own company."]
+      }
+    ],
+    "collocations": ["thirty years", "in your thirties", "thirty percent", "the thirties"],
+    "synonyms": [],
+    "family": [
+      { "word": "thirtieth", "pos": "number" }
+    ],
+    "note": "In American speech the t often sounds like a quick d: /ˈθɜːrdi/. \"In your thirties\" = aged 30–39."
+  },
+  {
+    "word": "this",
+    "ipa": "/ðɪs/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "bu",
+        "def": "used to refer to a person or thing that is near you or that is being discussed",
+        "examples": ["This coffee is much better than the one we had yesterday.", "Are you free this weekend?"]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "bu",
+        "def": "used to refer to a thing, idea, or situation that is near or has just been mentioned",
+        "examples": ["This is my brother, Daniel.", "Listen to this: they're closing the library."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bu kadar",
+        "def": "to this degree or extent",
+        "examples": ["I didn't expect the line to be this long."]
+      }
+    ],
+    "collocations": ["this time", "this morning", "this week", "this is", "like this", "this much"],
+    "synonyms": [],
+    "family": [
+      { "word": "these", "pos": "determiner" }
+    ],
+    "note": "Plural: these. Use \"this morning/week\" without a preposition: not \"in this week\"."
+  },
+  {
+    "word": "thorough",
+    "ipa": "/ˈθɜːrəʊ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kapsamlı, ayrıntılı, titiz",
+        "def": "done completely and with great attention to every detail",
+        "examples": ["The police carried out a thorough search of the house.", "Before buying the car, get a thorough inspection from a mechanic."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "titiz, dikkatli (kişi)",
+        "def": "(of a person) careful to do everything that needs to be done",
+        "examples": ["She's very thorough and checks every number twice."]
+      }
+    ],
+    "collocations": ["thorough investigation", "thorough review", "thorough search", "thorough understanding", "thorough check"],
+    "synonyms": ["comprehensive", "detailed", "careful", "meticulous", "in-depth"],
+    "family": [
+      { "word": "thoroughly", "pos": "adverb" },
+      { "word": "thoroughness", "pos": "noun" }
+    ],
+    "note": "Don't confuse thorough (titiz) with through (içinden) and though (gerçi). The final \"-ough\" in thorough sounds like \"oh\"."
+  },
+  {
+    "word": "thoroughly",
+    "ipa": "/ˈθɜːrəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "iyice, baştan sona, dikkatlice",
+        "def": "completely and carefully, paying attention to every detail",
+        "examples": ["Wash the vegetables thoroughly before cooking.", "The proposal was thoroughly reviewed by the legal team."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "son derece, tamamen",
+        "def": "very much; completely",
+        "examples": ["We thoroughly enjoyed the concert.", "I was thoroughly confused by the instructions."]
+      }
+    ],
+    "collocations": ["thoroughly enjoy", "thoroughly clean", "thoroughly tested", "thoroughly researched", "mix thoroughly"],
+    "synonyms": ["completely", "carefully", "fully", "totally"],
+    "family": [
+      { "word": "thorough", "pos": "adjective" },
+      { "word": "thoroughness", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "though",
+    "ipa": "/ðəʊ/",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "tr": "-e rağmen, -diği halde, gerçi",
+        "def": "despite the fact that",
+        "examples": ["Though it was raining, we decided to go for a walk.", "She took the job, even though the pay was low."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yine de, ama, gerçi",
+        "def": "used, often at the end of a sentence, to add a fact that makes the previous statement less strong",
+        "examples": ["The hotel was expensive. The view was amazing, though.", "It's a good plan. I'm not sure it'll work, though."]
+      }
+    ],
+    "collocations": ["even though", "as though", "though not", "though still"],
+    "synonyms": ["although", "even though", "however", "nevertheless"],
+    "family": [
+      { "word": "although", "pos": "conjunction" }
+    ],
+    "note": "Sentence-final \"though\" is very common in spoken American English; \"although\" cannot be used this way."
+  },
+  {
+    "word": "thought",
+    "ipa": "/θɔːt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "düşünce, fikir",
+        "def": "an idea or opinion that you have, or something that comes into your mind",
+        "examples": ["I just had a thought: why don't we drive instead of flying?", "Do you have any thoughts on the new design?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "düşünme, üzerinde düşünme",
+        "def": "the act of thinking carefully about something",
+        "examples": ["After much thought, she decided to turn down the offer.", "He was lost in thought and didn't hear me come in."]
+      }
+    ],
+    "collocations": ["give it some thought", "lost in thought", "on second thought", "the thought of", "school of thought", "food for thought"],
+    "synonyms": ["idea", "notion", "reflection", "consideration"],
+    "family": [
+      { "word": "thoughtful", "pos": "adjective" },
+      { "word": "thoughtless", "pos": "adjective" },
+      { "word": "think", "pos": "verb" }
+    ],
+    "note": "Also the past form of \"think\". American: \"on second thought\"; British: \"on second thoughts\"."
+  },
+  {
+    "word": "thought-provoking",
+    "ipa": "/ˈθɔːt prəvəʊkɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "düşündürücü, düşündüren",
+        "def": "making people think seriously about a subject or issue",
+        "examples": ["The documentary raises some thought-provoking questions about privacy.", "It was a thought-provoking lecture that kept us talking for hours."]
+      }
+    ],
+    "collocations": ["thought-provoking question", "thought-provoking book", "thought-provoking discussion", "deeply thought-provoking"],
+    "synonyms": ["stimulating", "provocative", "challenging", "insightful"],
+    "family": []
+  },
+  {
+    "word": "thoughtful",
+    "ipa": "/ˈθɔːtfl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "düşünceli, nazik, ince düşünceli",
+        "def": "kind and always thinking about what other people need",
+        "examples": ["It was so thoughtful of you to bring soup when I was sick.", "He's a thoughtful neighbor who always checks on the elderly couple next door."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "düşünceli, dalgın; derinlemesine düşünülmüş",
+        "def": "quiet because you are thinking, or showing careful thought",
+        "examples": ["She was silent and thoughtful for a moment.", "The essay offers a thoughtful analysis of the problem."]
+      }
+    ],
+    "collocations": ["thoughtful gift", "thoughtful gesture", "how thoughtful of you", "thoughtful analysis", "look thoughtful"],
+    "synonyms": ["considerate", "kind", "caring", "reflective", "pensive"],
+    "family": [
+      { "word": "thoughtfully", "pos": "adverb" },
+      { "word": "thoughtfulness", "pos": "noun" },
+      { "word": "thoughtless", "pos": "adjective" }
+    ],
+    "note": "Opposite: thoughtless (düşüncesiz)."
+  },
+  {
+    "word": "thousand",
+    "ipa": "/ˈθaʊznd/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "bin",
+        "def": "the number 1,000",
+        "examples": ["The concert hall seats about three thousand people.", "Thousands of fans waited outside the stadium."]
+      }
+    ],
+    "collocations": ["a thousand", "thousands of", "a thousand times", "tens of thousands", "one in a thousand"],
+    "synonyms": [],
+    "family": [
+      { "word": "thousandth", "pos": "number" }
+    ],
+    "note": "No -s after a number: \"five thousand dollars\". Use \"thousands of\" only without a number. Americans write 1,000 with a comma."
+  },
+  {
+    "word": "thread",
+    "ipa": "/θred/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iplik",
+        "def": "a long, thin string of cotton, silk, etc. used for sewing",
+        "examples": ["She needed a needle and some black thread to fix the button."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(düşünce, hikâye vb.) bağ, ana çizgi, akış",
+        "def": "an idea or theme that connects the different parts of something",
+        "examples": ["I lost the thread of the conversation when my phone rang.", "A common thread runs through all her novels: loneliness."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(forum, mesaj) dizi, başlık, yazışma",
+        "def": "a series of connected messages or posts on the same subject online",
+        "examples": ["Check the email thread for the client's latest comments."]
+      }
+    ],
+    "collocations": ["needle and thread", "common thread", "lose the thread", "email thread", "hang by a thread"],
+    "synonyms": ["yarn", "strand", "theme"],
+    "family": [
+      { "word": "threadbare", "pos": "adjective" }
+    ],
+    "note": "\"Hang by a thread\" = be in great danger of failing or dying (pamuk ipliğine bağlı olmak). Also a verb: \"thread a needle\"."
+  },
+  {
+    "word": "threat",
+    "ipa": "/θret/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tehdit",
+        "def": "a statement that someone will hurt or punish you if you do not do what they want",
+        "examples": ["The judge received death threats after the verdict.", "He made threats against his former boss."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tehdit, tehlike",
+        "def": "a person or thing likely to cause harm or danger",
+        "examples": ["Climate change poses a serious threat to coastal cities.", "Hackers are a growing threat to small businesses."]
+      }
+    ],
+    "collocations": ["pose a threat", "death threat", "under threat", "serious threat", "make a threat", "security threat"],
+    "synonyms": ["danger", "risk", "menace", "warning"],
+    "family": [
+      { "word": "threaten", "pos": "verb" },
+      { "word": "threatening", "pos": "adjective" }
+    ],
+    "note": "Pronounced /θret/, rhyming with \"bet\". \"Pose a threat to\" is a key formal collocation."
+  },
+  {
+    "word": "threaten",
+    "ipa": "/ˈθretn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tehdit etmek",
+        "def": "to say that you will harm someone or cause trouble if you don't get what you want",
+        "examples": ["The workers threatened to strike if wages weren't raised.", "He threatened her with a knife."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tehlikeye sokmak, tehdit oluşturmak",
+        "def": "to be likely to harm or damage something",
+        "examples": ["Rising sea levels threaten thousands of homes along the coast.", "The scandal threatens to end his career."]
+      }
+    ],
+    "collocations": ["threaten to do", "threaten with", "threaten someone's life", "threatened species", "threaten legal action"],
+    "synonyms": ["menace", "endanger", "jeopardize", "intimidate"],
+    "family": [
+      { "word": "threat", "pos": "noun" },
+      { "word": "threatening", "pos": "adjective" },
+      { "word": "threatened", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "three",
+    "ipa": "/θriː/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "üç",
+        "def": "the number 3",
+        "examples": ["They have three kids, all under ten.", "The store is open three days a week."]
+      }
+    ],
+    "collocations": ["three times", "three of us", "three-quarters", "three-day weekend"],
+    "synonyms": [],
+    "family": [
+      { "word": "third", "pos": "number" }
+    ],
+    "note": "Turkish speakers often say /tri/; the th sound /θ/ is made with the tongue between the teeth."
+  },
+  {
+    "word": "threshold",
+    "ipa": "/ˈθreʃhəʊld/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eşik, kapı eşiği",
+        "def": "the floor at the bottom of a doorway, seen as the entrance to a room or building",
+        "examples": ["He carried his bride across the threshold of their new home."]
+      },
+      {
+        "pos": "noun",
+        "tr": "eşik, sınır, alt limit",
+        "def": "the level or point at which something starts to happen or have an effect",
+        "examples": ["Families earning below the income threshold qualify for free school meals.", "She has a high pain threshold."]
+      },
+      {
+        "pos": "noun",
+        "tr": "eşiğinde olmak, başlangıç",
+        "def": "the point just before something new begins",
+        "examples": ["Scientists believe we are on the threshold of a major breakthrough in cancer treatment."]
+      }
+    ],
+    "collocations": ["on the threshold of", "pain threshold", "income threshold", "reach a threshold", "above the threshold", "below the threshold"],
+    "synonyms": ["doorway", "limit", "brink", "verge"],
+    "family": [],
+    "note": "Spelled with one h in the middle: thres-hold, not \"threshhold\"."
+  },
+  {
+    "word": "thrilled",
+    "ipa": "/θrɪld/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çok heyecanlı, çok sevinçli, havalara uçan",
+        "def": "very excited and pleased about something",
+        "examples": ["We were thrilled to hear that you're getting married!", "She was thrilled with her exam results."]
+      }
+    ],
+    "collocations": ["thrilled to bits", "absolutely thrilled", "thrilled with", "thrilled to hear", "thrilled about"],
+    "synonyms": ["delighted", "excited", "overjoyed", "ecstatic"],
+    "family": [
+      { "word": "thrill", "pos": "noun" },
+      { "word": "thrilling", "pos": "adjective" },
+      { "word": "thriller", "pos": "noun" }
+    ],
+    "note": "\"Not thrilled\" is a polite way to say you're unhappy: \"I'm not exactly thrilled about working Sunday.\""
+  },
+  {
+    "word": "thrive",
+    "ipa": "/θraɪv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "gelişmek, büyümek, serpilmek, iyi gitmek",
+        "def": "to grow, develop, or be successful, strong, and healthy",
+        "examples": ["Her small bakery is thriving thanks to word-of-mouth.", "These plants thrive in warm, sunny conditions."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir şeyle) beslenmek, -den keyif almak",
+        "def": "to enjoy or succeed because of something that others might find difficult",
+        "examples": ["Some people thrive on pressure and do their best work close to deadlines."]
+      }
+    ],
+    "collocations": ["thrive on", "continue to thrive", "thriving business", "thriving economy", "survive and thrive"],
+    "synonyms": ["flourish", "prosper", "boom", "succeed"],
+    "family": [
+      { "word": "thriving", "pos": "adjective" }
+    ],
+    "note": "\"Thrive on something\" = do well because of it: \"She thrives on challenges.\""
+  },
+  {
+    "word": "throat",
+    "ipa": "/θrəʊt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "boğaz, gırtlak",
+        "def": "the passage in your neck that food and air go through, or the front of the neck",
+        "examples": ["I have a sore throat and a bit of a fever.", "He cleared his throat before starting the speech."]
+      }
+    ],
+    "collocations": ["sore throat", "clear your throat", "a lump in your throat", "at each other's throats", "shove down someone's throat"],
+    "synonyms": ["neck", "gullet"],
+    "family": [
+      { "word": "throaty", "pos": "adjective" }
+    ],
+    "note": "\"Boğazım ağrıyor\" = \"I have a sore throat\". \"At each other's throats\" = arguing angrily."
+  },
+  {
+    "word": "through",
+    "ipa": "/θruː/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "içinden, -den geçerek, boyunca",
+        "def": "from one end or side of something to the other",
+        "examples": ["We drove through the tunnel under the river.", "Sunlight came in through the window."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "aracılığıyla, sayesinde; boyunca, -e kadar",
+        "def": "by means of something; or during a whole period of time",
+        "examples": ["I got the job through a friend.", "The store is open Monday through Friday."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "baştan sona, içinden; bitmiş",
+        "def": "from one side or end to the other; finished",
+        "examples": ["The crowd parted to let the ambulance through.", "Read it through before you sign it."]
+      }
+    ],
+    "collocations": ["go through", "get through", "through the window", "all through the night", "Monday through Friday", "be through with"],
+    "synonyms": ["via", "by way of", "throughout", "by means of"],
+    "family": [
+      { "word": "throughout", "pos": "preposition" }
+    ],
+    "note": "American \"Monday through Friday\" includes Friday; British says \"Monday to Friday\". \"I'm through with him\" = it's over."
+  },
+  {
+    "word": "throughout",
+    "ipa": "/θruːˈaʊt/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "boyunca, baştan sona; her yerinde",
+        "def": "in every part of a place, or during the whole of a period of time",
+        "examples": ["The museum has branches throughout the country.", "It rained throughout the night."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "baştan sona, her yerde, tamamen",
+        "def": "in every part, or during the whole time",
+        "examples": ["The house was freshly painted throughout.", "She remained calm throughout."]
+      }
+    ],
+    "collocations": ["throughout the world", "throughout history", "throughout the day", "throughout the year", "throughout his career"],
+    "synonyms": ["all over", "all through", "during"],
+    "family": [
+      { "word": "through", "pos": "preposition" }
+    ]
+  },
+  {
+    "word": "throw",
+    "ipa": "/θrəʊ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "atmak, fırlatmak",
+        "def": "to send something through the air with a quick movement of your hand or arm",
+        "examples": ["Throw me the keys, would you?", "Kids were throwing snowballs at each other in the park."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir duruma) sokmak; şaşırtmak",
+        "def": "to put someone or something suddenly into a particular state, or to confuse someone",
+        "examples": ["The strike threw the city into chaos.", "His question threw me for a second."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(parti) vermek, düzenlemek",
+        "def": "to organize a party",
+        "examples": ["We're throwing a surprise party for Dad's sixtieth birthday."]
+      }
+    ],
+    "collocations": ["throw away", "throw out", "throw a party", "throw up", "throw a fit", "throw light on"],
+    "synonyms": ["toss", "hurl", "fling", "pitch"],
+    "family": [
+      { "word": "thrower", "pos": "noun" }
+    ],
+    "note": "Irregular: throw – threw – thrown. \"Throw up\" (informal) = vomit (kusmak)."
+  },
+  {
+    "word": "thumb",
+    "ipa": "/θʌm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "başparmak",
+        "def": "the short, thick finger on the side of the hand",
+        "examples": ["She cut her thumb while chopping onions.", "The baby still sucks his thumb at night."]
+      }
+    ],
+    "collocations": ["rule of thumb", "thumbs up", "thumbs down", "green thumb", "under someone's thumb"],
+    "synonyms": [],
+    "family": [
+      { "word": "thumbnail", "pos": "noun" }
+    ],
+    "note": "The b is silent: /θʌm/. \"Rule of thumb\" = a rough practical rule. American \"green thumb\" = British \"green fingers\"."
+  },
+  {
+    "word": "Thursday",
+    "ipa": "/ˈθɜːrzdeɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "perşembe",
+        "def": "the day of the week after Wednesday and before Friday",
+        "examples": ["The package should arrive by Thursday.", "We play basketball every Thursday night."]
+      }
+    ],
+    "collocations": ["on Thursday", "next Thursday", "last Thursday", "Thursday morning", "every Thursday"],
+    "synonyms": [],
+    "family": [],
+    "note": "Always capitalized. Use \"on\": \"on Thursday\". Americans often drop it: \"See you Thursday.\""
+  },
+  {
+    "word": "thus",
+    "ipa": "/ðʌs/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "bu nedenle, dolayısıyla, böylece",
+        "def": "as a result of what has just been mentioned",
+        "examples": ["The new engine uses less fuel and thus produces fewer emissions.", "Prices rose sharply; thus, sales fell."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bu şekilde, böyle",
+        "def": "in this way; like this",
+        "examples": ["The data were collected online, and thus the sample may not represent older adults."]
+      }
+    ],
+    "collocations": ["and thus", "thus far", "thus allowing", "it thus follows"],
+    "synonyms": ["therefore", "hence", "consequently", "so", "in this way"],
+    "family": [],
+    "note": "Formal and academic. \"Thus far\" = so far (şu ana kadar)."
+  },
+  {
+    "word": "ticket",
+    "ipa": "/ˈtɪkɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bilet",
+        "def": "a piece of paper or digital code that lets you travel, enter an event, etc.",
+        "examples": ["I bought two tickets for the concert online.", "Show your ticket to the conductor when the train leaves."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(trafik) ceza, ceza makbuzu",
+        "def": "an official notice saying you must pay a fine for a driving or parking offense",
+        "examples": ["I got a parking ticket outside the dentist's office."]
+      }
+    ],
+    "collocations": ["buy a ticket", "round-trip ticket", "one-way ticket", "parking ticket", "speeding ticket", "ticket office"],
+    "synonyms": ["pass", "fine", "citation"],
+    "family": [
+      { "word": "ticketing", "pos": "noun" }
+    ],
+    "note": "American \"round-trip ticket\" = British \"return ticket\"."
+  },
+  {
+    "word": "tide",
+    "ipa": "/taɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gelgit, med-cezir",
+        "def": "the regular rise and fall of the sea level, caused by the pull of the moon",
+        "examples": ["At low tide, you can walk out to the island.", "The tide comes in twice a day."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(olayların, görüşlerin) gidişat, akım, eğilim",
+        "def": "the general direction in which opinion or events are moving",
+        "examples": ["The tide of public opinion has turned against the war.", "The second-half goal turned the tide in our favor."]
+      }
+    ],
+    "collocations": ["high tide", "low tide", "turn the tide", "the tide turns", "swim against the tide", "rising tide"],
+    "synonyms": ["current", "flow", "trend", "course"],
+    "family": [
+      { "word": "tidal", "pos": "adjective" }
+    ],
+    "note": "\"The tide has turned\" = the situation has changed direction."
+  },
+  {
+    "word": "tidy",
+    "ipa": "/ˈtaɪdi/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "düzenli, derli toplu, temiz",
+        "def": "neat, with everything in its proper place",
+        "examples": ["Her desk is always tidy, with every pen in its holder.", "He's a very tidy person."]
+      },
+      {
+        "pos": "verb",
+        "tr": "toplamak, düzenlemek, toparlamak",
+        "def": "to make a place neat by putting things where they belong",
+        "examples": ["Tidy up your room before your grandparents arrive.", "I spent the morning tidying the garage."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(para) yüklü, epey",
+        "def": "(informal, of money) fairly large",
+        "examples": ["They sold the house and made a tidy profit."]
+      }
+    ],
+    "collocations": ["tidy up", "neat and tidy", "keep tidy", "a tidy sum", "a tidy profit"],
+    "synonyms": ["neat", "orderly", "clean", "organized"],
+    "family": [
+      { "word": "tidiness", "pos": "noun" },
+      { "word": "untidy", "pos": "adjective" },
+      { "word": "tidily", "pos": "adverb" }
+    ],
+    "note": "More common in British English; Americans more often say \"neat\" and \"clean up / straighten up\"."
+  },
+  {
+    "word": "tie",
+    "ipa": "/taɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "bağlamak, düğümlemek",
+        "def": "to fasten or attach something with string, rope, etc., or make a knot",
+        "examples": ["Tie your shoelaces before you trip.", "They tied the boat to the dock."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kravat",
+        "def": "a long, narrow piece of cloth worn around the neck under a shirt collar",
+        "examples": ["He wore a dark suit and a red tie to the interview."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bağ, ilişki",
+        "def": "a strong connection between people, groups, or countries",
+        "examples": ["The two countries have close economic ties.", "Family ties are very important to her."]
+      },
+      {
+        "pos": "noun",
+        "tr": "beraberlik, eşitlik",
+        "def": "a result in a game or competition where both sides have the same score",
+        "examples": ["The game ended in a tie, 2 to 2."]
+      }
+    ],
+    "collocations": ["tie up", "tie a knot", "close ties", "family ties", "end in a tie", "tied to"],
+    "synonyms": ["fasten", "bind", "knot", "link", "bond", "draw"],
+    "family": [
+      { "word": "untie", "pos": "verb" },
+      { "word": "tied", "pos": "adjective" }
+    ],
+    "note": "-ing form: tying. American \"tie\" (sports) = British \"draw\". \"Be tied up\" (informal) = be very busy."
+  },
+  {
+    "word": "tight",
+    "ipa": "/taɪt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sıkı, sıkıca bağlı; gergin",
+        "def": "held firmly in position and difficult to move or open",
+        "examples": ["The lid is too tight; I can't open the jar.", "Make sure the knot is tight."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "dar, vücuda yapışan",
+        "def": "(of clothes) fitting closely to the body, often too closely",
+        "examples": ["These jeans are a little tight around the waist."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(zaman, bütçe) kısıtlı, sıkışık; sıkı (kontrol)",
+        "def": "with very little time, money, or space to spare; or strictly controlled",
+        "examples": ["We're on a tight budget this year.", "Security was tight at the summit."]
+      }
+    ],
+    "collocations": ["tight budget", "tight schedule", "tight deadline", "tight security", "sit tight", "money is tight"],
+    "synonyms": ["firm", "secure", "snug", "strict", "limited"],
+    "family": [
+      { "word": "tighten", "pos": "verb" },
+      { "word": "tightly", "pos": "adverb" },
+      { "word": "tightness", "pos": "noun" }
+    ],
+    "note": "\"Sit tight\" = wait patiently and do nothing. Also an adverb: \"Hold on tight!\""
+  }
+]

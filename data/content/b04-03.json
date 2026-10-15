@@ -1,0 +1,1164 @@
+[
+  {
+    "word": "essential",
+    "ipa": "/ɪˈsenʃl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "gerekli, zorunlu, temel, çok önemli",
+        "def": "completely necessary or extremely important",
+        "examples": ["Water is essential for life.", "It's essential that you arrive on time for the exam."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "temel, esas",
+        "def": "basic and central to the nature of something",
+        "examples": ["The essential difference between the two plans is cost."]
+      },
+      {
+        "pos": "noun",
+        "tr": "temel ihtiyaç, olmazsa olmaz",
+        "def": "something that is necessary (usually plural)",
+        "examples": ["We only packed the essentials: water, food, and a map."]
+      }
+    ],
+    "collocations": ["essential for", "absolutely essential", "essential services", "essential oils", "essential workers", "the bare essentials"],
+    "synonyms": ["necessary", "vital", "crucial", "fundamental", "indispensable"],
+    "family": [
+      { "word": "essence", "pos": "noun" },
+      { "word": "essentially", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "essentially",
+    "ipa": "/ɪˈsenʃəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "esasen, aslında, temelde",
+        "def": "when you consider the basic or most important nature of something",
+        "examples": ["The two phones are essentially the same, except for the color.", "Essentially, he's a kind person who makes bad choices."]
+      }
+    ],
+    "collocations": ["essentially the same", "essentially different", "remain essentially unchanged", "is essentially", "essentially a"],
+    "synonyms": ["basically", "fundamentally", "in essence", "at heart", "mainly"],
+    "family": [
+      { "word": "essential", "pos": "adjective" },
+      { "word": "essence", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "establish",
+    "ipa": "/ɪˈstæblɪʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kurmak, tesis etmek",
+        "def": "to start an organization, system, or relationship that is meant to last",
+        "examples": ["The university was established in 1891.", "The two countries established diplomatic relations last year."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tespit etmek, ortaya koymak, kanıtlamak",
+        "def": "to discover or prove that something is true",
+        "examples": ["Investigators are trying to establish the cause of the fire.", "Police have established that he was at home that night."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kendini, adını) kabul ettirmek, yerleşmek",
+        "def": "to make people accept you or something in a particular role",
+        "examples": ["She quickly established herself as one of the best lawyers in the city."]
+      }
+    ],
+    "collocations": ["establish a company", "establish relations", "establish the cause", "establish a reputation", "establish yourself as", "well established"],
+    "synonyms": ["found", "set up", "create", "prove", "determine"],
+    "family": [
+      { "word": "establishment", "pos": "noun" },
+      { "word": "established", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "establishment",
+    "ipa": "/ɪˈstæblɪʃmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kuruluş, işletme, müessese",
+        "def": "an organization, business, or institution such as a hotel, store, or restaurant",
+        "examples": ["The restaurant is a family-owned establishment that opened in 1952.", "Smoking is banned in all public establishments."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kurulma, kuruluş",
+        "def": "the act of starting or creating something",
+        "examples": ["The establishment of the national park protected the forest."]
+      },
+      {
+        "pos": "noun",
+        "tr": "düzen, egemen çevreler, statüko",
+        "def": "the people and institutions that have power and influence in a society (the Establishment)",
+        "examples": ["The candidate ran as an outsider against the political establishment."]
+      }
+    ],
+    "collocations": ["the establishment of", "the political establishment", "the medical establishment", "an educational establishment", "anti-establishment"],
+    "synonyms": ["business", "institution", "founding", "creation", "the system"],
+    "family": [
+      { "word": "establish", "pos": "verb" },
+      { "word": "established", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "estate",
+    "ipa": "/ɪˈsteɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "malikâne, büyük arazi, çiftlik",
+        "def": "a large area of land in the country, usually with a big house, owned by one person or family",
+        "examples": ["The family's estate includes a vineyard and a lake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(miras kalan) mal varlığı, tereke",
+        "def": "all the money and property a person owns, especially what is left when they die",
+        "examples": ["She left her entire estate to an animal charity.", "His estate was worth over $5 million."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(İngiliz) site, konut alanı",
+        "def": "(British) an area of land with many houses or factories of the same type",
+        "examples": ["He grew up on a housing estate outside Manchester."]
+      }
+    ],
+    "collocations": ["real estate", "estate agent", "country estate", "leave your estate to", "housing estate", "estate tax"],
+    "synonyms": ["property", "land", "assets", "fortune", "manor"],
+    "family": [],
+    "note": "\"Real estate\" (gayrimenkul) is very common in American English. A British \"estate agent\" is an American \"real estate agent\" or \"realtor\"."
+  },
+  {
+    "word": "estimate",
+    "ipa": "/ˈestɪmət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tahmin, kestirim",
+        "def": "a guess of the size, value, or cost of something, made without exact figures",
+        "examples": ["By some estimates, the storm caused $2 billion in damage.", "At a rough estimate, about 500 people attended."]
+      },
+      {
+        "pos": "noun",
+        "tr": "fiyat teklifi, maliyet tahmini",
+        "def": "a written statement of how much a job will probably cost",
+        "examples": ["Get at least three estimates before hiring a contractor."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tahmin etmek, kestirmek",
+        "def": "to guess the size, cost, or value of something without calculating it exactly",
+        "examples": ["Experts estimate that the bridge will cost $40 million.", "The crowd was estimated at 10,000."]
+      }
+    ],
+    "collocations": ["a rough estimate", "conservative estimate", "by some estimates", "official estimates", "estimated cost", "it is estimated that"],
+    "synonyms": ["guess", "approximation", "calculation", "quote", "assess"],
+    "family": [
+      { "word": "estimation", "pos": "noun" },
+      { "word": "estimated", "pos": "adjective" },
+      { "word": "underestimate", "pos": "verb" },
+      { "word": "overestimate", "pos": "verb" }
+    ],
+    "note": "Pronunciation differs: noun /ˈestɪmət/, verb /ˈestɪmeɪt/."
+  },
+  {
+    "word": "eternal",
+    "ipa": "/ɪˈtɜːrnl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ebedi, sonsuz, ölümsüz",
+        "def": "lasting or existing forever, without an end",
+        "examples": ["Many religions promise eternal life after death.", "They swore eternal love to each other."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "bitmek bilmeyen, ezeli",
+        "def": "seeming to continue forever, often in an annoying way",
+        "examples": ["I'm tired of their eternal arguments about money."]
+      }
+    ],
+    "collocations": ["eternal life", "eternal love", "eternal youth", "eternal gratitude", "the eternal question", "eternal optimist"],
+    "synonyms": ["everlasting", "endless", "permanent", "timeless", "perpetual"],
+    "family": [
+      { "word": "eternity", "pos": "noun" },
+      { "word": "eternally", "pos": "adverb" }
+    ],
+    "note": "\"I'll be eternally grateful\" is a common way to give strong thanks."
+  },
+  {
+    "word": "ethic",
+    "ipa": "/ˈeθɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "etik, ahlak ilkesi, anlayış",
+        "def": "a set of moral principles or beliefs that guide how someone behaves",
+        "examples": ["She has a strong work ethic and never misses a deadline.", "The company tries to follow an ethic of honesty with its customers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ahlak kuralları; etik (bilim dalı)",
+        "def": "moral rules for a group or profession, or the study of right and wrong (ethics)",
+        "examples": ["The senator was investigated for violating ethics rules.", "She teaches medical ethics at the university."]
+      }
+    ],
+    "collocations": ["work ethic", "strong work ethic", "professional ethics", "code of ethics", "medical ethics", "business ethics"],
+    "synonyms": ["morals", "principles", "values", "standards"],
+    "family": [
+      { "word": "ethical", "pos": "adjective" },
+      { "word": "ethically", "pos": "adverb" },
+      { "word": "unethical", "pos": "adjective" }
+    ],
+    "note": "Singular \"ethic\" mostly appears in \"work ethic\"; otherwise use \"ethics\" (takes a plural or singular verb)."
+  },
+  {
+    "word": "ethical",
+    "ipa": "/ˈeθɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "etik, ahlaki",
+        "def": "connected with beliefs about what is morally right and wrong",
+        "examples": ["Cloning animals raises serious ethical questions.", "Doctors face ethical dilemmas every day."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "etik, ahlaka uygun, dürüst",
+        "def": "morally correct or acceptable",
+        "examples": ["Is it ethical to test cosmetics on animals?", "She only buys from ethical clothing brands."]
+      }
+    ],
+    "collocations": ["ethical issues", "ethical questions", "ethical dilemma", "ethical standards", "ethical behavior", "ethical concerns"],
+    "synonyms": ["moral", "principled", "right", "honest", "fair"],
+    "family": [
+      { "word": "ethic", "pos": "noun" },
+      { "word": "ethically", "pos": "adverb" },
+      { "word": "unethical", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "ethnic",
+    "ipa": "/ˈeθnɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "etnik",
+        "def": "connected with a group of people who share a culture, language, or origin",
+        "examples": ["The city is home to many ethnic groups.", "Ethnic minorities are still underrepresented in Congress."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(yemek, giyim) etnik, yöresel",
+        "def": "typical of a culture different from the main one in a country",
+        "examples": ["The neighborhood is full of ethnic restaurants."]
+      }
+    ],
+    "collocations": ["ethnic group", "ethnic minority", "ethnic background", "ethnic diversity", "ethnic tensions", "ethnic cleansing"],
+    "synonyms": ["cultural", "racial", "national", "tribal"],
+    "family": [
+      { "word": "ethnicity", "pos": "noun" },
+      { "word": "ethnically", "pos": "adverb" }
+    ],
+    "note": "\"Ethnic food\" is becoming less used; many prefer naming the cuisine (Thai, Ethiopian)."
+  },
+  {
+    "word": "euro",
+    "ipa": "/ˈjʊrəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "avro, euro",
+        "def": "the unit of money used in many countries of the European Union",
+        "examples": ["The hotel costs 120 euros a night.", "The dollar rose against the euro this week."]
+      }
+    ],
+    "collocations": ["in euros", "the euro zone", "against the euro", "a euro coin", "billion euros"],
+    "synonyms": [],
+    "family": [
+      { "word": "eurozone", "pos": "noun" }
+    ],
+    "note": "In Turkish it's \"avro\" or \"euro\"; in English the plural is \"euros\"."
+  },
+  {
+    "word": "evacuate",
+    "ipa": "/ɪˈvækjueɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tahliye etmek, boşaltmak",
+        "def": "to move people from a dangerous place to a safer one, or to leave a dangerous place",
+        "examples": ["Thousands of residents were evacuated before the hurricane hit.", "Staff had to evacuate the building after a gas leak."]
+      }
+    ],
+    "collocations": ["evacuate residents", "evacuate the building", "be forced to evacuate", "order to evacuate", "evacuate the area"],
+    "synonyms": ["clear", "empty", "remove", "leave", "withdraw"],
+    "family": [
+      { "word": "evacuation", "pos": "noun" },
+      { "word": "evacuee", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "evaluate",
+    "ipa": "/ɪˈvæljueɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "değerlendirmek",
+        "def": "to judge the quality, value, or importance of something after careful thought",
+        "examples": ["Teachers evaluate students on homework, tests, and participation.", "We need to evaluate the risks before we invest."]
+      }
+    ],
+    "collocations": ["evaluate the effectiveness", "evaluate performance", "carefully evaluate", "evaluate the impact", "evaluate the evidence"],
+    "synonyms": ["assess", "judge", "appraise", "review", "examine"],
+    "family": [
+      { "word": "evaluation", "pos": "noun" },
+      { "word": "evaluative", "pos": "adjective" },
+      { "word": "reevaluate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "evaluation",
+    "ipa": "/ɪˌvæljuˈeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "değerlendirme",
+        "def": "the act of judging how good, useful, or successful something is",
+        "examples": ["Every employee gets a performance evaluation once a year.", "The program is still under evaluation."]
+      }
+    ],
+    "collocations": ["performance evaluation", "careful evaluation", "under evaluation", "evaluation of", "conduct an evaluation", "self-evaluation"],
+    "synonyms": ["assessment", "appraisal", "review", "analysis", "judgment"],
+    "family": [
+      { "word": "evaluate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "even",
+    "ipa": "/ˈiːvn/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "bile, hatta",
+        "def": "used to emphasize something surprising or unexpected",
+        "examples": ["He didn't even say goodbye.", "Even my grandma has an Instagram account now."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "daha da",
+        "def": "used with comparatives to make them stronger",
+        "examples": ["The second movie was even better than the first."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "düz, pürüzsüz; dengeli, eşit",
+        "def": "flat and smooth, or equal and balanced",
+        "examples": ["Spread the paint in an even layer.", "The score was even at halftime."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(sayı) çift",
+        "def": "able to be divided exactly by two",
+        "examples": ["Two, four, and six are even numbers."]
+      }
+    ],
+    "collocations": ["even if", "even though", "even so", "even better", "get even with", "break even"],
+    "synonyms": ["still", "yet", "flat", "smooth", "equal"],
+    "family": [
+      { "word": "evenly", "pos": "adverb" },
+      { "word": "uneven", "pos": "adjective" }
+    ],
+    "note": "Opposite of an even number is an odd number (tek sayı). \"Break even\" = neither gain nor lose money."
+  },
+  {
+    "word": "evening",
+    "ipa": "/ˈiːvnɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "akşam",
+        "def": "the part of the day between late afternoon and bedtime",
+        "examples": ["We usually go for a walk in the evening.", "Are you free on Thursday evening?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "(özel) gece, akşam etkinliği",
+        "def": "an event or social occasion that happens in the evening",
+        "examples": ["The school is hosting a music evening for parents."]
+      }
+    ],
+    "collocations": ["in the evening", "this evening", "on Friday evening", "good evening", "evening news", "spend the evening"],
+    "synonyms": ["night", "dusk", "nightfall"],
+    "family": [],
+    "note": "Use \"in the evening\" but \"on Monday evening\". \"Good evening\" is a greeting; say \"good night\" when leaving."
+  },
+  {
+    "word": "event",
+    "ipa": "/ɪˈvent/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "olay, hadise",
+        "def": "something that happens, especially something important or unusual",
+        "examples": ["The book describes the events leading up to the war.", "Her death was a tragic event for the whole town."]
+      },
+      {
+        "pos": "noun",
+        "tr": "etkinlik, organizasyon; (spor) yarış",
+        "def": "a planned public or social occasion, or one race or competition in a sports program",
+        "examples": ["The charity event raised over $50,000.", "She won gold in the 200-meter event."]
+      }
+    ],
+    "collocations": ["a major event", "current events", "a sporting event", "in the event of", "at all events", "a series of events"],
+    "synonyms": ["occurrence", "incident", "happening", "occasion", "function"],
+    "family": [
+      { "word": "eventful", "pos": "adjective" },
+      { "word": "eventual", "pos": "adjective" }
+    ],
+    "note": "\"In the event of\" (formal) = if something happens: In the event of fire, use the stairs."
+  },
+  {
+    "word": "eventual",
+    "ipa": "/ɪˈventʃuəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "nihai, sonunda gerçekleşen, en sonki",
+        "def": "happening at the end of a long process or period of time",
+        "examples": ["The team lost in the semifinals to the eventual champions.", "The eventual cost of the project was double the estimate."]
+      }
+    ],
+    "collocations": ["the eventual winner", "eventual champion", "eventual outcome", "eventual cost", "eventual success"],
+    "synonyms": ["final", "ultimate", "resulting", "ensuing"],
+    "family": [
+      { "word": "eventually", "pos": "adverb" },
+      { "word": "eventuality", "pos": "noun" }
+    ],
+    "note": "False friend: \"eventual\" does NOT mean \"possible\" (olası). It means what finally happens."
+  },
+  {
+    "word": "eventually",
+    "ipa": "/ɪˈventʃuəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "sonunda, nihayetinde, eninde sonunda",
+        "def": "at the end of a period of time or a series of events, often after delays",
+        "examples": ["After three hours of waiting, we eventually got a table.", "You'll eventually get used to the cold winters here."]
+      }
+    ],
+    "collocations": ["eventually led to", "will eventually", "eventually became", "eventually decided", "eventually find"],
+    "synonyms": ["finally", "in the end", "ultimately", "sooner or later", "at last"],
+    "family": [
+      { "word": "eventual", "pos": "adjective" }
+    ],
+    "note": "False friend: NOT \"possibly\" (Turkish \"eventüel/olası\"). \"Eventually\" = in the end."
+  },
+  {
+    "word": "ever",
+    "ipa": "/ˈevər/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "hiç (bir zaman), şimdiye kadar",
+        "def": "at any time, used mainly in questions, negatives, and comparisons",
+        "examples": ["Have you ever been to New York?", "This is the best pizza I've ever had."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "giderek, gitgide; her zaman",
+        "def": "used to mean \"always\" or \"increasingly\" in certain phrases",
+        "examples": ["Prices keep rising ever higher.", "They lived happily ever after."]
+      }
+    ],
+    "collocations": ["ever since", "than ever", "hardly ever", "best ever", "forever", "ever-increasing"],
+    "synonyms": ["at any time", "always", "at all"],
+    "family": [
+      { "word": "forever", "pos": "adverb" },
+      { "word": "whatever", "pos": "pronoun" },
+      { "word": "however", "pos": "adverb" }
+    ],
+    "note": "Use with present perfect for life experience: Have you ever...? \"Hardly ever\" = almost never."
+  },
+  {
+    "word": "every",
+    "ipa": "/ˈevri/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "her",
+        "def": "used with a singular noun to mean all members of a group, one by one",
+        "examples": ["Every student must bring a photo ID to the exam.", "I walk the dog every morning before work."]
+      },
+      {
+        "pos": "determiner",
+        "tr": "her ... de bir",
+        "def": "used to show how often something happens, at regular intervals",
+        "examples": ["The bus comes every ten minutes.", "Take one pill every four hours."]
+      }
+    ],
+    "collocations": ["every day", "every time", "every other", "every single", "every now and then", "every so often"],
+    "synonyms": ["each", "all"],
+    "family": [
+      { "word": "everybody", "pos": "pronoun" },
+      { "word": "everyone", "pos": "pronoun" },
+      { "word": "everything", "pos": "pronoun" },
+      { "word": "everywhere", "pos": "adverb" },
+      { "word": "everyday", "pos": "adjective" }
+    ],
+    "note": "Takes a singular verb: Every student has a laptop. \"Every other day\" = gün aşırı."
+  },
+  {
+    "word": "everybody",
+    "ipa": "/ˈevribɑːdi/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "herkes",
+        "def": "every person; all the people in a group",
+        "examples": ["Everybody at the party was dancing.", "Does everybody have a copy of the agenda?"]
+      }
+    ],
+    "collocations": ["everybody else", "hi everybody", "everybody knows", "not everybody", "everybody's favorite"],
+    "synonyms": ["everyone", "all", "each person"],
+    "family": [
+      { "word": "every", "pos": "determiner" }
+    ],
+    "note": "Same as \"everyone\" but slightly more informal. Singular verb: Everybody is here."
+  },
+  {
+    "word": "everyday",
+    "ipa": "/ˈevrideɪ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "gündelik, günlük, sıradan",
+        "def": "happening or used every day; ordinary and normal",
+        "examples": ["Smartphones have become part of everyday life.", "These are simple recipes made with everyday ingredients."]
+      }
+    ],
+    "collocations": ["everyday life", "everyday use", "everyday items", "everyday language", "everyday tasks", "everyday problems"],
+    "synonyms": ["daily", "ordinary", "routine", "common", "regular"],
+    "family": [
+      { "word": "every", "pos": "determiner" }
+    ],
+    "note": "One word = adjective (everyday clothes). Two words = adverb phrase: I go running every day."
+  },
+  {
+    "word": "everyone",
+    "ipa": "/ˈevriwʌn/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "herkes",
+        "def": "every person; all people",
+        "examples": ["Everyone in my family loves soccer.", "Thanks, everyone, for coming tonight."]
+      }
+    ],
+    "collocations": ["everyone else", "not everyone", "almost everyone", "everyone involved", "everyone knows"],
+    "synonyms": ["everybody", "all", "each person"],
+    "family": [
+      { "word": "every", "pos": "determiner" }
+    ],
+    "note": "Singular verb, but \"they/their\" is normal: Everyone has their own opinion. \"Every one\" (two words) = each single item."
+  },
+  {
+    "word": "everything",
+    "ipa": "/ˈevriθɪŋ/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "her şey",
+        "def": "all things, or all the things in a situation",
+        "examples": ["The fire destroyed everything they owned.", "Is everything OK? You look upset."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "her şey, en önemli şey",
+        "def": "the most important thing to someone",
+        "examples": ["My kids are everything to me."]
+      }
+    ],
+    "collocations": ["everything else", "everything possible", "almost everything", "everything is fine", "mean everything", "everything from... to..."],
+    "synonyms": ["all", "the whole lot"],
+    "family": [
+      { "word": "every", "pos": "determiner" }
+    ]
+  },
+  {
+    "word": "everywhere",
+    "ipa": "/ˈevriwer/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "her yer(de/e), her yerde",
+        "def": "in, to, or at every place",
+        "examples": ["I've looked everywhere for my keys.", "There were tourists everywhere in the old city."]
+      }
+    ],
+    "collocations": ["look everywhere", "everywhere you go", "almost everywhere", "everywhere else", "from everywhere"],
+    "synonyms": ["all over", "all around", "far and wide"],
+    "family": [
+      { "word": "every", "pos": "determiner" }
+    ]
+  },
+  {
+    "word": "evidence",
+    "ipa": "/ˈevɪdəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kanıt, delil",
+        "def": "facts, signs, or objects that show that something is true",
+        "examples": ["There is strong evidence that smoking causes cancer.", "Police found no evidence of a break-in."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(mahkemede) delil, ifade",
+        "def": "information or objects used in a court of law to prove something",
+        "examples": ["The knife was presented as evidence at the trial."]
+      }
+    ],
+    "collocations": ["strong evidence", "scientific evidence", "evidence of", "evidence suggests", "lack of evidence", "find evidence"],
+    "synonyms": ["proof", "sign", "indication", "data", "testimony"],
+    "family": [
+      { "word": "evident", "pos": "adjective" },
+      { "word": "evidently", "pos": "adverb" }
+    ],
+    "note": "Uncountable: NOT \"an evidence\" or \"evidences\". Say \"a piece of evidence\"."
+  },
+  {
+    "word": "evident",
+    "ipa": "/ˈevɪdənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "açık, belli, aşikâr",
+        "def": "clear and easily seen or understood",
+        "examples": ["It was evident from her face that she was upset.", "His love for the game is evident in every match he plays."]
+      }
+    ],
+    "collocations": ["it is evident that", "clearly evident", "become evident", "self-evident", "evident in"],
+    "synonyms": ["obvious", "clear", "apparent", "plain", "visible"],
+    "family": [
+      { "word": "evidence", "pos": "noun" },
+      { "word": "evidently", "pos": "adverb" },
+      { "word": "self-evident", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "evil",
+    "ipa": "/ˈiːvl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kötü, şeytani, zalim",
+        "def": "morally very bad and enjoying harming others",
+        "examples": ["The movie is about an evil queen who poisons her stepdaughter.", "Slavery was an evil system."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kötülük, şer",
+        "def": "great moral wrong, or a force that causes bad things to happen",
+        "examples": ["The story is about the battle between good and evil.", "Poverty and disease are the great evils of our time."]
+      }
+    ],
+    "collocations": ["good and evil", "pure evil", "the lesser of two evils", "an evil spirit", "necessary evil", "evil intentions"],
+    "synonyms": ["wicked", "cruel", "bad", "sinful", "malicious"],
+    "family": [
+      { "word": "evilly", "pos": "adverb" }
+    ],
+    "note": "\"The lesser of two evils\" = ehven-i şer. Very strong word; for small wrongs use \"bad\" or \"mean\"."
+  },
+  {
+    "word": "evoke",
+    "ipa": "/ɪˈvəʊk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(duygu, anı) uyandırmak, çağrıştırmak",
+        "def": "to bring a feeling, memory, or image into your mind",
+        "examples": ["The smell of baking bread evokes memories of my childhood.", "The photos evoke the hardships of life during the Depression."]
+      }
+    ],
+    "collocations": ["evoke memories", "evoke a feeling", "evoke a response", "evoke images of", "evoke sympathy"],
+    "synonyms": ["bring to mind", "recall", "conjure up", "arouse", "trigger"],
+    "family": [
+      { "word": "evocative", "pos": "adjective" },
+      { "word": "evocation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "evolution",
+    "ipa": "/ˌevəˈluːʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "evrim",
+        "def": "the slow development of plants and animals over millions of years as they adapt",
+        "examples": ["Darwin's theory of evolution changed biology forever.", "Fossils give us clues about human evolution."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gelişim, evrim, gelişme süreci",
+        "def": "the gradual development of something into a different or more advanced form",
+        "examples": ["The museum shows the evolution of the car over 100 years."]
+      }
+    ],
+    "collocations": ["theory of evolution", "human evolution", "the evolution of", "natural evolution", "gradual evolution"],
+    "synonyms": ["development", "progress", "growth", "change", "advancement"],
+    "family": [
+      { "word": "evolve", "pos": "verb" },
+      { "word": "evolutionary", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "evolutionary",
+    "ipa": "/ˌevəˈluːʃəneri/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "evrimsel",
+        "def": "connected with evolution or with slow, steady development and change",
+        "examples": ["Birds are the evolutionary descendants of dinosaurs.", "The new phone is an evolutionary step rather than a revolution."]
+      }
+    ],
+    "collocations": ["evolutionary biology", "evolutionary process", "evolutionary history", "evolutionary advantage", "evolutionary change"],
+    "synonyms": ["developmental", "gradual", "progressive"],
+    "family": [
+      { "word": "evolution", "pos": "noun" },
+      { "word": "evolve", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "evolve",
+    "ipa": "/ɪˈvɑːlv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "gelişmek, evrilmek, dönüşmek",
+        "def": "to develop gradually, especially from a simple to a more complex form",
+        "examples": ["The company has evolved from a small shop into a global brand.", "Language is always evolving."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(canlılar) evrimleşmek",
+        "def": "(of plants and animals) to change over many generations through evolution",
+        "examples": ["Whales evolved from land mammals."]
+      }
+    ],
+    "collocations": ["evolve into", "evolve from", "constantly evolving", "evolve over time", "rapidly evolving"],
+    "synonyms": ["develop", "grow", "progress", "change", "advance"],
+    "family": [
+      { "word": "evolution", "pos": "noun" },
+      { "word": "evolutionary", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "exact",
+    "ipa": "/ɪɡˈzækt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tam, kesin, doğru",
+        "def": "correct in every detail; completely accurate",
+        "examples": ["Do you know the exact time the train leaves?", "I can't remember his exact words."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(intikam, bedel) almak, (zorla) talep etmek",
+        "def": "to demand and get something, often by force (formal)",
+        "examples": ["The gang exacted revenge on the man who betrayed them."]
+      }
+    ],
+    "collocations": ["the exact same", "exact amount", "exact location", "exact opposite", "to be exact", "exact revenge"],
+    "synonyms": ["precise", "accurate", "correct", "specific", "particular"],
+    "family": [
+      { "word": "exactly", "pos": "adverb" },
+      { "word": "exactness", "pos": "noun" },
+      { "word": "exacting", "pos": "adjective" }
+    ],
+    "note": "\"To be exact\" adds precision: It took two hours, 140 minutes to be exact."
+  },
+  {
+    "word": "exactly",
+    "ipa": "/ɪɡˈzæktli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "tam olarak, tam, kesinlikle",
+        "def": "used to say that something is correct in every detail",
+        "examples": ["The meeting starts at exactly 9 a.m.", "That's exactly what I wanted to say."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "aynen, kesinlikle (öyle)",
+        "def": "used as a reply to show strong agreement",
+        "examples": ["\"So we need more time?\" \"Exactly.\""]
+      }
+    ],
+    "collocations": ["exactly the same", "not exactly", "exactly what", "know exactly", "exactly right", "where exactly"],
+    "synonyms": ["precisely", "just", "accurately", "absolutely"],
+    "family": [
+      { "word": "exact", "pos": "adjective" }
+    ],
+    "note": "\"Not exactly\" is often ironic or polite: He's not exactly friendly (= he's quite unfriendly)."
+  },
+  {
+    "word": "exaggerate",
+    "ipa": "/ɪɡˈzædʒəreɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "abartmak, büyütmek",
+        "def": "to make something seem bigger, better, or worse than it really is",
+        "examples": ["He always exaggerates how much money he makes.", "The risks have been greatly exaggerated by the media."]
+      }
+    ],
+    "collocations": ["greatly exaggerate", "grossly exaggerated", "exaggerate the importance of", "hard to exaggerate", "I'm not exaggerating"],
+    "synonyms": ["overstate", "inflate", "overdo", "blow out of proportion", "embellish"],
+    "family": [
+      { "word": "exaggeration", "pos": "noun" },
+      { "word": "exaggerated", "pos": "adjective" }
+    ],
+    "note": "Spelling trap: double g, single r. Opposite: understate, play down."
+  },
+  {
+    "word": "exam",
+    "ipa": "/ɪɡˈzæm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sınav",
+        "def": "a formal test of knowledge or skill, especially at school or college",
+        "examples": ["I have a chemistry exam on Monday morning.", "She passed all her final exams with high grades."]
+      },
+      {
+        "pos": "noun",
+        "tr": "muayene, kontrol",
+        "def": "a medical check of part of the body",
+        "examples": ["You should get an eye exam every two years."]
+      }
+    ],
+    "collocations": ["take an exam", "pass an exam", "fail an exam", "final exam", "study for an exam", "eye exam"],
+    "synonyms": ["test", "examination", "quiz", "checkup"],
+    "family": [
+      { "word": "examination", "pos": "noun" },
+      { "word": "examine", "pos": "verb" },
+      { "word": "examiner", "pos": "noun" }
+    ],
+    "note": "\"Take an exam\" = sınava girmek (NOT \"give an exam\", which is what the teacher does). Americans also say \"test\" for smaller exams."
+  },
+  {
+    "word": "examination",
+    "ipa": "/ɪɡˌzæmɪˈneɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "inceleme, tetkik; muayene",
+        "def": "a careful look at or study of something or someone",
+        "examples": ["A closer examination of the data revealed several errors.", "The doctor performed a full physical examination."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sınav",
+        "def": "a formal test of knowledge or skill (formal)",
+        "examples": ["Candidates must pass a written examination to become lawyers."]
+      }
+    ],
+    "collocations": ["on closer examination", "medical examination", "physical examination", "careful examination", "under examination", "written examination"],
+    "synonyms": ["inspection", "analysis", "study", "checkup", "exam"],
+    "family": [
+      { "word": "examine", "pos": "verb" },
+      { "word": "exam", "pos": "noun" },
+      { "word": "examiner", "pos": "noun" }
+    ],
+    "note": "\"Exam\" is the everyday word for a test; \"examination\" is formal."
+  },
+  {
+    "word": "examine",
+    "ipa": "/ɪɡˈzæmɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "incelemek, araştırmak",
+        "def": "to look at or consider something carefully in order to learn about it",
+        "examples": ["The study examines the effects of social media on teenagers.", "Experts examined the painting to see if it was a fake."]
+      },
+      {
+        "pos": "verb",
+        "tr": "muayene etmek",
+        "def": "to look at someone's body carefully to check their health",
+        "examples": ["The doctor examined my knee and ordered an X-ray."]
+      }
+    ],
+    "collocations": ["examine closely", "examine carefully", "examine the evidence", "examine the effects of", "be examined by a doctor"],
+    "synonyms": ["inspect", "study", "analyze", "investigate", "check"],
+    "family": [
+      { "word": "examination", "pos": "noun" },
+      { "word": "examiner", "pos": "noun" },
+      { "word": "exam", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "example",
+    "ipa": "/ɪɡˈzæmpl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "örnek, misal",
+        "def": "something that shows what a group of things is like or supports a general idea",
+        "examples": ["Can you give me an example of a renewable energy source?", "Many cities, for example Paris and Amsterdam, have banned old cars."]
+      },
+      {
+        "pos": "noun",
+        "tr": "örnek (model alınacak kişi/davranış)",
+        "def": "a person or behavior that others should copy",
+        "examples": ["Parents should set a good example for their children."]
+      }
+    ],
+    "collocations": ["for example", "give an example", "a good example", "set an example", "follow someone's example", "a classic example"],
+    "synonyms": ["instance", "case", "sample", "illustration", "model"],
+    "family": [
+      { "word": "exemplify", "pos": "verb" },
+      { "word": "exemplary", "pos": "adjective" }
+    ],
+    "note": "\"Make an example of someone\" = punish someone to warn others."
+  },
+  {
+    "word": "exceed",
+    "ipa": "/ɪkˈsiːd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "aşmak, geçmek",
+        "def": "to be greater than a particular number, amount, or limit",
+        "examples": ["The cost of repairs could exceed $10,000.", "He was fined for exceeding the speed limit."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(beklentiyi) aşmak",
+        "def": "to be better than what was expected or hoped",
+        "examples": ["The results exceeded all our expectations."]
+      }
+    ],
+    "collocations": ["exceed the speed limit", "exceed expectations", "not to exceed", "far exceed", "exceed the budget", "exceed demand"],
+    "synonyms": ["surpass", "go beyond", "be more than", "outstrip", "top"],
+    "family": [
+      { "word": "excess", "pos": "noun" },
+      { "word": "excessive", "pos": "adjective" },
+      { "word": "exceedingly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "excellence",
+    "ipa": "/ˈeksələns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mükemmellik, üstünlük",
+        "def": "the quality of being extremely good",
+        "examples": ["The hospital is known for its excellence in cancer care.", "She received an award for excellence in teaching."]
+      }
+    ],
+    "collocations": ["academic excellence", "commitment to excellence", "a center of excellence", "pursuit of excellence", "award for excellence"],
+    "synonyms": ["quality", "distinction", "superiority", "brilliance", "merit"],
+    "family": [
+      { "word": "excellent", "pos": "adjective" },
+      { "word": "excel", "pos": "verb" },
+      { "word": "excellently", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "excellent",
+    "ipa": "/ˈeksələnt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "mükemmel, harika, çok iyi",
+        "def": "extremely good",
+        "examples": ["The food at that restaurant is excellent.", "She speaks excellent English."]
+      }
+    ],
+    "collocations": ["excellent condition", "excellent quality", "an excellent opportunity", "excellent service", "in excellent health", "excellent value"],
+    "synonyms": ["outstanding", "superb", "great", "wonderful", "first-class"],
+    "family": [
+      { "word": "excellence", "pos": "noun" },
+      { "word": "excel", "pos": "verb" },
+      { "word": "excellently", "pos": "adverb" }
+    ],
+    "note": "Already very strong, so don't use \"very\": NOT \"very excellent\"."
+  },
+  {
+    "word": "except",
+    "ipa": "/ɪkˈsept/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "hariç, dışında, -den başka",
+        "def": "not including; apart from",
+        "examples": ["The store is open every day except Sunday.", "Everyone was invited except me."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "ancak, yalnız, şu farkla ki",
+        "def": "used before a fact that makes a statement not completely true",
+        "examples": ["I'd love to come, except I have to work that night.", "The twins look identical except that one has longer hair."]
+      }
+    ],
+    "collocations": ["except for", "except that", "except when", "everyone except", "except in emergencies"],
+    "synonyms": ["apart from", "besides", "but", "excluding", "other than"],
+    "family": [
+      { "word": "exception", "pos": "noun" },
+      { "word": "exceptional", "pos": "adjective" }
+    ],
+    "note": "Don't confuse with \"accept\" (kabul etmek), which sounds similar."
+  },
+  {
+    "word": "exception",
+    "ipa": "/ɪkˈsepʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "istisna",
+        "def": "a person or thing that does not follow a general rule or is not included",
+        "examples": ["All the rooms were small, with the exception of the kitchen.", "Most of the songs were great, and this one was no exception."]
+      }
+    ],
+    "collocations": ["with the exception of", "make an exception", "no exception", "the exception to the rule", "a notable exception", "without exception"],
+    "synonyms": ["exclusion", "anomaly", "special case", "irregularity"],
+    "family": [
+      { "word": "except", "pos": "preposition" },
+      { "word": "exceptional", "pos": "adjective" },
+      { "word": "exceptionally", "pos": "adverb" }
+    ],
+    "note": "\"Take exception to\" (formal) = to be offended by something."
+  },
+  {
+    "word": "exceptional",
+    "ipa": "/ɪkˈsepʃənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "olağanüstü, fevkalade, üstün",
+        "def": "unusually good",
+        "examples": ["She's an exceptional student who finished college at nineteen.", "The wine from that year was of exceptional quality."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "istisnai, olağan dışı",
+        "def": "very unusual and not likely to happen often",
+        "examples": ["Refunds are only given in exceptional circumstances."]
+      }
+    ],
+    "collocations": ["exceptional talent", "exceptional quality", "exceptional circumstances", "exceptional case", "truly exceptional"],
+    "synonyms": ["outstanding", "remarkable", "extraordinary", "unusual", "rare"],
+    "family": [
+      { "word": "exception", "pos": "noun" },
+      { "word": "exceptionally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "excess",
+    "ipa": "/ˈekses/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fazlalık, aşırılık",
+        "def": "an amount that is more than necessary, usual, or acceptable",
+        "examples": ["An excess of salt in your diet can raise blood pressure.", "He was known for his life of excess."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "fazla, ilave",
+        "def": "more than is needed or allowed",
+        "examples": ["The airline charged me for excess baggage.", "Cut off any excess fat before cooking the meat."]
+      }
+    ],
+    "collocations": ["in excess of", "an excess of", "excess baggage", "excess weight", "to excess", "excess fat"],
+    "synonyms": ["surplus", "overload", "extra", "superfluous"],
+    "family": [
+      { "word": "excessive", "pos": "adjective" },
+      { "word": "exceed", "pos": "verb" },
+      { "word": "excessively", "pos": "adverb" }
+    ],
+    "note": "\"In excess of\" (formal) = more than: in excess of $1 million."
+  },
+  {
+    "word": "excessive",
+    "ipa": "/ɪkˈsesɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "aşırı, fazla, ölçüsüz",
+        "def": "much more than is reasonable or necessary",
+        "examples": ["The officers were accused of using excessive force.", "Excessive drinking can damage your liver."]
+      }
+    ],
+    "collocations": ["excessive force", "excessive use", "excessive drinking", "excessive amounts", "excessive spending"],
+    "synonyms": ["too much", "extreme", "inordinate", "undue", "unreasonable"],
+    "family": [
+      { "word": "excess", "pos": "noun" },
+      { "word": "excessively", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "exchange",
+    "ipa": "/ɪksˈtʃeɪndʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "değiş tokuş, takas, karşılığında verme",
+        "def": "the act of giving something and receiving something in return",
+        "examples": ["He offered to fix their computer in exchange for dinner.", "The two countries agreed to a prisoner exchange."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(söz) atışma, karşılıklı konuşma; (öğrenci) değişim",
+        "def": "a short conversation or argument, or a visit where people from two countries swap places",
+        "examples": ["There was a heated exchange between the two senators.", "She spent a year in Japan as an exchange student."]
+      },
+      {
+        "pos": "verb",
+        "tr": "değiştirmek, değiş tokuş etmek",
+        "def": "to give something and receive something of the same kind in return",
+        "examples": ["We exchanged phone numbers before saying goodbye.", "Can I exchange this shirt for a smaller size?"]
+      }
+    ],
+    "collocations": ["in exchange for", "exchange rate", "exchange student", "exchange ideas", "exchange views", "stock exchange"],
+    "synonyms": ["swap", "trade", "switch", "barter", "conversation"],
+    "family": [
+      { "word": "exchangeable", "pos": "adjective" }
+    ],
+    "note": "\"Exchange rate\" = döviz kuru. \"Exchange glances/words/gifts\" = to give to each other."
+  },
+  {
+    "word": "excited",
+    "ipa": "/ɪkˈsaɪtɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "heyecanlı, heyecanlanmış",
+        "def": "feeling very happy and enthusiastic, especially about something that will happen",
+        "examples": ["The kids are so excited about going to Disneyland.", "I'm really excited to start my new job next week."]
+      }
+    ],
+    "collocations": ["excited about", "excited to do something", "really excited", "get excited", "excited by", "over-excited"],
+    "synonyms": ["thrilled", "eager", "enthusiastic", "pumped", "elated"],
+    "family": [
+      { "word": "excite", "pos": "verb" },
+      { "word": "excitement", "pos": "noun" },
+      { "word": "exciting", "pos": "adjective" },
+      { "word": "excitedly", "pos": "adverb" }
+    ],
+    "note": "The person feels excited; the thing is exciting. Use \"excited about\" (NOT \"excited for\" in formal writing, though it's common in speech)."
+  }
+]

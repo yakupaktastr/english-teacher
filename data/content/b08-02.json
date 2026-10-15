@@ -1,0 +1,1162 @@
+[
+  {
+    "word": "quality",
+    "ipa": "/ˈkwɑːləti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kalite",
+        "def": "how good or bad something is, especially compared with similar things",
+        "examples": ["The quality of the food at that restaurant has gone down.", "We only use high-quality ingredients."]
+      },
+      {
+        "pos": "noun",
+        "tr": "nitelik, özellik, vasıf",
+        "def": "a characteristic or feature of someone's personality or of something",
+        "examples": ["Patience is an important quality in a teacher.", "Her voice has a warm, soothing quality."]
+      }
+    ],
+    "collocations": ["high quality", "poor quality", "quality of life", "quality control", "leadership qualities", "air quality"],
+    "synonyms": ["standard", "grade", "caliber", "trait", "characteristic"],
+    "family": [
+      { "word": "qualitative", "pos": "adjective" },
+      { "word": "qualitatively", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "quantity",
+    "ipa": "/ˈkwɑːntəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "miktar, nicelik",
+        "def": "an amount or number of something",
+        "examples": ["Police found a large quantity of drugs in the truck.", "The restaurant buys vegetables in bulk quantities."]
+      }
+    ],
+    "collocations": ["large quantity", "small quantity", "in large quantities", "quantity and quality", "an unknown quantity"],
+    "synonyms": ["amount", "number", "volume", "sum"],
+    "family": [
+      { "word": "quantitative", "pos": "adjective" },
+      { "word": "quantify", "pos": "verb" }
+    ],
+    "note": "\"Quality over quantity\" is a common phrase. \"An unknown quantity\" is a person or thing you know little about."
+  },
+  {
+    "word": "quarter",
+    "ipa": "/ˈkwɔːrtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çeyrek, dörtte bir",
+        "def": "one of four equal parts of something",
+        "examples": ["Cut the apple into quarters.", "About a quarter of the students failed the exam."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çeyrek (saat); (mali) çeyrek dönem",
+        "def": "fifteen minutes before or after the hour, or a period of three months in a financial year",
+        "examples": ["The movie starts at a quarter to eight.", "Profits rose sharply in the third quarter."]
+      },
+      {
+        "pos": "noun",
+        "tr": "25 sent (madeni para)",
+        "def": "a US or Canadian coin worth 25 cents",
+        "examples": ["The parking meter only takes quarters."]
+      }
+    ],
+    "collocations": ["a quarter of", "quarter past", "quarter to", "first quarter", "three quarters", "the French Quarter"],
+    "synonyms": ["fourth", "district"],
+    "family": [
+      { "word": "quarterly", "pos": "adjective" },
+      { "word": "quarterback", "pos": "noun" },
+      { "word": "headquarters", "pos": "noun" }
+    ],
+    "note": "Americans also say \"a quarter after\" and \"a quarter of\" (= before) the hour. A quarter can also be a district of a city."
+  },
+  {
+    "word": "queen",
+    "ipa": "/kwiːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kraliçe",
+        "def": "a woman who rules a country, or the wife of a king",
+        "examples": ["The queen opened the new hospital in a short ceremony.", "She was crowned queen at the age of 25."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bir alanın) kraliçesi",
+        "def": "a woman who is the best or most famous in a particular area",
+        "examples": ["She was known as the queen of soul music."]
+      }
+    ],
+    "collocations": ["the Queen of", "crowned queen", "queen bee", "beauty queen", "drama queen", "queen-size bed"],
+    "synonyms": ["monarch", "ruler", "sovereign"],
+    "family": [{ "word": "queenly", "pos": "adjective" }],
+    "note": "A \"drama queen\" (informal) is someone who overreacts. In chess, the queen is \"vezir\" in Turkish."
+  },
+  {
+    "word": "query",
+    "ipa": "/ˈkwɪri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "soru, sorgu, şüphe",
+        "def": "a question, especially one asking for information or expressing doubt",
+        "examples": ["If you have any queries about your bill, call customer service.", "The database returns results for each search query."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sorgulamak, sormak, (doğruluğundan) şüphe etmek",
+        "def": "to ask a question, especially to check whether something is correct",
+        "examples": ["Several customers queried the extra charges on their bills."]
+      }
+    ],
+    "collocations": ["answer a query", "customer queries", "search query", "raise a query", "query about something"],
+    "synonyms": ["question", "inquiry", "doubt", "ask"],
+    "family": [],
+    "note": "More formal than \"question\". In computing, a query is a request for data from a database."
+  },
+  {
+    "word": "quest",
+    "ipa": "/kwest/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "arayış, uğraş, peşinde koşma",
+        "def": "a long, difficult search for something, often something valuable or meaningful",
+        "examples": ["The book follows one woman's quest for the truth about her father.", "The country's quest for energy independence has taken decades."]
+      }
+    ],
+    "collocations": ["quest for", "in a quest to", "a lifelong quest", "spiritual quest", "go on a quest"],
+    "synonyms": ["search", "pursuit", "mission", "journey"],
+    "family": [],
+    "note": "Slightly literary; common in headlines and in video games (\"complete a quest\")."
+  },
+  {
+    "word": "question",
+    "ipa": "/ˈkwestʃən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "soru",
+        "def": "a sentence or phrase that asks for information",
+        "examples": ["Can I ask you a personal question?", "She answered every question on the test correctly."]
+      },
+      {
+        "pos": "noun",
+        "tr": "mesele, konu, sorun; şüphe",
+        "def": "a subject or problem that needs to be discussed, or doubt about something",
+        "examples": ["The question of who will pay for the repairs is still open.", "There's no question that she's the best player on the team."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sorguya çekmek, sorgulamak; şüphe etmek",
+        "def": "to ask someone questions officially, or to express doubt about something",
+        "examples": ["Police questioned the suspect for six hours.", "Nobody questioned his honesty until the money went missing."]
+      }
+    ],
+    "collocations": ["ask a question", "answer a question", "raise the question", "out of the question", "in question", "call into question"],
+    "synonyms": ["query", "issue", "matter", "interrogate", "doubt"],
+    "family": [
+      { "word": "questionable", "pos": "adjective" },
+      { "word": "questioning", "pos": "noun" },
+      { "word": "questionnaire", "pos": "noun" },
+      { "word": "unquestionably", "pos": "adverb" }
+    ],
+    "note": "\"Out of the question\" = impossible. \"The person in question\" = the person being discussed."
+  },
+  {
+    "word": "questionnaire",
+    "ipa": "/ˌkwestʃəˈner/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "anket, soru formu",
+        "def": "a written list of questions that many people answer so information can be collected",
+        "examples": ["Patients are asked to fill out a short questionnaire before seeing the doctor.", "Over 2,000 people completed the online questionnaire."]
+      }
+    ],
+    "collocations": ["fill out a questionnaire", "complete a questionnaire", "online questionnaire", "send out a questionnaire", "questionnaire survey"],
+    "synonyms": ["survey", "form", "poll"],
+    "family": [{ "word": "question", "pos": "noun" }],
+    "note": "Spelled with double n. Americans usually say \"fill out\" a questionnaire (British: \"fill in\")."
+  },
+  {
+    "word": "queue",
+    "ipa": "/kjuː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kuyruk, sıra",
+        "def": "(British) a line of people or vehicles waiting for something; also a list of tasks waiting to be done",
+        "examples": ["There was a long queue outside the bakery.", "Your print job is third in the queue."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kuyruğa girmek, sıra beklemek",
+        "def": "(British) to wait in a line of people or vehicles",
+        "examples": ["We queued for over an hour to get concert tickets."]
+      }
+    ],
+    "collocations": ["in a queue", "jump the queue", "long queue", "queue up", "print queue", "waiting queue"],
+    "synonyms": ["line", "waiting list", "line up"],
+    "family": [],
+    "note": "British word. Americans say \"line\" and \"wait in line\" / \"line up\". In computing, \"queue\" is normal in American English too."
+  },
+  {
+    "word": "quick",
+    "ipa": "/kwɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "hızlı, çabuk, kısa",
+        "def": "done fast or lasting only a short time",
+        "examples": ["Can I ask you a quick question?", "Let's grab a quick lunch before the meeting."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "zeki, kavrayışı hızlı, çabuk",
+        "def": "able to learn, think, or react fast",
+        "examples": ["She's a quick learner and picked up Spanish in a year.", "He's always quick to blame others for his mistakes."]
+      }
+    ],
+    "collocations": ["a quick look", "a quick question", "quick to do something", "quick learner", "quick fix", "quick thinking"],
+    "synonyms": ["fast", "rapid", "brief", "swift", "smart"],
+    "family": [
+      { "word": "quickly", "pos": "adverb" },
+      { "word": "quicken", "pos": "verb" }
+    ],
+    "note": "\"Quick\" often means short in time; \"fast\" usually describes speed of movement (a fast car, not a quick car)."
+  },
+  {
+    "word": "quickly",
+    "ipa": "/ˈkwɪkli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "hızlıca, çabucak, çabuk",
+        "def": "fast, or after only a short time",
+        "examples": ["The fire spread quickly through the dry forest.", "Please reply as quickly as possible."]
+      }
+    ],
+    "collocations": ["as quickly as possible", "quickly realize", "move quickly", "quickly become", "fairly quickly"],
+    "synonyms": ["fast", "rapidly", "swiftly", "promptly", "soon"],
+    "family": [{ "word": "quick", "pos": "adjective" }]
+  },
+  {
+    "word": "quiet",
+    "ipa": "/ˈkwaɪət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sessiz, sakin",
+        "def": "making little or no noise",
+        "examples": ["Please be quiet; the baby is sleeping.", "We live on a quiet street with very little traffic."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sakin, durgun, hareketsiz",
+        "def": "without much activity or excitement",
+        "examples": ["Business is always quiet in January.", "We had a quiet weekend at home."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sessiz sakin, az konuşan, içine kapanık",
+        "def": "not talking much, usually because of a calm or shy personality",
+        "examples": ["He's a quiet guy, but he's very funny once you know him."]
+      }
+    ],
+    "collocations": ["keep quiet", "be quiet", "quiet street", "peace and quiet", "quiet voice", "keep something quiet"],
+    "synonyms": ["silent", "calm", "peaceful", "reserved"],
+    "family": [
+      { "word": "quietly", "pos": "adverb" },
+      { "word": "quieten", "pos": "verb" }
+    ],
+    "note": "Do not confuse quiet /ˈkwaɪət/ with quite /kwaɪt/. \"Keep something quiet\" = keep it secret."
+  },
+  {
+    "word": "quietly",
+    "ipa": "/ˈkwaɪətli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "sessizce, usulca, yavaşça",
+        "def": "making very little noise",
+        "examples": ["She closed the door quietly so she wouldn't wake anyone.", "They talked quietly in the corner of the library."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "sessiz sedasız, kimseye duyurmadan",
+        "def": "without attracting attention or making a fuss",
+        "examples": ["The company quietly dropped the controversial ad."]
+      }
+    ],
+    "collocations": ["speak quietly", "quietly confident", "sit quietly", "quietly leave", "quietly dropped"],
+    "synonyms": ["softly", "silently", "calmly", "discreetly"],
+    "family": [{ "word": "quiet", "pos": "adjective" }],
+    "note": "\"Quietly confident\" means confident without showing off."
+  },
+  {
+    "word": "quit",
+    "ipa": "/kwɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(işten, okuldan) ayrılmak, istifa etmek, bırakmak",
+        "def": "to leave a job, school, or team permanently",
+        "examples": ["She quit her job to start her own business.", "He quit the team after a fight with the coach."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(alışkanlık) bırakmak, vazgeçmek",
+        "def": "to stop doing something, especially a habit",
+        "examples": ["My dad finally quit smoking last year.", "Quit complaining and help me carry these boxes."]
+      }
+    ],
+    "collocations": ["quit your job", "quit smoking", "quit school", "call it quits", "quit doing something"],
+    "synonyms": ["leave", "resign", "stop", "give up"],
+    "family": [{ "word": "quitter", "pos": "noun" }],
+    "note": "Irregular: quit – quit – quit (American). \"Call it quits\" = agree to stop. Followed by -ing: quit smoking, not \"quit to smoke\"."
+  },
+  {
+    "word": "quite",
+    "ipa": "/kwaɪt/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "oldukça, epey",
+        "def": "to a fairly large degree",
+        "examples": ["The movie was quite good, actually.", "It's quite cold outside, so take a jacket."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "tamamen, tam olarak, hiç (değil)",
+        "def": "completely or exactly, often used with negatives",
+        "examples": ["I'm not quite ready yet; give me five minutes.", "I don't quite understand what you mean."]
+      }
+    ],
+    "collocations": ["quite a few", "quite a lot", "not quite", "quite a bit", "quite right", "quite a"],
+    "synonyms": ["fairly", "pretty", "rather", "completely", "entirely"],
+    "family": [],
+    "note": "\"Quite a few\" means a fairly large number. Americans say \"pretty\" more often than \"quite\" for \"fairly\"."
+  },
+  {
+    "word": "quota",
+    "ipa": "/ˈkwəʊtə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kota, pay, sınır",
+        "def": "a fixed amount or number that is officially allowed, required, or expected",
+        "examples": ["The government set strict quotas on fishing in the bay.", "Sales staff must meet a monthly quota."]
+      }
+    ],
+    "collocations": ["meet a quota", "import quota", "fishing quota", "set a quota", "quota system", "exceed the quota"],
+    "synonyms": ["allocation", "share", "limit", "allowance"],
+    "family": [],
+    "note": "In American English pronounced /ˈkwoʊtə/."
+  },
+  {
+    "word": "quotation",
+    "ipa": "/kwəʊˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alıntı, iktibas",
+        "def": "words taken from a book, speech, etc. and repeated by someone else",
+        "examples": ["The essay opens with a quotation from Shakespeare.", "He put a famous quotation about courage on his office wall."]
+      },
+      {
+        "pos": "noun",
+        "tr": "fiyat teklifi",
+        "def": "a statement of how much a job or service will cost",
+        "examples": ["Get a written quotation from three builders before you decide."]
+      }
+    ],
+    "collocations": ["quotation marks", "a quotation from", "famous quotation", "written quotation", "price quotation"],
+    "synonyms": ["quote", "citation", "excerpt", "estimate"],
+    "family": [
+      { "word": "quote", "pos": "verb" },
+      { "word": "quotable", "pos": "adjective" }
+    ],
+    "note": "In everyday American English, \"quote\" is more common than \"quotation\"."
+  },
+  {
+    "word": "quote",
+    "ipa": "/kwəʊt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "alıntı yapmak, (sözünü) aktarmak",
+        "def": "to repeat the exact words someone else said or wrote",
+        "examples": ["The article quoted a senior official who asked not to be named.", "She often quotes her grandmother's advice."]
+      },
+      {
+        "pos": "verb",
+        "tr": "fiyat vermek",
+        "def": "to tell a customer how much a job or service will cost",
+        "examples": ["The mechanic quoted us $800 to fix the brakes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "alıntı, söz; fiyat teklifi",
+        "def": "a quotation, or a statement of how much something will cost",
+        "examples": ["I found a great quote about failure for my speech.", "We got three quotes for the new roof."]
+      }
+    ],
+    "collocations": ["quote someone", "quote from", "get a quote", "famous quote", "in quotes", "quote, unquote"],
+    "synonyms": ["cite", "repeat", "quotation", "estimate"],
+    "family": [
+      { "word": "quotation", "pos": "noun" },
+      { "word": "quotable", "pos": "adjective" },
+      { "word": "misquote", "pos": "verb" }
+    ],
+    "note": "\"Quote, unquote\" is said before words you are repeating, often ironically."
+  },
+  {
+    "word": "race",
+    "ipa": "/reɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yarış",
+        "def": "a competition to see who is fastest, or a contest for power or position",
+        "examples": ["She finished second in the 100-meter race.", "The race for the White House is getting closer."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ırk",
+        "def": "one of the groups people are divided into based on physical features like skin color",
+        "examples": ["The law bans discrimination on the basis of race or religion."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yarışmak; koşturmak, hızla gitmek",
+        "def": "to compete in a race, or to move or do something very fast",
+        "examples": ["Scientists around the world raced to develop a vaccine.", "He raced home when he heard the news."]
+      }
+    ],
+    "collocations": ["win a race", "arms race", "presidential race", "race against time", "the human race", "race relations"],
+    "synonyms": ["competition", "contest", "rush", "hurry", "ethnicity"],
+    "family": [
+      { "word": "racing", "pos": "noun" },
+      { "word": "racial", "pos": "adjective" },
+      { "word": "racer", "pos": "noun" },
+      { "word": "racism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "racial",
+    "ipa": "/ˈreɪʃl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ırksal, ırki, ırk (temelli)",
+        "def": "relating to race or to relations between people of different races",
+        "examples": ["The company was sued for racial discrimination in hiring.", "The city has a long history of racial tension."]
+      }
+    ],
+    "collocations": ["racial discrimination", "racial equality", "racial justice", "racial tension", "racial profiling", "racial diversity"],
+    "synonyms": ["ethnic", "race-based"],
+    "family": [
+      { "word": "racially", "pos": "adverb" },
+      { "word": "race", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "racing",
+    "ipa": "/ˈreɪsɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yarış (sporu), at yarışı, araba yarışı",
+        "def": "the sport of racing horses, cars, bikes, etc.",
+        "examples": ["He's a big fan of car racing and never misses a race on TV.", "Horse racing is popular in Kentucky."]
+      }
+    ],
+    "collocations": ["horse racing", "car racing", "racing driver", "racing car", "motor racing"],
+    "synonyms": [],
+    "family": [
+      { "word": "race", "pos": "verb" },
+      { "word": "racer", "pos": "noun" }
+    ],
+    "note": "Americans also say \"race car\" and \"race car driver\"."
+  },
+  {
+    "word": "racism",
+    "ipa": "/ˈreɪsɪzəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ırkçılık",
+        "def": "unfair treatment of people, or the belief that some races are better than others",
+        "examples": ["Many players have spoken out against racism in soccer.", "The report found evidence of institutional racism in the police force."]
+      }
+    ],
+    "collocations": ["fight racism", "institutional racism", "systemic racism", "tackle racism", "racism and sexism"],
+    "synonyms": ["racial discrimination", "prejudice", "bigotry"],
+    "family": [
+      { "word": "racist", "pos": "noun" },
+      { "word": "racist", "pos": "adjective" },
+      { "word": "anti-racism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "racist",
+    "ipa": "/ˈreɪsɪst/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ırkçı",
+        "def": "showing the belief that some races are better than others, or treating people unfairly because of race",
+        "examples": ["The fans were banned for shouting racist abuse at a player.", "He was fired after posting racist comments online."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ırkçı (kişi)",
+        "def": "a person who believes some races are better than others",
+        "examples": ["She called him a racist after hearing his remarks about immigrants."]
+      }
+    ],
+    "collocations": ["racist abuse", "racist remarks", "racist attack", "racist comments", "openly racist"],
+    "synonyms": ["bigot", "bigoted", "prejudiced"],
+    "family": [
+      { "word": "racism", "pos": "noun" },
+      { "word": "anti-racist", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "radar",
+    "ipa": "/ˈreɪdɑːr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "radar",
+        "def": "a system that uses radio waves to find the position and movement of objects such as planes",
+        "examples": ["The plane disappeared from radar over the ocean.", "Police use radar to catch drivers who are speeding."]
+      }
+    ],
+    "collocations": ["on radar", "radar screen", "under the radar", "on someone's radar", "radar system", "weather radar"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"Under the radar\" = without attracting attention. \"On my radar\" = something I'm aware of or considering."
+  },
+  {
+    "word": "radiation",
+    "ipa": "/ˌreɪdiˈeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "radyasyon, ışınım",
+        "def": "dangerous energy given off by radioactive substances, or energy sent out as heat or light",
+        "examples": ["Workers at the nuclear plant were exposed to high levels of radiation.", "Sunscreen protects your skin from ultraviolet radiation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "radyoterapi, ışın tedavisi",
+        "def": "medical treatment that uses radiation to kill cancer cells",
+        "examples": ["After surgery, she had six weeks of radiation."]
+      }
+    ],
+    "collocations": ["radiation levels", "exposure to radiation", "radiation therapy", "ultraviolet radiation", "radiation leak"],
+    "synonyms": ["radioactivity", "rays", "emission"],
+    "family": [
+      { "word": "radiate", "pos": "verb" },
+      { "word": "radiator", "pos": "noun" },
+      { "word": "radioactive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "radical",
+    "ipa": "/ˈrædɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "köklü, temelden, radikal",
+        "def": "very new and different, and affecting the most basic parts of something",
+        "examples": ["The new CEO made radical changes to the company's structure.", "Doctors are testing a radical new treatment for the disease."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "radikal, aşırı (görüşlü)",
+        "def": "supporting extreme political or social change",
+        "examples": ["The group holds radical views on economic reform."]
+      }
+    ],
+    "collocations": ["radical change", "radical reform", "radical shift", "radical idea", "radical approach", "radical left"],
+    "synonyms": ["fundamental", "drastic", "sweeping", "extreme", "revolutionary"],
+    "family": [
+      { "word": "radically", "pos": "adverb" },
+      { "word": "radicalism", "pos": "noun" },
+      { "word": "radicalize", "pos": "verb" },
+      { "word": "radical", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "radio",
+    "ipa": "/ˈreɪdiəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "radyo",
+        "def": "the activity of broadcasting sound programs, or a device for listening to them",
+        "examples": ["I heard about the accident on the radio this morning.", "She turned on the car radio to catch the news."]
+      },
+      {
+        "pos": "noun",
+        "tr": "telsiz",
+        "def": "a system for sending and receiving messages using radio waves",
+        "examples": ["The pilot lost radio contact with the tower."]
+      }
+    ],
+    "collocations": ["on the radio", "listen to the radio", "radio station", "car radio", "radio contact", "talk radio"],
+    "synonyms": ["broadcasting", "wireless"],
+    "family": [{ "word": "radio", "pos": "verb" }],
+    "note": "Say \"on the radio\", not \"in the radio\". American pronunciation: /ˈreɪdioʊ/."
+  },
+  {
+    "word": "rage",
+    "ipa": "/reɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öfke, hiddet, gazap",
+        "def": "very strong anger that is hard to control",
+        "examples": ["He flew into a rage when he found his car had been towed.", "Fans expressed their rage on social media after the decision."]
+      },
+      {
+        "pos": "verb",
+        "tr": "şiddetle sürmek, kol gezmek",
+        "def": "to continue with great force or violence (of a fire, storm, war, debate)",
+        "examples": ["Wildfires raged across the state for weeks."]
+      }
+    ],
+    "collocations": ["fly into a rage", "road rage", "in a fit of rage", "be all the rage", "rage against", "a debate rages"],
+    "synonyms": ["fury", "anger", "wrath", "outrage"],
+    "family": [
+      { "word": "raging", "pos": "adjective" },
+      { "word": "outrage", "pos": "noun" }
+    ],
+    "note": "\"All the rage\" (informal) means very fashionable. \"Road rage\" is anger between drivers."
+  },
+  {
+    "word": "raid",
+    "ipa": "/reɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "baskın, (polis) operasyon",
+        "def": "a surprise attack by soldiers, or a sudden visit by police to search for criminals or illegal goods",
+        "examples": ["Police seized drugs and weapons in an early-morning raid.", "The village was destroyed in an air raid."]
+      },
+      {
+        "pos": "verb",
+        "tr": "baskın yapmak, basmak",
+        "def": "to attack a place suddenly, or to enter it by force to search it",
+        "examples": ["FBI agents raided the company's headquarters on Tuesday.", "The kids raided the fridge as soon as they got home."]
+      }
+    ],
+    "collocations": ["police raid", "air raid", "dawn raid", "carry out a raid", "raid the fridge", "drug raid"],
+    "synonyms": ["attack", "assault", "bust", "storm", "invade"],
+    "family": [{ "word": "raider", "pos": "noun" }],
+    "note": "\"Raid the fridge\" (informal) = eat a lot of food from it."
+  },
+  {
+    "word": "rail",
+    "ipa": "/reɪl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "korkuluk, tırabzan, parmaklık",
+        "def": "a bar fixed along or around something, used as a barrier or for support",
+        "examples": ["Hold on to the rail as you go down the stairs.", "She hung her towel on the rail in the bathroom."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ray; demiryolu",
+        "def": "the metal bars that trains run on, or the railroad as a way of traveling",
+        "examples": ["Shipping goods by rail is cheaper than by truck.", "The train came off the rails near the station."]
+      }
+    ],
+    "collocations": ["by rail", "rail network", "rail service", "high-speed rail", "go off the rails", "towel rail"],
+    "synonyms": ["railing", "bar", "handrail", "railroad"],
+    "family": [
+      { "word": "railing", "pos": "noun" },
+      { "word": "railroad", "pos": "noun" },
+      { "word": "derail", "pos": "verb" }
+    ],
+    "note": "\"Go off the rails\" (informal) means to start behaving badly or out of control."
+  },
+  {
+    "word": "railway",
+    "ipa": "/ˈreɪlweɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "demiryolu",
+        "def": "(British) a track for trains, or a system of trains and tracks",
+        "examples": ["The railway connects the two cities in under two hours.", "They built a railway across the mountains in the 1800s."]
+      }
+    ],
+    "collocations": ["railway station", "railway line", "railway track", "railway network", "railway company"],
+    "synonyms": ["railroad", "rail", "train line"],
+    "family": [{ "word": "rail", "pos": "noun" }],
+    "note": "Mainly British. Americans usually say \"railroad\" (and \"train station\" rather than \"railway station\")."
+  },
+  {
+    "word": "rain",
+    "ipa": "/reɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yağmur",
+        "def": "water that falls from clouds in small drops",
+        "examples": ["Heavy rain caused flooding across the region.", "The game was canceled because of the rain."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yağmur yağmak",
+        "def": "when it rains, water falls from the sky in drops",
+        "examples": ["It rained all weekend, so we stayed inside.", "Take an umbrella; it's starting to rain."]
+      }
+    ],
+    "collocations": ["heavy rain", "pouring rain", "in the rain", "rain check", "it's raining", "acid rain"],
+    "synonyms": ["rainfall", "shower", "drizzle", "downpour", "pour"],
+    "family": [
+      { "word": "rainy", "pos": "adjective" },
+      { "word": "rainfall", "pos": "noun" },
+      { "word": "rainbow", "pos": "noun" }
+    ],
+    "note": "\"Take a rain check\" (American, informal) = politely decline now but suggest doing it later."
+  },
+  {
+    "word": "raise",
+    "ipa": "/reɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kaldırmak, yükseltmek",
+        "def": "to lift something to a higher position",
+        "examples": ["Raise your hand if you have a question.", "They raised the flag at sunrise."]
+      },
+      {
+        "pos": "verb",
+        "tr": "artırmak, (para) toplamak",
+        "def": "to increase an amount or level, or to collect money for a purpose",
+        "examples": ["The company plans to raise prices next year.", "The students raised $5,000 for the children's hospital."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(çocuk) büyütmek, yetiştirmek; (konu) gündeme getirmek",
+        "def": "to take care of a child until they are grown, or to bring up a subject for discussion",
+        "examples": ["She was raised by her grandparents in Ohio.", "Several parents raised concerns about school safety."]
+      }
+    ],
+    "collocations": ["raise your hand", "raise prices", "raise money", "raise awareness", "raise a question", "raise children"],
+    "synonyms": ["lift", "increase", "bring up", "collect", "rear"],
+    "family": [{ "word": "raise", "pos": "noun" }],
+    "note": "Raise (transitive) needs an object; rise (intransitive) does not: \"Prices rose\" vs. \"They raised prices\". In American English a pay increase is \"a raise\"."
+  },
+  {
+    "word": "rally",
+    "ipa": "/ˈræli/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "miting, toplantı",
+        "def": "a large public meeting held to support a cause or political party",
+        "examples": ["Thousands attended a rally in support of the candidate.", "Students held a rally to demand lower tuition."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(destek için) toplanmak, bir araya gelmek, kenetlenmek",
+        "def": "to come together, or bring people together, to support someone or something",
+        "examples": ["Neighbors rallied around the family after the fire.", "The coach rallied his players for one last effort."]
+      },
+      {
+        "pos": "verb",
+        "tr": "toparlanmak, yeniden yükselmek",
+        "def": "to recover strength or value after a weak period",
+        "examples": ["Stocks rallied in the afternoon after a weak start."]
+      }
+    ],
+    "collocations": ["hold a rally", "campaign rally", "rally around", "rally support", "rally behind", "stocks rallied"],
+    "synonyms": ["demonstration", "gathering", "unite", "recover", "rebound"],
+    "family": [],
+    "note": "A \"rally\" can also be a car race on public roads, or a long exchange of shots in tennis."
+  },
+  {
+    "word": "random",
+    "ipa": "/ˈrændəm/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "rastgele, gelişigüzel",
+        "def": "chosen or happening without a plan, pattern, or reason",
+        "examples": ["Participants were selected at random from the voter list.", "Airport security carries out random checks on passengers."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(argo) alakasız, tuhaf, rastgele",
+        "def": "(informal) strange, unexpected, or not connected to anything",
+        "examples": ["Some random guy started talking to me on the subway.", "That was a really random comment."]
+      }
+    ],
+    "collocations": ["at random", "random sample", "random selection", "random checks", "completely random", "random act of kindness"],
+    "synonyms": ["arbitrary", "haphazard", "chance", "unplanned", "odd"],
+    "family": [
+      { "word": "randomly", "pos": "adverb" },
+      { "word": "randomize", "pos": "verb" },
+      { "word": "randomness", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "range",
+    "ipa": "/reɪndʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çeşit, yelpaze, seri",
+        "def": "a variety of things of a particular type",
+        "examples": ["The store sells a wide range of outdoor equipment.", "The course covers a broad range of topics."]
+      },
+      {
+        "pos": "noun",
+        "tr": "aralık, sınırlar, menzil",
+        "def": "the limits between which something varies, or the distance something can reach",
+        "examples": ["The apartment is out of our price range.", "The new electric car has a range of 300 miles."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(arasında) değişmek",
+        "def": "to vary between two limits",
+        "examples": ["Ticket prices range from $20 to $150.", "The volunteers' ages ranged from 16 to 80."]
+      }
+    ],
+    "collocations": ["a wide range of", "price range", "age range", "range from... to...", "mountain range", "within range"],
+    "synonyms": ["variety", "selection", "scope", "span", "vary"],
+    "family": [{ "word": "wide-ranging", "pos": "adjective" }],
+    "note": "In American English a \"range\" is also a kitchen stove."
+  },
+  {
+    "word": "rank",
+    "ipa": "/ræŋk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "rütbe, mevki, derece",
+        "def": "a person's position in an organization, especially the army or police",
+        "examples": ["She rose to the rank of colonel.", "He was promoted to a higher rank after the mission."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sıralamak, (bir sırada) yer almak",
+        "def": "to give something a position on a scale, or to have such a position",
+        "examples": ["The university is ranked among the top 50 in the world.", "Customers ranked price as their main concern."]
+      },
+      {
+        "pos": "noun",
+        "tr": "saflar, mensuplar",
+        "def": "the members of a group or organization (the ranks)",
+        "examples": ["She joined the ranks of the unemployed after the factory closed."]
+      }
+    ],
+    "collocations": ["the rank of", "high-ranking", "rank among", "rank first", "join the ranks", "rank and file"],
+    "synonyms": ["position", "grade", "level", "status", "rate"],
+    "family": [
+      { "word": "ranking", "pos": "noun" },
+      { "word": "high-ranking", "pos": "adjective" }
+    ],
+    "note": "\"The rank and file\" = the ordinary members of an organization, not the leaders."
+  },
+  {
+    "word": "ranking",
+    "ipa": "/ˈræŋkɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sıralama, derece, klasman",
+        "def": "the position of someone or something on a list showing how good or important they are",
+        "examples": ["The tennis player rose to number three in the world rankings.", "The school's ranking has improved every year."]
+      }
+    ],
+    "collocations": ["world rankings", "university rankings", "top ranking", "ranking list", "climb the rankings"],
+    "synonyms": ["rank", "position", "rating", "standing", "placing"],
+    "family": [{ "word": "rank", "pos": "verb" }],
+    "note": "As an adjective, \"ranking\" means highest in rank: \"the ranking officer\"."
+  },
+  {
+    "word": "rape",
+    "ipa": "/reɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tecavüz, ırza geçme",
+        "def": "the crime of forcing someone to have sex without their consent",
+        "examples": ["He was convicted of rape and sentenced to fifteen years.", "The charity supports survivors of rape and sexual assault."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tecavüz etmek",
+        "def": "to force someone to have sex without their consent",
+        "examples": ["The suspect is accused of having raped two women in the same neighborhood."]
+      }
+    ],
+    "collocations": ["accused of rape", "rape victim", "rape survivor", "rape charge", "attempted rape"],
+    "synonyms": ["sexual assault"],
+    "family": [{ "word": "rapist", "pos": "noun" }],
+    "note": "\"Rape\" is also a plant grown for oil (rapeseed); in the US the oil is usually called canola."
+  },
+  {
+    "word": "rapid",
+    "ipa": "/ˈræpɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "hızlı, süratli, ani",
+        "def": "happening very fast or in a short time",
+        "examples": ["The city has seen rapid population growth over the last decade.", "Rapid tests give results in about fifteen minutes."]
+      }
+    ],
+    "collocations": ["rapid growth", "rapid change", "rapid increase", "rapid decline", "rapid response", "in rapid succession"],
+    "synonyms": ["fast", "quick", "swift", "speedy", "sudden"],
+    "family": [
+      { "word": "rapidly", "pos": "adverb" },
+      { "word": "rapidity", "pos": "noun" },
+      { "word": "rapids", "pos": "noun" }
+    ],
+    "note": "More formal than \"fast\"; often used for growth, change, and decline."
+  },
+  {
+    "word": "rapidly",
+    "ipa": "/ˈræpɪdli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "hızla, süratle",
+        "def": "very quickly, at a fast rate",
+        "examples": ["The patient's condition deteriorated rapidly overnight.", "Online shopping has grown rapidly since 2020."]
+      }
+    ],
+    "collocations": ["grow rapidly", "rapidly changing", "rapidly increasing", "move rapidly", "spread rapidly"],
+    "synonyms": ["quickly", "fast", "swiftly", "speedily"],
+    "family": [{ "word": "rapid", "pos": "adjective" }]
+  },
+  {
+    "word": "rare",
+    "ipa": "/rer/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "nadir, ender, seyrek",
+        "def": "not happening, found, or seen very often",
+        "examples": ["The tiger is one of the rarest animals in the world.", "It's rare for him to miss a day of work."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "az pişmiş (et)",
+        "def": "(of meat) cooked only a little, so the inside is still red",
+        "examples": ["I'd like my steak rare, please."]
+      }
+    ],
+    "collocations": ["rare disease", "rare species", "rare occasion", "it is rare for", "extremely rare", "rare opportunity"],
+    "synonyms": ["uncommon", "unusual", "scarce", "infrequent"],
+    "family": [
+      { "word": "rarely", "pos": "adverb" },
+      { "word": "rarity", "pos": "noun" }
+    ],
+    "note": "Steak doneness: rare, medium-rare, medium, well-done."
+  },
+  {
+    "word": "rarely",
+    "ipa": "/ˈrerli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "nadiren, seyrek olarak",
+        "def": "not often",
+        "examples": ["My grandparents rarely eat out at restaurants.", "Rarely have I seen such a beautiful sunset."]
+      }
+    ],
+    "collocations": ["very rarely", "rarely if ever", "only rarely", "rarely seen", "rarely used"],
+    "synonyms": ["seldom", "infrequently", "hardly ever"],
+    "family": [{ "word": "rare", "pos": "adjective" }],
+    "note": "At the start of a sentence, use inversion: \"Rarely do we see...\" (formal)."
+  },
+  {
+    "word": "rat",
+    "ipa": "/ræt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sıçan, fare",
+        "def": "an animal like a large mouse with a long tail, often seen as a pest",
+        "examples": ["The old building was full of rats and cockroaches.", "Scientists tested the drug on rats before human trials."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(argo) alçak, hain, ispiyoncu",
+        "def": "(informal) a person who is disloyal or tells secrets to the police",
+        "examples": ["Someone in the gang was a rat working for the FBI."]
+      }
+    ],
+    "collocations": ["lab rat", "rat race", "smell a rat", "rat poison", "like rats from a sinking ship"],
+    "synonyms": ["rodent", "traitor", "informer"],
+    "family": [],
+    "note": "\"The rat race\" = the stressful competition of modern working life. \"Smell a rat\" = suspect something is wrong."
+  },
+  {
+    "word": "rate",
+    "ipa": "/reɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "oran, hız",
+        "def": "how often something happens, or how fast something happens",
+        "examples": ["The unemployment rate fell to 4 percent last month.", "The town is growing at a rate of 2,000 people a year."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ücret, tarife, fiyat",
+        "def": "a fixed price or amount charged or paid",
+        "examples": ["The hotel offers lower rates in winter.", "Interest rates are expected to rise again."]
+      },
+      {
+        "pos": "verb",
+        "tr": "değerlendirmek, puan vermek",
+        "def": "to judge how good, important, or valuable someone or something is",
+        "examples": ["Customers rated the app four out of five stars.", "He's rated as one of the best coaches in the league."]
+      }
+    ],
+    "collocations": ["interest rate", "birth rate", "at a rate of", "at any rate", "exchange rate", "highly rated"],
+    "synonyms": ["ratio", "speed", "price", "fee", "evaluate"],
+    "family": [
+      { "word": "rating", "pos": "noun" },
+      { "word": "overrated", "pos": "adjective" },
+      { "word": "underrated", "pos": "adjective" }
+    ],
+    "note": "\"At any rate\" = anyway. \"First-rate\" = excellent; \"second-rate\" = poor quality."
+  },
+  {
+    "word": "rather",
+    "ipa": "/ˈræðər/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "oldukça, epey, biraz",
+        "def": "fairly or to some degree, often when something is surprising or disappointing",
+        "examples": ["The test was rather harder than I expected.", "It's rather cold for May, isn't it?"]
+      },
+      {
+        "pos": "adverb",
+        "tr": "tercihen, -mektense, yerine",
+        "def": "used to show what you prefer (would rather) or what is done instead (rather than)",
+        "examples": ["I'd rather stay home tonight than go to the party.", "She decided to take the train rather than drive."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "daha doğrusu, aksine",
+        "def": "used to correct something you have said or to give a more accurate statement",
+        "examples": ["He's not lazy; rather, he's just exhausted from working two jobs."]
+      }
+    ],
+    "collocations": ["would rather", "rather than", "or rather", "rather a lot", "rather like"],
+    "synonyms": ["fairly", "quite", "somewhat", "instead", "preferably"],
+    "family": [],
+    "note": "\"Would rather\" is followed by the base verb: \"I'd rather go\", not \"I'd rather to go\"."
+  },
+  {
+    "word": "rating",
+    "ipa": "/ˈreɪtɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "derece, puan, değerlendirme",
+        "def": "a measure of how good, popular, or important someone or something is",
+        "examples": ["The restaurant has a five-star rating on most review sites.", "The president's approval rating dropped after the scandal."]
+      },
+      {
+        "pos": "noun",
+        "tr": "reyting, izlenme oranı",
+        "def": "a figure showing how many people watch a TV program (the ratings)",
+        "examples": ["The show was canceled because of poor ratings."]
+      }
+    ],
+    "collocations": ["approval rating", "credit rating", "high rating", "TV ratings", "five-star rating", "ratings drop"],
+    "synonyms": ["score", "grade", "ranking", "assessment"],
+    "family": [{ "word": "rate", "pos": "verb" }]
+  },
+  {
+    "word": "ratio",
+    "ipa": "/ˈreɪʃiəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "oran",
+        "def": "the relationship between two amounts, shown by two numbers",
+        "examples": ["The ratio of students to teachers at the school is 20 to 1.", "Mix the flour and water in a ratio of three to one."]
+      }
+    ],
+    "collocations": ["the ratio of", "in a ratio of", "student-teacher ratio", "debt-to-income ratio", "high ratio"],
+    "synonyms": ["proportion", "rate", "relation"],
+    "family": [],
+    "note": "Written like 20:1 and read \"twenty to one\". American pronunciation: /ˈreɪʃioʊ/."
+  },
+  {
+    "word": "rational",
+    "ipa": "/ˈræʃnəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "akılcı, mantıklı, rasyonel",
+        "def": "based on clear thinking and reason rather than emotion",
+        "examples": ["There must be a rational explanation for the strange noises.", "It's hard to make rational decisions when you're angry."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "aklı başında, makul",
+        "def": "able to think clearly and sensibly",
+        "examples": ["She's usually a calm and rational person."]
+      }
+    ],
+    "collocations": ["rational explanation", "rational decision", "rational thought", "rational choice", "perfectly rational"],
+    "synonyms": ["logical", "reasonable", "sensible", "sound"],
+    "family": [
+      { "word": "irrational", "pos": "adjective" },
+      { "word": "rationally", "pos": "adverb" },
+      { "word": "rationality", "pos": "noun" },
+      { "word": "rationalize", "pos": "verb" }
+    ],
+    "note": "Opposite: irrational. Do not confuse with \"rationale\" /ˌræʃəˈnæl/ (the reasons behind a decision)."
+  },
+  {
+    "word": "raw",
+    "ipa": "/rɔː/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çiğ, pişmemiş",
+        "def": "(of food) not cooked",
+        "examples": ["Sushi is often made with raw fish.", "Don't eat raw chicken; it can make you very sick."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ham, işlenmemiş",
+        "def": "in its natural state, not yet processed or analyzed",
+        "examples": ["The factory imports raw materials from overseas.", "The researchers released the raw data from the survey."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(duygu) yoğun, açık, saf; (cilt) tahriş olmuş",
+        "def": "showing strong emotions openly, or (of skin) red and painful",
+        "examples": ["The singer's voice was full of raw emotion.", "My hands were raw from the cold."]
+      }
+    ],
+    "collocations": ["raw materials", "raw data", "raw meat", "raw emotion", "raw talent", "a raw deal"],
+    "synonyms": ["uncooked", "unprocessed", "crude", "sore"],
+    "family": [{ "word": "rawness", "pos": "noun" }],
+    "note": "\"A raw deal\" (informal) = unfair treatment."
+  }
+]

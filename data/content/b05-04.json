@@ -1,0 +1,607 @@
+[
+  {
+    "word": "hire",
+    "ipa": "/ˈhaɪər/",
+    "senses": [
+      { "pos": "verb", "tr": "işe almak, istihdam etmek", "def": "to give someone a job, or to pay someone to do a particular task", "examples": ["The company plans to hire 200 new workers this year.", "We hired a lawyer to help with the contract."] },
+      { "pos": "verb", "tr": "kiralamak", "def": "(British) to pay to use something for a short time", "examples": ["We hired a boat for the afternoon."] },
+      { "pos": "noun", "tr": "yeni çalışan, işe alınan kişi", "def": "(American) a person who has just been given a job", "examples": ["All new hires must complete safety training."] }
+    ],
+    "collocations": ["hire staff", "hire a lawyer", "new hire", "for hire", "hire and fire", "be hired as"],
+    "synonyms": ["employ", "take on", "recruit", "engage", "rent"],
+    "family": [{ "word": "hiring", "pos": "noun" }],
+    "note": "In American English you \"rent\" a car or apartment; \"hire\" for these is British. Americans \"hire\" people."
+  },
+  {
+    "word": "his",
+    "ipa": "/hɪz/",
+    "senses": [
+      { "pos": "determiner", "tr": "onun (erkek)", "def": "belonging to or connected with a man, boy, or male animal already mentioned", "examples": ["He lost his wallet on the subway.", "His sister is a nurse."] },
+      { "pos": "pronoun", "tr": "onunki (erkek)", "def": "something that belongs to him", "examples": ["That jacket isn't mine — it's his.", "She's a cousin of his."] }
+    ],
+    "collocations": ["his own", "a friend of his", "his and hers", "on his way"],
+    "synonyms": [],
+    "family": [{ "word": "he", "pos": "pronoun" }, { "word": "him", "pos": "pronoun" }],
+    "note": "Same form as determiner and pronoun: his car / the car is his."
+  },
+  {
+    "word": "historian",
+    "ipa": "/hɪˈstɔːriən/",
+    "senses": [
+      { "pos": "noun", "tr": "tarihçi", "def": "a person who studies or writes about history", "examples": ["Historians still disagree about the causes of the war.", "She's an art historian at a museum in Boston."] }
+    ],
+    "collocations": ["art historian", "military historian", "historians agree", "leading historian", "local historian"],
+    "synonyms": ["scholar", "chronicler"],
+    "family": [{ "word": "history", "pos": "noun" }, { "word": "historical", "pos": "adjective" }]
+  },
+  {
+    "word": "historic",
+    "ipa": "/hɪˈstɔːrɪk/",
+    "senses": [
+      { "pos": "adjective", "tr": "tarihi, tarihsel önemi olan", "def": "important in history, or likely to be remembered as important", "examples": ["The election was a historic moment for the country.", "The two leaders signed a historic peace agreement."] },
+      { "pos": "adjective", "tr": "tarihi (bina, yer)", "def": "old and of historical interest", "examples": ["We walked around the historic district of Charleston."] }
+    ],
+    "collocations": ["historic moment", "historic event", "historic site", "historic building", "historic district", "historic agreement"],
+    "synonyms": ["momentous", "landmark", "significant", "memorable"],
+    "family": [{ "word": "history", "pos": "noun" }, { "word": "historical", "pos": "adjective" }],
+    "note": "Historic = important in history; historical = connected with the past (historical records). Not interchangeable."
+  },
+  {
+    "word": "historical",
+    "ipa": "/hɪˈstɔːrɪkl/",
+    "senses": [
+      { "pos": "adjective", "tr": "tarihsel, tarihi", "def": "connected with the past or with the study of history", "examples": ["The museum has a large collection of historical documents.", "She writes historical novels set in the 1800s."] },
+      { "pos": "adjective", "tr": "gerçekte yaşamış, tarihi", "def": "that really existed or happened in the past", "examples": ["Was King Arthur a historical figure or just a legend?"] }
+    ],
+    "collocations": ["historical context", "historical records", "historical figure", "historical novel", "historical evidence"],
+    "synonyms": ["past", "old", "documented"],
+    "family": [{ "word": "historically", "pos": "adverb" }, { "word": "history", "pos": "noun" }, { "word": "historic", "pos": "adjective" }],
+    "note": "Compare: a historical novel (set in the past) vs. a historic victory (very important)."
+  },
+  {
+    "word": "history",
+    "ipa": "/ˈhɪstri/",
+    "senses": [
+      { "pos": "noun", "tr": "tarih", "def": "all the events of the past, or the study of them", "examples": ["She's studying American history in college.", "This was the worst storm in the city's history."] },
+      { "pos": "noun", "tr": "geçmiş, sicil, öykü", "def": "the past experiences or record of a person or thing", "examples": ["The patient has a history of heart problems.", "Check your browser history to find the website."] }
+    ],
+    "collocations": ["make history", "medical history", "in history", "go down in history", "family history", "the rest is history"],
+    "synonyms": ["the past", "record", "background", "chronicle"],
+    "family": [{ "word": "historian", "pos": "noun" }, { "word": "historic", "pos": "adjective" }, { "word": "historical", "pos": "adjective" }, { "word": "prehistoric", "pos": "adjective" }],
+    "note": "\"Make history\" = do something important that will be remembered. \"That's history\" = it no longer matters."
+  },
+  {
+    "word": "hit",
+    "ipa": "/hɪt/",
+    "senses": [
+      { "pos": "verb", "tr": "vurmak, çarpmak", "def": "to touch someone or something quickly and with force", "examples": ["He hit the ball over the fence.", "A truck hit our car from behind."] },
+      { "pos": "verb", "tr": "etkilemek, vurmak, sarsmak", "def": "to have a bad effect on someone or something", "examples": ["The town was badly hit by the floods.", "Rising prices have hit poor families the hardest."] },
+      { "pos": "verb", "tr": "(seviyeye) ulaşmak", "def": "to reach a particular level or point", "examples": ["Temperatures hit 100 degrees yesterday.", "Sales hit a record high in December."] },
+      { "pos": "noun", "tr": "hit, çok tutulan şey; darbe, vuruş", "def": "a very successful song, movie, or show, or an act of hitting", "examples": ["The song was a huge hit in the 1980s.", "The ship took a direct hit."] }
+    ],
+    "collocations": ["hit hard", "hit a record", "hit the road", "hit the headlines", "a big hit", "hit it off"],
+    "synonyms": ["strike", "punch", "beat", "affect", "success"],
+    "family": [{ "word": "hitter", "pos": "noun" }],
+    "note": "Irregular: hit – hit – hit. \"Hit it off\" = like each other immediately."
+  },
+  {
+    "word": "hobby",
+    "ipa": "/ˈhɑːbi/",
+    "senses": [
+      { "pos": "noun", "tr": "hobi, uğraş", "def": "an activity you do for pleasure in your free time", "examples": ["My hobbies include hiking and photography.", "He started gardening as a hobby after he retired."] }
+    ],
+    "collocations": ["as a hobby", "take up a hobby", "favorite hobby", "hobby shop"],
+    "synonyms": ["pastime", "interest", "pursuit"],
+    "family": [{ "word": "hobbyist", "pos": "noun" }]
+  },
+  {
+    "word": "hockey",
+    "ipa": "/ˈhɑːki/",
+    "senses": [
+      { "pos": "noun", "tr": "buz hokeyi; hokey", "def": "(American) a game played on ice by two teams using sticks to hit a small rubber disk into a goal", "examples": ["My son plays hockey every winter.", "Hockey is hugely popular in Canada."] }
+    ],
+    "collocations": ["play hockey", "ice hockey", "field hockey", "hockey team", "hockey stick"],
+    "synonyms": [],
+    "family": [],
+    "note": "In the US, \"hockey\" means ice hockey; the game on grass is \"field hockey\". In Britain it is the reverse."
+  },
+  {
+    "word": "hold",
+    "ipa": "/hoʊld/",
+    "senses": [
+      { "pos": "verb", "tr": "tutmak, taşımak", "def": "to have something in your hands or arms", "examples": ["She was holding a baby in her arms.", "Hold the ladder while I climb up."] },
+      { "pos": "verb", "tr": "düzenlemek, yapmak", "def": "to organize a meeting, event, or election", "examples": ["The meeting will be held on Tuesday.", "They hold a festival every summer."] },
+      { "pos": "verb", "tr": "içine almak, alabilmek; sahip olmak", "def": "to contain a particular amount, or to have a position, title, or opinion", "examples": ["The stadium can hold 50,000 people.", "She holds a degree in engineering."] },
+      { "pos": "noun", "tr": "tutma, tutuş; hakimiyet", "def": "the act of holding something, or control over something", "examples": ["Keep a tight hold on the rope.", "The company's hold on the market is weakening."] }
+    ],
+    "collocations": ["hold on", "hold a meeting", "hold hands", "hold your breath", "on hold", "get hold of"],
+    "synonyms": ["grip", "grasp", "carry", "contain", "organize"],
+    "family": [{ "word": "holder", "pos": "noun" }, { "word": "holding", "pos": "noun" }, { "word": "household", "pos": "noun" }],
+    "note": "Irregular: hold – held – held. \"Hold on\" = wait. \"Put somebody on hold\" = make them wait on the phone."
+  },
+  {
+    "word": "hole",
+    "ipa": "/hoʊl/",
+    "senses": [
+      { "pos": "noun", "tr": "delik, çukur", "def": "an empty space or opening in something solid or in a surface", "examples": ["There's a hole in my sock.", "The dog dug a hole in the backyard."] },
+      { "pos": "noun", "tr": "açık, eksiklik, boşluk", "def": "a weakness or missing part in an argument, plan, or budget", "examples": ["The lawyer found several holes in the witness's story.", "The tax cuts left a hole in the city budget."] }
+    ],
+    "collocations": ["dig a hole", "a hole in", "black hole", "pick holes in", "in a hole", "hole in one"],
+    "synonyms": ["gap", "opening", "pit", "flaw", "weakness"],
+    "family": [],
+    "note": "\"Pick holes in something\" = find faults in it. Sounds the same as \"whole\"."
+  },
+  {
+    "word": "holiday",
+    "ipa": "/ˈhɑːlədeɪ/",
+    "senses": [
+      { "pos": "noun", "tr": "bayram, resmi tatil", "def": "a day when most people do not work because of a religious or national celebration", "examples": ["Thanksgiving is a national holiday in the US.", "Stores are busy during the holidays."] },
+      { "pos": "noun", "tr": "tatil", "def": "(British) a period of time away from work or school, often traveling", "examples": ["They're on holiday in Spain for two weeks."] }
+    ],
+    "collocations": ["public holiday", "national holiday", "the holidays", "holiday season", "on holiday", "bank holiday"],
+    "synonyms": ["vacation", "break", "festival", "day off"],
+    "family": [],
+    "note": "Americans say \"vacation\" for time off traveling; \"the holidays\" usually means late December. \"On holiday\" is British."
+  },
+  {
+    "word": "hollow",
+    "ipa": "/ˈhɑːloʊ/",
+    "senses": [
+      { "pos": "adjective", "tr": "içi boş, oyuk", "def": "having an empty space inside", "examples": ["Birds were nesting in a hollow tree.", "The walls sounded hollow when I knocked on them."] },
+      { "pos": "adjective", "tr": "boş, anlamsız, içi boş (söz, zafer)", "def": "without real value, meaning, or sincerity", "examples": ["His promises turned out to be hollow.", "It was a hollow victory because so many lives were lost."] },
+      { "pos": "noun", "tr": "çukur, oyuk; vadi", "def": "a small area that is lower than the land around it", "examples": ["The village sits in a hollow between two hills."] }
+    ],
+    "collocations": ["hollow tree", "hollow victory", "hollow promises", "ring hollow", "hollow cheeks"],
+    "synonyms": ["empty", "meaningless", "insincere", "sunken"],
+    "family": [{ "word": "hollowness", "pos": "noun" }],
+    "note": "\"Ring hollow\" = sound insincere or untrue."
+  },
+  {
+    "word": "holy",
+    "ipa": "/ˈhoʊli/",
+    "senses": [
+      { "pos": "adjective", "tr": "kutsal, mukaddes", "def": "connected with God or religion, and treated with great respect", "examples": ["Jerusalem is a holy city for three major religions.", "Ramadan is the holiest month in the Islamic calendar."] },
+      { "pos": "adjective", "tr": "dindar, takva sahibi", "def": "living a good, religious life", "examples": ["He was considered a holy man by the villagers."] }
+    ],
+    "collocations": ["holy city", "holy place", "holy book", "holy war", "Holy Land", "holy day"],
+    "synonyms": ["sacred", "religious", "divine", "pious"],
+    "family": [{ "word": "holiness", "pos": "noun" }],
+    "note": "\"Holy cow!\" is an informal expression of surprise."
+  },
+  {
+    "word": "home",
+    "ipa": "/hoʊm/",
+    "senses": [
+      { "pos": "noun", "tr": "ev, yuva", "def": "the place where you live, especially with your family", "examples": ["I usually work from home on Fridays.", "Thousands of people lost their homes in the earthquake."] },
+      { "pos": "noun", "tr": "memleket, vatan; yurt, bakımevi", "def": "the town or country you come from, or a place where people who need care live", "examples": ["Italy is home to some of the world's greatest art.", "She moved her father into a nursing home."] },
+      { "pos": "adverb", "tr": "eve, evde", "def": "to or at the place where you live", "examples": ["What time did you get home last night?", "I'm staying home tonight."] },
+      { "pos": "adjective", "tr": "ev, evle ilgili; yerli, ev sahibi (takım)", "def": "connected with your house, or with your own country or team", "examples": ["Please write your home address.", "The home team won by three points."] }
+    ],
+    "collocations": ["at home", "go home", "work from home", "feel at home", "home address", "nursing home"],
+    "synonyms": ["house", "residence", "hometown", "homeland"],
+    "family": [{ "word": "homeless", "pos": "adjective" }, { "word": "homeland", "pos": "noun" }, { "word": "homemade", "pos": "adjective" }, { "word": "homesick", "pos": "adjective" }],
+    "note": "No \"to\" before home as an adverb: \"go home\", not \"go to home\". A frequent error for Turkish speakers."
+  },
+  {
+    "word": "homeland",
+    "ipa": "/ˈhoʊmlænd/",
+    "senses": [
+      { "pos": "noun", "tr": "anavatan, vatan, yurt", "def": "the country where you were born or where your people come from", "examples": ["Many refugees dream of returning to their homeland.", "After 30 years abroad, he visited his homeland again."] }
+    ],
+    "collocations": ["return to the homeland", "ancestral homeland", "homeland security", "native homeland"],
+    "synonyms": ["native country", "motherland", "home country", "fatherland"],
+    "family": [{ "word": "home", "pos": "noun" }],
+    "note": "\"Homeland security\" (US) = protecting the country from terrorism and disasters."
+  },
+  {
+    "word": "homeless",
+    "ipa": "/ˈhoʊmləs/",
+    "senses": [
+      { "pos": "adjective", "tr": "evsiz", "def": "having no home, and often living on the streets", "examples": ["The shelter provides beds for homeless families.", "He was homeless for two years before he found work."] },
+      { "pos": "noun", "tr": "evsizler", "def": "(the homeless) people who have no home", "examples": ["She volunteers at a soup kitchen for the homeless."] }
+    ],
+    "collocations": ["homeless people", "homeless shelter", "the homeless", "become homeless", "homeless families"],
+    "synonyms": ["unhoused", "on the streets"],
+    "family": [{ "word": "homelessness", "pos": "noun" }]
+  },
+  {
+    "word": "homework",
+    "ipa": "/ˈhoʊmwɜːrk/",
+    "senses": [
+      { "pos": "noun", "tr": "ödev, ev ödevi", "def": "school work that students do at home", "examples": ["I have a lot of math homework tonight.", "Did you finish your homework before dinner?"] },
+      { "pos": "noun", "tr": "hazırlık, ön çalışma", "def": "research or preparation you do before an important event", "examples": ["Do your homework before you buy a used car."] }
+    ],
+    "collocations": ["do homework", "homework assignment", "finish your homework", "hand in homework", "do your homework"],
+    "synonyms": ["assignment", "schoolwork", "preparation"],
+    "family": [],
+    "note": "Uncountable: \"a lot of homework\", not \"homeworks\". Say \"do homework\", not \"make homework\"."
+  },
+  {
+    "word": "honest",
+    "ipa": "/ˈɑːnɪst/",
+    "senses": [
+      { "pos": "adjective", "tr": "dürüst, namuslu", "def": "always telling the truth and not cheating or stealing", "examples": ["She's an honest person who would never lie to you.", "Be honest with me — do you like the dress?"] },
+      { "pos": "adjective", "tr": "açık sözlü, samimi", "def": "said or done sincerely, without hiding the truth", "examples": ["I'd like your honest opinion about my essay.", "To be honest, I don't really enjoy parties."] }
+    ],
+    "collocations": ["to be honest", "honest opinion", "honest answer", "be honest with", "honest mistake", "brutally honest"],
+    "synonyms": ["truthful", "sincere", "frank", "trustworthy"],
+    "family": [{ "word": "honesty", "pos": "noun" }, { "word": "honestly", "pos": "adverb" }, { "word": "dishonest", "pos": "adjective" }],
+    "note": "The h is silent: \"an honest man\"."
+  },
+  {
+    "word": "honesty",
+    "ipa": "/ˈɑːnəsti/",
+    "senses": [
+      { "pos": "noun", "tr": "dürüstlük", "def": "the quality of being truthful and not cheating", "examples": ["I appreciate your honesty, even if the news is bad.", "Honesty is the most important thing in a relationship."] }
+    ],
+    "collocations": ["in all honesty", "brutal honesty", "honesty and integrity", "honesty is the best policy"],
+    "synonyms": ["truthfulness", "integrity", "sincerity", "frankness"],
+    "family": [{ "word": "honest", "pos": "adjective" }, { "word": "dishonesty", "pos": "noun" }]
+  },
+  {
+    "word": "honor",
+    "ipa": "/ˈɑːnər/",
+    "senses": [
+      { "pos": "noun", "tr": "şeref, onur", "def": "great respect, or something that makes you proud", "examples": ["It's an honor to meet you, sir.", "A dinner was held in honor of the retiring teachers."] },
+      { "pos": "noun", "tr": "namus, onur, haysiyet", "def": "the quality of being honest and having strong moral principles", "examples": ["He's a man of honor who always keeps his promises."] },
+      { "pos": "verb", "tr": "onurlandırmak, şereflendirmek; ödüllendirmek", "def": "to show great respect for someone, often with a public award or ceremony", "examples": ["The scientist was honored for her work on vaccines."] },
+      { "pos": "verb", "tr": "(söz, anlaşmayı) yerine getirmek, uymak", "def": "to do what you have promised or agreed to do", "examples": ["The company refused to honor the agreement."] }
+    ],
+    "collocations": ["in honor of", "an honor to", "guest of honor", "honor a commitment", "with honors", "word of honor"],
+    "synonyms": ["respect", "privilege", "integrity", "praise", "fulfill"],
+    "family": [{ "word": "honorable", "pos": "adjective" }, { "word": "honorary", "pos": "adjective" }, { "word": "dishonor", "pos": "noun" }],
+    "note": "American spelling: honor (British: honour). The h is silent: \"an honor\"."
+  },
+  {
+    "word": "hook",
+    "ipa": "/hʊk/",
+    "senses": [
+      { "pos": "noun", "tr": "kanca, askı; olta iğnesi", "def": "a curved piece of metal or plastic used to hang things on or catch fish", "examples": ["Hang your towel on the hook behind the door.", "He put a worm on the hook and cast his line."] },
+      { "pos": "verb", "tr": "takmak, asmak, kancalamak", "def": "to fasten or hang something using a hook", "examples": ["Hook the trailer to the back of the truck."] },
+      { "pos": "verb", "tr": "bağlamak; bağımlı yapmak (be hooked)", "def": "(hook up/be hooked) to connect a device, or to make someone very interested or addicted", "examples": ["Can you hook up the printer to my laptop?", "I watched one episode and now I'm hooked."] }
+    ],
+    "collocations": ["off the hook", "hook up", "be hooked on", "by hook or by crook", "coat hook", "let somebody off the hook"],
+    "synonyms": ["peg", "hanger", "fasten", "attach"],
+    "family": [{ "word": "hooked", "pos": "adjective" }],
+    "note": "\"Off the hook\" = free from blame or a difficult situation. \"Hooked on\" = addicted to."
+  },
+  {
+    "word": "hope",
+    "ipa": "/hoʊp/",
+    "senses": [
+      { "pos": "verb", "tr": "ummak, umut etmek", "def": "to want something to happen and think it is possible", "examples": ["I hope you feel better soon.", "We're hoping to buy a house next year."] },
+      { "pos": "noun", "tr": "umut, ümit", "def": "the feeling that something good might happen", "examples": ["Doctors say there is still hope for a full recovery.", "Never give up hope."] },
+      { "pos": "noun", "tr": "umut kaynağı, umut", "def": "a person or thing that may help you get what you want", "examples": ["He's our last hope of winning the game."] }
+    ],
+    "collocations": ["I hope so", "hope for the best", "give up hope", "in the hope that", "high hopes", "false hope"],
+    "synonyms": ["wish", "expect", "optimism", "expectation"],
+    "family": [{ "word": "hopeful", "pos": "adjective" }, { "word": "hopefully", "pos": "adverb" }, { "word": "hopeless", "pos": "adjective" }],
+    "note": "\"I hope so\" / \"I hope not\" are short answers. Use \"hope\" for possible things and \"wish\" for unlikely things."
+  },
+  {
+    "word": "hopeful",
+    "ipa": "/ˈhoʊpfl/",
+    "senses": [
+      { "pos": "adjective", "tr": "umutlu, iyimser", "def": "believing that something good will happen", "examples": ["Doctors are hopeful that she will make a full recovery.", "I'm hopeful we can reach an agreement by Friday."] },
+      { "pos": "adjective", "tr": "umut verici", "def": "making you believe something good will happen", "examples": ["There are hopeful signs that the economy is recovering."] },
+      { "pos": "noun", "tr": "aday, umutlu kişi", "def": "a person who hopes to succeed at something", "examples": ["Dozens of presidential hopefuls attended the debate."] }
+    ],
+    "collocations": ["hopeful that", "remain hopeful", "hopeful sign", "presidential hopeful", "cautiously hopeful"],
+    "synonyms": ["optimistic", "positive", "encouraging", "promising", "candidate"],
+    "family": [{ "word": "hope", "pos": "noun" }, { "word": "hopefully", "pos": "adverb" }]
+  },
+  {
+    "word": "hopefully",
+    "ipa": "/ˈhoʊpfəli/",
+    "senses": [
+      { "pos": "adverb", "tr": "umarım, inşallah", "def": "used to say what you hope will happen", "examples": ["Hopefully, the rain will stop before the game.", "The package should arrive tomorrow, hopefully."] },
+      { "pos": "adverb", "tr": "umutla, umut içinde", "def": "in a way that shows hope", "examples": ["The dog looked hopefully at the food on the table."] }
+    ],
+    "collocations": ["hopefully soon", "hopefully not", "hopefully by"],
+    "synonyms": ["with luck", "I hope", "fingers crossed"],
+    "family": [{ "word": "hope", "pos": "verb" }, { "word": "hopeful", "pos": "adjective" }],
+    "note": "\"Hopefully\" = Turkish \"umarım/inşallah\" at the start of a sentence; very common in speech."
+  },
+  {
+    "word": "horizon",
+    "ipa": "/həˈraɪzn/",
+    "senses": [
+      { "pos": "noun", "tr": "ufuk", "def": "the line far away where the sky seems to meet the land or sea", "examples": ["We watched the sun sink below the horizon.", "A ship appeared on the horizon."] },
+      { "pos": "noun", "tr": "ufuk, bakış açısı (horizons)", "def": "(horizons) the limit of your knowledge, experience, or interests", "examples": ["Traveling abroad really broadened my horizons."] }
+    ],
+    "collocations": ["on the horizon", "broaden your horizons", "expand your horizons", "above the horizon", "new horizons"],
+    "synonyms": ["skyline", "outlook", "scope", "range"],
+    "family": [{ "word": "horizontal", "pos": "adjective" }],
+    "note": "\"On the horizon\" = likely to happen soon: More changes are on the horizon."
+  },
+  {
+    "word": "horn",
+    "ipa": "/hɔːrn/",
+    "senses": [
+      { "pos": "noun", "tr": "boynuz", "def": "a hard, pointed part that grows on the head of some animals", "examples": ["The bull had long, sharp horns."] },
+      { "pos": "noun", "tr": "korna, klakson", "def": "a device in a vehicle that makes a loud warning sound", "examples": ["The driver behind me kept honking his horn.", "Don't blow your horn in a hospital zone."] },
+      { "pos": "noun", "tr": "boru, korno (müzik)", "def": "a brass musical instrument that you blow into", "examples": ["She plays the French horn in the school orchestra."] }
+    ],
+    "collocations": ["honk the horn", "blow your horn", "car horn", "French horn", "take the bull by the horns", "lock horns"],
+    "synonyms": ["antler", "hooter"],
+    "family": [{ "word": "horned", "pos": "adjective" }],
+    "note": "\"Take the bull by the horns\" = deal with a problem directly. \"Lock horns\" = argue or fight."
+  },
+  {
+    "word": "horrible",
+    "ipa": "/ˈhɔːrəbl/",
+    "senses": [
+      { "pos": "adjective", "tr": "korkunç, berbat, iğrenç", "def": "very bad or unpleasant", "examples": ["The food at that restaurant was horrible.", "I had a horrible dream last night."] },
+      { "pos": "adjective", "tr": "kaba, kötü, acımasız", "def": "unkind or mean to people", "examples": ["Why are you being so horrible to your brother?"] }
+    ],
+    "collocations": ["horrible feeling", "horrible weather", "horrible accident", "feel horrible", "absolutely horrible"],
+    "synonyms": ["terrible", "awful", "dreadful", "nasty", "unpleasant"],
+    "family": [{ "word": "horror", "pos": "noun" }, { "word": "horribly", "pos": "adverb" }]
+  },
+  {
+    "word": "horror",
+    "ipa": "/ˈhɔːrər/",
+    "senses": [
+      { "pos": "noun", "tr": "dehşet, korku", "def": "a feeling of great shock and fear", "examples": ["She watched in horror as the car crashed into the wall.", "To my horror, I'd left my passport at home."] },
+      { "pos": "noun", "tr": "korkunçluk, dehşet verici şey", "def": "the very unpleasant or terrible nature of something", "examples": ["The book describes the horrors of war."] },
+      { "pos": "noun", "tr": "korku (türü)", "def": "a type of movie or book designed to frighten people", "examples": ["I love watching horror movies on Halloween."] }
+    ],
+    "collocations": ["in horror", "to my horror", "horror movie", "horror story", "the horrors of war"],
+    "synonyms": ["terror", "fear", "dread", "shock"],
+    "family": [{ "word": "horrible", "pos": "adjective" }, { "word": "horrific", "pos": "adjective" }, { "word": "horrify", "pos": "verb" }, { "word": "horrified", "pos": "adjective" }],
+    "note": "\"Horror story\" can also mean a real bad experience: job-interview horror stories."
+  },
+  {
+    "word": "horse",
+    "ipa": "/hɔːrs/",
+    "senses": [
+      { "pos": "noun", "tr": "at", "def": "a large animal with four legs, a mane, and a tail, used for riding and pulling things", "examples": ["She learned to ride a horse when she was ten.", "The cart was pulled by two horses."] }
+    ],
+    "collocations": ["ride a horse", "horse racing", "on horseback", "dark horse", "straight from the horse's mouth", "hold your horses"],
+    "synonyms": ["pony", "stallion", "mare"],
+    "family": [{ "word": "horseback", "pos": "noun" }, { "word": "horsepower", "pos": "noun" }],
+    "note": "\"Straight from the horse's mouth\" = directly from the person involved. \"Hold your horses\" = wait, slow down."
+  },
+  {
+    "word": "hospital",
+    "ipa": "/ˈhɑːspɪtl/",
+    "senses": [
+      { "pos": "noun", "tr": "hastane", "def": "a large building where sick or injured people receive medical treatment", "examples": ["He was taken to the hospital after the accident.", "She spent three days in the hospital."] }
+    ],
+    "collocations": ["in the hospital", "go to the hospital", "admitted to the hospital", "hospital bed", "children's hospital", "discharged from the hospital"],
+    "synonyms": ["medical center", "clinic", "infirmary"],
+    "family": [{ "word": "hospitalize", "pos": "verb" }, { "word": "hospitalization", "pos": "noun" }],
+    "note": "American English: \"in the hospital\"; British English: \"in hospital\" (no article)."
+  },
+  {
+    "word": "host",
+    "ipa": "/hoʊst/",
+    "senses": [
+      { "pos": "noun", "tr": "ev sahibi, davet sahibi", "def": "a person who invites guests and takes care of them", "examples": ["Our host welcomed us with drinks and snacks.", "She's a wonderful host — her parties are always fun."] },
+      { "pos": "noun", "tr": "sunucu", "def": "a person who presents a TV or radio show", "examples": ["The talk show host interviewed three guests."] },
+      { "pos": "verb", "tr": "ev sahipliği yapmak, düzenlemek; sunmak", "def": "to organize an event and invite people, or to present a show", "examples": ["Paris hosted the Olympic Games in 2024.", "We're hosting a dinner party on Saturday."] },
+      { "pos": "noun", "tr": "çok sayıda, bir sürü", "def": "(a host of) a large number of things or people", "examples": ["The new phone has a host of useful features."] }
+    ],
+    "collocations": ["host a party", "host country", "talk show host", "a host of", "host city", "play host to"],
+    "synonyms": ["presenter", "organizer", "entertain", "hold", "a lot of"],
+    "family": [{ "word": "hostess", "pos": "noun" }, { "word": "hostel", "pos": "noun" }],
+    "note": "\"A host of problems/reasons\" = many of them."
+  },
+  {
+    "word": "hostage",
+    "ipa": "/ˈhɑːstɪdʒ/",
+    "senses": [
+      { "pos": "noun", "tr": "rehine", "def": "a person who is taken prisoner and may be hurt unless others do what the captors demand", "examples": ["The gunmen took twelve people hostage inside the bank.", "All the hostages were released unharmed."] }
+    ],
+    "collocations": ["take somebody hostage", "hold somebody hostage", "release hostages", "hostage crisis", "hostage situation"],
+    "synonyms": ["captive", "prisoner"],
+    "family": [],
+    "note": "Also figurative: \"The budget is being held hostage by politics.\""
+  },
+  {
+    "word": "hostile",
+    "ipa": "/ˈhɑːstl/",
+    "senses": [
+      { "pos": "adjective", "tr": "düşmanca, saldırgan, husumetli", "def": "unfriendly and aggressive, and ready to argue or fight", "examples": ["The crowd became hostile when the police arrived.", "He gave me a hostile look."] },
+      { "pos": "adjective", "tr": "karşı, muhalif", "def": "strongly opposed to something", "examples": ["Local residents are hostile to the new airport plan."] },
+      { "pos": "adjective", "tr": "elverişsiz, zorlu", "def": "difficult to live in or succeed in", "examples": ["Few animals can survive in such a hostile environment."] }
+    ],
+    "collocations": ["hostile to", "hostile environment", "hostile takeover", "hostile reaction", "openly hostile"],
+    "synonyms": ["unfriendly", "aggressive", "antagonistic", "opposed", "harsh"],
+    "family": [{ "word": "hostility", "pos": "noun" }],
+    "note": "American pronunciation /ˈhɑːstl/; British /ˈhɒstaɪl/. \"Hostile takeover\" = one company buying another against its wishes."
+  },
+  {
+    "word": "hostility",
+    "ipa": "/hɑːˈstɪləti/",
+    "senses": [
+      { "pos": "noun", "tr": "düşmanlık, husumet", "def": "unfriendly or aggressive feelings or behavior", "examples": ["There is a lot of hostility between the two neighbors.", "The proposal was met with hostility from workers."] },
+      { "pos": "noun", "tr": "çatışma, savaş (hostilities)", "def": "(hostilities, formal) acts of fighting in a war", "examples": ["Both sides agreed to end hostilities."] }
+    ],
+    "collocations": ["open hostility", "hostility toward", "end hostilities", "growing hostility", "hostility between"],
+    "synonyms": ["animosity", "antagonism", "hatred", "aggression", "fighting"],
+    "family": [{ "word": "hostile", "pos": "adjective" }]
+  },
+  {
+    "word": "hot",
+    "ipa": "/hɑːt/",
+    "senses": [
+      { "pos": "adjective", "tr": "sıcak", "def": "having a high temperature", "examples": ["It's too hot to go running today.", "Be careful, the soup is very hot."] },
+      { "pos": "adjective", "tr": "acı, baharatlı", "def": "having a strong, burning taste", "examples": ["I like my curry really hot."] },
+      { "pos": "adjective", "tr": "popüler, gözde; tartışmalı, güncel", "def": "(informal) popular or fashionable, or causing a lot of discussion", "examples": ["Climate change is a hot topic this election year.", "That restaurant is the hottest place in town right now."] }
+    ],
+    "collocations": ["hot weather", "hot water", "hot topic", "hot spot", "boiling hot", "in hot water"],
+    "synonyms": ["warm", "boiling", "spicy", "popular", "trendy"],
+    "family": [{ "word": "heat", "pos": "noun" }, { "word": "hotly", "pos": "adverb" }],
+    "note": "\"In hot water\" = in trouble. For spicy food, \"hot\" is common; Turkish \"acı\" is not \"bitter\"."
+  },
+  {
+    "word": "hotel",
+    "ipa": "/hoʊˈtel/",
+    "senses": [
+      { "pos": "noun", "tr": "otel", "def": "a building where people pay to stay for a short time", "examples": ["We stayed at a small hotel near the beach.", "The hotel has a pool and a gym."] }
+    ],
+    "collocations": ["stay at a hotel", "book a hotel", "hotel room", "five-star hotel", "check into a hotel"],
+    "synonyms": ["inn", "motel", "lodge"],
+    "family": [{ "word": "hotelier", "pos": "noun" }],
+    "note": "Stress is on the second syllable: ho-TEL."
+  },
+  {
+    "word": "hour",
+    "ipa": "/ˈaʊər/",
+    "senses": [
+      { "pos": "noun", "tr": "saat", "def": "a period of 60 minutes", "examples": ["The flight takes about three hours.", "I'll be back in an hour."] },
+      { "pos": "noun", "tr": "çalışma saatleri, mesai", "def": "(hours) the time when a business is open or when people work", "examples": ["Our office hours are 9 to 5.", "Nurses often work long hours."] }
+    ],
+    "collocations": ["an hour ago", "per hour", "rush hour", "working hours", "for hours", "after hours"],
+    "synonyms": ["sixty minutes"],
+    "family": [{ "word": "hourly", "pos": "adjective" }],
+    "note": "The h is silent: \"an hour\". For clock time, say \"What time is it?\", not \"What hour is it?\"."
+  },
+  {
+    "word": "house",
+    "ipa": "/haʊs/",
+    "senses": [
+      { "pos": "noun", "tr": "ev", "def": "a building where people live, usually one family", "examples": ["They bought a house with a big backyard.", "Let's meet at my house after school."] },
+      { "pos": "noun", "tr": "meclis; kurum, firma", "def": "a group that makes laws, or a company or building used for a particular purpose", "examples": ["The bill was passed by the House of Representatives.", "She works for a publishing house in New York."] },
+      { "pos": "verb", "tr": "barındırmak, yerleştirmek; içinde bulundurmak", "def": "to provide a place for people to live, or to contain something", "examples": ["The new building will house 200 students.", "The museum houses a famous collection of paintings."] }
+    ],
+    "collocations": ["at my house", "buy a house", "move house", "the White House", "on the house", "full house"],
+    "synonyms": ["home", "residence", "accommodate", "contain"],
+    "family": [{ "word": "housing", "pos": "noun" }, { "word": "household", "pos": "noun" }, { "word": "housework", "pos": "noun" }],
+    "note": "Noun /haʊs/, verb /haʊz/. \"On the house\" = free, paid for by the restaurant or bar."
+  },
+  {
+    "word": "household",
+    "ipa": "/ˈhaʊshoʊld/",
+    "senses": [
+      { "pos": "noun", "tr": "hane, ev halkı", "def": "all the people who live together in one house", "examples": ["The average household spends $500 a month on food.", "She grew up in a household with five children."] },
+      { "pos": "adjective", "tr": "ev, evle ilgili; herkesin bildiği", "def": "connected with a home, or very well known", "examples": ["Keep household chemicals away from children.", "The brand became a household name in the 1990s."] }
+    ],
+    "collocations": ["household income", "household chores", "household name", "head of household", "household goods"],
+    "synonyms": ["family", "home", "domestic"],
+    "family": [{ "word": "householder", "pos": "noun" }],
+    "note": "\"A household name\" = a person or brand that everyone knows."
+  },
+  {
+    "word": "housing",
+    "ipa": "/ˈhaʊzɪŋ/",
+    "senses": [
+      { "pos": "noun", "tr": "konut, mesken", "def": "houses and apartments, especially their type, price, or condition", "examples": ["There's a shortage of affordable housing in the city.", "The government promised to build more public housing."] },
+      { "pos": "noun", "tr": "muhafaza, kasa", "def": "a hard cover that protects part of a machine", "examples": ["The engine is inside a metal housing."] }
+    ],
+    "collocations": ["affordable housing", "public housing", "housing market", "housing crisis", "student housing"],
+    "synonyms": ["homes", "accommodation", "residences", "casing"],
+    "family": [{ "word": "house", "pos": "verb" }],
+    "note": "Uncountable."
+  },
+  {
+    "word": "how",
+    "ipa": "/haʊ/",
+    "senses": [
+      { "pos": "adverb", "tr": "nasıl", "def": "in what way or by what method", "examples": ["How do you make this sauce?", "Can you show me how to use the printer?"] },
+      { "pos": "adverb", "tr": "nasıl (durum)", "def": "used to ask about someone's health or the condition of something", "examples": ["How are you today?", "How was your trip to Denver?"] },
+      { "pos": "adverb", "tr": "ne kadar", "def": "used to ask about amount, age, size, or degree", "examples": ["How much does this jacket cost?", "How old is your daughter?"] }
+    ],
+    "collocations": ["how much", "how many", "how long", "how about", "how come", "know how to"],
+    "synonyms": ["in what way", "by what means"],
+    "family": [{ "word": "however", "pos": "adverb" }],
+    "note": "\"How come?\" (informal) = why? \"How about…?\" makes a suggestion: How about pizza?"
+  },
+  {
+    "word": "however",
+    "ipa": "/haʊˈevər/",
+    "senses": [
+      { "pos": "adverb", "tr": "ancak, fakat, bununla birlikte", "def": "used to introduce a statement that contrasts with what was said before", "examples": ["The plan sounds good. However, it will be very expensive.", "Most people liked the movie; some critics, however, hated it."] },
+      { "pos": "adverb", "tr": "ne kadar ... olursa olsun; nasıl ... olursa", "def": "to whatever degree, or in whatever way", "examples": ["However hard I try, I can't remember his name.", "You can decorate the room however you like."] }
+    ],
+    "collocations": ["however, …", "however much", "however hard", "however you like"],
+    "synonyms": ["but", "nevertheless", "yet", "though", "nonetheless"],
+    "family": [{ "word": "how", "pos": "adverb" }],
+    "note": "Use a period or semicolon before \"however\" between two clauses, not just a comma. More formal than \"but\"."
+  },
+  {
+    "word": "huge",
+    "ipa": "/hjuːdʒ/",
+    "senses": [
+      { "pos": "adjective", "tr": "devasa, kocaman, çok büyük", "def": "extremely large in size, amount, or degree", "examples": ["They live in a huge house with eight bedrooms.", "The concert was a huge success."] }
+    ],
+    "collocations": ["huge amount", "huge success", "huge difference", "huge fan", "huge problem"],
+    "synonyms": ["enormous", "massive", "vast", "immense", "gigantic"],
+    "family": [{ "word": "hugely", "pos": "adverb" }],
+    "note": "\"A huge fan of\" = someone who likes something very much."
+  },
+  {
+    "word": "human",
+    "ipa": "/ˈhjuːmən/",
+    "senses": [
+      { "pos": "adjective", "tr": "insani, insan(a ait)", "def": "relating to people rather than animals, machines, or gods", "examples": ["The accident was caused by human error.", "Human rights must be protected."] },
+      { "pos": "adjective", "tr": "insanca, insani (zayıflıklarıyla)", "def": "showing the normal feelings and weaknesses of people", "examples": ["Don't worry about the mistake — it's only human."] },
+      { "pos": "noun", "tr": "insan", "def": "a person, rather than an animal or machine", "examples": ["Dogs can hear sounds that humans cannot."] }
+    ],
+    "collocations": ["human being", "human rights", "human error", "human nature", "human race", "only human"],
+    "synonyms": ["person", "individual", "mortal", "humane"],
+    "family": [{ "word": "humanity", "pos": "noun" }, { "word": "humane", "pos": "adjective" }, { "word": "inhuman", "pos": "adjective" }, { "word": "humanitarian", "pos": "adjective" }],
+    "note": "Human = of people; humane = kind, not causing suffering."
+  },
+  {
+    "word": "humanitarian",
+    "ipa": "/hjuːˌmænɪˈteriən/",
+    "senses": [
+      { "pos": "adjective", "tr": "insani", "def": "connected with helping people who are suffering and improving their living conditions", "examples": ["The UN sent humanitarian aid to the earthquake zone.", "Aid groups warn of a growing humanitarian crisis."] },
+      { "pos": "noun", "tr": "insansever, hayırsever", "def": "a person who works to improve people's lives", "examples": ["She was a well-known humanitarian who built schools in rural areas."] }
+    ],
+    "collocations": ["humanitarian aid", "humanitarian crisis", "humanitarian assistance", "humanitarian organization", "humanitarian grounds"],
+    "synonyms": ["charitable", "philanthropic", "compassionate"],
+    "family": [{ "word": "humanitarianism", "pos": "noun" }, { "word": "human", "pos": "adjective" }],
+    "note": "\"On humanitarian grounds\" = for reasons of kindness and human welfare."
+  },
+  {
+    "word": "humanity",
+    "ipa": "/hjuːˈmænəti/",
+    "senses": [
+      { "pos": "noun", "tr": "insanlık", "def": "all people in the world together", "examples": ["Climate change is one of the greatest threats facing humanity.", "The attack was described as a crime against humanity."] },
+      { "pos": "noun", "tr": "insanlık, insaniyet, merhamet", "def": "kindness and understanding toward others", "examples": ["The nurses treated the prisoners with humanity."] },
+      { "pos": "noun", "tr": "beşeri bilimler (the humanities)", "def": "(the humanities) subjects such as literature, history, and philosophy", "examples": ["She has a degree in the humanities."] }
+    ],
+    "collocations": ["crimes against humanity", "all humanity", "common humanity", "the humanities", "sense of humanity"],
+    "synonyms": ["mankind", "humankind", "compassion", "kindness"],
+    "family": [{ "word": "human", "pos": "noun" }, { "word": "humane", "pos": "adjective" }, { "word": "inhumanity", "pos": "noun" }]
+  },
+  {
+    "word": "humble",
+    "ipa": "/ˈhʌmbl/",
+    "senses": [
+      { "pos": "adjective", "tr": "alçakgönüllü, mütevazı", "def": "not thinking you are better or more important than others", "examples": ["Despite his fame, he remained humble and kind.", "In my humble opinion, the first version was better."] },
+      { "pos": "adjective", "tr": "mütevazı, sade, alt sınıftan", "def": "low in social rank or simple and not expensive", "examples": ["She rose from humble beginnings to run a large company."] },
+      { "pos": "verb", "tr": "alçakgönüllü kılmak; (gururunu) kırmak", "def": "to make someone feel less important or proud", "examples": ["The champions were humbled by a team of amateurs."] }
+    ],
+    "collocations": ["humble beginnings", "humble origins", "in my humble opinion", "stay humble", "humbling experience"],
+    "synonyms": ["modest", "unassuming", "simple", "lowly"],
+    "family": [{ "word": "humility", "pos": "noun" }, { "word": "humbling", "pos": "adjective" }, { "word": "humbly", "pos": "adverb" }]
+  },
+  {
+    "word": "humor",
+    "ipa": "/ˈhjuːmər/",
+    "senses": [
+      { "pos": "noun", "tr": "mizah, espri", "def": "the quality of being funny, or the ability to laugh at things", "examples": ["She has a great sense of humor.", "The speech was full of humor."] },
+      { "pos": "noun", "tr": "ruh hali, keyif", "def": "(formal) the mood someone is in", "examples": ["He was in a good humor all morning."] },
+      { "pos": "verb", "tr": "gönlünü hoş etmek, suyuna gitmek", "def": "to do what someone wants to keep them happy, even if it seems silly", "examples": ["I didn't believe him, but I humored him and agreed."] }
+    ],
+    "collocations": ["sense of humor", "dry humor", "black humor", "good humor", "a touch of humor"],
+    "synonyms": ["comedy", "wit", "fun", "mood"],
+    "family": [{ "word": "humorous", "pos": "adjective" }, { "word": "humorless", "pos": "adjective" }, { "word": "humorist", "pos": "noun" }],
+    "note": "American spelling: humor (British: humour). Note: humorous has no u in either spelling."
+  },
+  {
+    "word": "humorous",
+    "ipa": "/ˈhjuːmərəs/",
+    "senses": [
+      { "pos": "adjective", "tr": "komik, mizahi, esprili", "def": "funny or showing a sense of humor", "examples": ["He gave a humorous speech at the wedding.", "The book takes a humorous look at office life."] }
+    ],
+    "collocations": ["humorous story", "humorous speech", "humorous look at", "mildly humorous"],
+    "synonyms": ["funny", "amusing", "witty", "comical"],
+    "family": [{ "word": "humor", "pos": "noun" }, { "word": "humorously", "pos": "adverb" }],
+    "note": "More formal than \"funny\"."
+  }
+]

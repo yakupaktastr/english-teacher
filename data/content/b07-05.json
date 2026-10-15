@@ -1,0 +1,1209 @@
+[
+  {
+    "word": "passion",
+    "ipa": "/ˈpæʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tutku, büyük ilgi",
+        "def": "a very strong interest in or enthusiasm for something",
+        "examples": ["Cooking has always been her passion.", "He spoke with real passion about protecting the environment."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ihtiras, aşk, şiddetli duygu",
+        "def": "a very strong feeling, especially of love or anger",
+        "examples": ["Their love affair was full of passion.", "The debate stirred up strong passions on both sides."]
+      }
+    ],
+    "collocations": ["a passion for", "share a passion", "with passion", "follow your passion", "a great passion"],
+    "synonyms": ["enthusiasm", "love", "devotion", "fervor", "desire"],
+    "family": [
+      { "word": "passionate", "pos": "adjective" },
+      { "word": "passionately", "pos": "adverb" }
+    ],
+    "note": "Pattern: a passion FOR something."
+  },
+  {
+    "word": "passionate",
+    "ipa": "/ˈpæʃənət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tutkulu, hevesli",
+        "def": "having or showing very strong feelings or beliefs about something",
+        "examples": ["She is passionate about animal rights.", "He gave a passionate speech in defense of free speech."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ateşli, tutkulu (aşk)",
+        "def": "showing strong romantic or sexual love",
+        "examples": ["They shared a passionate kiss at the airport."]
+      }
+    ],
+    "collocations": ["passionate about", "a passionate speech", "a passionate believer", "deeply passionate", "passionate debate"],
+    "synonyms": ["enthusiastic", "intense", "fervent", "ardent"],
+    "family": [
+      { "word": "passion", "pos": "noun" },
+      { "word": "passionately", "pos": "adverb" }
+    ],
+    "note": "Pattern: passionate ABOUT something."
+  },
+  {
+    "word": "passive",
+    "ipa": "/ˈpæsɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "pasif, edilgen, tepkisiz",
+        "def": "accepting what happens without trying to change it or react",
+        "examples": ["Students shouldn't be passive listeners; they should ask questions.", "Watching TV is a fairly passive activity."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(dilbilgisi) edilgen",
+        "def": "(grammar) in which the subject receives the action of the verb",
+        "examples": ["\"The window was broken\" is a passive sentence."]
+      },
+      {
+        "pos": "noun",
+        "tr": "edilgen çatı",
+        "def": "the passive form of a verb",
+        "examples": ["Try rewriting the sentence in the passive."]
+      }
+    ],
+    "collocations": ["passive role", "passive smoking", "passive income", "passive voice", "remain passive"],
+    "synonyms": ["inactive", "submissive", "unresponsive"],
+    "family": [
+      { "word": "passively", "pos": "adverb" },
+      { "word": "passivity", "pos": "noun" }
+    ],
+    "note": "Opposite: active. \"Passive-aggressive\" = showing anger indirectly."
+  },
+  {
+    "word": "passport",
+    "ipa": "/ˈpæspɔːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pasaport",
+        "def": "an official document that shows your nationality and that you need to travel abroad",
+        "examples": ["Don't forget your passport when you go to the airport.", "My passport expires next year, so I need to renew it."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bir şeye) anahtar, giriş kapısı",
+        "def": "something that makes it possible to achieve something",
+        "examples": ["Many people see education as a passport to a better life."]
+      }
+    ],
+    "collocations": ["passport control", "renew a passport", "valid passport", "passport photo", "a passport to success"],
+    "synonyms": ["travel document", "key", "ticket"],
+    "family": []
+  },
+  {
+    "word": "password",
+    "ipa": "/ˈpæswɜːrd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şifre, parola",
+        "def": "a secret set of letters or numbers you type to use a computer system or account",
+        "examples": ["I forgot my password and had to reset it.", "Use a strong password with numbers and symbols."]
+      }
+    ],
+    "collocations": ["enter a password", "reset a password", "strong password", "change your password", "password-protected"],
+    "synonyms": ["passcode", "PIN", "code"],
+    "family": []
+  },
+  {
+    "word": "past",
+    "ipa": "/pæst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "geçmiş, mazi",
+        "def": "the time before now, or a person's earlier life",
+        "examples": ["In the past, people wrote letters instead of emails.", "She doesn't like talking about her past."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "geçen, son, geçmiş",
+        "def": "gone by in time, or recent",
+        "examples": ["Prices have doubled over the past ten years."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "(saat) geçe; -i geçince, ötesinde",
+        "def": "later than a time, or on the far side of something",
+        "examples": ["It's ten past six.", "The bank is just past the traffic lights."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yanından geçerek",
+        "def": "from one side of something to the other",
+        "examples": ["A bus drove past without stopping."]
+      }
+    ],
+    "collocations": ["in the past", "the past few years", "a thing of the past", "half past", "walk past", "past tense"],
+    "synonyms": ["history", "former", "previous", "beyond", "by"],
+    "family": [],
+    "note": "Don't confuse past (noun/preposition) with passed (verb): \"We passed the school\" vs \"We walked past the school\"."
+  },
+  {
+    "word": "pastor",
+    "ipa": "/ˈpæstər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "papaz, rahip (Protestan)",
+        "def": "a minister in charge of a Christian church, especially a Protestant one",
+        "examples": ["The pastor gave a moving sermon on Sunday morning.", "She asked the pastor to perform the wedding ceremony."]
+      }
+    ],
+    "collocations": ["senior pastor", "church pastor", "the local pastor", "youth pastor"],
+    "synonyms": ["minister", "priest", "clergyman", "preacher"],
+    "family": [{ "word": "pastoral", "pos": "adjective" }]
+  },
+  {
+    "word": "patch",
+    "ipa": "/pætʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "leke, alan, kısım",
+        "def": "a small area of something that is different from what is around it",
+        "examples": ["Drive carefully; there are icy patches on the road.", "The dog has a white patch over one eye."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yama",
+        "def": "a piece of material used to cover a hole or protect something",
+        "examples": ["He sewed a patch on the knee of his jeans.", "The company released a security patch for the software."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(zor) dönem",
+        "def": "a period of time, especially a difficult one",
+        "examples": ["Their marriage went through a rough patch last year."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yamamak, onarmak",
+        "def": "to cover a hole or repair something with a piece of material",
+        "examples": ["We patched the hole in the roof before the rain came."]
+      }
+    ],
+    "collocations": ["a rough patch", "a bald patch", "eye patch", "security patch", "patch things up", "vegetable patch"],
+    "synonyms": ["area", "spot", "piece", "period", "mend"],
+    "family": [
+      { "word": "patchy", "pos": "adjective" },
+      { "word": "patchwork", "pos": "noun" }
+    ],
+    "note": "\"Patch things up\" = become friends again after an argument."
+  },
+  {
+    "word": "patent",
+    "ipa": "/ˈpætnt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "patent",
+        "def": "an official right to be the only person or company to make or sell an invention",
+        "examples": ["The company holds a patent on the new battery design.", "She applied for a patent for her invention."]
+      },
+      {
+        "pos": "verb",
+        "tr": "patentini almak",
+        "def": "to get a patent for an invention",
+        "examples": ["He patented a new type of solar panel."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "apaçık, bariz",
+        "def": "(formal) obvious, used about something bad",
+        "examples": ["That was a patent lie, and everyone knew it."]
+      }
+    ],
+    "collocations": ["apply for a patent", "hold a patent", "patent on something", "patent law", "file a patent", "patent infringement"],
+    "synonyms": ["license", "copyright", "obvious", "blatant"],
+    "family": [
+      { "word": "patented", "pos": "adjective" },
+      { "word": "patently", "pos": "adverb" }
+    ],
+    "note": "\"Patently\" = clearly, obviously (\"patently false\")."
+  },
+  {
+    "word": "path",
+    "ipa": "/pæθ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "patika, yol, keçi yolu",
+        "def": "a narrow way for walking, made by people walking or built on purpose",
+        "examples": ["We followed a path through the woods to the lake.", "The garden path was covered in leaves."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yol, rota, gidişat",
+        "def": "the direction something moves in, or a way of doing something or reaching a goal",
+        "examples": ["The storm destroyed everything in its path.", "Medicine was not the right career path for him."]
+      }
+    ],
+    "collocations": ["career path", "follow a path", "in the path of", "cross paths", "a path to", "bike path"],
+    "synonyms": ["trail", "track", "route", "course", "way"],
+    "family": [{ "word": "pathway", "pos": "noun" }],
+    "note": "\"Our paths crossed\" = we met by chance."
+  },
+  {
+    "word": "pathway",
+    "ipa": "/ˈpæθweɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "patika, yürüyüş yolu",
+        "def": "a path or track for walking",
+        "examples": ["A stone pathway leads to the front door."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yol, süreç, güzergâh",
+        "def": "a way of reaching a goal, or a route along which something moves, for example in the body",
+        "examples": ["The program offers a pathway to citizenship for young immigrants.", "Scientists studied the nerve pathways involved in pain."]
+      }
+    ],
+    "collocations": ["a pathway to", "career pathway", "neural pathways", "stone pathway"],
+    "synonyms": ["path", "route", "track", "channel"],
+    "family": [{ "word": "path", "pos": "noun" }]
+  },
+  {
+    "word": "patience",
+    "ipa": "/ˈpeɪʃns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sabır",
+        "def": "the ability to stay calm when waiting or dealing with problems or annoying people",
+        "examples": ["Teaching small children takes a lot of patience.", "I'm starting to lose patience with this slow internet."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(İngiliz) tek kişilik kâğıt oyunu",
+        "def": "(British) a card game for one player",
+        "examples": ["My grandmother played patience every evening."]
+      }
+    ],
+    "collocations": ["lose patience", "run out of patience", "have the patience to", "thank you for your patience", "patience is a virtue"],
+    "synonyms": ["tolerance", "calmness", "endurance", "perseverance"],
+    "family": [
+      { "word": "patient", "pos": "adjective" },
+      { "word": "impatience", "pos": "noun" }
+    ],
+    "note": "The card game is called solitaire in American English. Patience sounds like patients (plural of patient)."
+  },
+  {
+    "word": "patient",
+    "ipa": "/ˈpeɪʃnt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hasta",
+        "def": "a person receiving medical treatment, especially in a hospital",
+        "examples": ["The doctor sees about thirty patients a day.", "Patients must wait in the lobby until their name is called."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sabırlı",
+        "def": "able to wait or deal with problems calmly, without getting annoyed",
+        "examples": ["Please be patient; your order will be ready soon.", "She's very patient with her younger brother."]
+      }
+    ],
+    "collocations": ["be patient with", "cancer patient", "hospital patients", "patient care", "infinitely patient"],
+    "synonyms": ["calm", "tolerant", "understanding", "invalid", "case"],
+    "family": [
+      { "word": "patience", "pos": "noun" },
+      { "word": "patiently", "pos": "adverb" },
+      { "word": "impatient", "pos": "adjective" },
+      { "word": "outpatient", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "patrol",
+    "ipa": "/pəˈtrəʊl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "devriye",
+        "def": "the act of going around an area to check that there is no trouble, or the group that does this",
+        "examples": ["Soldiers are on patrol along the border.", "A police patrol stopped the car at midnight."]
+      },
+      {
+        "pos": "verb",
+        "tr": "devriye gezmek",
+        "def": "to go around an area regularly to check that it is safe",
+        "examples": ["Security guards patrol the parking lot all night."]
+      }
+    ],
+    "collocations": ["on patrol", "border patrol", "police patrol", "patrol car", "highway patrol", "patrol the streets"],
+    "synonyms": ["guard", "watch", "monitor", "police"],
+    "family": [{ "word": "patrolman", "pos": "noun" }],
+    "note": "Doubles the l: patrolled, patrolling."
+  },
+  {
+    "word": "patron",
+    "ipa": "/ˈpeɪtrən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hami, sponsor, destekçi",
+        "def": "a person who gives money and support to artists, writers or a cause",
+        "examples": ["The wealthy family were patrons of the arts for generations.", "She is a patron of several children's charities."]
+      },
+      {
+        "pos": "noun",
+        "tr": "müşteri (dükkân, restoran vb.)",
+        "def": "(formal) a customer of a store, restaurant or other business",
+        "examples": ["The restaurant is popular with local patrons.", "Library patrons can borrow up to ten books."]
+      }
+    ],
+    "collocations": ["patron of the arts", "patron saint", "regular patrons", "library patrons", "wealthy patron"],
+    "synonyms": ["sponsor", "supporter", "benefactor", "customer", "client"],
+    "family": [
+      { "word": "patronage", "pos": "noun" },
+      { "word": "patronize", "pos": "verb" },
+      { "word": "patronizing", "pos": "adjective" }
+    ],
+    "note": "Trap: patron does NOT mean boss (Turkish \"patron\" = boss). \"Patronizing\" = treating someone as if they were stupid."
+  },
+  {
+    "word": "pattern",
+    "ipa": "/ˈpætərn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "düzen, örüntü, model",
+        "def": "the regular way in which something happens or is done",
+        "examples": ["Doctors noticed a pattern in the patients' symptoms.", "Stress can change your sleep patterns."]
+      },
+      {
+        "pos": "noun",
+        "tr": "desen, motif",
+        "def": "a repeated design of lines, shapes or colors",
+        "examples": ["She wore a dress with a floral pattern."]
+      },
+      {
+        "pos": "noun",
+        "tr": "patron, kalıp (dikiş)",
+        "def": "a design or shape used as a guide for making something, especially clothes",
+        "examples": ["She used a pattern from a magazine to sew the skirt."]
+      }
+    ],
+    "collocations": ["a pattern of behavior", "sleep patterns", "follow a pattern", "a clear pattern", "weather patterns", "floral pattern"],
+    "synonyms": ["trend", "regularity", "design", "motif", "template"],
+    "family": [{ "word": "patterned", "pos": "adjective" }],
+    "note": "Trap: Turkish \"patron\" (sewing) = pattern in English."
+  },
+  {
+    "word": "pause",
+    "ipa": "/pɔːz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "duraklama, ara, mola",
+        "def": "a short time when someone stops speaking or doing something",
+        "examples": ["After a long pause, she finally answered the question.", "There was a brief pause in the fighting."]
+      },
+      {
+        "pos": "verb",
+        "tr": "duraklamak, ara vermek; (video) durdurmak",
+        "def": "to stop talking or doing something for a short time before continuing",
+        "examples": ["He paused for a moment to catch his breath.", "Can you pause the movie? I need to get a drink."]
+      }
+    ],
+    "collocations": ["a brief pause", "a long pause", "pause for thought", "pause for breath", "without pausing", "pause button"],
+    "synonyms": ["break", "rest", "gap", "halt", "stop"],
+    "family": [],
+    "note": "\"Give someone pause\" = make them stop and think carefully."
+  },
+  {
+    "word": "pay",
+    "ipa": "/peɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ödemek",
+        "def": "to give someone money for work, goods or services",
+        "examples": ["Can I pay by credit card?", "She paid $40 for the concert tickets."]
+      },
+      {
+        "pos": "verb",
+        "tr": "karşılığını almak, değmek, kazançlı olmak",
+        "def": "to bring an advantage or benefit",
+        "examples": ["It pays to compare prices before you buy a car."]
+      },
+      {
+        "pos": "noun",
+        "tr": "maaş, ücret",
+        "def": "the money someone gets for doing regular work",
+        "examples": ["Nurses are asking for better pay and working conditions."]
+      }
+    ],
+    "collocations": ["pay for", "pay attention", "pay a visit", "pay off", "pay the bills", "pay raise"],
+    "synonyms": ["spend", "compensate", "salary", "wages", "income"],
+    "family": [
+      { "word": "payment", "pos": "noun" },
+      { "word": "payable", "pos": "adjective" },
+      { "word": "paid", "pos": "adjective" },
+      { "word": "unpaid", "pos": "adjective" }
+    ],
+    "note": "Irregular: pay – paid – paid. Pay FOR the item: \"I paid for dinner\" (not \"I paid dinner\")."
+  },
+  {
+    "word": "payment",
+    "ipa": "/ˈpeɪmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ödeme",
+        "def": "an amount of money paid, or the act of paying",
+        "examples": ["The monthly payment on the car is $350.", "We accept payment by cash or card."]
+      }
+    ],
+    "collocations": ["make a payment", "monthly payment", "down payment", "late payment", "payment method", "receive payment"],
+    "synonyms": ["fee", "installment", "settlement", "remittance"],
+    "family": [{ "word": "pay", "pos": "verb" }],
+    "note": "\"Down payment\" = the first part of the price you pay when buying something big like a house (peşinat)."
+  },
+  {
+    "word": "peace",
+    "ipa": "/piːs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "barış",
+        "def": "a situation or time when there is no war or fighting",
+        "examples": ["The two countries signed a peace agreement last year.", "The UN sent troops to keep the peace."]
+      },
+      {
+        "pos": "noun",
+        "tr": "huzur, sükûnet",
+        "def": "a state of calm and quiet",
+        "examples": ["I just want some peace and quiet after a long day.", "Meditation helps her find inner peace."]
+      }
+    ],
+    "collocations": ["peace talks", "peace and quiet", "at peace", "make peace with", "world peace", "peace of mind"],
+    "synonyms": ["harmony", "calm", "tranquility", "truce"],
+    "family": [
+      { "word": "peaceful", "pos": "adjective" },
+      { "word": "peacefully", "pos": "adverb" }
+    ],
+    "note": "Don't confuse with piece (a part of something); they sound the same. \"Peace of mind\" = içi rahat olma."
+  },
+  {
+    "word": "peaceful",
+    "ipa": "/ˈpiːsfl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "barışçıl",
+        "def": "not involving war or violence",
+        "examples": ["The protest was peaceful, and no one was arrested.", "Both sides want a peaceful solution to the conflict."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "huzurlu, sakin, dingin",
+        "def": "quiet and calm",
+        "examples": ["We spent a peaceful afternoon by the lake."]
+      }
+    ],
+    "collocations": ["peaceful protest", "peaceful solution", "peaceful coexistence", "peaceful transition", "a peaceful place"],
+    "synonyms": ["nonviolent", "calm", "quiet", "tranquil", "serene"],
+    "family": [
+      { "word": "peace", "pos": "noun" },
+      { "word": "peacefully", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "peak",
+    "ipa": "/piːk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "zirve, doruk, en yüksek nokta",
+        "def": "the point when something is at its highest, best or most successful",
+        "examples": ["Traffic is at its peak between 7 and 9 a.m.", "She was at the peak of her career when she retired."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(dağ) zirve, tepe",
+        "def": "the pointed top of a mountain",
+        "examples": ["Snow covered the mountain peaks."]
+      },
+      {
+        "pos": "verb",
+        "tr": "zirveye ulaşmak",
+        "def": "to reach the highest point or level",
+        "examples": ["Sales peaked in December and then fell."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "en yoğun, en yüksek",
+        "def": "used to describe the busiest or highest level",
+        "examples": ["Flights are more expensive during peak season."]
+      }
+    ],
+    "collocations": ["at its peak", "peak hours", "peak season", "reach a peak", "peak performance", "mountain peak"],
+    "synonyms": ["height", "top", "summit", "climax", "maximum"],
+    "family": [],
+    "note": "Don't confuse with peek (a quick look) or pique (interest)."
+  },
+  {
+    "word": "peasant",
+    "ipa": "/ˈpeznt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "köylü, rençper",
+        "def": "a poor farmer with a small piece of land, especially in the past or in poorer countries",
+        "examples": ["In the Middle Ages, most peasants worked on land owned by nobles.", "The novel describes the hard lives of Russian peasants."]
+      }
+    ],
+    "collocations": ["peasant farmers", "peasant family", "peasant revolt", "peasant life"],
+    "synonyms": ["farmer", "villager", "laborer"],
+    "family": [{ "word": "peasantry", "pos": "noun" }],
+    "note": "Mostly historical. Used about a modern person, it is an insult meaning rude or uneducated."
+  },
+  {
+    "word": "peculiar",
+    "ipa": "/pɪˈkjuːliər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tuhaf, garip, acayip",
+        "def": "strange or unusual, sometimes in an unpleasant way",
+        "examples": ["There's a peculiar smell coming from the basement.", "It's peculiar that nobody saw him leave."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "-e özgü, -e has",
+        "def": "belonging only to a particular person, place or thing",
+        "examples": ["This style of cooking is peculiar to the region."]
+      }
+    ],
+    "collocations": ["peculiar to", "a peculiar smell", "a peculiar feeling", "rather peculiar", "something peculiar"],
+    "synonyms": ["strange", "odd", "weird", "unusual", "unique"],
+    "family": [
+      { "word": "peculiarity", "pos": "noun" },
+      { "word": "peculiarly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "peer",
+    "ipa": "/pɪr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "akran, yaşıt, emsal",
+        "def": "a person of the same age, status or ability as another person",
+        "examples": ["Teenagers often care more about what their peers think than their parents.", "She was respected by her peers in the scientific community."]
+      },
+      {
+        "pos": "verb",
+        "tr": "dikkatle bakmak, gözünü dikmek",
+        "def": "to look carefully at something, especially because it is hard to see",
+        "examples": ["He peered through the fog, trying to see the road."]
+      }
+    ],
+    "collocations": ["peer pressure", "peer review", "peer group", "your peers", "peer at something", "peer through"],
+    "synonyms": ["equal", "contemporary", "colleague", "squint", "stare"],
+    "family": [{ "word": "peerless", "pos": "adjective" }],
+    "note": "\"Peer pressure\" = influence from people your age to behave like them (akran baskısı)."
+  },
+  {
+    "word": "pen",
+    "ipa": "/pen/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kalem, tükenmez kalem",
+        "def": "a tool for writing or drawing with ink",
+        "examples": ["Can I borrow a pen to sign this form?", "Please fill out the application in black pen."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ağıl, kümes",
+        "def": "a small fenced area for keeping animals",
+        "examples": ["The sheep were kept in a pen near the barn."]
+      }
+    ],
+    "collocations": ["a ballpoint pen", "pen and paper", "pen pal", "pen name", "put pen to paper"],
+    "synonyms": ["ballpoint", "marker", "enclosure"],
+    "family": [],
+    "note": "\"Pen name\" = a name an author uses instead of their real name (takma ad)."
+  },
+  {
+    "word": "penalty",
+    "ipa": "/ˈpenəlti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ceza",
+        "def": "a punishment for breaking a law, rule or contract",
+        "examples": ["The penalty for late payment is a $25 fee.", "Many states have abolished the death penalty."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(spor) penaltı, ceza",
+        "def": "a punishment or advantage given in a sports game when a player breaks a rule",
+        "examples": ["The referee gave the home team a penalty in the final minute."]
+      }
+    ],
+    "collocations": ["death penalty", "heavy penalty", "pay a penalty", "face a penalty", "penalty kick", "tax penalty"],
+    "synonyms": ["punishment", "fine", "sanction", "price"],
+    "family": [
+      { "word": "penalize", "pos": "verb" },
+      { "word": "penal", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "pencil",
+    "ipa": "/ˈpensl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kurşun kalem",
+        "def": "a thin wooden tool with a gray or colored center, used for writing or drawing",
+        "examples": ["Use a pencil so you can erase your mistakes.", "The kids drew pictures with colored pencils."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(geçici olarak) not etmek, ajandaya yazmak",
+        "def": "to write something with a pencil, or to plan something that may change later",
+        "examples": ["Let's pencil in a meeting for next Tuesday."]
+      }
+    ],
+    "collocations": ["in pencil", "colored pencils", "pencil sharpener", "pencil case", "pencil in"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"Pencil something in\" = arrange it provisionally, knowing it may change."
+  },
+  {
+    "word": "penny",
+    "ipa": "/ˈpeni/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "peni (İngiliz)",
+        "def": "(British) a small coin and unit of money; there are 100 pence in a pound",
+        "examples": ["The chocolate bar cost 99 pence, so I got a penny in change."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sent (ABD, bir sentlik bozukluk)",
+        "def": "(American) a cent, a coin worth one hundredth of a dollar",
+        "examples": ["She found a penny on the sidewalk and picked it up for luck.", "The jar was full of pennies and dimes."]
+      }
+    ],
+    "collocations": ["every penny", "not a penny", "a penny for your thoughts", "the penny dropped", "pinch pennies"],
+    "synonyms": ["cent"],
+    "family": [{ "word": "penniless", "pos": "adjective" }],
+    "note": "British plural for amounts is pence (50 pence); for coins, pennies. \"Worth every penny\" = worth the price."
+  },
+  {
+    "word": "pension",
+    "ipa": "/ˈpenʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "emekli maaşı, emeklilik",
+        "def": "money paid regularly to someone who has retired or cannot work",
+        "examples": ["He lives on a small pension from the city.", "The company contributes to its employees' pension plans."]
+      }
+    ],
+    "collocations": ["pension plan", "pension fund", "state pension", "draw a pension", "retire on a full pension"],
+    "synonyms": ["retirement income", "annuity", "benefit"],
+    "family": [
+      { "word": "pensioner", "pos": "noun" },
+      { "word": "pensionable", "pos": "adjective" }
+    ],
+    "note": "Trap: pension is not \"pansiyon\" (a guesthouse is a guesthouse or B&B). Americans often say \"retirement plan\" or \"401(k)\"."
+  },
+  {
+    "word": "people",
+    "ipa": "/ˈpiːpl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "insanlar, kişiler",
+        "def": "men, women and children; more than one person",
+        "examples": ["How many people are coming to dinner?", "Most people prefer to work from home at least one day a week."]
+      },
+      {
+        "pos": "noun",
+        "tr": "halk, millet",
+        "def": "all the people of a country, or a particular nation or ethnic group",
+        "examples": ["The president promised to serve the American people.", "The museum tells the history of the native peoples of Alaska."]
+      }
+    ],
+    "collocations": ["young people", "a lot of people", "most people", "the people", "people of color", "ordinary people"],
+    "synonyms": ["persons", "individuals", "humans", "public", "nation"],
+    "family": [{ "word": "person", "pos": "noun" }],
+    "note": "People is plural: \"People are...\" (not \"people is\"). \"Peoples\" means different nations or ethnic groups."
+  },
+  {
+    "word": "pepper",
+    "ipa": "/ˈpepər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "karabiber",
+        "def": "a hot-tasting powder made from dried berries, used to flavor food",
+        "examples": ["Season the soup with salt and pepper.", "Could you pass the pepper, please?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "biber (sebze)",
+        "def": "a hollow vegetable that is red, green or yellow, sometimes very hot",
+        "examples": ["Slice two red peppers and add them to the salad."]
+      }
+    ],
+    "collocations": ["salt and pepper", "black pepper", "red pepper", "bell pepper", "chili pepper", "pepper spray"],
+    "synonyms": [],
+    "family": [
+      { "word": "peppery", "pos": "adjective" },
+      { "word": "peppermint", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "per",
+    "ipa": "/pər/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "başına, her ... için",
+        "def": "for each",
+        "examples": ["The tickets cost $15 per person.", "The speed limit is 65 miles per hour."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-e göre, uyarınca",
+        "def": "(formal) according to",
+        "examples": ["As per your request, I've attached the invoice."]
+      }
+    ],
+    "collocations": ["per person", "per hour", "per year", "per day", "as per", "per capita"],
+    "synonyms": ["for each", "a", "each", "according to"],
+    "family": [],
+    "note": "In everyday speech \"a\" is common instead: \"$10 an hour\", \"three times a day\". \"Per capita\" = per person."
+  },
+  {
+    "word": "per cent",
+    "ipa": "/pər ˈsent/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yüzde",
+        "def": "(British spelling) one part in every hundred",
+        "examples": ["Prices have risen by five per cent this year.", "Only 20 per cent of the students passed."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yüzde ... oranında",
+        "def": "in or for every hundred",
+        "examples": ["I agree with you a hundred per cent."]
+      }
+    ],
+    "collocations": ["per cent of", "a hundred per cent", "rise by 5 per cent", "per cent increase"],
+    "synonyms": ["percentage"],
+    "family": [{ "word": "percentage", "pos": "noun" }],
+    "note": "British spelling. American English writes it as one word: percent."
+  },
+  {
+    "word": "perceive",
+    "ipa": "/pərˈsiːv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "algılamak, görmek, değerlendirmek",
+        "def": "to understand or think of someone or something in a particular way",
+        "examples": ["Many people perceive the city as dangerous, but crime is actually low.", "She was perceived as a strong leader."]
+      },
+      {
+        "pos": "verb",
+        "tr": "fark etmek, sezmek",
+        "def": "to notice or become aware of something",
+        "examples": ["Dogs can perceive sounds that humans cannot hear."]
+      }
+    ],
+    "collocations": ["perceive as", "be perceived as", "widely perceived", "perceived threat", "perceive a change"],
+    "synonyms": ["see", "regard", "view", "notice", "detect"],
+    "family": [
+      { "word": "perception", "pos": "noun" },
+      { "word": "perceptive", "pos": "adjective" },
+      { "word": "perceived", "pos": "adjective" },
+      { "word": "perceptible", "pos": "adjective" }
+    ],
+    "note": "Spelling rule: \"i before e except after c\" – perceive, receive."
+  },
+  {
+    "word": "percent",
+    "ipa": "/pərˈsent/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yüzde",
+        "def": "one part in every hundred, written as %",
+        "examples": ["About 60 percent of Americans own their homes.", "The store is offering 30 percent off all shoes."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yüzde ... oranında",
+        "def": "by or in every hundred",
+        "examples": ["Sales rose 12 percent compared with last year.", "I'm not a hundred percent sure."]
+      }
+    ],
+    "collocations": ["percent of", "a hundred percent", "percent off", "rise by 10 percent", "a 5 percent increase"],
+    "synonyms": ["percentage"],
+    "family": [{ "word": "percentage", "pos": "noun" }],
+    "note": "American spelling (British: per cent). Use a number before percent; without a number, use percentage: \"a high percentage\"."
+  },
+  {
+    "word": "percentage",
+    "ipa": "/pərˈsentɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yüzde, oran",
+        "def": "an amount or rate expressed as a part of one hundred",
+        "examples": ["A large percentage of the population lives in cities.", "What percentage of your salary do you save?"]
+      }
+    ],
+    "collocations": ["a high percentage", "a small percentage", "percentage of", "percentage point", "in percentage terms"],
+    "synonyms": ["proportion", "share", "ratio", "rate"],
+    "family": [{ "word": "percent", "pos": "noun" }],
+    "note": "\"A percentage point\" is the difference between two percentages: from 4% to 6% is a rise of 2 percentage points."
+  },
+  {
+    "word": "perception",
+    "ipa": "/pərˈsepʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "algı, izlenim",
+        "def": "an idea or belief you have based on how something seems to you",
+        "examples": ["There is a public perception that crime is rising.", "Social media can distort our perception of reality."]
+      },
+      {
+        "pos": "noun",
+        "tr": "algılama, idrak",
+        "def": "the ability to notice or understand things through the senses",
+        "examples": ["Alcohol affects your perception of distance."]
+      }
+    ],
+    "collocations": ["public perception", "perception of", "change perceptions", "a common perception", "depth perception"],
+    "synonyms": ["impression", "view", "understanding", "awareness", "insight"],
+    "family": [
+      { "word": "perceive", "pos": "verb" },
+      { "word": "perceptive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "perfect",
+    "ipa": "/ˈpɜːrfɪkt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "mükemmel, kusursuz",
+        "def": "having no mistakes or faults; as good as it can be",
+        "examples": ["Nobody's perfect; everyone makes mistakes.", "The weather was perfect for a picnic."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tam uygun, biçilmiş kaftan",
+        "def": "exactly right for a particular purpose or person",
+        "examples": ["This apartment is perfect for a young couple."]
+      },
+      {
+        "pos": "verb",
+        "tr": "mükemmelleştirmek, geliştirmek",
+        "def": "to make something as good as it can be",
+        "examples": ["She spent years perfecting her recipe for apple pie."]
+      }
+    ],
+    "collocations": ["perfect for", "a perfect match", "perfect timing", "practice makes perfect", "far from perfect", "a perfect stranger"],
+    "synonyms": ["flawless", "ideal", "excellent", "faultless"],
+    "family": [
+      { "word": "perfectly", "pos": "adverb" },
+      { "word": "perfection", "pos": "noun" },
+      { "word": "imperfect", "pos": "adjective" },
+      { "word": "perfectionist", "pos": "noun" }
+    ],
+    "note": "Stress: adjective PERfect, verb perFECT /pərˈfekt/. \"A perfect stranger\" = someone you don't know at all."
+  },
+  {
+    "word": "perfectly",
+    "ipa": "/ˈpɜːrfɪktli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "tamamen, gayet",
+        "def": "completely; used to emphasize something",
+        "examples": ["You know perfectly well what I mean.", "It's perfectly normal to feel nervous before an exam."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "mükemmel bir şekilde, kusursuzca",
+        "def": "in a perfect way; very well",
+        "examples": ["The dress fits perfectly."]
+      }
+    ],
+    "collocations": ["perfectly normal", "perfectly clear", "perfectly well", "fit perfectly", "perfectly fine"],
+    "synonyms": ["completely", "absolutely", "totally", "flawlessly"],
+    "family": [{ "word": "perfect", "pos": "adjective" }],
+    "note": "Very often used for emphasis, not literal perfection: \"perfectly happy\" = completely happy."
+  },
+  {
+    "word": "perform",
+    "ipa": "/pərˈfɔːrm/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sahnelemek, icra etmek, performans sergilemek",
+        "def": "to entertain an audience by acting, singing, dancing or playing music",
+        "examples": ["The band will perform live at the festival on Saturday.", "The students performed a play for their parents."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yapmak, yerine getirmek, gerçekleştirmek",
+        "def": "to do a task, action or piece of work",
+        "examples": ["The surgeon performed the operation in under two hours."]
+      },
+      {
+        "pos": "verb",
+        "tr": "başarı göstermek, performans göstermek",
+        "def": "to work or do something well or badly",
+        "examples": ["The new car performs well on snowy roads.", "Students who sleep well tend to perform better in exams."]
+      }
+    ],
+    "collocations": ["perform well", "perform a task", "perform surgery", "perform live", "perform a duty", "perform an experiment"],
+    "synonyms": ["act", "play", "do", "carry out", "execute"],
+    "family": [
+      { "word": "performance", "pos": "noun" },
+      { "word": "performer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "performance",
+    "ipa": "/pərˈfɔːrməns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gösteri, temsil, oyun",
+        "def": "the act of performing a play, concert or other entertainment",
+        "examples": ["The evening performance starts at 8 p.m.", "Her performance in the film won her an Oscar."]
+      },
+      {
+        "pos": "noun",
+        "tr": "performans, başarı",
+        "def": "how well or badly a person, machine or company does something",
+        "examples": ["The company's performance improved in the second quarter.", "His performance at work has been excellent."]
+      }
+    ],
+    "collocations": ["live performance", "job performance", "poor performance", "academic performance", "performance review", "give a performance"],
+    "synonyms": ["show", "act", "production", "achievement", "results"],
+    "family": [
+      { "word": "perform", "pos": "verb" },
+      { "word": "performer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "perhaps",
+    "ipa": "/pərˈhæps/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "belki, belki de, muhtemelen",
+        "def": "possibly; used when you are not certain",
+        "examples": ["Perhaps we should leave before the traffic gets bad.", "It was perhaps the best meal I've ever had."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(kibar öneri/rica) acaba, belki",
+        "def": "used to make a request or suggestion more polite",
+        "examples": ["Perhaps you could call me back later?"]
+      }
+    ],
+    "collocations": ["or perhaps", "perhaps not", "perhaps the most", "perhaps because"],
+    "synonyms": ["maybe", "possibly", "probably"],
+    "family": [],
+    "note": "A little more formal than maybe, which is more common in American conversation."
+  },
+  {
+    "word": "period",
+    "ipa": "/ˈpɪriəd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dönem, süre, devir",
+        "def": "a particular length of time, or a time in history",
+        "examples": ["The offer is valid for a limited period.", "He lived in Paris during the postwar period."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ders saati",
+        "def": "one of the parts of the school day when a subject is taught",
+        "examples": ["We have math in third period."]
+      },
+      {
+        "pos": "noun",
+        "tr": "nokta (noktalama)",
+        "def": "(American) the mark (.) at the end of a sentence",
+        "examples": ["Don't forget to put a period at the end of the sentence."]
+      },
+      {
+        "pos": "noun",
+        "tr": "regl, adet",
+        "def": "the time each month when a woman bleeds from her body",
+        "examples": ["She gets bad cramps during her period."]
+      }
+    ],
+    "collocations": ["a period of time", "trial period", "over a period of", "grace period", "historical period", "period of growth"],
+    "synonyms": ["time", "era", "phase", "stage", "full stop"],
+    "family": [
+      { "word": "periodic", "pos": "adjective" },
+      { "word": "periodically", "pos": "adverb" },
+      { "word": "periodical", "pos": "noun" }
+    ],
+    "note": "In speech, Americans say \"period\" at the end of a statement for emphasis: \"I'm not going, period.\" British: full stop."
+  },
+  {
+    "word": "permanent",
+    "ipa": "/ˈpɜːrmənənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kalıcı, sürekli, daimi",
+        "def": "lasting for a long time or forever; not expected to change",
+        "examples": ["She's looking for a permanent job, not just a summer position.", "The injury caused permanent damage to his eyesight."]
+      }
+    ],
+    "collocations": ["permanent job", "permanent damage", "permanent resident", "permanent solution", "a permanent fixture"],
+    "synonyms": ["lasting", "long-term", "enduring", "fixed", "stable"],
+    "family": [
+      { "word": "permanently", "pos": "adverb" },
+      { "word": "permanence", "pos": "noun" }
+    ],
+    "note": "Opposite: temporary. \"Permanent resident\" = a person allowed to live in a country forever (green card holder in the US)."
+  },
+  {
+    "word": "permanently",
+    "ipa": "/ˈpɜːrmənəntli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kalıcı olarak, temelli, sürekli",
+        "def": "in a way that lasts forever or for a very long time",
+        "examples": ["The factory closed permanently last year.", "They moved permanently to Canada after retiring."]
+      }
+    ],
+    "collocations": ["permanently closed", "permanently damaged", "permanently deleted", "live permanently"],
+    "synonyms": ["forever", "for good", "indefinitely", "constantly"],
+    "family": [{ "word": "permanent", "pos": "adjective" }],
+    "note": "\"For good\" is a common informal equivalent: \"They left for good.\""
+  },
+  {
+    "word": "permission",
+    "ipa": "/pərˈmɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "izin, müsaade",
+        "def": "the act of allowing someone to do something, especially officially",
+        "examples": ["You need your parents' permission to go on the trip.", "Nobody can enter the building without permission."]
+      }
+    ],
+    "collocations": ["ask for permission", "give permission", "get permission", "without permission", "permission to do something", "written permission"],
+    "synonyms": ["consent", "authorization", "approval", "approval"],
+    "family": [
+      { "word": "permit", "pos": "verb" },
+      { "word": "permissive", "pos": "adjective" },
+      { "word": "permissible", "pos": "adjective" }
+    ],
+    "note": "Uncountable: \"get permission\", not \"get a permission\". For a document, use permit."
+  },
+  {
+    "word": "permit",
+    "ipa": "/ˈpɜːrmɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "izin belgesi, ruhsat",
+        "def": "an official document that gives you the right to do something",
+        "examples": ["You need a permit to park on this street.", "She applied for a work permit in Germany."]
+      },
+      {
+        "pos": "verb",
+        "tr": "izin vermek, olanak tanımak",
+        "def": "(formal) to allow something or make it possible",
+        "examples": ["Smoking is not permitted anywhere in the building.", "We'll have the party outside, weather permitting."]
+      }
+    ],
+    "collocations": ["work permit", "residence permit", "parking permit", "building permit", "weather permitting", "be permitted to"],
+    "synonyms": ["license", "pass", "allow", "authorize", "let"],
+    "family": [
+      { "word": "permission", "pos": "noun" },
+      { "word": "permissible", "pos": "adjective" }
+    ],
+    "note": "Stress: noun PERmit, verb perMIT /pərˈmɪt/. Doubles the t: permitted, permitting."
+  },
+  {
+    "word": "persist",
+    "ipa": "/pərˈsɪst/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ısrar etmek, direnmek",
+        "def": "to continue doing something even though it is difficult or others oppose it",
+        "examples": ["If the reporter persists in asking questions, call security.", "She persisted with her studies despite many setbacks."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sürmek, devam etmek, geçmemek",
+        "def": "to continue to exist",
+        "examples": ["If the pain persists, see a doctor."]
+      }
+    ],
+    "collocations": ["persist in doing", "persist with", "symptoms persist", "problems persist", "if the pain persists"],
+    "synonyms": ["persevere", "continue", "carry on", "last", "linger"],
+    "family": [
+      { "word": "persistent", "pos": "adjective" },
+      { "word": "persistence", "pos": "noun" },
+      { "word": "persistently", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "persistent",
+    "ipa": "/pərˈsɪstənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ısrarcı, azimli, inatçı",
+        "def": "determined to keep doing something despite difficulties or opposition",
+        "examples": ["The salesman was very persistent and called me five times.", "Her persistent efforts finally paid off."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sürekli, kalıcı, geçmeyen",
+        "def": "continuing for a long time or happening again and again",
+        "examples": ["He has had a persistent cough for weeks."]
+      }
+    ],
+    "collocations": ["persistent cough", "persistent problem", "persistent rumors", "persistent efforts", "persistent pain"],
+    "synonyms": ["determined", "tenacious", "insistent", "continuous", "chronic"],
+    "family": [
+      { "word": "persist", "pos": "verb" },
+      { "word": "persistence", "pos": "noun" },
+      { "word": "persistently", "pos": "adverb" }
+    ]
+  }
+]

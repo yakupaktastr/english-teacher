@@ -1,0 +1,1251 @@
+[
+  {
+    "word": "trace",
+    "ipa": "/treɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iz, eser, belirti",
+        "def": "a mark, sign, or small amount that shows someone or something was present",
+        "examples": ["The hikers vanished without a trace.", "Tests found traces of the drug in his blood."]
+      },
+      {
+        "pos": "verb",
+        "tr": "izini sürmek, bulmak, tespit etmek",
+        "def": "to find someone or something by carefully following signs or information",
+        "examples": ["Police traced the stolen car to a garage in New Jersey.", "The call was traced to a phone booth downtown."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kökenini bulmak, (geçmişe) dayandırmak",
+        "def": "to find the origin or development of something",
+        "examples": ["She can trace her family back to the 1600s.", "The outbreak was traced to contaminated lettuce."]
+      }
+    ],
+    "collocations": ["without a trace", "trace back to", "trace amounts", "trace the origins", "leave no trace", "trace a call"],
+    "synonyms": ["sign", "mark", "hint", "track down", "find"],
+    "family": [
+      { "word": "traceable", "pos": "adjective" },
+      { "word": "tracing", "pos": "noun" }
+    ],
+    "note": "Also: to copy a drawing by following its lines through thin paper."
+  },
+  {
+    "word": "track",
+    "ipa": "/træk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ray, demiryolu hattı; peron",
+        "def": "the metal rails a train runs on",
+        "examples": ["The train to Boston leaves from track 9.", "Never walk on the railroad tracks."]
+      },
+      {
+        "pos": "noun",
+        "tr": "iz, ayak izi; patika; pist",
+        "def": "marks left by a person, animal, or vehicle, a rough path, or a course for racing",
+        "examples": ["We followed the deer tracks through the snow.", "She runs four laps around the track every morning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(albüm) parça, şarkı",
+        "def": "one song or piece of music on an album",
+        "examples": ["The third track on the album is my favorite."]
+      },
+      {
+        "pos": "verb",
+        "tr": "izlemek, takip etmek, izini sürmek",
+        "def": "to follow or find someone or something, or to record their progress over time",
+        "examples": ["The app tracks your sleep and heart rate.", "Police tracked the suspect to a motel."]
+      }
+    ],
+    "collocations": ["keep track of", "lose track of", "on track", "track record", "off the beaten track", "track down"],
+    "synonyms": ["path", "trail", "rail", "follow", "monitor"],
+    "family": [
+      { "word": "tracker", "pos": "noun" },
+      { "word": "tracking", "pos": "noun" }
+    ],
+    "note": "\"Keep track of\" = stay informed about; \"lose track of time\" = not notice time passing. \"Track record\" = past performance."
+  },
+  {
+    "word": "trade",
+    "ipa": "/treɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ticaret",
+        "def": "the activity of buying, selling, or exchanging goods and services, especially between countries",
+        "examples": ["Trade between the two countries has doubled in five years.", "The new agreement removes barriers to free trade."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zanaat, meslek",
+        "def": "a job that needs special skill with your hands",
+        "examples": ["He learned the plumbing trade from his father."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ticaret yapmak, alıp satmak; takas etmek",
+        "def": "to buy and sell goods, or to exchange one thing for another",
+        "examples": ["The company trades with partners in over thirty countries.", "I'll trade you my sandwich for your chips."]
+      }
+    ],
+    "collocations": ["free trade", "trade agreement", "trade deficit", "trade war", "trade in", "trade off"],
+    "synonyms": ["commerce", "business", "exchange", "swap", "deal"],
+    "family": [
+      { "word": "trader", "pos": "noun" },
+      { "word": "trading", "pos": "noun" },
+      { "word": "trade-off", "pos": "noun" }
+    ],
+    "note": "\"Trade-off\" = a balance between two things you can't have together. \"Trade in\" an old car = give it as part payment."
+  },
+  {
+    "word": "trademark",
+    "ipa": "/ˈtreɪdmɑːrk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ticari marka, tescilli marka",
+        "def": "a name, symbol, or design that only one company is legally allowed to use for its products",
+        "examples": ["The company sued a rival for using its trademark without permission.", "The logo was registered as a trademark in 1998."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kişiye özgü) alamet-i farika, özellik",
+        "def": "a typical feature or way of behaving that people connect with a particular person",
+        "examples": ["Bright red glasses became the designer's trademark."]
+      }
+    ],
+    "collocations": ["registered trademark", "trademark infringement", "trademark style", "trademark smile", "own the trademark"],
+    "synonyms": ["brand", "logo", "hallmark", "signature"],
+    "family": [],
+    "note": "Often used like an adjective: \"his trademark grin\" = his typical, well-known grin."
+  },
+  {
+    "word": "trading",
+    "ipa": "/ˈtreɪdɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ticaret, alım satım; (borsa) işlem",
+        "def": "the activity of buying and selling goods, shares, or other things",
+        "examples": ["Trading on Wall Street was suspended after the sharp drop.", "Online trading has made investing easier for ordinary people."]
+      }
+    ],
+    "collocations": ["online trading", "stock trading", "trading partner", "insider trading", "trading volume", "day trading"],
+    "synonyms": ["commerce", "business", "dealing", "exchange"],
+    "family": [
+      { "word": "trade", "pos": "verb" },
+      { "word": "trader", "pos": "noun" }
+    ],
+    "note": "\"Insider trading\" = illegally buying or selling shares using secret company information."
+  },
+  {
+    "word": "tradition",
+    "ipa": "/trəˈdɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gelenek, anane",
+        "def": "a belief, custom, or way of doing something that has existed for a long time in a group",
+        "examples": ["It's a family tradition to eat turkey on Thanksgiving.", "The town has a long tradition of hosting a summer music festival."]
+      }
+    ],
+    "collocations": ["family tradition", "long tradition", "break with tradition", "by tradition", "keep a tradition alive", "follow a tradition"],
+    "synonyms": ["custom", "convention", "practice", "heritage"],
+    "family": [
+      { "word": "traditional", "pos": "adjective" },
+      { "word": "traditionally", "pos": "adverb" },
+      { "word": "traditionalist", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "traditional",
+    "ipa": "/trəˈdɪʃənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "geleneksel",
+        "def": "following beliefs, customs, or ways of doing things that have existed for a long time",
+        "examples": ["The restaurant serves traditional Turkish dishes.", "They had a traditional church wedding."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "geleneksel, klasik, alışılmış",
+        "def": "of a type that has been used for a long time, rather than new or modern",
+        "examples": ["Online courses are now as popular as traditional classroom teaching."]
+      }
+    ],
+    "collocations": ["traditional values", "traditional dress", "traditional food", "traditional methods", "traditional role", "fairly traditional"],
+    "synonyms": ["conventional", "customary", "classic", "established"],
+    "family": [
+      { "word": "tradition", "pos": "noun" },
+      { "word": "traditionally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "traffic",
+    "ipa": "/ˈtræfɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "trafik",
+        "def": "the vehicles moving on a road at a particular time",
+        "examples": ["I was stuck in traffic for an hour this morning.", "Traffic is always heavy on Friday afternoons."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(hava, internet) trafik, akış",
+        "def": "the movement of planes, ships, people, or data along a route",
+        "examples": ["The new post brought a lot of traffic to our website."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kaçakçılık, yasa dışı ticaret",
+        "def": "illegal trade in something, such as drugs or weapons",
+        "examples": ["The task force aims to stop the traffic in illegal weapons."]
+      }
+    ],
+    "collocations": ["stuck in traffic", "heavy traffic", "traffic jam", "traffic lights", "air traffic", "web traffic"],
+    "synonyms": ["congestion", "vehicles", "flow"],
+    "family": [
+      { "word": "trafficking", "pos": "noun" },
+      { "word": "trafficker", "pos": "noun" }
+    ],
+    "note": "Uncountable: \"a lot of traffic\", not \"many traffics\". \"Human trafficking\" = insan kaçakçılığı."
+  },
+  {
+    "word": "tragedy",
+    "ipa": "/ˈtrædʒədi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "trajedi, felaket, acı olay",
+        "def": "a very sad event or situation, especially one that involves death",
+        "examples": ["The town is still recovering from the tragedy of last year's flood.", "It's a tragedy that so much food goes to waste."]
+      },
+      {
+        "pos": "noun",
+        "tr": "trajedi, tragedya (tiyatro)",
+        "def": "a serious play or story with a sad ending",
+        "examples": ["\"Romeo and Juliet\" is one of Shakespeare's best-known tragedies."]
+      }
+    ],
+    "collocations": ["personal tragedy", "terrible tragedy", "end in tragedy", "tragedy strikes", "national tragedy", "Greek tragedy"],
+    "synonyms": ["disaster", "catastrophe", "calamity", "misfortune"],
+    "family": [
+      { "word": "tragic", "pos": "adjective" },
+      { "word": "tragically", "pos": "adverb" }
+    ],
+    "note": "Opposite (in drama): comedy."
+  },
+  {
+    "word": "tragic",
+    "ipa": "/ˈtrædʒɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "trajik, çok acı, feci",
+        "def": "very sad, usually because someone has died or suffered a lot",
+        "examples": ["She died in a tragic car accident at the age of 24.", "The fire was a tragic loss for the whole community."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "trajik (edebiyat)",
+        "def": "connected with tragedy as a type of play or story",
+        "examples": ["Hamlet is the classic tragic hero."]
+      }
+    ],
+    "collocations": ["tragic accident", "tragic death", "tragic loss", "tragic consequences", "tragic irony", "tragic hero"],
+    "synonyms": ["sad", "heartbreaking", "devastating", "terrible", "unfortunate"],
+    "family": [
+      { "word": "tragedy", "pos": "noun" },
+      { "word": "tragically", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "trail",
+    "ipa": "/treɪl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iz, (bir şeyin bıraktığı) iz",
+        "def": "a line of marks or signs left by someone or something",
+        "examples": ["The wounded animal left a trail of blood in the snow.", "Investigators followed a paper trail of bank transfers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "patika, yürüyüş yolu",
+        "def": "a path through the countryside, especially for walking",
+        "examples": ["We hiked the trail up to the waterfall."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sürüklemek, peşinden sürüklenmek",
+        "def": "to pull something behind you, or to be pulled along behind",
+        "examples": ["Her long dress trailed on the floor behind her."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(yarış, seçim) geride olmak",
+        "def": "to be behind others in a race, competition, or election",
+        "examples": ["The home team trailed by six points at halftime."]
+      }
+    ],
+    "collocations": ["hiking trail", "paper trail", "on the trail of", "blaze a trail", "trail behind", "campaign trail"],
+    "synonyms": ["path", "track", "route", "drag", "lag"],
+    "family": [
+      { "word": "trailer", "pos": "noun" },
+      { "word": "trailblazer", "pos": "noun" }
+    ],
+    "note": "\"Blaze a trail\" = be the first to do something new (öncülük etmek)."
+  },
+  {
+    "word": "trailer",
+    "ipa": "/ˈtreɪlər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "römork, treyler",
+        "def": "a vehicle without an engine pulled by a car or truck",
+        "examples": ["He hitched the boat trailer to his pickup truck."]
+      },
+      {
+        "pos": "noun",
+        "tr": "karavan, mobil ev",
+        "def": "(American) a large vehicle that people can live in, pulled by a car or parked in one place",
+        "examples": ["They lived in a trailer while they built their new house."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(film) fragman",
+        "def": "a short series of scenes from a movie, shown to advertise it",
+        "examples": ["The new trailer for the movie got ten million views in a day."]
+      }
+    ],
+    "collocations": ["movie trailer", "official trailer", "trailer park", "tractor-trailer", "watch the trailer"],
+    "synonyms": ["caravan", "mobile home", "preview", "teaser"],
+    "family": [
+      { "word": "trail", "pos": "verb" }
+    ],
+    "note": "American \"trailer\" (mobile home) = British \"caravan\". \"Fragman\" = trailer."
+  },
+  {
+    "word": "train",
+    "ipa": "/treɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tren",
+        "def": "a line of connected railroad cars pulled by an engine",
+        "examples": ["I take the train to work every day.", "The last train to Philadelphia leaves at 11:40."]
+      },
+      {
+        "pos": "verb",
+        "tr": "eğitmek, yetiştirmek; eğitim almak",
+        "def": "to teach a person or animal the skills for a job or activity, or to be taught",
+        "examples": ["All staff are trained in first aid.", "She trained as a nurse before going to medical school."]
+      },
+      {
+        "pos": "verb",
+        "tr": "antrenman yapmak, idman yapmak",
+        "def": "to prepare for a sports event by exercising and practicing",
+        "examples": ["He's training for his first marathon."]
+      }
+    ],
+    "collocations": ["by train", "catch a train", "miss the train", "train station", "train of thought", "train for"],
+    "synonyms": ["teach", "instruct", "coach", "practice", "exercise"],
+    "family": [
+      { "word": "trainer", "pos": "noun" },
+      { "word": "training", "pos": "noun" },
+      { "word": "trainee", "pos": "noun" }
+    ],
+    "note": "\"Train of thought\" = a connected series of thoughts: \"Sorry, I lost my train of thought.\""
+  },
+  {
+    "word": "trainer",
+    "ipa": "/ˈtreɪnər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eğitmen, antrenör, çalıştırıcı",
+        "def": "a person who teaches skills to people or animals, especially in sport or fitness",
+        "examples": ["She hired a personal trainer to help her get in shape.", "The horse's trainer has won the race three times."]
+      },
+      {
+        "pos": "noun",
+        "tr": "spor ayakkabı",
+        "def": "(British) a shoe for sports or casual wear",
+        "examples": ["He wore jeans and a pair of white trainers."]
+      }
+    ],
+    "collocations": ["personal trainer", "fitness trainer", "dog trainer", "athletic trainer", "pair of trainers"],
+    "synonyms": ["coach", "instructor", "sneaker"],
+    "family": [
+      { "word": "train", "pos": "verb" },
+      { "word": "training", "pos": "noun" },
+      { "word": "trainee", "pos": "noun" }
+    ],
+    "note": "For the shoe, Americans say \"sneakers\" or \"tennis shoes\"; \"trainers\" is British."
+  },
+  {
+    "word": "training",
+    "ipa": "/ˈtreɪnɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eğitim, öğretim (mesleki)",
+        "def": "the process of learning or teaching the skills needed for a job",
+        "examples": ["New employees receive two weeks of training.", "The program offers job training for young people."]
+      },
+      {
+        "pos": "noun",
+        "tr": "antrenman, idman",
+        "def": "physical exercise and practice to prepare for a sports event",
+        "examples": ["She's in training for the Olympics."]
+      }
+    ],
+    "collocations": ["receive training", "training course", "on-the-job training", "in training", "training program", "training session"],
+    "synonyms": ["instruction", "education", "coaching", "practice", "preparation"],
+    "family": [
+      { "word": "train", "pos": "verb" },
+      { "word": "trainee", "pos": "noun" },
+      { "word": "trainer", "pos": "noun" }
+    ],
+    "note": "Uncountable: \"some training\", not \"a training\". For one event, say \"a training session\"."
+  },
+  {
+    "word": "trait",
+    "ipa": "/treɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "özellik, nitelik, karakter özelliği",
+        "def": "a particular quality, especially in someone's personality",
+        "examples": ["Patience is his best trait.", "Some personality traits are partly inherited from our parents."]
+      }
+    ],
+    "collocations": ["personality trait", "character trait", "genetic trait", "positive trait", "common trait", "share a trait"],
+    "synonyms": ["characteristic", "quality", "feature", "attribute"],
+    "family": [],
+    "note": "In American English the final t is pronounced: /treɪt/."
+  },
+  {
+    "word": "transaction",
+    "ipa": "/trænˈzækʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işlem, alışveriş, muamele",
+        "def": "a single act of buying, selling, or moving money",
+        "examples": ["The bank charges a fee for each international transaction.", "All transactions are recorded and checked for fraud."]
+      }
+    ],
+    "collocations": ["financial transaction", "business transaction", "online transaction", "transaction fee", "complete a transaction", "cash transaction"],
+    "synonyms": ["deal", "exchange", "purchase", "payment", "operation"],
+    "family": [
+      { "word": "transact", "pos": "verb" },
+      { "word": "transactional", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "transcript",
+    "ipa": "/ˈtrænskrɪpt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "döküm, yazılı metin, tutanak",
+        "def": "a written or printed copy of words that were spoken",
+        "examples": ["The court released a full transcript of the trial.", "Read the transcript of the podcast if you can't listen to it."]
+      },
+      {
+        "pos": "noun",
+        "tr": "transkript, not dökümü",
+        "def": "(American) an official record of a student's courses and grades",
+        "examples": ["Applicants must send their high school transcripts to the admissions office."]
+      }
+    ],
+    "collocations": ["full transcript", "official transcript", "interview transcript", "release a transcript", "academic transcript"],
+    "synonyms": ["record", "written version", "copy"],
+    "family": [
+      { "word": "transcribe", "pos": "verb" },
+      { "word": "transcription", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "transfer",
+    "ipa": "/ˈtrænsfɜːr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "nakletmek, aktarmak; (para) havale etmek",
+        "def": "to move someone or something from one place, group, or account to another",
+        "examples": ["I'll transfer the money to your account tonight.", "The patient was transferred to a larger hospital."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tayin olmak; okul değiştirmek",
+        "def": "to move to a different job, school, or team",
+        "examples": ["She transferred to a university closer to home after her first year."]
+      },
+      {
+        "pos": "noun",
+        "tr": "transfer, aktarma, havale",
+        "def": "the act of moving someone or something from one place to another",
+        "examples": ["The bank transfer took three days to go through.", "The player asked for a transfer to another club."]
+      }
+    ],
+    "collocations": ["bank transfer", "transfer money", "transfer of power", "data transfer", "wire transfer", "transfer student"],
+    "synonyms": ["move", "shift", "relocate", "convey", "transmit"],
+    "family": [
+      { "word": "transferable", "pos": "adjective" }
+    ],
+    "note": "Verb stress is often on the second syllable (trans-FER); noun stress on the first (TRANS-fer). Spelling: transferred, transferring."
+  },
+  {
+    "word": "transform",
+    "ipa": "/trænsˈfɔːrm/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dönüştürmek, tamamen değiştirmek",
+        "def": "to change the form, appearance, or character of something completely, usually for the better",
+        "examples": ["Smartphones have transformed the way we communicate.", "They transformed the old warehouse into luxury apartments."]
+      }
+    ],
+    "collocations": ["transform into", "completely transform", "transform the way", "be transformed by", "transform lives"],
+    "synonyms": ["change", "convert", "revolutionize", "alter", "reshape"],
+    "family": [
+      { "word": "transformation", "pos": "noun" },
+      { "word": "transformative", "pos": "adjective" },
+      { "word": "transformer", "pos": "noun" }
+    ],
+    "note": "\"Transform\" suggests a big, complete change; \"change\" can be small."
+  },
+  {
+    "word": "transformation",
+    "ipa": "/ˌtrænsfərˈmeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dönüşüm, değişim",
+        "def": "a complete change in someone or something",
+        "examples": ["The city has undergone a dramatic transformation over the past decade.", "Her transformation from shy student to confident leader surprised everyone."]
+      }
+    ],
+    "collocations": ["undergo a transformation", "dramatic transformation", "digital transformation", "complete transformation", "economic transformation"],
+    "synonyms": ["change", "conversion", "metamorphosis", "shift", "makeover"],
+    "family": [
+      { "word": "transform", "pos": "verb" },
+      { "word": "transformative", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "transit",
+    "ipa": "/ˈtrænzɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "taşıma, nakil, geçiş, transit",
+        "def": "the process of moving people or goods from one place to another",
+        "examples": ["Some of the packages were damaged in transit.", "Passengers in transit do not need a visa."]
+      },
+      {
+        "pos": "noun",
+        "tr": "toplu taşıma",
+        "def": "(American) a system of buses, trains, etc. for the public",
+        "examples": ["The city is investing billions in public transit."]
+      }
+    ],
+    "collocations": ["in transit", "public transit", "mass transit", "transit system", "transit passengers", "rapid transit"],
+    "synonyms": ["transport", "transportation", "movement", "passage"],
+    "family": [
+      { "word": "transition", "pos": "noun" },
+      { "word": "transitory", "pos": "adjective" }
+    ],
+    "note": "American \"public transit\" = British \"public transport\"."
+  },
+  {
+    "word": "transition",
+    "ipa": "/trænˈzɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "geçiş, geçiş süreci, dönüşüm",
+        "def": "the process or period of changing from one state or condition to another",
+        "examples": ["The transition from high school to college can be difficult.", "The country is in transition to democracy."]
+      }
+    ],
+    "collocations": ["smooth transition", "transition period", "in transition", "transition from ... to", "make the transition", "peaceful transition of power"],
+    "synonyms": ["change", "shift", "move", "passage", "changeover"],
+    "family": [
+      { "word": "transitional", "pos": "adjective" },
+      { "word": "transitive", "pos": "adjective" }
+    ],
+    "note": "Also a verb: \"The company is transitioning to electric vehicles.\""
+  },
+  {
+    "word": "translate",
+    "ipa": "/trænzˈleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "çevirmek, tercüme etmek",
+        "def": "to change spoken or written words into another language",
+        "examples": ["Can you translate this letter from Turkish into English?", "Her novels have been translated into forty languages."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir sonuca) dönüşmek, yansımak",
+        "def": "to result in something, or to change into a different form",
+        "examples": ["Higher sales didn't translate into higher profits.", "It's hard to translate these ideas into action."]
+      }
+    ],
+    "collocations": ["translate into", "translate from", "roughly translates as", "translate into action", "loosely translated"],
+    "synonyms": ["interpret", "render", "convert", "turn into"],
+    "family": [
+      { "word": "translation", "pos": "noun" },
+      { "word": "translator", "pos": "noun" }
+    ],
+    "note": "Use \"translate from X into Y\". A \"translator\" works with written text; an \"interpreter\" with speech."
+  },
+  {
+    "word": "translation",
+    "ipa": "/trænzˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çeviri, tercüme",
+        "def": "the process of changing words into another language, or a text that has been changed this way",
+        "examples": ["I read the novel in English translation.", "Some jokes get lost in translation."]
+      }
+    ],
+    "collocations": ["lost in translation", "in translation", "English translation", "literal translation", "machine translation", "translation software"],
+    "synonyms": ["interpretation", "rendering", "version"],
+    "family": [
+      { "word": "translate", "pos": "verb" },
+      { "word": "translator", "pos": "noun" }
+    ],
+    "note": "\"Lost in translation\" = meaning that disappears when changed into another language or context."
+  },
+  {
+    "word": "transmission",
+    "ipa": "/trænzˈmɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bulaşma, yayılma, aktarım",
+        "def": "the process of passing something, such as a disease or information, from one person or place to another",
+        "examples": ["Wearing masks reduces the transmission of the virus.", "Data transmission is faster on the new network."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yayın",
+        "def": "the act of sending out a radio or television signal, or a program that is sent",
+        "examples": ["The live transmission was interrupted by a power cut."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şanzıman, vites kutusu",
+        "def": "the system in a vehicle that sends power from the engine to the wheels",
+        "examples": ["The mechanic said the car needs a new transmission."]
+      }
+    ],
+    "collocations": ["disease transmission", "data transmission", "automatic transmission", "manual transmission", "risk of transmission", "live transmission"],
+    "synonyms": ["spread", "transfer", "broadcast", "communication"],
+    "family": [
+      { "word": "transmit", "pos": "verb" },
+      { "word": "transmitter", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "transmit",
+    "ipa": "/trænzˈmɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yayınlamak, iletmek, göndermek",
+        "def": "to send an electronic signal, broadcast, or message",
+        "examples": ["The satellite transmits images back to Earth every hour.", "The concert will be transmitted live on the radio."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bulaştırmak, geçirmek, aktarmak",
+        "def": "to pass something, such as a disease or knowledge, from one person or thing to another",
+        "examples": ["The disease is transmitted by mosquitoes.", "Parents transmit their values to their children."]
+      }
+    ],
+    "collocations": ["transmit data", "transmit a signal", "sexually transmitted", "transmit a disease", "transmitted live"],
+    "synonyms": ["send", "broadcast", "spread", "pass on", "convey"],
+    "family": [
+      { "word": "transmission", "pos": "noun" },
+      { "word": "transmitter", "pos": "noun" }
+    ],
+    "note": "Spelling: transmitted, transmitting (double t)."
+  },
+  {
+    "word": "transparency",
+    "ipa": "/trænsˈpærənsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şeffaflık, açıklık",
+        "def": "the quality of being open and honest, so that people can see how decisions are made",
+        "examples": ["Voters are demanding more transparency in government spending.", "The company promised greater transparency about how it uses customer data."]
+      },
+      {
+        "pos": "noun",
+        "tr": "saydamlık",
+        "def": "the quality of being clear enough to see through",
+        "examples": ["The transparency of the water lets you see fish twenty feet down."]
+      }
+    ],
+    "collocations": ["greater transparency", "lack of transparency", "transparency and accountability", "increase transparency", "financial transparency"],
+    "synonyms": ["openness", "clarity", "accountability", "clearness"],
+    "family": [
+      { "word": "transparent", "pos": "adjective" },
+      { "word": "transparently", "pos": "adverb" }
+    ],
+    "note": "Often paired with \"accountability\" in political and business language."
+  },
+  {
+    "word": "transparent",
+    "ipa": "/trænsˈpærənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "saydam, şeffaf",
+        "def": "clear enough that you can see through it",
+        "examples": ["The food is stored in transparent plastic containers.", "The insect's wings are almost transparent."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "şeffaf, açık (yönetim, süreç)",
+        "def": "open and honest, without secrets",
+        "examples": ["The hiring process should be fair and transparent."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "belli, apaçık, kolayca anlaşılan",
+        "def": "(of a lie or excuse) easy to see through or understand",
+        "examples": ["His excuse was a transparent attempt to avoid blame."]
+      }
+    ],
+    "collocations": ["fully transparent", "transparent process", "transparent plastic", "transparent attempt", "open and transparent"],
+    "synonyms": ["clear", "see-through", "open", "obvious"],
+    "family": [
+      { "word": "transparency", "pos": "noun" },
+      { "word": "transparently", "pos": "adverb" }
+    ],
+    "note": "Opposite: opaque (for materials); secretive (for organizations)."
+  },
+  {
+    "word": "transport",
+    "ipa": "/ˈtrænspɔːrt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "taşımak, nakletmek",
+        "def": "to take people or goods from one place to another in a vehicle",
+        "examples": ["The trucks transport fresh produce from farms to supermarkets.", "Injured hikers were transported to the hospital by helicopter."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ulaşım, taşımacılık, nakliye",
+        "def": "a system or method for carrying people or goods from one place to another",
+        "examples": ["The cost of transport makes up a large part of the price.", "Air transport is responsible for a growing share of emissions."]
+      }
+    ],
+    "collocations": ["public transport", "transport system", "means of transport", "transport costs", "transport goods"],
+    "synonyms": ["carry", "convey", "ship", "move", "transportation"],
+    "family": [
+      { "word": "transportation", "pos": "noun" },
+      { "word": "transporter", "pos": "noun" }
+    ],
+    "note": "Verb stress: trans-PORT; noun stress: TRANS-port. For the system, Americans usually say \"transportation\"; \"public transport\" is British."
+  },
+  {
+    "word": "transportation",
+    "ipa": "/ˌtrænspərˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ulaşım, taşımacılık",
+        "def": "a system or vehicles for carrying people or goods, or the act of moving them",
+        "examples": ["Public transportation in New York runs 24 hours a day.", "The price includes hotel and transportation to the airport."]
+      }
+    ],
+    "collocations": ["public transportation", "means of transportation", "transportation costs", "transportation system", "Department of Transportation", "provide transportation"],
+    "synonyms": ["transport", "transit", "travel", "conveyance"],
+    "family": [
+      { "word": "transport", "pos": "verb" }
+    ],
+    "note": "This is the usual American word; British English prefers \"transport\"."
+  },
+  {
+    "word": "trap",
+    "ipa": "/træp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tuzak, kapan",
+        "def": "a device for catching animals, or a trick to catch or deceive someone",
+        "examples": ["We set a mouse trap under the sink.", "The police set a trap to catch the thief."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tuzak, çıkmaz",
+        "def": "an unpleasant situation that is hard to escape from",
+        "examples": ["Many families fall into a debt trap."]
+      },
+      {
+        "pos": "verb",
+        "tr": "mahsur bırakmak, sıkıştırmak; tuzağa düşürmek",
+        "def": "to keep someone in a dangerous place they can't escape from, or to catch someone by a trick",
+        "examples": ["Dozens of miners were trapped underground after the collapse.", "She felt trapped in a job she hated."]
+      }
+    ],
+    "collocations": ["set a trap", "fall into a trap", "be trapped", "death trap", "tourist trap", "poverty trap"],
+    "synonyms": ["snare", "pitfall", "ambush", "catch", "corner"],
+    "family": [
+      { "word": "trapped", "pos": "adjective" },
+      { "word": "trapper", "pos": "noun" }
+    ],
+    "note": "Spelling: trapped, trapping. \"Mahsur kalmak\" = be trapped / be stranded."
+  },
+  {
+    "word": "trauma",
+    "ipa": "/ˈtrɔːmə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "travma, ruhsal yara, sarsıntı",
+        "def": "a mental condition caused by severe shock, fear, or stress, often with long-lasting effects",
+        "examples": ["Many soldiers suffer from trauma after returning home.", "The children needed counseling to deal with the trauma of the earthquake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(tıp) travma, yaralanma",
+        "def": "a serious physical injury",
+        "examples": ["The patient was rushed to the trauma center with head injuries."]
+      }
+    ],
+    "collocations": ["emotional trauma", "childhood trauma", "suffer trauma", "trauma center", "head trauma", "deal with trauma"],
+    "synonyms": ["shock", "distress", "injury", "wound"],
+    "family": [
+      { "word": "traumatic", "pos": "adjective" },
+      { "word": "traumatize", "pos": "verb" },
+      { "word": "traumatized", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "travel",
+    "ipa": "/ˈtrævl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "seyahat etmek, yolculuk etmek",
+        "def": "to go from one place to another, especially over a long distance",
+        "examples": ["She travels to Asia for work several times a year.", "We traveled across the country by train."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ses, ışık, haber) yayılmak, ilerlemek",
+        "def": "to move or spread from one place to another",
+        "examples": ["Light travels faster than sound.", "News travels fast in a small town."]
+      },
+      {
+        "pos": "noun",
+        "tr": "seyahat, yolculuk",
+        "def": "the activity of traveling",
+        "examples": ["Air travel has become much cheaper.", "Her job involves a lot of travel."]
+      }
+    ],
+    "collocations": ["travel abroad", "air travel", "travel agent", "business travel", "travel light", "travel insurance"],
+    "synonyms": ["journey", "go", "tour", "trip", "voyage"],
+    "family": [
+      { "word": "traveler", "pos": "noun" },
+      { "word": "travels", "pos": "noun" }
+    ],
+    "note": "American: traveled, traveling; British: travelled, travelling. \"Travel\" (noun) is uncountable; for one occasion use \"a trip\"."
+  },
+  {
+    "word": "traveller",
+    "ipa": "/ˈtrævələr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yolcu, gezgin, seyyah",
+        "def": "a person who is traveling or who travels often",
+        "examples": ["The airport lounge was packed with tired travellers waiting for delayed flights.", "As an experienced traveller, she always packs light."]
+      }
+    ],
+    "collocations": ["business traveller", "frequent traveller", "seasoned traveller", "budget traveller", "fellow traveller"],
+    "synonyms": ["passenger", "tourist", "voyager", "globetrotter"],
+    "family": [
+      { "word": "travel", "pos": "verb" }
+    ],
+    "note": "British spelling. American spelling is \"traveler\" (one l), as in \"traveler's checks\"."
+  },
+  {
+    "word": "treasure",
+    "ipa": "/ˈtreʒər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hazine, define",
+        "def": "a collection of valuable things such as gold, silver, and jewels",
+        "examples": ["The divers found treasure on a ship that sank in 1715.", "The kids drew a map to the buried treasure in the backyard."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hazine, çok değerli şey",
+        "def": "a very valuable object, or a person who is very helpful",
+        "examples": ["The museum is full of national treasures."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çok değer vermek, kıymetini bilmek",
+        "def": "to value something very much",
+        "examples": ["I'll always treasure the memories of that summer."]
+      }
+    ],
+    "collocations": ["buried treasure", "treasure hunt", "national treasure", "hidden treasure", "treasure chest", "treasure memories"],
+    "synonyms": ["riches", "fortune", "jewels", "cherish", "value"],
+    "family": [
+      { "word": "treasurer", "pos": "noun" },
+      { "word": "treasury", "pos": "noun" },
+      { "word": "treasured", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "treat",
+    "ipa": "/triːt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "davranmak, muamele etmek",
+        "def": "to behave toward someone or deal with something in a particular way",
+        "examples": ["She treats her employees with respect.", "Please treat this information as confidential."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tedavi etmek",
+        "def": "to give medical care to a person, illness, or injury",
+        "examples": ["The doctor treated him for a broken arm.", "The infection can be treated with antibiotics."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ısmarlamak, (kendine) bir jest yapmak",
+        "def": "to pay for something special for someone or for yourself",
+        "examples": ["Let me treat you to dinner for your birthday."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ikram, ısmarlama; zevk, keyif",
+        "def": "something special and enjoyable that you give someone or do for yourself",
+        "examples": ["Put your wallet away; lunch is my treat.", "The kids got ice cream as a treat."]
+      }
+    ],
+    "collocations": ["treat someone like", "treat with respect", "treat someone to", "be treated for", "my treat", "trick or treat"],
+    "synonyms": ["handle", "deal with", "cure", "heal", "pay for"],
+    "family": [
+      { "word": "treatment", "pos": "noun" },
+      { "word": "treatable", "pos": "adjective" },
+      { "word": "mistreat", "pos": "verb" }
+    ],
+    "note": "\"It's my treat\" = Ben ısmarlıyorum. \"Treat someone to something\" = pay for it as a gift."
+  },
+  {
+    "word": "treatment",
+    "ipa": "/ˈtriːtmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tedavi",
+        "def": "medical care given to cure an illness or injury",
+        "examples": ["She is receiving treatment for cancer.", "There is no effective treatment for the disease yet."]
+      },
+      {
+        "pos": "noun",
+        "tr": "davranış, muamele",
+        "def": "the way someone behaves toward or deals with a person or thing",
+        "examples": ["The report criticized the treatment of prisoners.", "He complained about unfair treatment at work."]
+      }
+    ],
+    "collocations": ["receive treatment", "medical treatment", "treatment for", "special treatment", "fair treatment", "undergo treatment"],
+    "synonyms": ["therapy", "care", "cure", "handling"],
+    "family": [
+      { "word": "treat", "pos": "verb" },
+      { "word": "mistreatment", "pos": "noun" }
+    ],
+    "note": "\"Special treatment\" = being treated better than others (ayrıcalıklı muamele)."
+  },
+  {
+    "word": "treaty",
+    "ipa": "/ˈtriːti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "antlaşma, anlaşma",
+        "def": "a formal written agreement between two or more countries",
+        "examples": ["The two countries signed a peace treaty in 1979.", "The treaty bans the testing of nuclear weapons."]
+      }
+    ],
+    "collocations": ["sign a treaty", "peace treaty", "ratify a treaty", "trade treaty", "under the treaty", "violate a treaty"],
+    "synonyms": ["agreement", "pact", "accord", "convention"],
+    "family": [],
+    "note": "\"Ratify\" a treaty = officially approve it. Lausanne Treaty = Lausanne Antlaşması."
+  },
+  {
+    "word": "tree",
+    "ipa": "/triː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ağaç",
+        "def": "a tall plant with a wooden trunk, branches, and usually leaves",
+        "examples": ["The kids climbed the old oak tree in the backyard.", "Hundreds of trees were knocked down in the storm."]
+      }
+    ],
+    "collocations": ["plant a tree", "family tree", "Christmas tree", "fruit tree", "tree trunk", "bark up the wrong tree"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"Family tree\" = soy ağacı. \"Bark up the wrong tree\" = look for something in the wrong place."
+  },
+  {
+    "word": "tremendous",
+    "ipa": "/trəˈmendəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "muazzam, çok büyük, müthiş",
+        "def": "very great in amount, size, or degree",
+        "examples": ["The new job puts tremendous pressure on her.", "The volunteers have done a tremendous amount of work."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "harika, mükemmel",
+        "def": "(informal) extremely good",
+        "examples": ["The band gave a tremendous performance last night."]
+      }
+    ],
+    "collocations": ["tremendous amount", "tremendous pressure", "tremendous success", "tremendous impact", "tremendous potential", "tremendous growth"],
+    "synonyms": ["enormous", "huge", "immense", "great", "remarkable"],
+    "family": [
+      { "word": "tremendously", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "trend",
+    "ipa": "/trend/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eğilim, gidişat, trend",
+        "def": "a general direction in which a situation is changing or developing",
+        "examples": ["There is a growing trend toward working from home.", "The data show a downward trend in crime rates."]
+      },
+      {
+        "pos": "noun",
+        "tr": "moda, trend",
+        "def": "a new style or fashion that is popular for a time",
+        "examples": ["She always follows the latest fashion trends."]
+      }
+    ],
+    "collocations": ["growing trend", "latest trend", "upward trend", "downward trend", "set a trend", "reverse the trend"],
+    "synonyms": ["tendency", "pattern", "movement", "fashion", "craze"],
+    "family": [
+      { "word": "trendy", "pos": "adjective" },
+      { "word": "trending", "pos": "adjective" },
+      { "word": "trendsetter", "pos": "noun" }
+    ],
+    "note": "\"Trending\" = currently popular online: \"The hashtag is trending.\""
+  },
+  {
+    "word": "trial",
+    "ipa": "/ˈtraɪəl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dava, yargılama, duruşma",
+        "def": "a formal examination of evidence in court to decide if someone is guilty of a crime",
+        "examples": ["The trial is expected to last three weeks.", "He is on trial for murder."]
+      },
+      {
+        "pos": "noun",
+        "tr": "deneme, test",
+        "def": "a test of how well something works or how good it is",
+        "examples": ["The new drug is still in clinical trials.", "Sign up for a free 30-day trial."]
+      }
+    ],
+    "collocations": ["on trial", "stand trial", "fair trial", "clinical trial", "free trial", "trial and error"],
+    "synonyms": ["case", "hearing", "test", "experiment"],
+    "family": [
+      { "word": "try", "pos": "verb" }
+    ],
+    "note": "\"Trial and error\" = learning by trying different ways until one works (deneme yanılma)."
+  },
+  {
+    "word": "tribal",
+    "ipa": "/ˈtraɪbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kabile, kabileye ait, aşiret",
+        "def": "connected with a tribe or tribes",
+        "examples": ["Tribal leaders met with government officials to discuss land rights.", "The museum displays tribal art from across Africa."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "grupçu, gruba körü körüne bağlı",
+        "def": "showing strong loyalty to your own group and distrust of others",
+        "examples": ["American politics has become increasingly tribal."]
+      }
+    ],
+    "collocations": ["tribal leaders", "tribal lands", "tribal culture", "tribal art", "tribal loyalty", "tribal politics"],
+    "synonyms": ["ethnic", "clan", "partisan"],
+    "family": [
+      { "word": "tribe", "pos": "noun" },
+      { "word": "tribalism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "tribe",
+    "ipa": "/traɪb/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kabile, aşiret, oymak",
+        "def": "a social group in a traditional society sharing the same language, culture, and often a leader",
+        "examples": ["The tribe has lived in the rainforest for centuries.", "Several Native American tribes run casinos on their land."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gayriresmi) grup, topluluk",
+        "def": "(informal) a group of people with shared interests or identity",
+        "examples": ["Online, she found her tribe of fellow science-fiction fans."]
+      }
+    ],
+    "collocations": ["Native American tribe", "indigenous tribe", "member of a tribe", "tribe leader", "find your tribe"],
+    "synonyms": ["clan", "people", "group", "community"],
+    "family": [
+      { "word": "tribal", "pos": "adjective" },
+      { "word": "tribesman", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "tribunal",
+    "ipa": "/traɪˈbjuːnl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mahkeme, divan, özel yargı kurulu",
+        "def": "a special court with authority to deal with a particular problem or disagreement",
+        "examples": ["An international tribunal was set up to try war crimes.", "The employment tribunal ruled that she had been unfairly dismissed."]
+      }
+    ],
+    "collocations": ["international tribunal", "war crimes tribunal", "military tribunal", "tribunal ruling", "appear before a tribunal"],
+    "synonyms": ["court", "panel", "board"],
+    "family": []
+  },
+  {
+    "word": "tribute",
+    "ipa": "/ˈtrɪbjuːt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "saygı, hürmet, anma",
+        "def": "an act, statement, or gift that shows respect or admiration, especially for someone who has died",
+        "examples": ["Fans left flowers outside the stadium as a tribute to the late coach.", "The concert was a tribute to the victims of the attack."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bir şeyin) kanıtı, göstergesi",
+        "def": "a sign of how good or effective something is",
+        "examples": ["Her quick recovery is a tribute to the skill of her doctors."]
+      }
+    ],
+    "collocations": ["pay tribute to", "a tribute to", "fitting tribute", "tribute concert", "tribute band", "moving tribute"],
+    "synonyms": ["homage", "honor", "praise", "testimony"],
+    "family": [],
+    "note": "\"Pay tribute to\" = publicly praise or honor (saygılarını sunmak, anmak)."
+  },
+  {
+    "word": "trick",
+    "ipa": "/trɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hile, oyun, kandırmaca; şaka",
+        "def": "something done to deceive someone, or to make them look silly as a joke",
+        "examples": ["The kids played a trick on their teacher on April Fools' Day.", "It was all a trick to get my bank details."]
+      },
+      {
+        "pos": "noun",
+        "tr": "numara, gösteri; püf noktası",
+        "def": "a clever act done to entertain, or a clever way of doing something",
+        "examples": ["The magician did a card trick.", "The trick is to add the salt at the end."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kandırmak, aldatmak, oyuna getirmek",
+        "def": "to make someone believe something false, especially to cheat them",
+        "examples": ["Scammers tricked her into sending them $5,000."]
+      }
+    ],
+    "collocations": ["play a trick on", "magic trick", "the trick is", "do the trick", "trick into", "tricks of the trade"],
+    "synonyms": ["deception", "prank", "scam", "fool", "deceive"],
+    "family": [
+      { "word": "tricky", "pos": "adjective" },
+      { "word": "trickery", "pos": "noun" }
+    ],
+    "note": "\"That should do the trick\" = that should solve the problem. \"Tricky\" = difficult, needing care."
+  },
+  {
+    "word": "trigger",
+    "ipa": "/ˈtrɪɡər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tetiklemek, yol açmak, başlatmak",
+        "def": "to make something happen suddenly",
+        "examples": ["The announcement triggered a wave of protests.", "Smoke from the toaster triggered the fire alarm."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tetik",
+        "def": "the part of a gun that you press to fire it",
+        "examples": ["He pulled the trigger, but the gun didn't fire."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tetikleyici, neden",
+        "def": "something that causes a reaction or a series of events",
+        "examples": ["Stress is a common trigger for migraines."]
+      }
+    ],
+    "collocations": ["pull the trigger", "trigger a reaction", "trigger an alarm", "trigger off", "common trigger", "trigger a debate"],
+    "synonyms": ["cause", "spark", "set off", "provoke", "prompt"],
+    "family": [
+      { "word": "triggered", "pos": "adjective" }
+    ],
+    "note": "\"Pull the trigger\" can also mean finally make a decision: \"We pulled the trigger on the deal.\""
+  },
+  {
+    "word": "trillion",
+    "ipa": "/ˈtrɪljən/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "trilyon",
+        "def": "the number 1,000,000,000,000 (one million million)",
+        "examples": ["The US national debt has passed $30 trillion.", "The economy is worth about two trillion dollars."]
+      }
+    ],
+    "collocations": ["a trillion dollars", "trillions of", "two trillion", "trillion-dollar economy"],
+    "synonyms": [],
+    "family": [],
+    "note": "No -s after a number: \"three trillion dollars\". Trillion (10¹²) = Turkish \"trilyon\"; billion (10⁹) = \"milyar\"."
+  }
+]

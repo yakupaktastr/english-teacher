@@ -1,0 +1,1181 @@
+[
+  {
+    "word": "organic",
+    "ipa": "/ɔːrˈɡænɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "organik",
+        "def": "grown or produced without artificial chemicals",
+        "examples": ["Organic vegetables usually cost more at the supermarket.", "They run a small organic farm in Vermont."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "organik, canlı kökenli",
+        "def": "produced by or coming from living things",
+        "examples": ["Compost is made from organic waste like food scraps and leaves."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "doğal, kendiliğinden gelişen",
+        "def": "developing naturally and gradually",
+        "examples": ["The company's growth has been slow and organic."]
+      }
+    ],
+    "collocations": ["organic food", "organic farming", "organic produce", "organic matter", "organic growth"],
+    "synonyms": ["natural", "chemical-free", "biological"],
+    "family": [
+      { "word": "organically", "pos": "adverb" },
+      { "word": "organism", "pos": "noun" },
+      { "word": "organ", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "organization",
+    "ipa": "/ˌɔːrɡənəˈzeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kuruluş, örgüt, teşkilat",
+        "def": "a group of people who work together for a particular purpose, such as a business or charity",
+        "examples": ["She works for a nonprofit organization that helps refugees.", "The World Health Organization issued a new warning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "düzenleme, organizasyon, düzen",
+        "def": "the act of planning or arranging something, or the way it is arranged",
+        "examples": ["The organization of the conference took months.", "His essay is full of good ideas but lacks organization."]
+      }
+    ],
+    "collocations": ["nonprofit organization", "international organization", "charitable organization", "terrorist organization", "political organization"],
+    "synonyms": ["institution", "association", "company", "body", "arrangement"],
+    "family": [
+      { "word": "organize", "pos": "verb" },
+      { "word": "organizational", "pos": "adjective" },
+      { "word": "organizer", "pos": "noun" }
+    ],
+    "note": "American spelling with z; British also uses organisation. Trap: an event is not usually called \"an organization\" in English; say event."
+  },
+  {
+    "word": "organizational",
+    "ipa": "/ˌɔːrɡənəˈzeɪʃənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "örgütsel, kurumsal",
+        "def": "connected with an organization or the way it is run",
+        "examples": ["The company went through major organizational changes last year.", "Organizational culture affects how happy employees are."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "organizasyon ile ilgili, düzenleme",
+        "def": "connected with planning and arranging things",
+        "examples": ["She has excellent organizational skills."]
+      }
+    ],
+    "collocations": ["organizational skills", "organizational structure", "organizational culture", "organizational change"],
+    "synonyms": ["institutional", "administrative", "structural"],
+    "family": [{ "word": "organization", "pos": "noun" }]
+  },
+  {
+    "word": "organize",
+    "ipa": "/ˈɔːrɡənaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "düzenlemek, organize etmek",
+        "def": "to plan and arrange an event or activity",
+        "examples": ["We're organizing a surprise party for Dad's birthday.", "Students organized a protest against the tuition increase."]
+      },
+      {
+        "pos": "verb",
+        "tr": "düzenlemek, toparlamak",
+        "def": "to arrange things in a sensible order or system",
+        "examples": ["I spent Sunday organizing my closet."]
+      },
+      {
+        "pos": "verb",
+        "tr": "örgütlemek, sendikalaşmak",
+        "def": "to form a group such as a labor union",
+        "examples": ["Workers at the warehouse are trying to organize."]
+      }
+    ],
+    "collocations": ["organize a party", "organize a meeting", "organize your thoughts", "well organized", "organize a protest"],
+    "synonyms": ["arrange", "plan", "set up", "sort", "coordinate"],
+    "family": [
+      { "word": "organization", "pos": "noun" },
+      { "word": "organized", "pos": "adjective" },
+      { "word": "organizer", "pos": "noun" },
+      { "word": "disorganized", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "organized",
+    "ipa": "/ˈɔːrɡənaɪzd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "organize, örgütlü",
+        "def": "planned and carried out by a large group of people working together",
+        "examples": ["Police believe the thefts are the work of organized crime.", "He isn't a fan of organized religion."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "düzenli, derli toplu",
+        "def": "able to plan your work and life well, or arranged in a clear way",
+        "examples": ["She's very organized and never misses a deadline.", "The report is well organized and easy to follow."]
+      }
+    ],
+    "collocations": ["organized crime", "well organized", "highly organized", "get organized", "organized religion"],
+    "synonyms": ["orderly", "efficient", "methodical", "planned"],
+    "family": [
+      { "word": "organize", "pos": "verb" },
+      { "word": "disorganized", "pos": "adjective" }
+    ],
+    "note": "Opposite: disorganized. \"Get organized\" = start planning things properly."
+  },
+  {
+    "word": "organizer",
+    "ipa": "/ˈɔːrɡənaɪzər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "organizatör, düzenleyen kişi",
+        "def": "a person who plans and arranges an event or activity",
+        "examples": ["The organizers expect 10,000 people at the festival.", "She works as a community organizer in Detroit."]
+      },
+      {
+        "pos": "noun",
+        "tr": "düzenleyici, organizer (kutu, ajanda vb.)",
+        "def": "a container or diary used to keep things in order",
+        "examples": ["I bought a desk organizer for my pens and cables."]
+      }
+    ],
+    "collocations": ["event organizer", "community organizer", "festival organizers", "union organizer"],
+    "synonyms": ["planner", "coordinator", "arranger"],
+    "family": [{ "word": "organize", "pos": "verb" }]
+  },
+  {
+    "word": "orient",
+    "ipa": "/ˈɔːrient/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yönlendirmek, -e yönelik yapmak",
+        "def": "to aim something at a particular group or purpose",
+        "examples": ["The program is oriented toward first-generation college students.", "We need to orient our marketing more to younger customers."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yönünü bulmak; alışmak, uyum sağlamak",
+        "def": "to find your position or get used to a new situation",
+        "examples": ["It took me a few days to orient myself in the new city.", "He used the mountains to orient himself."]
+      }
+    ],
+    "collocations": ["oriented toward", "orient yourself", "customer-oriented", "family-oriented", "results-oriented"],
+    "synonyms": ["direct", "aim", "adjust", "adapt"],
+    "family": [
+      { "word": "orientation", "pos": "noun" },
+      { "word": "oriented", "pos": "adjective" },
+      { "word": "disoriented", "pos": "adjective" }
+    ],
+    "note": "Very common in compound adjectives: goal-oriented, family-oriented. British English often uses orientate."
+  },
+  {
+    "word": "orientation",
+    "ipa": "/ˌɔːriənˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yönelim, eğilim",
+        "def": "a person's basic beliefs, attitudes or interests",
+        "examples": ["It is illegal to discriminate based on sexual orientation.", "The party has a strong left-wing orientation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "oryantasyon, uyum eğitimi",
+        "def": "training or information given to people who are new to a place or job",
+        "examples": ["All new employees attend a two-day orientation.", "Freshman orientation starts the week before classes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yön, konum",
+        "def": "the direction in which something faces",
+        "examples": ["The orientation of the house gives it lots of morning sun."]
+      }
+    ],
+    "collocations": ["sexual orientation", "political orientation", "new student orientation", "orientation program", "orientation session"],
+    "synonyms": ["inclination", "tendency", "induction", "direction"],
+    "family": [
+      { "word": "orient", "pos": "verb" },
+      { "word": "oriented", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "origin",
+    "ipa": "/ˈɔːrɪdʒɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "köken, kaynak, başlangıç",
+        "def": "the point where something begins, or the cause of something",
+        "examples": ["Scientists are still debating the origin of the virus.", "Many English words have Latin origins."]
+      },
+      {
+        "pos": "noun",
+        "tr": "köken, soy, memleket",
+        "def": "the country, race or social class that a person comes from",
+        "examples": ["She is of Mexican origin.", "People of all origins live in this neighborhood."]
+      }
+    ],
+    "collocations": ["country of origin", "of ... origin", "the origin of", "humble origins", "origin story"],
+    "synonyms": ["source", "root", "beginning", "background", "ancestry"],
+    "family": [
+      { "word": "original", "pos": "adjective" },
+      { "word": "originate", "pos": "verb" },
+      { "word": "originally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "original",
+    "ipa": "/əˈrɪdʒənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ilk, asıl, orijinal",
+        "def": "existing at the beginning, before any changes",
+        "examples": ["The original plan was to drive, but we flew instead.", "The house still has its original windows."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "özgün, yaratıcı",
+        "def": "new and interesting, not copied from something else",
+        "examples": ["It's a highly original novel with a surprising ending."]
+      },
+      {
+        "pos": "noun",
+        "tr": "aslı, orijinal",
+        "def": "the first version of a document or work of art, from which copies are made",
+        "examples": ["Keep the original and send them a photocopy.", "The painting in the hall is a copy; the original is in Paris."]
+      }
+    ],
+    "collocations": ["the original version", "original idea", "original plan", "highly original", "the original copy"],
+    "synonyms": ["first", "initial", "creative", "innovative", "authentic"],
+    "family": [
+      { "word": "originality", "pos": "noun" },
+      { "word": "originally", "pos": "adverb" },
+      { "word": "origin", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "originally",
+    "ipa": "/əˈrɪdʒənəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "aslen, başlangıçta, ilk başta",
+        "def": "at the beginning, before something changed",
+        "examples": ["The building was originally a train station.", "I'm originally from Ohio, but I live in Texas now."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "özgün bir şekilde",
+        "def": "in a new and creative way",
+        "examples": ["The room was decorated very originally."]
+      }
+    ],
+    "collocations": ["originally from", "originally planned", "originally built", "originally intended"],
+    "synonyms": ["initially", "at first", "first"],
+    "family": [
+      { "word": "original", "pos": "adjective" },
+      { "word": "origin", "pos": "noun" }
+    ],
+    "note": "\"Where are you originally from?\" asks where someone was born or grew up."
+  },
+  {
+    "word": "originate",
+    "ipa": "/əˈrɪdʒɪneɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kaynaklanmak, ortaya çıkmak, doğmak",
+        "def": "to start or come from a particular place, time or situation",
+        "examples": ["The tradition originated in Germany in the 16th century.", "The fire originated in the kitchen."]
+      },
+      {
+        "pos": "verb",
+        "tr": "başlatmak, yaratmak",
+        "def": "to create or start something new",
+        "examples": ["Who originated the idea of a four-day workweek?"]
+      }
+    ],
+    "collocations": ["originate in", "originate from", "originate with", "originate locally"],
+    "synonyms": ["begin", "start", "arise", "come from", "stem from"],
+    "family": [
+      { "word": "origin", "pos": "noun" },
+      { "word": "originator", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "other",
+    "ipa": "/ˈʌðər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "diğer, başka, öbür",
+        "def": "additional, different, or the remaining one(s) of a group",
+        "examples": ["Do you have this shirt in any other colors?", "The other students had already left."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "diğeri, öbürü, başkaları",
+        "def": "the remaining or a different person or thing",
+        "examples": ["Some people like summer; others prefer winter.", "One twin is shy, but the other is very outgoing."]
+      }
+    ],
+    "collocations": ["the other day", "each other", "on the other hand", "every other", "other than", "among other things"],
+    "synonyms": ["different", "alternative", "additional", "remaining"],
+    "family": [
+      { "word": "otherwise", "pos": "adverb" },
+      { "word": "another", "pos": "determiner" }
+    ],
+    "note": "\"The other day\" = a few days ago. \"Every other day\" = every second day (gün aşırı). \"Other than\" = except."
+  },
+  {
+    "word": "otherwise",
+    "ipa": "/ˈʌðərwaɪz/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yoksa, aksi takdirde",
+        "def": "used to say what will happen if something is not done or the situation is different",
+        "examples": ["Take an umbrella; otherwise you'll get soaked.", "I'm glad you called; otherwise I'd have forgotten."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bunun dışında, onun haricinde",
+        "def": "apart from what has just been mentioned",
+        "examples": ["The soup was a little cold, but otherwise the meal was excellent."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "başka türlü, farklı şekilde",
+        "def": "in a different way",
+        "examples": ["Unless you hear otherwise, the meeting will be at ten."]
+      }
+    ],
+    "collocations": ["unless otherwise stated", "think otherwise", "or otherwise", "suggest otherwise", "prove otherwise"],
+    "synonyms": ["or else", "if not", "apart from that", "differently"],
+    "family": [{ "word": "other", "pos": "adjective" }]
+  },
+  {
+    "word": "ought",
+    "ipa": "/ˈɔːt tə/",
+    "senses": [
+      {
+        "pos": "modal verb",
+        "tr": "-meli, -malı, gerekir",
+        "def": "used to say what is the right or sensible thing to do",
+        "examples": ["You ought to apologize to her.", "We ought to leave early to avoid the traffic."]
+      },
+      {
+        "pos": "modal verb",
+        "tr": "-mesi beklenir, muhtemelen",
+        "def": "used to say what you expect to be true or to happen",
+        "examples": ["The package ought to arrive by Friday."]
+      }
+    ],
+    "collocations": ["ought to", "ought not to", "ought to have done"],
+    "synonyms": ["should", "must", "had better"],
+    "family": [],
+    "note": "Always followed by to: \"ought to go\". Similar to should but a little more formal. Past: ought to have done (yapmalıydı)."
+  },
+  {
+    "word": "our",
+    "ipa": "/ɑːr/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "bizim, -imiz",
+        "def": "belonging to or connected with us",
+        "examples": ["Our apartment is on the third floor.", "We had to cancel our vacation because of the storm."]
+      }
+    ],
+    "collocations": ["our own", "our family", "our best", "in our opinion"],
+    "synonyms": [],
+    "family": [
+      { "word": "ours", "pos": "pronoun" },
+      { "word": "ourselves", "pos": "pronoun" }
+    ],
+    "note": "Often pronounced the same as \"are\" /ɑːr/ in American English; also /ˈaʊər/."
+  },
+  {
+    "word": "ours",
+    "ipa": "/ɑːrz/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "bizimki, bizimkiler",
+        "def": "the one or ones that belong to us",
+        "examples": ["Their house is bigger than ours.", "Is this car ours or the neighbors'?"]
+      }
+    ],
+    "collocations": ["a friend of ours", "ours is", "bigger than ours"],
+    "synonyms": [],
+    "family": [{ "word": "our", "pos": "determiner" }],
+    "note": "No apostrophe: ours, not our's. \"A friend of ours\" = one of our friends."
+  },
+  {
+    "word": "ourselves",
+    "ipa": "/ɑːrˈselvz/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "kendimiz(i), kendimize",
+        "def": "used when we are both the subject and the object of an action",
+        "examples": ["We really enjoyed ourselves at the party.", "We should be proud of ourselves for finishing on time."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "(vurgu) kendimiz, bizzat",
+        "def": "used to emphasize \"we\" or \"us\"",
+        "examples": ["We built the deck ourselves."]
+      }
+    ],
+    "collocations": ["by ourselves", "enjoy ourselves", "ask ourselves", "for ourselves", "remind ourselves"],
+    "synonyms": [],
+    "family": [{ "word": "our", "pos": "determiner" }],
+    "note": "\"By ourselves\" = alone or without help."
+  },
+  {
+    "word": "out",
+    "ipa": "/aʊt/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "dışarı, dışarıda",
+        "def": "away from the inside of a place, or not at home",
+        "examples": ["She opened the box and took out a letter.", "Sorry, he's out right now; can I take a message?"]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bitmiş, tükenmiş; sönmüş",
+        "def": "no longer available, or no longer burning or shining",
+        "examples": ["We're out of milk, so I'll go to the store.", "The lights went out during the storm."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-den dışarı",
+        "def": "(informal) through something to the outside",
+        "examples": ["He looked out the window at the rain."]
+      }
+    ],
+    "collocations": ["go out", "find out", "out of", "run out of", "eat out", "out loud"],
+    "synonyms": ["outside", "away", "absent"],
+    "family": [
+      { "word": "outer", "pos": "adjective" },
+      { "word": "outside", "pos": "adverb" }
+    ],
+    "note": "\"Look out the window\" is American; British English prefers \"out of the window\". \"Be out of something\" = have none left."
+  },
+  {
+    "word": "outbreak",
+    "ipa": "/ˈaʊtbreɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "salgın, baş gösterme, patlak verme",
+        "def": "the sudden start of something unpleasant, especially a disease or violence",
+        "examples": ["Health officials are investigating an outbreak of food poisoning.", "Thousands fled the region after the outbreak of war."]
+      }
+    ],
+    "collocations": ["an outbreak of", "a disease outbreak", "the outbreak of war", "contain an outbreak", "a measles outbreak"],
+    "synonyms": ["eruption", "epidemic", "flare-up", "start"],
+    "family": [{ "word": "break out", "pos": "verb" }],
+    "note": "The verb is \"break out\": \"War broke out in 1939\"."
+  },
+  {
+    "word": "outcome",
+    "ipa": "/ˈaʊtkʌm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sonuç, netice",
+        "def": "the result or effect of an action, process or event",
+        "examples": ["We're still waiting for the outcome of the election.", "Early treatment leads to better outcomes for patients."]
+      }
+    ],
+    "collocations": ["the final outcome", "a positive outcome", "the likely outcome", "affect the outcome", "patient outcomes"],
+    "synonyms": ["result", "consequence", "effect", "upshot"],
+    "family": []
+  },
+  {
+    "word": "outdoor",
+    "ipa": "/ˈaʊtdɔːr/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "açık hava, dış mekân",
+        "def": "used, happening or located outside rather than inside a building",
+        "examples": ["The hotel has a heated outdoor pool.", "She loves outdoor activities like hiking and kayaking."]
+      }
+    ],
+    "collocations": ["outdoor activities", "outdoor pool", "outdoor concert", "outdoor seating", "outdoor clothing"],
+    "synonyms": ["open-air", "outside", "external"],
+    "family": [{ "word": "outdoors", "pos": "adverb" }],
+    "note": "Outdoor is an adjective before a noun (outdoor café); outdoors is an adverb (eat outdoors). Opposite: indoor."
+  },
+  {
+    "word": "outdoors",
+    "ipa": "/ˌaʊtˈdɔːrz/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "dışarıda, açık havada",
+        "def": "outside, not in a building",
+        "examples": ["The kids played outdoors until it got dark.", "In summer we often eat outdoors on the patio."]
+      },
+      {
+        "pos": "noun",
+        "tr": "doğa, açık hava",
+        "def": "the countryside and nature, away from buildings",
+        "examples": ["He's a lover of the great outdoors."]
+      }
+    ],
+    "collocations": ["spend time outdoors", "the great outdoors", "go outdoors", "work outdoors"],
+    "synonyms": ["outside", "in the open air"],
+    "family": [{ "word": "outdoor", "pos": "adjective" }],
+    "note": "Opposite: indoors."
+  },
+  {
+    "word": "outer",
+    "ipa": "/ˈaʊtər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "dış, dıştaki",
+        "def": "on the outside of something, or far from the center",
+        "examples": ["Remove the outer leaves of the cabbage.", "They live in the outer suburbs of the city."]
+      }
+    ],
+    "collocations": ["outer space", "outer layer", "outer edge", "outer wall", "outer suburbs"],
+    "synonyms": ["external", "exterior", "outside", "outlying"],
+    "family": [{ "word": "outermost", "pos": "adjective" }],
+    "note": "Opposite: inner. Used only before a noun."
+  },
+  {
+    "word": "outfit",
+    "ipa": "/ˈaʊtfɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kıyafet, kombin",
+        "def": "a set of clothes worn together, especially for a particular occasion",
+        "examples": ["She bought a new outfit for the job interview.", "I love your outfit; where did you get the jacket?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gayriresmi) ekip, şirket, grup",
+        "def": "a group of people working together, such as a small company or band",
+        "examples": ["He works for a small software outfit in Seattle."]
+      }
+    ],
+    "collocations": ["a new outfit", "a matching outfit", "wedding outfit", "change your outfit", "a small outfit"],
+    "synonyms": ["clothes", "costume", "attire", "company", "team"],
+    "family": []
+  },
+  {
+    "word": "outing",
+    "ipa": "/ˈaʊtɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gezi, gezinti, kısa tur",
+        "def": "a short trip for pleasure or education, usually with a group",
+        "examples": ["The class went on an outing to the science museum.", "A trip to the zoo makes a great family outing."]
+      }
+    ],
+    "collocations": ["a family outing", "a school outing", "go on an outing", "a day outing"],
+    "synonyms": ["trip", "excursion", "day out", "tour"],
+    "family": []
+  },
+  {
+    "word": "outlet",
+    "ipa": "/ˈaʊtlet/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "satış noktası, mağaza, outlet",
+        "def": "a store that sells a company's goods, often cheaply, or a business that sells or publishes something",
+        "examples": ["We bought cheap sneakers at the outlet mall.", "Several news outlets reported the story."]
+      },
+      {
+        "pos": "noun",
+        "tr": "priz",
+        "def": "a place in a wall where you can connect electrical equipment",
+        "examples": ["Is there an outlet near the desk where I can charge my phone?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "(duygu, enerji için) çıkış yolu",
+        "def": "a way of expressing or releasing strong feelings or energy",
+        "examples": ["Painting is a good outlet for stress."]
+      }
+    ],
+    "collocations": ["news outlet", "media outlets", "outlet mall", "retail outlet", "electrical outlet", "an outlet for"],
+    "synonyms": ["store", "shop", "socket", "release", "channel"],
+    "family": [],
+    "note": "In American English, an electrical outlet is what British people call a socket or power point."
+  },
+  {
+    "word": "outline",
+    "ipa": "/ˈaʊtlaɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ana hatlar, taslak, özet",
+        "def": "a description of the main facts or points of something, without the details",
+        "examples": ["Write a short outline of your essay before you start.", "The manager gave us a brief outline of the plan."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dış hat, silüet, kontur",
+        "def": "a line that shows the shape or edge of something",
+        "examples": ["We could see the outline of the mountains against the sky."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ana hatlarıyla anlatmak, özetlemek",
+        "def": "to describe the main facts or points of something",
+        "examples": ["The governor outlined her plans for the new budget."]
+      }
+    ],
+    "collocations": ["a brief outline", "in outline", "outline a plan", "outline the main points", "broad outline"],
+    "synonyms": ["summary", "overview", "sketch", "silhouette", "describe"],
+    "family": []
+  },
+  {
+    "word": "outlook",
+    "ipa": "/ˈaʊtlʊk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bakış açısı, hayata bakış",
+        "def": "a person's general attitude to life and the world",
+        "examples": ["Despite her illness, she has a very positive outlook.", "Traveling abroad changed his whole outlook on life."]
+      },
+      {
+        "pos": "noun",
+        "tr": "beklenti, görünüm, öngörü",
+        "def": "what is likely to happen in the future",
+        "examples": ["The economic outlook for next year is uncertain.", "The weather outlook for the weekend is sunny."]
+      }
+    ],
+    "collocations": ["a positive outlook", "outlook on life", "economic outlook", "the outlook for", "a bleak outlook"],
+    "synonyms": ["attitude", "perspective", "view", "prospects", "forecast"],
+    "family": []
+  },
+  {
+    "word": "output",
+    "ipa": "/ˈaʊtpʊt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "üretim, çıktı, verim",
+        "def": "the amount of something that a person, machine or organization produces",
+        "examples": ["The factory doubled its output last year.", "Industrial output fell by 3% in March."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bilgisayar) çıktı",
+        "def": "information produced by a computer or program",
+        "examples": ["Check the output of the program for errors."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çıktı vermek, üretmek",
+        "def": "to produce information or power",
+        "examples": ["The software can output the results as a spreadsheet."]
+      }
+    ],
+    "collocations": ["increase output", "industrial output", "economic output", "power output", "total output"],
+    "synonyms": ["production", "yield", "productivity", "result"],
+    "family": [],
+    "note": "Opposite: input. Irregular verb: output – output – output (outputted is also used)."
+  },
+  {
+    "word": "outrage",
+    "ipa": "/ˈaʊtreɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öfke, infial, büyük tepki",
+        "def": "a strong feeling of shock and anger",
+        "examples": ["The decision caused public outrage.", "Parents expressed outrage at the school's response."]
+      },
+      {
+        "pos": "noun",
+        "tr": "rezalet, skandal, vahşet",
+        "def": "an act or event that is very shocking and wrong",
+        "examples": ["It's an outrage that families have to wait years for housing."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çileden çıkarmak, öfkelendirmek",
+        "def": "to make someone very shocked and angry",
+        "examples": ["Fans were outraged by the price of the tickets."]
+      }
+    ],
+    "collocations": ["public outrage", "express outrage", "cause outrage", "moral outrage", "be outraged by"],
+    "synonyms": ["anger", "fury", "indignation", "scandal", "infuriate"],
+    "family": [
+      { "word": "outrageous", "pos": "adjective" },
+      { "word": "outraged", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "outside",
+    "ipa": "/ˈaʊtsaɪd/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "dışarı, dışarıda",
+        "def": "not in a building, room or container",
+        "examples": ["Let's eat outside; it's a beautiful day.", "Wait outside while I get changed."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-in dışında, -in önünde",
+        "def": "on or to the outside of something, or not within a particular area or limit",
+        "examples": ["I'll meet you outside the theater at seven.", "We live just outside Boston."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dış taraf, dış yüzey",
+        "def": "the outer side or surface of something",
+        "examples": ["The outside of the house needs painting."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "dış, dışarıdan",
+        "def": "on the outer side, or coming from beyond a particular group",
+        "examples": ["The company hired an outside consultant to review its finances."]
+      }
+    ],
+    "collocations": ["go outside", "outside the box", "outside help", "on the outside", "outside world", "outside of"],
+    "synonyms": ["outdoors", "exterior", "external", "beyond"],
+    "family": [
+      { "word": "outsider", "pos": "noun" },
+      { "word": "out", "pos": "adverb" }
+    ],
+    "note": "\"Think outside the box\" = think creatively. Americans often say \"outside of\"."
+  },
+  {
+    "word": "outsider",
+    "ipa": "/ˌaʊtˈsaɪdər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yabancı, dışarıdan biri, grubun dışındaki kişi",
+        "def": "a person who is not accepted as part of a group or society, or who is not involved in it",
+        "examples": ["As a new kid at school, he felt like an outsider.", "To an outsider, the rules of the game seem confusing."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kazanma şansı düşük aday",
+        "def": "a person or team with little chance of winning",
+        "examples": ["She entered the race as a political outsider but won easily."]
+      }
+    ],
+    "collocations": ["feel like an outsider", "a complete outsider", "political outsider", "an outsider's view"],
+    "synonyms": ["stranger", "newcomer", "foreigner", "underdog"],
+    "family": [{ "word": "outside", "pos": "adverb" }],
+    "note": "Opposite: insider."
+  },
+  {
+    "word": "outstanding",
+    "ipa": "/aʊtˈstændɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "olağanüstü, üstün, seçkin",
+        "def": "extremely good; excellent",
+        "examples": ["She received an award for outstanding achievement in science.", "The service at the restaurant was outstanding."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ödenmemiş, halledilmemiş, bekleyen",
+        "def": "not yet paid, done or solved",
+        "examples": ["You have an outstanding balance of $200 on your account.", "There are still a few outstanding issues to discuss."]
+      }
+    ],
+    "collocations": ["outstanding achievement", "outstanding performance", "outstanding debt", "outstanding issues", "truly outstanding"],
+    "synonyms": ["excellent", "exceptional", "superb", "unpaid", "unresolved"],
+    "family": [{ "word": "outstandingly", "pos": "adverb" }]
+  },
+  {
+    "word": "oven",
+    "ipa": "/ˈʌvn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fırın",
+        "def": "the part of a stove, shaped like a box with a door, in which food is baked or heated",
+        "examples": ["Preheat the oven to 350 degrees.", "Take the bread out of the oven before it burns."]
+      }
+    ],
+    "collocations": ["preheat the oven", "in the oven", "microwave oven", "pizza oven", "oven mitt"],
+    "synonyms": [],
+    "family": [],
+    "note": "In the US, the whole appliance is a stove or range; the oven is the box part. A bakery shop is a bakery, not an oven."
+  },
+  {
+    "word": "over",
+    "ipa": "/ˈəʊvər/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "üstünde, üzerinde, üzerine",
+        "def": "above something, or covering it",
+        "examples": ["There's a lamp over the dining table.", "She put a blanket over the sleeping child."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-den fazla; boyunca",
+        "def": "more than, or during a period of time",
+        "examples": ["Over 200 people came to the meeting.", "Prices have risen over the past year."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bitmiş, sona ermiş",
+        "def": "finished",
+        "examples": ["The game was over by ten o'clock."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "karşıya, öbür tarafa; buraya, oraya",
+        "def": "across a space, or to a particular place",
+        "examples": ["Come over to my place after work."]
+      }
+    ],
+    "collocations": ["all over", "over there", "over and over", "take over", "get over", "think it over"],
+    "synonyms": ["above", "across", "more than", "finished"],
+    "family": [],
+    "note": "\"Over and over\" = again and again. \"Get over something\" = recover from it."
+  },
+  {
+    "word": "overall",
+    "ipa": "/ˌəʊvərˈɔːl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "genel, toplam, bütün",
+        "def": "including everything or everyone; general",
+        "examples": ["The overall cost of the project was $2 million.", "My overall impression of the city was very positive."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "genel olarak, toplamda, genelde",
+        "def": "in total, or when everything is considered",
+        "examples": ["Overall, I think the trip was a success.", "She finished third overall."]
+      }
+    ],
+    "collocations": ["overall cost", "overall impression", "overall winner", "overall performance", "the overall picture"],
+    "synonyms": ["general", "total", "whole", "on the whole", "altogether"],
+    "family": [],
+    "note": "Overalls (plural noun) = work clothes with a bib and straps (tulum)."
+  },
+  {
+    "word": "overcome",
+    "ipa": "/ˌəʊvərˈkʌm/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "üstesinden gelmek, aşmak, yenmek",
+        "def": "to succeed in dealing with a problem or difficulty",
+        "examples": ["She overcame her fear of flying with the help of a therapist.", "Together we can overcome these challenges."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(duygu, duman vb.) etkisi altına almak, bitap düşürmek",
+        "def": "to affect someone so strongly that they cannot act or think normally",
+        "examples": ["He was overcome with emotion during his speech.", "Two firefighters were overcome by smoke."]
+      }
+    ],
+    "collocations": ["overcome a problem", "overcome obstacles", "overcome fear", "overcome difficulties", "overcome with emotion"],
+    "synonyms": ["conquer", "beat", "get over", "defeat", "overwhelm"],
+    "family": [],
+    "note": "Irregular: overcome – overcame – overcome."
+  },
+  {
+    "word": "overlap",
+    "ipa": "/ˌəʊvərˈlæp/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "örtüşmek, çakışmak, üst üste binmek",
+        "def": "if two things overlap, part of one covers part of the other, or they share some features or time",
+        "examples": ["The two meetings overlap, so I can't attend both.", "Our responsibilities overlap in some areas."]
+      },
+      {
+        "pos": "noun",
+        "tr": "örtüşme, çakışma",
+        "def": "the amount or part by which things overlap",
+        "examples": ["There is a lot of overlap between the two courses."]
+      }
+    ],
+    "collocations": ["overlap with", "considerable overlap", "overlap between", "partly overlap", "slightly overlap"],
+    "synonyms": ["coincide", "intersect", "clash", "duplication"],
+    "family": [{ "word": "overlapping", "pos": "adjective" }],
+    "note": "Stress: verb overLAP, noun OVERlap /ˈəʊvərlæp/."
+  },
+  {
+    "word": "overlook",
+    "ipa": "/ˌəʊvərˈlʊk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "gözden kaçırmak, atlamak",
+        "def": "to fail to notice or consider something",
+        "examples": ["The report overlooks some important facts.", "It's easy to overlook small errors when you're tired."]
+      },
+      {
+        "pos": "verb",
+        "tr": "görmezden gelmek, göz yummak",
+        "def": "to choose to ignore a mistake or bad behavior",
+        "examples": ["I'll overlook your lateness this time, but don't let it happen again."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(yukarıdan) bakmak, manzaralı olmak",
+        "def": "to have a view of a place from above",
+        "examples": ["Our hotel room overlooked the harbor."]
+      }
+    ],
+    "collocations": ["easy to overlook", "often overlooked", "overlook the fact that", "a room overlooking the sea"],
+    "synonyms": ["miss", "ignore", "neglect", "disregard", "look out on"],
+    "family": [],
+    "note": "Trap: overlook does NOT mean \"oversee\" (supervise). It means fail to notice."
+  },
+  {
+    "word": "overly",
+    "ipa": "/ˈəʊvərli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "aşırı, fazlasıyla, gereğinden fazla",
+        "def": "too much; more than is normal or suitable",
+        "examples": ["I wasn't overly impressed by the new design.", "Don't be overly critical of yourself."]
+      }
+    ],
+    "collocations": ["overly concerned", "overly optimistic", "not overly", "overly sensitive", "overly complicated"],
+    "synonyms": ["too", "excessively", "unduly"],
+    "family": [],
+    "note": "\"Not overly\" is a polite understatement: \"not overly happy\" = rather unhappy."
+  },
+  {
+    "word": "overnight",
+    "ipa": "/ˌəʊvərˈnaɪt/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "gece boyunca, geceleyin",
+        "def": "during or for the night",
+        "examples": ["Let the dough rest in the fridge overnight.", "We stayed overnight at a motel near the border."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bir gecede, birdenbire",
+        "def": "very quickly or suddenly",
+        "examples": ["The video made her famous overnight."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "bir gecelik, gece boyunca süren",
+        "def": "happening or lasting for one night",
+        "examples": ["She packed an overnight bag for the trip."]
+      }
+    ],
+    "collocations": ["stay overnight", "overnight stay", "overnight success", "overnight bag", "overnight flight"],
+    "synonyms": ["through the night", "suddenly", "instantly"],
+    "family": [],
+    "note": "\"An overnight success\" = someone who becomes successful very suddenly."
+  },
+  {
+    "word": "overseas",
+    "ipa": "/ˌəʊvərˈsiːz/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yurt dışında, yurt dışına",
+        "def": "in or to a foreign country, especially one across the sea",
+        "examples": ["He spent two years working overseas.", "Many graduates move overseas to find better jobs."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yurt dışı, yabancı, denizaşırı",
+        "def": "connected with foreign countries",
+        "examples": ["The university attracts thousands of overseas students."]
+      }
+    ],
+    "collocations": ["live overseas", "travel overseas", "overseas students", "overseas markets", "from overseas"],
+    "synonyms": ["abroad", "foreign", "international"],
+    "family": [],
+    "note": "As an adverb, no preposition: \"go overseas\", not \"go to overseas\" (same as abroad)."
+  },
+  {
+    "word": "oversee",
+    "ipa": "/ˌəʊvərˈsiː/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "denetlemek, gözetmek, yönetmek",
+        "def": "to watch and manage a job or activity to make sure it is done correctly",
+        "examples": ["She oversees a team of twenty engineers.", "An independent body will oversee the election."]
+      }
+    ],
+    "collocations": ["oversee a project", "oversee operations", "oversee the work", "be responsible for overseeing"],
+    "synonyms": ["supervise", "manage", "monitor", "run"],
+    "family": [
+      { "word": "oversight", "pos": "noun" },
+      { "word": "overseer", "pos": "noun" }
+    ],
+    "note": "Irregular: oversee – oversaw – overseen. Oversight means both \"supervision\" and \"a mistake from not noticing\"."
+  },
+  {
+    "word": "overturn",
+    "ipa": "/ˌəʊvərˈtɜːrn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(karar) bozmak, iptal etmek",
+        "def": "to officially change a legal decision so that it is no longer valid",
+        "examples": ["The Supreme Court overturned the lower court's ruling.", "His conviction was overturned on appeal."]
+      },
+      {
+        "pos": "verb",
+        "tr": "devrilmek, devirmek, ters dönmek",
+        "def": "to turn over or make something turn over so that its top is at the bottom or side",
+        "examples": ["A truck overturned on the highway, blocking two lanes."]
+      }
+    ],
+    "collocations": ["overturn a decision", "overturn a ruling", "overturn a conviction", "the car overturned"],
+    "synonyms": ["reverse", "cancel", "overrule", "capsize", "flip"],
+    "family": []
+  },
+  {
+    "word": "overwhelm",
+    "ipa": "/ˌəʊvərˈwelm/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(duygu) sarmak, alt üst etmek, bunaltmak",
+        "def": "to have such a strong emotional effect on someone that they cannot think or act normally",
+        "examples": ["She was overwhelmed by all the kind messages.", "Don't let the workload overwhelm you; take it one step at a time."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ezmek, alt etmek, kaldıramayacağı kadar yüklenmek",
+        "def": "to defeat someone completely, or to be too much for a system to deal with",
+        "examples": ["Hospitals were overwhelmed with patients during the flu season."]
+      }
+    ],
+    "collocations": ["be overwhelmed by", "be overwhelmed with", "feel overwhelmed", "completely overwhelmed"],
+    "synonyms": ["overcome", "overpower", "swamp", "flood", "crush"],
+    "family": [
+      { "word": "overwhelming", "pos": "adjective" },
+      { "word": "overwhelmingly", "pos": "adverb" },
+      { "word": "overwhelmed", "pos": "adjective" }
+    ],
+    "note": "\"I feel overwhelmed\" is a very common way to say you have too much to deal with."
+  },
+  {
+    "word": "overwhelming",
+    "ipa": "/ˌəʊvərˈwelmɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ezici, çok büyük, karşı konulmaz",
+        "def": "very great or very strong; too strong to resist or deal with",
+        "examples": ["The proposal won the overwhelming support of voters.", "Starting a new job in a new city can be overwhelming."]
+      }
+    ],
+    "collocations": ["overwhelming majority", "overwhelming evidence", "overwhelming support", "overwhelming desire", "a bit overwhelming"],
+    "synonyms": ["huge", "massive", "crushing", "irresistible"],
+    "family": [
+      { "word": "overwhelm", "pos": "verb" },
+      { "word": "overwhelmingly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "owe",
+    "ipa": "/əʊ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "borçlu olmak",
+        "def": "to have to pay back money that you borrowed or pay for something you received",
+        "examples": ["I still owe my brother $50.", "How much do I owe you for the tickets?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(minnet) borçlu olmak, -e borçlu olmak",
+        "def": "to feel that you should do something for someone, or to have something because of someone",
+        "examples": ["You owe me an apology.", "She owes her success to her parents' support."]
+      }
+    ],
+    "collocations": ["owe money", "owe someone a favor", "owe an apology", "owe it to someone", "owe something to"],
+    "synonyms": ["be in debt", "be indebted", "be obliged"],
+    "family": [{ "word": "owing to", "pos": "preposition" }],
+    "note": "\"I owe you one\" (informal) = thanks, I'll return the favor. \"Owing to\" = because of (formal)."
+  },
+  {
+    "word": "own",
+    "ipa": "/əʊn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kendi, kendine ait",
+        "def": "used after a possessive to emphasize that something belongs to a particular person",
+        "examples": ["I'd love to have my own room.", "She runs her own business from home."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "kendininki",
+        "def": "used to mean something belonging to a particular person",
+        "examples": ["The apartment isn't rented; it's their own.", "He moved out and got a place of his own."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sahip olmak",
+        "def": "to have something that belongs to you, especially because you bought it",
+        "examples": ["They own a small house near the lake."]
+      }
+    ],
+    "collocations": ["on your own", "my own", "of your own", "own a car", "own up to", "come into its own"],
+    "synonyms": ["personal", "individual", "possess", "have"],
+    "family": [
+      { "word": "owner", "pos": "noun" },
+      { "word": "ownership", "pos": "noun" }
+    ],
+    "note": "\"On my own\" = alone or without help. \"Own up to something\" = admit a mistake."
+  },
+  {
+    "word": "owner",
+    "ipa": "/ˈəʊnər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sahip, mal sahibi",
+        "def": "a person who owns something",
+        "examples": ["The owner of the restaurant greeted us at the door.", "Dog owners must keep their pets on a leash in the park."]
+      }
+    ],
+    "collocations": ["business owner", "home owner", "dog owner", "the rightful owner", "previous owner", "owner of"],
+    "synonyms": ["proprietor", "possessor", "holder"],
+    "family": [
+      { "word": "own", "pos": "verb" },
+      { "word": "ownership", "pos": "noun" }
+    ]
+  }
+]

@@ -1,0 +1,600 @@
+[
+  {
+    "word": "guard",
+    "ipa": "/ɡɑːrd/",
+    "senses": [
+      { "pos": "noun", "tr": "bekçi, muhafız, gardiyan", "def": "a person whose job is to protect a place or people, or to stop prisoners from escaping", "examples": ["A security guard checked our bags at the entrance.", "The prisoner attacked a guard and tried to escape."] },
+      { "pos": "noun", "tr": "nöbet, tetikte olma", "def": "the state of watching carefully to protect someone or be ready for danger", "examples": ["Soldiers were on guard outside the palace.", "The question caught me off guard."] },
+      { "pos": "verb", "tr": "korumak, beklemek, nöbet tutmak", "def": "to protect a place or person from danger, or to watch someone to stop them escaping", "examples": ["Two dogs guard the farm at night.", "She closely guards her privacy."] }
+    ],
+    "collocations": ["security guard", "on guard", "catch somebody off guard", "let your guard down", "heavily guarded", "guard against"],
+    "synonyms": ["protect", "defend", "watch over", "sentry", "security officer"],
+    "family": [{ "word": "guardian", "pos": "noun" }, { "word": "guarded", "pos": "adjective" }, { "word": "safeguard", "pos": "verb" }],
+    "note": "\"Guard against something\" = try to prevent it. \"Guarded\" = careful not to show feelings (a guarded response)."
+  },
+  {
+    "word": "guerrilla",
+    "ipa": "/ɡəˈrɪlə/",
+    "senses": [
+      { "pos": "noun", "tr": "gerilla", "def": "a member of a small, unofficial armed group that fights against a government or army", "examples": ["The guerrillas hid in the mountains and attacked army convoys.", "Thousands of guerrillas laid down their weapons under the peace deal."] }
+    ],
+    "collocations": ["guerrilla warfare", "guerrilla fighters", "guerrilla group", "guerrilla movement", "guerrilla marketing"],
+    "synonyms": ["rebel", "insurgent", "militant", "fighter"],
+    "family": [],
+    "note": "Also used as an adjective: \"guerrilla marketing\" = cheap, surprising advertising methods."
+  },
+  {
+    "word": "guess",
+    "ipa": "/ɡes/",
+    "senses": [
+      { "pos": "verb", "tr": "tahmin etmek", "def": "to give an answer or opinion without knowing all the facts", "examples": ["Can you guess how old she is?", "I guessed the answer correctly."] },
+      { "pos": "verb", "tr": "sanırım, galiba (I guess)", "def": "(informal, I guess) used to say you think or suppose something is true", "examples": ["I guess we should leave before the traffic gets bad.", "It's not perfect, but I guess it'll do."] },
+      { "pos": "noun", "tr": "tahmin", "def": "an attempt to give an answer when you are not sure", "examples": ["My guess is that he won't come.", "Take a guess — you might be right."] }
+    ],
+    "collocations": ["take a guess", "make a guess", "wild guess", "educated guess", "your guess is as good as mine", "I guess so"],
+    "synonyms": ["estimate", "suppose", "speculate", "assume"],
+    "family": [{ "word": "guesswork", "pos": "noun" }],
+    "note": "\"I guess\" is very common in American speech and means \"I think/suppose\". \"Guess what?\" introduces surprising news."
+  },
+  {
+    "word": "guest",
+    "ipa": "/ɡest/",
+    "senses": [
+      { "pos": "noun", "tr": "misafir, konuk", "def": "a person you have invited to your home or to an event", "examples": ["We're having twenty guests for dinner on Saturday.", "Wedding guests started arriving at noon."] },
+      { "pos": "noun", "tr": "otel müşterisi; (programa) konuk", "def": "a person staying at a hotel, or someone invited to appear on a TV or radio show", "examples": ["Hotel guests can use the pool for free.", "Tonight's guest is a famous chef."] }
+    ],
+    "collocations": ["invited guest", "guest of honor", "special guest", "guest speaker", "be my guest", "guest room"],
+    "synonyms": ["visitor", "caller", "invitee"],
+    "family": [{ "word": "guesthouse", "pos": "noun" }],
+    "note": "\"Be my guest\" = go ahead, you're welcome to do it."
+  },
+  {
+    "word": "guidance",
+    "ipa": "/ˈɡaɪdns/",
+    "senses": [
+      { "pos": "noun", "tr": "rehberlik, yol gösterme, yönlendirme", "def": "helpful advice or information, usually from someone with more experience", "examples": ["Students can get career guidance from the school counselor.", "Under her guidance, the team improved quickly."] }
+    ],
+    "collocations": ["provide guidance", "seek guidance", "under the guidance of", "career guidance", "clear guidance", "guidance counselor"],
+    "synonyms": ["advice", "direction", "help", "counsel", "leadership"],
+    "family": [{ "word": "guide", "pos": "verb" }, { "word": "guided", "pos": "adjective" }],
+    "note": "Uncountable: \"some guidance\", not \"a guidance\"."
+  },
+  {
+    "word": "guide",
+    "ipa": "/ɡaɪd/",
+    "senses": [
+      { "pos": "noun", "tr": "rehber, kılavuz", "def": "a person who shows tourists or visitors around a place", "examples": ["Our tour guide spoke four languages.", "We hired a local guide to take us up the mountain."] },
+      { "pos": "noun", "tr": "rehber kitap, kılavuz", "def": "a book or document that gives information or instructions about something", "examples": ["I bought a guide to the restaurants in Chicago.", "The website has a step-by-step guide to setting up your account."] },
+      { "pos": "verb", "tr": "yol göstermek, rehberlik etmek, yönlendirmek", "def": "to show someone the way, or to influence and direct someone's actions or decisions", "examples": ["The nurse guided him gently to his seat.", "Let your values guide your decisions."] }
+    ],
+    "collocations": ["tour guide", "travel guide", "a guide to", "step-by-step guide", "guided tour", "guide somebody through"],
+    "synonyms": ["lead", "direct", "steer", "handbook", "manual"],
+    "family": [{ "word": "guidance", "pos": "noun" }, { "word": "guideline", "pos": "noun" }, { "word": "guided", "pos": "adjective" }, { "word": "misguided", "pos": "adjective" }]
+  },
+  {
+    "word": "guideline",
+    "ipa": "/ˈɡaɪdlaɪn/",
+    "senses": [
+      { "pos": "noun", "tr": "yönerge, kılavuz ilke, esas", "def": "an official rule or piece of advice about how something should be done", "examples": ["The government issued new guidelines on healthy eating.", "Please follow the safety guidelines when using the equipment."] }
+    ],
+    "collocations": ["follow guidelines", "issue guidelines", "strict guidelines", "clear guidelines", "federal guidelines"],
+    "synonyms": ["rule", "instruction", "recommendation", "principle", "standard"],
+    "family": [{ "word": "guide", "pos": "noun" }],
+    "note": "Usually plural."
+  },
+  {
+    "word": "guilt",
+    "ipa": "/ɡɪlt/",
+    "senses": [
+      { "pos": "noun", "tr": "suçluluk duygusu, vicdan azabı", "def": "the bad feeling you have when you know you have done something wrong", "examples": ["She felt a lot of guilt about missing her son's game.", "He was overcome with guilt after lying to his friend."] },
+      { "pos": "noun", "tr": "suçluluk, suç", "def": "the fact of having broken a law or done something wrong", "examples": ["The evidence proved his guilt beyond doubt."] }
+    ],
+    "collocations": ["feel guilt", "a sense of guilt", "guilt trip", "admit guilt", "overcome with guilt"],
+    "synonyms": ["remorse", "shame", "regret", "culpability"],
+    "family": [{ "word": "guilty", "pos": "adjective" }, { "word": "guiltless", "pos": "adjective" }],
+    "note": "\"Guilt-trip somebody\" (informal) = make someone feel guilty so they do what you want."
+  },
+  {
+    "word": "guilty",
+    "ipa": "/ˈɡɪlti/",
+    "senses": [
+      { "pos": "adjective", "tr": "suçlu hisseden, vicdan azabı çeken", "def": "feeling bad because you have done something wrong or failed to do something", "examples": ["I feel guilty about not calling my mom more often.", "He had a guilty look on his face."] },
+      { "pos": "adjective", "tr": "suçlu", "def": "having broken a law, especially as decided by a court", "examples": ["The jury found her guilty of fraud.", "He pleaded guilty to drunk driving."] }
+    ],
+    "collocations": ["feel guilty", "found guilty", "plead guilty", "guilty of", "guilty conscience", "guilty pleasure"],
+    "synonyms": ["ashamed", "remorseful", "responsible", "culpable"],
+    "family": [{ "word": "guilt", "pos": "noun" }, { "word": "guiltily", "pos": "adverb" }],
+    "note": "Guilty OF a crime; feel guilty ABOUT something. A \"guilty pleasure\" is something you enjoy but feel a little embarrassed about."
+  },
+  {
+    "word": "guitar",
+    "ipa": "/ɡɪˈtɑːr/",
+    "senses": [
+      { "pos": "noun", "tr": "gitar", "def": "a musical instrument with six strings that you play with your fingers or a pick", "examples": ["He's been learning to play the guitar for two years.", "She sang while her brother played guitar."] }
+    ],
+    "collocations": ["play the guitar", "electric guitar", "acoustic guitar", "bass guitar", "guitar player"],
+    "synonyms": [],
+    "family": [{ "word": "guitarist", "pos": "noun" }]
+  },
+  {
+    "word": "gun",
+    "ipa": "/ɡʌn/",
+    "senses": [
+      { "pos": "noun", "tr": "silah, tabanca, tüfek", "def": "a weapon that fires bullets", "examples": ["The robber pointed a gun at the cashier.", "The debate over gun control continues in Congress."] },
+      { "pos": "noun", "tr": "tabanca (alet)", "def": "a tool that forces out a substance using pressure", "examples": ["Use a glue gun to attach the decorations."] }
+    ],
+    "collocations": ["fire a gun", "gun control", "gun violence", "point a gun at", "jump the gun", "stick to your guns"],
+    "synonyms": ["firearm", "weapon", "pistol", "rifle"],
+    "family": [{ "word": "gunman", "pos": "noun" }, { "word": "gunfire", "pos": "noun" }, { "word": "gunshot", "pos": "noun" }],
+    "note": "\"Jump the gun\" = do something too early. \"Stick to your guns\" = refuse to change your opinion."
+  },
+  {
+    "word": "gut",
+    "ipa": "/ɡʌt/",
+    "senses": [
+      { "pos": "noun", "tr": "bağırsak; mide, göbek", "def": "the tube that food passes through after the stomach, or (informal) the stomach or belly", "examples": ["Healthy gut bacteria help with digestion.", "He got a punch in the gut."] },
+      { "pos": "noun", "tr": "cesaret, yüreklilik (guts)", "def": "(plural, informal) the courage to do something difficult", "examples": ["It takes guts to quit a stable job and start a business."] },
+      { "pos": "adjective", "tr": "içgüdüsel, sezgisel", "def": "based on feeling or instinct rather than reasoning", "examples": ["My gut feeling is that we shouldn't trust him.", "She made a gut decision and it paid off."] }
+    ],
+    "collocations": ["gut feeling", "gut instinct", "have the guts to", "gut reaction", "trust your gut", "gut health"],
+    "synonyms": ["intestine", "belly", "instinct", "courage", "nerve"],
+    "family": [{ "word": "gutsy", "pos": "adjective" }, { "word": "gutted", "pos": "adjective" }],
+    "note": "\"Trust your gut\" = follow your instinct. \"Gutted\" (British, informal) = very disappointed."
+  },
+  {
+    "word": "guy",
+    "ipa": "/ɡaɪ/",
+    "senses": [
+      { "pos": "noun", "tr": "adam, herif, eleman", "def": "(informal) a man", "examples": ["He's a really nice guy once you get to know him.", "Some guy at the store asked me for directions."] },
+      { "pos": "noun", "tr": "arkadaşlar, millet (you guys)", "def": "(plural, informal) used to talk to or about a group of people, men or women", "examples": ["Hey guys, are you ready to go?", "Thanks, you guys, that was really helpful."] }
+    ],
+    "collocations": ["nice guy", "good guy", "bad guy", "you guys", "a regular guy", "tough guy"],
+    "synonyms": ["man", "fellow", "dude"],
+    "family": [],
+    "note": "\"You guys\" is very common in American English for any group, including women."
+  },
+  {
+    "word": "gym",
+    "ipa": "/dʒɪm/",
+    "senses": [
+      { "pos": "noun", "tr": "spor salonu, jimnastik salonu", "def": "a room or building with equipment for physical exercise", "examples": ["I go to the gym three times a week before work.", "The school gym was turned into a shelter during the storm."] },
+      { "pos": "noun", "tr": "beden eğitimi dersi", "def": "physical education as a school subject", "examples": ["We have gym on Tuesdays and Thursdays."] }
+    ],
+    "collocations": ["go to the gym", "work out at the gym", "gym membership", "gym class", "hit the gym"],
+    "synonyms": ["fitness center", "health club", "gymnasium"],
+    "family": [{ "word": "gymnasium", "pos": "noun" }, { "word": "gymnastics", "pos": "noun" }],
+    "note": "Short for gymnasium. In English, \"gymnasium\" is never a type of school as it is in some European languages."
+  },
+  {
+    "word": "habit",
+    "ipa": "/ˈhæbɪt/",
+    "senses": [
+      { "pos": "noun", "tr": "alışkanlık, huy, âdet", "def": "something you do often and regularly, often without thinking, and that can be hard to stop", "examples": ["Smoking is a hard habit to break.", "She's in the habit of checking her phone first thing in the morning."] }
+    ],
+    "collocations": ["bad habit", "break a habit", "get into the habit of", "out of habit", "eating habits", "force of habit"],
+    "synonyms": ["routine", "practice", "custom", "tendency"],
+    "family": [{ "word": "habitual", "pos": "adjective" }, { "word": "habitually", "pos": "adverb" }],
+    "note": "Habit is personal; custom is shared by a society."
+  },
+  {
+    "word": "habitat",
+    "ipa": "/ˈhæbɪtæt/",
+    "senses": [
+      { "pos": "noun", "tr": "yaşam alanı, doğal ortam, habitat", "def": "the natural place where a type of animal or plant lives", "examples": ["Deforestation is destroying the natural habitat of orangutans.", "The wetlands provide a habitat for hundreds of bird species."] }
+    ],
+    "collocations": ["natural habitat", "habitat loss", "destroy a habitat", "wildlife habitat", "protect habitats"],
+    "synonyms": ["environment", "home", "territory", "ecosystem"],
+    "family": [{ "word": "habitation", "pos": "noun" }]
+  },
+  {
+    "word": "hail",
+    "ipa": "/heɪl/",
+    "senses": [
+      { "pos": "verb", "tr": "övmek, göklere çıkarmak, (olarak) nitelendirmek", "def": "to publicly praise someone or something as very good or important", "examples": ["The new drug has been hailed as a major breakthrough.", "Critics hailed her first novel as a masterpiece."] },
+      { "pos": "verb", "tr": "(taksi) çevirmek, el sallayarak durdurmak", "def": "to wave or call to a taxi or person to get their attention", "examples": ["We hailed a cab outside the hotel."] },
+      { "pos": "noun", "tr": "dolu", "def": "small balls of ice that fall from the sky like rain", "examples": ["The hail damaged dozens of cars in the parking lot."] }
+    ],
+    "collocations": ["hailed as", "widely hailed", "hail a cab", "hail a taxi", "a hail of bullets", "hail from"],
+    "synonyms": ["praise", "acclaim", "celebrate", "flag down"],
+    "family": [{ "word": "hailstorm", "pos": "noun" }, { "word": "hailstone", "pos": "noun" }],
+    "note": "\"Hail from\" = come from a place (formal): She hails from Ohio. \"A hail of bullets/criticism\" = a lot at once."
+  },
+  {
+    "word": "hair",
+    "ipa": "/her/",
+    "senses": [
+      { "pos": "noun", "tr": "saç; kıl, tüy", "def": "the mass of thin threads that grows on your head, or one of these threads on the body", "examples": ["She has long, curly hair.", "There's a hair in my soup!"] }
+    ],
+    "collocations": ["brush your hair", "get a haircut", "dye your hair", "hair loss", "let your hair down", "split hairs"],
+    "synonyms": [],
+    "family": [{ "word": "hairy", "pos": "adjective" }, { "word": "haircut", "pos": "noun" }, { "word": "hairdresser", "pos": "noun" }, { "word": "hairless", "pos": "adjective" }],
+    "note": "Uncountable for all the hair on your head (Her hair is long), countable for single hairs. Not \"hairs are long\"."
+  },
+  {
+    "word": "half",
+    "ipa": "/hæf/",
+    "senses": [
+      { "pos": "noun", "tr": "yarı, yarım", "def": "one of two equal parts of something", "examples": ["Cut the apple in half.", "The team scored twice in the second half."] },
+      { "pos": "determiner", "tr": "yarım, yarı", "def": "an amount equal to half of something", "examples": ["I'll be there in half an hour.", "Half the students failed the test."] },
+      { "pos": "pronoun", "tr": "yarısı", "def": "an amount equal to half of a group or thing", "examples": ["Only half of the guests showed up.", "I've read about half of the book."] },
+      { "pos": "adverb", "tr": "yarı yarıya, kısmen", "def": "partly; not completely", "examples": ["The door was half open.", "I was only half listening to what he said."] }
+    ],
+    "collocations": ["in half", "half an hour", "half price", "the first half", "half asleep", "half the time"],
+    "synonyms": ["fifty percent", "partly", "partially"],
+    "family": [{ "word": "halve", "pos": "verb" }, { "word": "halfway", "pos": "adverb" }],
+    "note": "Plural: halves. Say \"half an hour\" (American also: a half hour). Verb: halve /hæv/."
+  },
+  {
+    "word": "halfway",
+    "ipa": "/ˌhæfˈweɪ/",
+    "senses": [
+      { "pos": "adverb", "tr": "yarı yolda, yarısında", "def": "at the middle point between two places or during a period of time", "examples": ["We stopped for lunch halfway between Boston and New York.", "I fell asleep halfway through the movie."] },
+      { "pos": "adjective", "tr": "yarı yolda olan, orta", "def": "at or in the middle", "examples": ["At the halfway point of the race, she was in third place."] }
+    ],
+    "collocations": ["halfway through", "halfway between", "meet somebody halfway", "halfway point", "halfway house"],
+    "synonyms": ["midway", "in the middle"],
+    "family": [{ "word": "half", "pos": "noun" }],
+    "note": "\"Meet somebody halfway\" = compromise with them."
+  },
+  {
+    "word": "hall",
+    "ipa": "/hɔːl/",
+    "senses": [
+      { "pos": "noun", "tr": "koridor, hol, antre", "def": "a passage in a building with rooms on either side, or the area inside the front door", "examples": ["The bathroom is at the end of the hall.", "Leave your shoes in the hall."] },
+      { "pos": "noun", "tr": "salon", "def": "a large room or building used for meetings, concerts, or other public events", "examples": ["The concert hall was completely full.", "The town meeting will be held at City Hall."] }
+    ],
+    "collocations": ["down the hall", "concert hall", "city hall", "dining hall", "residence hall", "hall of fame"],
+    "synonyms": ["hallway", "corridor", "auditorium", "lobby"],
+    "family": [{ "word": "hallway", "pos": "noun" }],
+    "note": "In the US, \"hall\" usually means a corridor; \"residence hall\" = university dormitory."
+  },
+  {
+    "word": "halt",
+    "ipa": "/hɔːlt/",
+    "senses": [
+      { "pos": "verb", "tr": "durdurmak, durmak", "def": "to stop, or to make something stop, especially suddenly or officially", "examples": ["The government halted construction of the pipeline.", "Production was halted after a safety inspection."] },
+      { "pos": "noun", "tr": "durma, duraklama", "def": "a stop or pause in movement or progress", "examples": ["The car came to a halt at the red light.", "Traffic ground to a halt because of the accident."] }
+    ],
+    "collocations": ["come to a halt", "grind to a halt", "bring something to a halt", "call a halt to", "halt production"],
+    "synonyms": ["stop", "suspend", "end", "pause"],
+    "family": [{ "word": "halting", "pos": "adjective" }],
+    "note": "More formal than \"stop\"; common in news. \"Halting\" = slow and hesitant (halting English)."
+  },
+  {
+    "word": "hand",
+    "ipa": "/hænd/",
+    "senses": [
+      { "pos": "noun", "tr": "el", "def": "the part of the body at the end of the arm, with fingers and a thumb", "examples": ["Wash your hands before dinner.", "She raised her hand to ask a question."] },
+      { "pos": "noun", "tr": "yardım, el", "def": "help with doing something", "examples": ["Can you give me a hand with these boxes?", "I could use a hand in the kitchen."] },
+      { "pos": "noun", "tr": "(saatte) akrep, yelkovan", "def": "one of the pointers on a clock", "examples": ["The minute hand pointed to twelve."] },
+      { "pos": "verb", "tr": "vermek, uzatmak", "def": "to pass or give something to someone using your hands", "examples": ["Could you hand me that pen?", "She handed in her report on Friday."] }
+    ],
+    "collocations": ["give somebody a hand", "on the other hand", "hand in hand", "by hand", "hand in", "hand out", "out of hand"],
+    "synonyms": ["help", "assistance", "pass", "give"],
+    "family": [{ "word": "handful", "pos": "noun" }, { "word": "handy", "pos": "adjective" }, { "word": "handmade", "pos": "adjective" }, { "word": "handshake", "pos": "noun" }],
+    "note": "\"On the one hand… on the other hand\" compares two points. \"Get out of hand\" = become impossible to control."
+  },
+  {
+    "word": "handful",
+    "ipa": "/ˈhændfʊl/",
+    "senses": [
+      { "pos": "noun", "tr": "avuç dolusu", "def": "the amount of something you can hold in one hand", "examples": ["He grabbed a handful of nuts from the bowl."] },
+      { "pos": "noun", "tr": "bir avuç, birkaç, az sayıda", "def": "a small number of people or things", "examples": ["Only a handful of people showed up to the meeting.", "A handful of companies control most of the market."] },
+      { "pos": "noun", "tr": "başa bela, zapt edilmesi zor kişi", "def": "(informal) a person, especially a child, who is difficult to control", "examples": ["Their three-year-old is a real handful."] }
+    ],
+    "collocations": ["a handful of", "only a handful", "a small handful", "a real handful"],
+    "synonyms": ["a few", "a small number", "a couple"],
+    "family": [{ "word": "hand", "pos": "noun" }]
+  },
+  {
+    "word": "handle",
+    "ipa": "/ˈhændl/",
+    "senses": [
+      { "pos": "verb", "tr": "ilgilenmek, halletmek, başa çıkmak", "def": "to deal with a situation, problem, person, or task", "examples": ["The manager handled the complaint very professionally.", "I can't handle this much stress."] },
+      { "pos": "verb", "tr": "elle tutmak, taşımak", "def": "to touch, hold, or move something with your hands", "examples": ["Please handle the glasses carefully."] },
+      { "pos": "noun", "tr": "kulp, sap, kol, tutamak", "def": "the part of a door, tool, or container that you hold to use it", "examples": ["The handle on the suitcase broke at the airport.", "Turn the door handle and push."] }
+    ],
+    "collocations": ["handle a situation", "handle pressure", "handle with care", "door handle", "fly off the handle", "get a handle on"],
+    "synonyms": ["deal with", "manage", "cope with", "knob", "grip"],
+    "family": [{ "word": "handling", "pos": "noun" }, { "word": "handler", "pos": "noun" }],
+    "note": "\"Fly off the handle\" = suddenly get very angry. \"Get a handle on something\" = begin to understand or control it."
+  },
+  {
+    "word": "handling",
+    "ipa": "/ˈhændlɪŋ/",
+    "senses": [
+      { "pos": "noun", "tr": "ele alış, idare, yönetim", "def": "the way someone deals with a situation, problem, or person", "examples": ["The mayor was criticized for her handling of the crisis.", "The case requires careful handling."] },
+      { "pos": "noun", "tr": "taşıma, elleçleme; (araç) yol tutuşu", "def": "the act of touching or moving things, or how easily a vehicle can be controlled", "examples": ["Food handling rules are strict in restaurants.", "The new model has excellent handling on wet roads."] }
+    ],
+    "collocations": ["handling of the crisis", "careful handling", "food handling", "data handling", "shipping and handling"],
+    "synonyms": ["management", "treatment", "conduct", "administration"],
+    "family": [{ "word": "handle", "pos": "verb" }],
+    "note": "\"Shipping and handling\" (US) = the delivery fee added to an online order."
+  },
+  {
+    "word": "handy",
+    "ipa": "/ˈhændi/",
+    "senses": [
+      { "pos": "adjective", "tr": "kullanışlı, işe yarar, pratik", "def": "useful and easy to use", "examples": ["This app has a handy feature for splitting bills.", "A flashlight can come in handy during a power outage."] },
+      { "pos": "adjective", "tr": "el altında, yakında", "def": "near and easy to reach", "examples": ["Keep your passport handy at the airport."] },
+      { "pos": "adjective", "tr": "becerikli, eli yatkın", "def": "good at using your hands to fix or make things", "examples": ["He's very handy around the house."] }
+    ],
+    "collocations": ["come in handy", "keep something handy", "handy tip", "handy with tools"],
+    "synonyms": ["useful", "convenient", "practical", "nearby", "skillful"],
+    "family": [{ "word": "handyman", "pos": "noun" }],
+    "note": "\"Come in handy\" = turn out to be useful. Not related to Turkish/German \"handy\" (mobile phone)."
+  },
+  {
+    "word": "hang",
+    "ipa": "/hæŋ/",
+    "senses": [
+      { "pos": "verb", "tr": "asmak, takmak; asılı olmak, sarkmak", "def": "to attach something at the top so the lower part is free, or to be attached this way", "examples": ["Hang your coat on the hook by the door.", "A beautiful painting hangs above the fireplace."] },
+      { "pos": "verb", "tr": "(idam için) asmak", "def": "to kill someone by putting a rope around their neck and letting them drop", "examples": ["The prisoners were hanged at dawn."] },
+      { "pos": "verb", "tr": "takılmak, vakit geçirmek (hang out)", "def": "(hang out, informal) to spend time somewhere or with someone in a relaxed way", "examples": ["We used to hang out at the mall after school."] }
+    ],
+    "collocations": ["hang up", "hang out", "hang on", "hang in there", "get the hang of", "hang a picture"],
+    "synonyms": ["suspend", "dangle", "attach", "put up"],
+    "family": [{ "word": "hanger", "pos": "noun" }, { "word": "hanging", "pos": "noun" }, { "word": "hangover", "pos": "noun" }],
+    "note": "Past: hung. But for executions: hanged. \"Hang up\" = end a phone call; \"hang on\" = wait; \"get the hang of\" = learn how."
+  },
+  {
+    "word": "happen",
+    "ipa": "/ˈhæpən/",
+    "senses": [
+      { "pos": "verb", "tr": "olmak, meydana gelmek", "def": "to take place, especially without being planned", "examples": ["What happened at the meeting yesterday?", "The accident happened just after midnight."] },
+      { "pos": "verb", "tr": "(bir şeyin başına) gelmek", "def": "(happen to) to affect someone or something", "examples": ["What happened to your car?", "I don't know what I'd do if something happened to you."] },
+      { "pos": "verb", "tr": "tesadüfen ... olmak, denk gelmek", "def": "(happen to do) to do or be something by chance", "examples": ["I happened to see her at the airport.", "Do you happen to know his phone number?"] }
+    ],
+    "collocations": ["happen to", "happen to know", "it just so happens", "whatever happens", "as it happens", "accidents happen"],
+    "synonyms": ["occur", "take place", "come about", "arise"],
+    "family": [{ "word": "happening", "pos": "noun" }],
+    "note": "Never passive: say \"It happened\", not \"It was happened\". \"Do you happen to…?\" makes a question more polite."
+  },
+  {
+    "word": "happily",
+    "ipa": "/ˈhæpɪli/",
+    "senses": [
+      { "pos": "adverb", "tr": "mutlu bir şekilde, mutlulukla", "def": "in a happy or cheerful way", "examples": ["The children played happily in the garden.", "They've been happily married for thirty years."] },
+      { "pos": "adverb", "tr": "seve seve, memnuniyetle", "def": "willingly; with pleasure", "examples": ["I'd happily drive you to the airport."] },
+      { "pos": "adverb", "tr": "neyse ki, çok şükür", "def": "used to say that something is lucky or fortunate", "examples": ["Happily, no one was hurt in the fire."] }
+    ],
+    "collocations": ["happily married", "live happily ever after", "smile happily", "would happily"],
+    "synonyms": ["cheerfully", "gladly", "willingly", "fortunately", "luckily"],
+    "family": [{ "word": "happy", "pos": "adjective" }, { "word": "unhappily", "pos": "adverb" }]
+  },
+  {
+    "word": "happiness",
+    "ipa": "/ˈhæpinəs/",
+    "senses": [
+      { "pos": "noun", "tr": "mutluluk", "def": "the feeling of being happy", "examples": ["Money can't buy happiness.", "Her face was full of happiness when she saw her family."] }
+    ],
+    "collocations": ["true happiness", "pursuit of happiness", "find happiness", "health and happiness", "bring happiness"],
+    "synonyms": ["joy", "contentment", "delight", "well-being"],
+    "family": [{ "word": "happy", "pos": "adjective" }, { "word": "unhappiness", "pos": "noun" }]
+  },
+  {
+    "word": "happy",
+    "ipa": "/ˈhæpi/",
+    "senses": [
+      { "pos": "adjective", "tr": "mutlu, sevinçli", "def": "feeling or showing pleasure", "examples": ["She looked really happy at the party.", "They had a happy childhood on the farm."] },
+      { "pos": "adjective", "tr": "memnun, razı; seve seve", "def": "satisfied with something, or willing to do something", "examples": ["Are you happy with the new design?", "I'd be happy to help you with your application."] },
+      { "pos": "adjective", "tr": "kutlu (olsun)", "def": "used in greetings for special occasions", "examples": ["Happy birthday, Sarah!", "Happy New Year, everyone!"] }
+    ],
+    "collocations": ["happy with", "happy to help", "happy birthday", "happy ending", "perfectly happy", "make somebody happy"],
+    "synonyms": ["glad", "pleased", "cheerful", "content", "delighted"],
+    "family": [{ "word": "happiness", "pos": "noun" }, { "word": "happily", "pos": "adverb" }, { "word": "unhappy", "pos": "adjective" }]
+  },
+  {
+    "word": "harassment",
+    "ipa": "/həˈræsmənt/",
+    "senses": [
+      { "pos": "noun", "tr": "taciz, rahatsız etme", "def": "behavior that repeatedly annoys, threatens, or upsets someone", "examples": ["She filed a complaint about sexual harassment at work.", "Online harassment has become a serious problem for teenagers."] }
+    ],
+    "collocations": ["sexual harassment", "online harassment", "workplace harassment", "racial harassment", "harassment claim"],
+    "synonyms": ["abuse", "intimidation", "bullying", "persecution"],
+    "family": [{ "word": "harass", "pos": "verb" }, { "word": "harasser", "pos": "noun" }],
+    "note": "Two pronunciations in US English: /həˈræsmənt/ or /ˈhærəsmənt/. Spelled with one r, two s's."
+  },
+  {
+    "word": "harbor",
+    "ipa": "/ˈhɑːrbər/",
+    "senses": [
+      { "pos": "noun", "tr": "liman", "def": "an area of water near the coast, protected by walls, where ships can stay safely", "examples": ["Fishing boats were tied up in the harbor.", "The city's harbor is one of the busiest in the world."] },
+      { "pos": "verb", "tr": "(duygu, şüphe) beslemek, taşımak", "def": "to keep a feeling, belief, or secret in your mind for a long time", "examples": ["She still harbors doubts about his honesty."] },
+      { "pos": "verb", "tr": "barındırmak, saklamak", "def": "to hide or protect someone, especially a criminal, or to contain something harmful", "examples": ["He was accused of harboring a fugitive.", "Dirty sponges can harbor bacteria."] }
+    ],
+    "collocations": ["natural harbor", "fishing harbor", "harbor doubts", "harbor resentment", "harbor a fugitive"],
+    "synonyms": ["port", "dock", "marina", "shelter", "hold"],
+    "family": [],
+    "note": "American spelling: harbor; British: harbour."
+  },
+  {
+    "word": "hard",
+    "ipa": "/hɑːrd/",
+    "senses": [
+      { "pos": "adjective", "tr": "zor, güç", "def": "difficult to do, understand, or deal with", "examples": ["The exam was much harder than I expected.", "It's hard to believe it's already December."] },
+      { "pos": "adjective", "tr": "sert, katı", "def": "solid and firm; not easy to bend or break", "examples": ["The bed in the hotel was too hard."] },
+      { "pos": "adverb", "tr": "sıkı, çok, var gücüyle", "def": "with a lot of effort or force", "examples": ["She worked hard to pay for college.", "It was raining hard all night."] }
+    ],
+    "collocations": ["work hard", "try hard", "hard work", "hard to believe", "hard times", "no hard feelings"],
+    "synonyms": ["difficult", "tough", "firm", "solid", "strenuously"],
+    "family": [{ "word": "harden", "pos": "verb" }, { "word": "hardship", "pos": "noun" }, { "word": "hardly", "pos": "adverb" }, { "word": "hardness", "pos": "noun" }],
+    "note": "\"Hard\" is both adjective and adverb. \"Hardly\" is NOT the adverb of hard; it means \"almost not\"."
+  },
+  {
+    "word": "hardly",
+    "ipa": "/ˈhɑːrdli/",
+    "senses": [
+      { "pos": "adverb", "tr": "neredeyse hiç, hemen hemen hiç", "def": "almost not; almost none", "examples": ["I could hardly hear what she was saying.", "We hardly ever go out to eat anymore."] },
+      { "pos": "adverb", "tr": "pek ... değil, hiç de değil", "def": "used to say that something is not true, likely, or reasonable", "examples": ["It's hardly surprising that he quit after the way they treated him.", "This is hardly the time to ask for a raise."] }
+    ],
+    "collocations": ["hardly ever", "hardly any", "can hardly wait", "hardly surprising", "hardly anyone"],
+    "synonyms": ["barely", "scarcely", "almost not"],
+    "family": [{ "word": "hard", "pos": "adjective" }],
+    "note": "Already negative: say \"I can hardly see\", not \"I can't hardly see\". Not the adverb of \"hard\" (\"work hard\", not \"work hardly\")."
+  },
+  {
+    "word": "hardware",
+    "ipa": "/ˈhɑːrdwer/",
+    "senses": [
+      { "pos": "noun", "tr": "donanım", "def": "the physical parts of a computer or electronic system", "examples": ["The problem is with the hardware, not the software.", "Upgrading the hardware made the system much faster."] },
+      { "pos": "noun", "tr": "hırdavat, nalburiye", "def": "tools and equipment used in the house and garden", "examples": ["I bought some screws and nails at the hardware store."] },
+      { "pos": "noun", "tr": "askeri teçhizat", "def": "military weapons and vehicles", "examples": ["The army displayed its latest military hardware in the parade."] }
+    ],
+    "collocations": ["computer hardware", "hardware store", "hardware and software", "military hardware", "hardware upgrade"],
+    "synonyms": ["equipment", "machinery", "tools"],
+    "family": [{ "word": "software", "pos": "noun" }]
+  },
+  {
+    "word": "harm",
+    "ipa": "/hɑːrm/",
+    "senses": [
+      { "pos": "noun", "tr": "zarar, hasar, kötülük", "def": "physical or mental damage or injury", "examples": ["Too much sun can cause serious harm to your skin.", "I'm sure he meant no harm by his comment."] },
+      { "pos": "verb", "tr": "zarar vermek, incitmek", "def": "to hurt someone or damage something", "examples": ["The chemicals could harm wildlife in the river.", "No animals were harmed during the filming."] }
+    ],
+    "collocations": ["cause harm", "do more harm than good", "no harm done", "mean no harm", "out of harm's way", "there's no harm in"],
+    "synonyms": ["damage", "injury", "hurt", "injure", "impair"],
+    "family": [{ "word": "harmful", "pos": "adjective" }, { "word": "harmless", "pos": "adjective" }],
+    "note": "\"There's no harm in asking\" = it's fine to ask; nothing bad can happen."
+  },
+  {
+    "word": "harmful",
+    "ipa": "/ˈhɑːrmfl/",
+    "senses": [
+      { "pos": "adjective", "tr": "zararlı", "def": "causing damage or injury, especially to health or the environment", "examples": ["Smoking is harmful to your health.", "The factory released harmful chemicals into the river."] }
+    ],
+    "collocations": ["harmful effects", "harmful to health", "harmful chemicals", "potentially harmful", "harmful substances"],
+    "synonyms": ["damaging", "dangerous", "toxic", "detrimental"],
+    "family": [{ "word": "harm", "pos": "noun" }, { "word": "harmless", "pos": "adjective" }],
+    "note": "Harmful TO something."
+  },
+  {
+    "word": "harmony",
+    "ipa": "/ˈhɑːrməni/",
+    "senses": [
+      { "pos": "noun", "tr": "uyum, ahenk, huzur", "def": "a peaceful state in which people or things agree or work well together", "examples": ["People of different religions live in harmony in the village.", "We need to live in harmony with nature."] },
+      { "pos": "noun", "tr": "armoni", "def": "a pleasant combination of musical notes played or sung together", "examples": ["The choir sang in perfect harmony."] }
+    ],
+    "collocations": ["in harmony with", "live in harmony", "racial harmony", "social harmony", "perfect harmony"],
+    "synonyms": ["agreement", "peace", "accord", "balance", "unity"],
+    "family": [{ "word": "harmonious", "pos": "adjective" }, { "word": "harmonize", "pos": "verb" }, { "word": "harmonic", "pos": "adjective" }]
+  },
+  {
+    "word": "harsh",
+    "ipa": "/hɑːrʃ/",
+    "senses": [
+      { "pos": "adjective", "tr": "sert, acımasız, katı", "def": "cruel, severe, or unkind", "examples": ["The judge gave him a harsh sentence.", "Her boss was harsh in his criticism."] },
+      { "pos": "adjective", "tr": "zorlu, çetin (koşullar)", "def": "(of conditions or weather) very difficult to live in", "examples": ["Few plants can survive the harsh desert climate.", "The refugees faced harsh winter conditions."] },
+      { "pos": "adjective", "tr": "rahatsız edici, sert (ışık, ses)", "def": "unpleasantly strong, bright, or loud", "examples": ["The harsh lighting in the office gives me headaches."] }
+    ],
+    "collocations": ["harsh criticism", "harsh reality", "harsh conditions", "harsh climate", "harsh words", "harsh punishment"],
+    "synonyms": ["severe", "cruel", "tough", "strict", "brutal"],
+    "family": [{ "word": "harshly", "pos": "adverb" }, { "word": "harshness", "pos": "noun" }]
+  },
+  {
+    "word": "harvest",
+    "ipa": "/ˈhɑːrvɪst/",
+    "senses": [
+      { "pos": "noun", "tr": "hasat, ürün", "def": "the time when crops are gathered, or the crops gathered", "examples": ["Farmers are busy during the harvest in September.", "Heavy rains ruined this year's wheat harvest."] },
+      { "pos": "verb", "tr": "hasat etmek, ürün kaldırmak; toplamak", "def": "to gather crops, or to collect something for use", "examples": ["The grapes are harvested by hand.", "Scientists harvested stem cells from the samples."] }
+    ],
+    "collocations": ["harvest time", "a good harvest", "a poor harvest", "bring in the harvest", "harvest crops"],
+    "synonyms": ["crop", "yield", "reap", "gather", "collect"],
+    "family": [{ "word": "harvester", "pos": "noun" }]
+  },
+  {
+    "word": "hat",
+    "ipa": "/hæt/",
+    "senses": [
+      { "pos": "noun", "tr": "şapka", "def": "a piece of clothing that you wear on your head", "examples": ["Wear a hat — it's freezing outside.", "He took off his hat when he entered the church."] }
+    ],
+    "collocations": ["wear a hat", "put on a hat", "take off your hat", "baseball hat", "hard hat", "hats off to"],
+    "synonyms": ["cap"],
+    "family": [],
+    "note": "\"Hats off to somebody\" = they deserve praise. \"Keep it under your hat\" = keep it secret."
+  },
+  {
+    "word": "hate",
+    "ipa": "/heɪt/",
+    "senses": [
+      { "pos": "verb", "tr": "nefret etmek, hiç sevmemek", "def": "to dislike someone or something very much", "examples": ["I hate waking up early on weekends.", "She hates it when people are late."] },
+      { "pos": "verb", "tr": "(kibar ifade) üzgünüm ama, istemem ama", "def": "(I hate to) used to say politely that you are sorry to do something", "examples": ["I hate to interrupt, but we need to leave now."] },
+      { "pos": "noun", "tr": "nefret", "def": "a very strong feeling of dislike", "examples": ["The attack was described as a hate crime.", "There was hate in his eyes."] }
+    ],
+    "collocations": ["hate crime", "hate speech", "love-hate relationship", "I hate to say it", "hate mail"],
+    "synonyms": ["detest", "loathe", "despise", "hatred"],
+    "family": [{ "word": "hatred", "pos": "noun" }, { "word": "hateful", "pos": "adjective" }, { "word": "hater", "pos": "noun" }]
+  },
+  {
+    "word": "hatred",
+    "ipa": "/ˈheɪtrɪd/",
+    "senses": [
+      { "pos": "noun", "tr": "nefret, kin", "def": "a very strong feeling of dislike for someone or something", "examples": ["The war left a legacy of hatred between the two groups.", "He made no secret of his hatred for his former boss."] }
+    ],
+    "collocations": ["deep hatred", "racial hatred", "hatred of", "hatred toward", "fuel hatred", "stir up hatred"],
+    "synonyms": ["hate", "loathing", "hostility", "animosity"],
+    "family": [{ "word": "hate", "pos": "verb" }],
+    "note": "More formal than \"hate\" as a noun; often used for long-lasting hatred between groups."
+  },
+  {
+    "word": "haunt",
+    "ipa": "/hɔːnt/",
+    "senses": [
+      { "pos": "verb", "tr": "(hayalet) bir yerde dolaşmak, musallat olmak", "def": "(of a ghost) to appear regularly in a place", "examples": ["Locals say the old house is haunted by a woman in white."] },
+      { "pos": "verb", "tr": "aklından çıkmamak, rahat vermemek, peşini bırakmamak", "def": "to keep upsetting or troubling someone for a long time", "examples": ["Memories of the war haunted him for the rest of his life.", "That bad decision came back to haunt her."] }
+    ],
+    "collocations": ["haunted house", "come back to haunt", "haunted by memories", "haunt somebody's dreams"],
+    "synonyms": ["torment", "trouble", "obsess", "plague"],
+    "family": [{ "word": "haunted", "pos": "adjective" }, { "word": "haunting", "pos": "adjective" }],
+    "note": "\"Haunting\" = beautiful and sad, hard to forget (a haunting melody)."
+  },
+  {
+    "word": "have",
+    "ipa": "/hæv/",
+    "senses": [
+      { "pos": "verb", "tr": "sahip olmak, -si olmak", "def": "to own, hold, or possess something", "examples": ["Do you have a car?", "She has two brothers and a sister."] },
+      { "pos": "verb", "tr": "yemek, içmek; yapmak, geçirmek", "def": "used with nouns to describe actions or experiences, like eating, drinking, or taking part in something", "examples": ["Let's have lunch at the new café.", "We had a great time at the party."] },
+      { "pos": "verb", "tr": "yaptırmak", "def": "(have something done) to arrange for someone else to do something for you", "examples": ["I'm having my hair cut tomorrow.", "We had the house painted last summer."] },
+      { "pos": "auxiliary verb", "tr": "(perfect zamanlarda yardımcı fiil)", "def": "used with a past participle to form perfect tenses", "examples": ["Have you ever been to Japan?", "They have just finished dinner."] }
+    ],
+    "collocations": ["have breakfast", "have a look", "have a good time", "have something done", "have a baby", "have got"],
+    "synonyms": ["own", "possess", "hold", "experience", "eat"],
+    "family": [{ "word": "haves", "pos": "noun" }],
+    "note": "Forms: have – has – had – had. Use \"have\" for meals and drinks (have lunch, have a coffee). \"Have got\" is more British."
+  },
+  {
+    "word": "have to",
+    "ipa": "/ˈhæv tə/",
+    "senses": [
+      { "pos": "modal verb", "tr": "zorunda olmak, -mek zorunda", "def": "used to say that something is necessary or required", "examples": ["I have to finish this report by tomorrow.", "You don't have to come if you're too tired."] },
+      { "pos": "modal verb", "tr": "kesin ... olmalı, mutlaka", "def": "used to say that something is certainly true or likely", "examples": ["You have to be joking!", "This has to be the best pizza in town."] }
+    ],
+    "collocations": ["have to go", "don't have to", "have to admit", "will have to", "had to"],
+    "synonyms": ["must", "need to", "have got to"],
+    "family": [],
+    "note": "Pronounced /ˈhæf tə/ in speech. \"Don't have to\" = not necessary; \"mustn't\" = not allowed. Past: had to."
+  },
+  {
+    "word": "hazard",
+    "ipa": "/ˈhæzərd/",
+    "senses": [
+      { "pos": "noun", "tr": "tehlike, risk", "def": "something that could be dangerous or cause damage", "examples": ["Wet floors are a common safety hazard in restaurants.", "Air pollution is a serious health hazard in big cities."] },
+      { "pos": "verb", "tr": "(tahmin) yürütmek, cesaret edip söylemek", "def": "(hazard a guess) to make a guess although you are not sure", "examples": ["I'd hazard a guess that she's about forty."] }
+    ],
+    "collocations": ["health hazard", "fire hazard", "safety hazard", "environmental hazard", "hazard a guess", "occupational hazard"],
+    "synonyms": ["danger", "risk", "threat", "peril"],
+    "family": [{ "word": "hazardous", "pos": "adjective" }],
+    "note": "\"An occupational hazard\" = a risk that comes with a particular job."
+  },
+  {
+    "word": "he",
+    "ipa": "/hi/",
+    "senses": [
+      { "pos": "pronoun", "tr": "o (erkek)", "def": "used as the subject of a verb to refer to a man, boy, or male animal already mentioned", "examples": ["My brother called; he says he'll be late.", "Where's your dog? Is he friendly?"] }
+    ],
+    "collocations": ["he said", "he is", "he or she", "he who"],
+    "synonyms": [],
+    "family": [{ "word": "him", "pos": "pronoun" }, { "word": "his", "pos": "determiner" }, { "word": "himself", "pos": "pronoun" }],
+    "note": "Turkish \"o\" has no gender; English uses he (male), she (female), it (things), they (unknown or non-binary)."
+  }
+]

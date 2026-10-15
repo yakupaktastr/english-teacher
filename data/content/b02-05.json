@@ -1,0 +1,1214 @@
+[
+  {
+    "word": "cheer",
+    "ipa": "/tʃɪr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tezahürat yapmak, alkışlamak",
+        "def": "to shout loudly to show support, joy, or praise",
+        "examples": ["The crowd cheered as the runners crossed the finish line.", "Fans cheered for the home team all night."]
+      },
+      {
+        "pos": "verb",
+        "tr": "neşelendirmek, moral vermek",
+        "def": "to make someone feel happier (cheer up)",
+        "examples": ["I bought her flowers to cheer her up."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tezahürat, alkış, sevinç çığlığı",
+        "def": "a shout of joy, support, or praise",
+        "examples": ["A loud cheer went up when the band came on stage."]
+      }
+    ],
+    "collocations": ["cheer up", "cheer on", "cheer for", "give a cheer", "three cheers for"],
+    "synonyms": ["applaud", "shout", "encourage", "brighten"],
+    "family": [
+      { "word": "cheerful", "pos": "adjective" },
+      { "word": "cheers", "pos": "exclamation" },
+      { "word": "cheerleader", "pos": "noun" }
+    ],
+    "note": "\"Cheers!\" is said when drinking together (şerefe). In British English it also means \"thanks\" or \"bye\"."
+  },
+  {
+    "word": "cheerful",
+    "ipa": "/ˈtʃɪrfl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "neşeli, güler yüzlü",
+        "def": "happy and showing it in the way you behave",
+        "examples": ["She's always cheerful, even early in the morning.", "The waiter greeted us with a cheerful smile."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(yer, renk) iç açıcı, ferah",
+        "def": "bright and pleasant, making you feel happy",
+        "examples": ["They painted the kids' room a cheerful yellow."]
+      }
+    ],
+    "collocations": ["cheerful mood", "cheerful smile", "remain cheerful", "bright and cheerful"],
+    "synonyms": ["happy", "upbeat", "jolly", "bright"],
+    "family": [
+      { "word": "cheerfully", "pos": "adverb" },
+      { "word": "cheerfulness", "pos": "noun" },
+      { "word": "cheer", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "cheese",
+    "ipa": "/tʃiːz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "peynir",
+        "def": "a food made from milk, which can be soft or hard",
+        "examples": ["I'd like a ham and cheese sandwich, please.", "Sprinkle some grated cheese on top of the pasta."]
+      }
+    ],
+    "collocations": ["a slice of cheese", "grated cheese", "cheese sandwich", "cream cheese", "say cheese"],
+    "synonyms": [],
+    "family": [{ "word": "cheesy", "pos": "adjective" }],
+    "note": "Photographers say \"Say cheese!\" to make people smile. \"Cheesy\" informally means cheap or too sentimental."
+  },
+  {
+    "word": "chef",
+    "ipa": "/ʃef/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "aşçı, şef",
+        "def": "a professional cook, especially the main cook in a restaurant",
+        "examples": ["The chef came out to ask how we liked the meal.", "He trained as a chef in Paris."]
+      }
+    ],
+    "collocations": ["head chef", "celebrity chef", "pastry chef", "top chef", "executive chef"],
+    "synonyms": ["cook"],
+    "family": [],
+    "note": "Pronounced /ʃef/ with \"sh\". \"Chef\" in English means only a cook, never a boss in general."
+  },
+  {
+    "word": "chemical",
+    "ipa": "/ˈkemɪkl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kimyasal madde",
+        "def": "a substance made by or used in a chemical process",
+        "examples": ["Farmers are using fewer chemicals on their crops.", "Store household chemicals out of children's reach."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kimyasal",
+        "def": "connected with chemistry or produced by chemistry",
+        "examples": ["Rust is the result of a chemical reaction between iron and oxygen."]
+      }
+    ],
+    "collocations": ["chemical reaction", "toxic chemicals", "chemical weapons", "chemical industry", "harmful chemicals"],
+    "synonyms": ["substance", "compound", "synthetic"],
+    "family": [
+      { "word": "chemistry", "pos": "noun" },
+      { "word": "chemist", "pos": "noun" },
+      { "word": "chemically", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "chemistry",
+    "ipa": "/ˈkemɪstri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kimya",
+        "def": "the science that studies substances and how they react with each other",
+        "examples": ["She's majoring in chemistry and plans to go to medical school.", "We have a chemistry test on Friday."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kişiler arasında) uyum, elektrik",
+        "def": "a natural attraction or understanding between people",
+        "examples": ["The two lead actors have great chemistry on screen."]
+      }
+    ],
+    "collocations": ["organic chemistry", "chemistry lab", "chemistry teacher", "great chemistry", "team chemistry"],
+    "synonyms": ["attraction", "rapport", "connection"],
+    "family": [
+      { "word": "chemical", "pos": "adjective" },
+      { "word": "chemist", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "chest",
+    "ipa": "/tʃest/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "göğüs",
+        "def": "the upper front part of the body between the neck and the stomach",
+        "examples": ["He went to the hospital complaining of chest pains.", "She folded her arms across her chest."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sandık",
+        "def": "a large strong box for storing things",
+        "examples": ["We found old letters in a wooden chest in the attic."]
+      }
+    ],
+    "collocations": ["chest pain", "chest of drawers", "treasure chest", "get something off your chest"],
+    "synonyms": ["breast", "trunk", "box"],
+    "family": [],
+    "note": "\"Get something off your chest\" means tell someone about something that has been worrying you."
+  },
+  {
+    "word": "chicken",
+    "ipa": "/ˈtʃɪkɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tavuk",
+        "def": "a bird kept on farms for its eggs and meat",
+        "examples": ["My grandparents keep chickens in their backyard."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tavuk eti",
+        "def": "the meat of this bird",
+        "examples": ["We had roast chicken and potatoes for dinner."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(gayri resmi) korkak, ödlek",
+        "def": "(informal) afraid to do something",
+        "examples": ["Don't be chicken, just jump in the water!"]
+      }
+    ],
+    "collocations": ["roast chicken", "fried chicken", "chicken breast", "chicken soup", "chicken out"],
+    "synonyms": ["hen", "poultry", "coward"],
+    "family": [],
+    "note": "\"Chicken out\" means decide not to do something because you are scared."
+  },
+  {
+    "word": "chief",
+    "ipa": "/tʃiːf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şef, amir, başkan",
+        "def": "the person with the highest rank in an organization or group",
+        "examples": ["The police chief held a press conference this morning.", "She was promoted to chief of surgery."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "baş, ana, en önemli",
+        "def": "most important; main",
+        "examples": ["Cost was our chief concern when choosing a school.", "He is the company's chief financial officer."]
+      }
+    ],
+    "collocations": ["police chief", "chief executive", "chief of staff", "chief concern", "chief reason", "editor-in-chief"],
+    "synonyms": ["head", "leader", "boss", "main", "principal"],
+    "family": [
+      { "word": "chiefly", "pos": "adverb" },
+      { "word": "chieftain", "pos": "noun" }
+    ],
+    "note": "\"Chiefly\" means mainly: The book is chiefly about her childhood."
+  },
+  {
+    "word": "child",
+    "ipa": "/tʃaɪld/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çocuk",
+        "def": "a young person who is not yet an adult",
+        "examples": ["The museum is free for children under twelve.", "As a child, I spent every summer at my grandparents' house."]
+      },
+      {
+        "pos": "noun",
+        "tr": "evlat, çocuk",
+        "def": "a son or daughter of any age",
+        "examples": ["They have three grown children who live in different states."]
+      }
+    ],
+    "collocations": ["only child", "child care", "as a child", "raise a child", "child abuse", "child's play"],
+    "synonyms": ["kid", "youngster", "son", "daughter"],
+    "family": [
+      { "word": "childhood", "pos": "noun" },
+      { "word": "childish", "pos": "adjective" },
+      { "word": "childlike", "pos": "adjective" },
+      { "word": "childless", "pos": "adjective" }
+    ],
+    "note": "Irregular plural: children. \"Childish\" is negative (immature); \"childlike\" is positive (innocent)."
+  },
+  {
+    "word": "childhood",
+    "ipa": "/ˈtʃaɪldhʊd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çocukluk",
+        "def": "the time of someone's life when they are a child",
+        "examples": ["She had a happy childhood on a farm in Ohio.", "Reading was my favorite hobby in childhood."]
+      }
+    ],
+    "collocations": ["happy childhood", "early childhood", "childhood memories", "childhood friend", "during childhood"],
+    "synonyms": ["youth", "infancy", "boyhood", "girlhood"],
+    "family": [{ "word": "child", "pos": "noun" }]
+  },
+  {
+    "word": "chip",
+    "ipa": "/tʃɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "cips",
+        "def": "(American) a thin, crisp slice of fried potato sold in bags",
+        "examples": ["We ate a whole bag of chips while watching the game."]
+      },
+      {
+        "pos": "noun",
+        "tr": "patates kızartması",
+        "def": "(British) a long piece of fried potato",
+        "examples": ["In London, we ordered fish and chips at a pub."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bilgisayar) çip",
+        "def": "a very small piece of electronic material that makes a computer work",
+        "examples": ["A shortage of computer chips slowed car production."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çentik, kırık",
+        "def": "a small piece broken off something, or the mark left",
+        "examples": ["There's a chip in this mug, so I'll throw it away."]
+      }
+    ],
+    "collocations": ["potato chips", "chocolate chip", "computer chip", "fish and chips", "chip in"],
+    "synonyms": ["crisp", "fry", "microchip", "flake"],
+    "family": [{ "word": "microchip", "pos": "noun" }],
+    "note": "American chips = British crisps; British chips = American French fries. \"Chip in\" means contribute money."
+  },
+  {
+    "word": "chocolate",
+    "ipa": "/ˈtʃɔːklət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çikolata",
+        "def": "a sweet brown food made from cocoa beans",
+        "examples": ["I bought a bar of dark chocolate.", "She gave me a box of chocolates for my birthday."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sıcak çikolata",
+        "def": "a hot drink made with chocolate and milk",
+        "examples": ["The kids drank hot chocolate after playing in the snow."]
+      }
+    ],
+    "collocations": ["dark chocolate", "milk chocolate", "a bar of chocolate", "hot chocolate", "chocolate cake"],
+    "synonyms": ["cocoa"],
+    "family": [{ "word": "chocolatey", "pos": "adjective" }],
+    "note": "Usually two syllables in American speech: /ˈtʃɔːklət/. \"Chocolates\" (plural) are individual pieces in a box."
+  },
+  {
+    "word": "choice",
+    "ipa": "/tʃɔɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "seçim, tercih",
+        "def": "the act of choosing between possibilities, or the thing chosen",
+        "examples": ["Moving to Seattle was the right choice for our family.", "We had no choice but to cancel the trip."]
+      },
+      {
+        "pos": "noun",
+        "tr": "seçenek, çeşit",
+        "def": "the range of things you can choose from",
+        "examples": ["The menu offers a wide choice of vegetarian dishes."]
+      }
+    ],
+    "collocations": ["make a choice", "have no choice", "by choice", "wide choice", "first choice", "of your choice"],
+    "synonyms": ["option", "decision", "selection", "alternative"],
+    "family": [
+      { "word": "choose", "pos": "verb" },
+      { "word": "choosy", "pos": "adjective" }
+    ],
+    "note": "\"Have no choice but to\" + verb: We had no choice but to wait. Say \"make a choice\", not \"do a choice\"."
+  },
+  {
+    "word": "choir",
+    "ipa": "/ˈkwaɪər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "koro",
+        "def": "a group of people who sing together, often in church or school",
+        "examples": ["She has sung in the church choir since she was ten.", "The school choir performed at the holiday concert."]
+      }
+    ],
+    "collocations": ["church choir", "school choir", "join a choir", "sing in a choir", "preach to the choir"],
+    "synonyms": ["chorus", "ensemble"],
+    "family": [{ "word": "choral", "pos": "adjective" }],
+    "note": "Pronounced /ˈkwaɪər/, like \"quire\". \"Preach to the choir\" means try to convince people who already agree with you."
+  },
+  {
+    "word": "choose",
+    "ipa": "/tʃuːz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "seçmek",
+        "def": "to decide which thing or person you want from a group",
+        "examples": ["It's hard to choose a good restaurant in a new city.", "You can choose between chicken and fish."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir şeyi yapmaya) karar vermek, tercih etmek",
+        "def": "to decide to do something",
+        "examples": ["Many graduates choose to stay in the city where they studied."]
+      }
+    ],
+    "collocations": ["choose between", "choose from", "choose to do", "carefully choose", "pick and choose"],
+    "synonyms": ["pick", "select", "opt for", "decide"],
+    "family": [
+      { "word": "choice", "pos": "noun" },
+      { "word": "choosy", "pos": "adjective" }
+    ],
+    "note": "Irregular verb: choose – chose – chosen. Don't confuse \"choose\" /tʃuːz/ with \"chose\" /tʃoʊz/."
+  },
+  {
+    "word": "chop",
+    "ipa": "/tʃɑːp/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "doğramak, kıymak, (odun) kesmek",
+        "def": "to cut something into pieces with a knife or other sharp tool",
+        "examples": ["Chop the onions and garlic finely.", "He chopped wood for the fireplace."]
+      },
+      {
+        "pos": "noun",
+        "tr": "pirzola, kotlet",
+        "def": "a thick slice of meat with a bone in it",
+        "examples": ["We grilled pork chops for dinner."]
+      }
+    ],
+    "collocations": ["chop onions", "finely chopped", "chop down a tree", "chop up", "pork chop"],
+    "synonyms": ["cut", "dice", "slice", "hack"],
+    "family": [
+      { "word": "chopper", "pos": "noun" },
+      { "word": "chopsticks", "pos": "noun" }
+    ],
+    "note": "\"Chopper\" is also informal for a helicopter."
+  },
+  {
+    "word": "chronic",
+    "ipa": "/ˈkrɑːnɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kronik, süreğen",
+        "def": "(of an illness or problem) lasting a long time and hard to cure",
+        "examples": ["She has suffered from chronic back pain for years.", "The country faces a chronic shortage of nurses."]
+      }
+    ],
+    "collocations": ["chronic pain", "chronic disease", "chronic illness", "chronic shortage", "chronic fatigue"],
+    "synonyms": ["persistent", "long-term", "constant", "ongoing"],
+    "family": [{ "word": "chronically", "pos": "adverb" }],
+    "note": "Opposite: acute (sudden and severe). \"Chronically ill\" means having a long-term illness."
+  },
+  {
+    "word": "chunk",
+    "ipa": "/tʃʌŋk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iri parça, topak",
+        "def": "a thick, solid piece of something",
+        "examples": ["Add chunks of pineapple to the salad.", "A chunk of ice fell from the roof."]
+      },
+      {
+        "pos": "noun",
+        "tr": "büyük bölüm, önemli kısım",
+        "def": "(informal) a large part or amount of something",
+        "examples": ["Rent takes a big chunk of my paycheck."]
+      }
+    ],
+    "collocations": ["a chunk of", "a big chunk", "large chunk", "bite-sized chunks"],
+    "synonyms": ["piece", "lump", "block", "portion"],
+    "family": [{ "word": "chunky", "pos": "adjective" }]
+  },
+  {
+    "word": "church",
+    "ipa": "/tʃɜːrtʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kilise",
+        "def": "a building where Christians go to worship",
+        "examples": ["The old church in the town square was built in 1850.", "They got married in a small church by the lake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ayin, kiliseye gitme",
+        "def": "religious services held in a church",
+        "examples": ["My grandparents go to church every Sunday."]
+      }
+    ],
+    "collocations": ["go to church", "church service", "Catholic Church", "church and state", "church choir"],
+    "synonyms": ["chapel", "cathedral", "place of worship"],
+    "family": [{ "word": "churchgoer", "pos": "noun" }],
+    "note": "No article for the activity: \"go to church\". \"Separation of church and state\" is a key US principle."
+  },
+  {
+    "word": "cigarette",
+    "ipa": "/ˈsɪɡəret/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sigara",
+        "def": "a thin paper tube filled with tobacco, for smoking",
+        "examples": ["He quit smoking cigarettes after his heart attack.", "Cigarette butts littered the sidewalk."]
+      }
+    ],
+    "collocations": ["smoke a cigarette", "light a cigarette", "pack of cigarettes", "electronic cigarette", "cigarette butt"],
+    "synonyms": ["smoke", "cig"],
+    "family": [{ "word": "cigar", "pos": "noun" }],
+    "note": "In American English the stress is often on the first syllable: CIG-a-rette."
+  },
+  {
+    "word": "cinema",
+    "ipa": "/ˈsɪnəmə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sinema salonu",
+        "def": "(mainly British) a building where movies are shown",
+        "examples": ["The new cinema downtown has reclining seats."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sinema (sanat dalı)",
+        "def": "movies as an art or industry",
+        "examples": ["She's an expert on Iranian cinema.", "The festival celebrates independent cinema."]
+      }
+    ],
+    "collocations": ["go to the cinema", "world cinema", "independent cinema", "silent cinema", "cinema audiences"],
+    "synonyms": ["movie theater", "movies", "film"],
+    "family": [
+      { "word": "cinematic", "pos": "adjective" },
+      { "word": "cinematography", "pos": "noun" }
+    ],
+    "note": "Americans usually say \"movie theater\" for the building and \"go to the movies\"; \"cinema\" is more for film as an art."
+  },
+  {
+    "word": "circle",
+    "ipa": "/ˈsɜːrkl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "daire, çember, halka",
+        "def": "a perfectly round shape, or things arranged in this shape",
+        "examples": ["The children sat in a circle around the teacher.", "Draw a circle in the middle of the page."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çevre, grup",
+        "def": "a group of people with shared interests or connections",
+        "examples": ["She has a small circle of close friends.", "The idea is popular in academic circles."]
+      },
+      {
+        "pos": "verb",
+        "tr": "daire içine almak; etrafında dönmek",
+        "def": "to draw a circle around something, or to move around something",
+        "examples": ["Circle the correct answer.", "The plane circled the airport for half an hour."]
+      }
+    ],
+    "collocations": ["in a circle", "circle of friends", "full circle", "vicious circle", "inner circle", "go around in circles"],
+    "synonyms": ["ring", "round", "group", "orbit"],
+    "family": [
+      { "word": "circular", "pos": "adjective" },
+      { "word": "semicircle", "pos": "noun" }
+    ],
+    "note": "\"Come full circle\" = return to the starting point. \"Vicious circle\" (kısır döngü) = one problem causing another."
+  },
+  {
+    "word": "circuit",
+    "ipa": "/ˈsɜːrkɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "devre (elektrik)",
+        "def": "the complete path that an electric current flows around",
+        "examples": ["A short circuit caused the fire in the kitchen.", "Engineers designed a new circuit for the device."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tur, parkur, pist",
+        "def": "a route or track that goes around a place and back to the start",
+        "examples": ["The runners completed three circuits of the park."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(etkinlik) dizisi, turne",
+        "def": "a regular series of events or places visited by performers or players",
+        "examples": ["After the book came out, she joined the lecture circuit."]
+      }
+    ],
+    "collocations": ["short circuit", "electrical circuit", "circuit board", "circuit breaker", "the lecture circuit"],
+    "synonyms": ["loop", "lap", "track", "tour"],
+    "family": [{ "word": "circuitry", "pos": "noun" }],
+    "note": "The \"ui\" is pronounced /ɪ/: SUR-kit."
+  },
+  {
+    "word": "circulate",
+    "ipa": "/ˈsɜːrkjəleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dolaşmak, dolaştırmak",
+        "def": "(of liquid or air) to move continuously around a system or space",
+        "examples": ["Blood circulates through the body.", "Open the windows to let air circulate."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(söylenti, belge) yayılmak, dağıtmak",
+        "def": "to spread from person to person, or to send a document to many people",
+        "examples": ["Rumors circulated that the CEO would resign.", "The agenda was circulated before the meeting."]
+      }
+    ],
+    "collocations": ["rumors circulate", "circulate a memo", "widely circulated", "circulate freely", "blood circulates"],
+    "synonyms": ["flow", "spread", "distribute", "pass around"],
+    "family": [
+      { "word": "circulation", "pos": "noun" },
+      { "word": "circulatory", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "circulation",
+    "ipa": "/ˌsɜːrkjəˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(kan) dolaşım",
+        "def": "the movement of blood around the body",
+        "examples": ["Regular exercise improves circulation.", "Poor circulation can make your hands and feet cold."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tiraj; tedavül",
+        "def": "the number of copies of a newspaper sold, or the use of money or ideas among people",
+        "examples": ["The newspaper's circulation has fallen by half.", "The old coins were taken out of circulation."]
+      }
+    ],
+    "collocations": ["blood circulation", "poor circulation", "in circulation", "out of circulation", "daily circulation"],
+    "synonyms": ["flow", "distribution", "readership"],
+    "family": [
+      { "word": "circulate", "pos": "verb" },
+      { "word": "circulatory", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "circumstance",
+    "ipa": "/ˈsɜːrkəmstæns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "koşul, durum, şart",
+        "def": "a fact or condition that affects a situation (usually plural)",
+        "examples": ["Under the circumstances, we decided to postpone the wedding.", "He died in mysterious circumstances."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(maddi) durum",
+        "def": "the financial or living conditions of a person",
+        "examples": ["The scholarship helps students from difficult circumstances."]
+      }
+    ],
+    "collocations": ["under the circumstances", "in no circumstances", "under any circumstances", "extenuating circumstances", "personal circumstances"],
+    "synonyms": ["condition", "situation", "context", "factor"],
+    "family": [{ "word": "circumstantial", "pos": "adjective" }],
+    "note": "Use \"under/in the circumstances\". \"Circumstantial evidence\" suggests guilt without directly proving it."
+  },
+  {
+    "word": "cite",
+    "ipa": "/saɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(gerekçe, örnek olarak) göstermek, öne sürmek",
+        "def": "to mention something as a reason or example",
+        "examples": ["She cited family reasons for leaving the job.", "The report cites rising costs as the main problem."]
+      },
+      {
+        "pos": "verb",
+        "tr": "alıntı yapmak, atıfta bulunmak",
+        "def": "to refer to a book, article, or author as evidence",
+        "examples": ["Make sure you cite all your sources in the essay."]
+      }
+    ],
+    "collocations": ["cite a reason", "cite as an example", "cite sources", "widely cited", "frequently cited"],
+    "synonyms": ["mention", "quote", "refer to", "name"],
+    "family": [{ "word": "citation", "pos": "noun" }],
+    "note": "Same pronunciation as \"site\" and \"sight\". Academic papers are judged partly by how often they are cited."
+  },
+  {
+    "word": "citizen",
+    "ipa": "/ˈsɪtɪzn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "vatandaş",
+        "def": "a person who has the legal right to live in a country",
+        "examples": ["She became a US citizen after ten years in the country.", "All citizens over eighteen have the right to vote."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(şehir) sakini, hemşehri",
+        "def": "a person who lives in a particular town or city",
+        "examples": ["The mayor met with concerned citizens about the new highway."]
+      }
+    ],
+    "collocations": ["US citizen", "senior citizen", "private citizen", "law-abiding citizen", "become a citizen"],
+    "synonyms": ["national", "resident", "inhabitant"],
+    "family": [
+      { "word": "citizenship", "pos": "noun" },
+      { "word": "citizenry", "pos": "noun" }
+    ],
+    "note": "A \"senior citizen\" is an older person, usually retired."
+  },
+  {
+    "word": "citizenship",
+    "ipa": "/ˈsɪtɪzənʃɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "vatandaşlık",
+        "def": "the legal right to belong to a country",
+        "examples": ["He applied for Canadian citizenship last year.", "She holds dual citizenship."]
+      },
+      {
+        "pos": "noun",
+        "tr": "vatandaşlık bilinci, yurttaşlık",
+        "def": "the duties and behavior expected of a member of a community",
+        "examples": ["The school teaches good citizenship through volunteer work."]
+      }
+    ],
+    "collocations": ["apply for citizenship", "dual citizenship", "grant citizenship", "citizenship test", "good citizenship"],
+    "synonyms": ["nationality"],
+    "family": [{ "word": "citizen", "pos": "noun" }]
+  },
+  {
+    "word": "city",
+    "ipa": "/ˈsɪti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şehir, kent",
+        "def": "a large and important town",
+        "examples": ["New York is the largest city in the United States.", "We moved from the city to a small town."]
+      }
+    ],
+    "collocations": ["capital city", "city center", "city hall", "inner city", "city council", "big city"],
+    "synonyms": ["town", "metropolis", "municipality"],
+    "family": [{ "word": "civic", "pos": "adjective" }],
+    "note": "\"City hall\" is the building of local government. \"Inner city\" suggests poor central areas."
+  },
+  {
+    "word": "civic",
+    "ipa": "/ˈsɪvɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kentsel, belediyeye ait; yurttaşlık",
+        "def": "connected with a city or with the duties of citizens",
+        "examples": ["Voting is a basic civic duty.", "Local leaders are trying to increase civic engagement."]
+      }
+    ],
+    "collocations": ["civic duty", "civic center", "civic leaders", "civic engagement", "civic pride"],
+    "synonyms": ["municipal", "public", "community"],
+    "family": [
+      { "word": "civics", "pos": "noun" },
+      { "word": "city", "pos": "noun" }
+    ],
+    "note": "\"Civics\" is a school subject about citizens' rights and the government."
+  },
+  {
+    "word": "civil",
+    "ipa": "/ˈsɪvl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sivil, toplumsal, vatandaşlara ait",
+        "def": "connected with the people of a country and their rights, not the military or religion",
+        "examples": ["The country was torn apart by civil war.", "The movement fought for civil rights in the 1960s."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(hukuk) medeni, özel hukuk",
+        "def": "relating to private legal cases, not criminal ones",
+        "examples": ["The family filed a civil lawsuit against the company."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "nazik, kibar",
+        "def": "polite but not very friendly",
+        "examples": ["Even after the divorce, they stayed civil to each other."]
+      }
+    ],
+    "collocations": ["civil war", "civil rights", "civil society", "civil servant", "civil law", "civil liberties"],
+    "synonyms": ["civic", "public", "polite", "courteous"],
+    "family": [
+      { "word": "civilian", "pos": "noun" },
+      { "word": "civility", "pos": "noun" },
+      { "word": "civilization", "pos": "noun" }
+    ],
+    "note": "\"Civil\" usually means \"related to citizens\". For \"not military\" people, use \"civilian\": civilian casualties, not \"civil casualties\"."
+  },
+  {
+    "word": "civilian",
+    "ipa": "/səˈvɪliən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sivil",
+        "def": "a person who is not in the armed forces or the police",
+        "examples": ["Thousands of civilians fled the city as the fighting grew worse.", "The bombing killed both soldiers and civilians."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sivil",
+        "def": "connected with people who are not in the armed forces",
+        "examples": ["After twenty years in the army, he struggled to adjust to civilian life."]
+      }
+    ],
+    "collocations": ["innocent civilians", "civilian casualties", "civilian population", "civilian life", "civilian clothes"],
+    "synonyms": ["noncombatant", "citizen"],
+    "family": [{ "word": "civil", "pos": "adjective" }]
+  },
+  {
+    "word": "civilization",
+    "ipa": "/ˌsɪvələˈzeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "medeniyet, uygarlık",
+        "def": "a highly developed society with its own culture and way of life",
+        "examples": ["Ancient Egyptian civilization lasted for thousands of years.", "The museum explores the great civilizations of the Americas."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(şaka) medeniyet, şehir hayatı",
+        "def": "(humorous) a place with modern comforts, especially a town",
+        "examples": ["After a week of camping, we were glad to get back to civilization."]
+      }
+    ],
+    "collocations": ["ancient civilization", "Western civilization", "modern civilization", "back to civilization", "the dawn of civilization"],
+    "synonyms": ["culture", "society", "development"],
+    "family": [
+      { "word": "civilized", "pos": "adjective" },
+      { "word": "civilize", "pos": "verb" }
+    ],
+    "note": "British spelling: civilisation. \"Civilized\" also means polite and reasonable."
+  },
+  {
+    "word": "claim",
+    "ipa": "/kleɪm/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "iddia etmek, öne sürmek",
+        "def": "to say something is true, although it has not been proved",
+        "examples": ["The company claims that its product is completely safe.", "He claims to have met the president."]
+      },
+      {
+        "pos": "verb",
+        "tr": "talep etmek, hak iddia etmek",
+        "def": "to ask for something because you believe you have a right to it",
+        "examples": ["You can claim your bags at carousel number four.", "Nobody has claimed the lost wallet."]
+      },
+      {
+        "pos": "noun",
+        "tr": "iddia",
+        "def": "a statement that something is true without proof",
+        "examples": ["Scientists have rejected claims that the vaccine is unsafe."]
+      },
+      {
+        "pos": "noun",
+        "tr": "talep, başvuru (sigorta, tazminat)",
+        "def": "a formal request for money you think you are owed",
+        "examples": ["She filed an insurance claim after the accident."]
+      }
+    ],
+    "collocations": ["claim responsibility", "make a claim", "file a claim", "baggage claim", "claim to fame", "unfounded claims"],
+    "synonyms": ["assert", "allege", "maintain", "demand", "assertion"],
+    "family": [
+      { "word": "claimant", "pos": "noun" },
+      { "word": "reclaim", "pos": "verb" }
+    ],
+    "note": "\"Claim\" suggests doubt about whether it's true. \"Claim lives\" means cause deaths: The flood claimed ten lives."
+  },
+  {
+    "word": "clarify",
+    "ipa": "/ˈklærəfaɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "açıklığa kavuşturmak, netleştirmek",
+        "def": "to make something clearer or easier to understand",
+        "examples": ["Could you clarify what you mean by \"soon\"?", "The new guidelines clarify who is responsible for safety."]
+      }
+    ],
+    "collocations": ["clarify the situation", "clarify the issue", "help clarify", "clarify a point", "seek to clarify"],
+    "synonyms": ["explain", "make clear", "spell out", "elucidate"],
+    "family": [
+      { "word": "clarification", "pos": "noun" },
+      { "word": "clarity", "pos": "noun" }
+    ],
+    "note": "Past form: clarified. \"Ask for clarification\" is a polite way to say \"I don't understand\"."
+  },
+  {
+    "word": "clarity",
+    "ipa": "/ˈklærəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "netlik, açıklık, berraklık",
+        "def": "the quality of being clear and easy to understand, see, or hear",
+        "examples": ["The teacher praised the clarity of her writing.", "We need more clarity about the new rules."]
+      }
+    ],
+    "collocations": ["lack of clarity", "for clarity", "with clarity", "moment of clarity", "provide clarity"],
+    "synonyms": ["clearness", "precision", "lucidity", "transparency"],
+    "family": [
+      { "word": "clear", "pos": "adjective" },
+      { "word": "clarify", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "clash",
+    "ipa": "/klæʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çatışma, arbede",
+        "def": "a short fight between two groups",
+        "examples": ["There were violent clashes between police and protesters."]
+      },
+      {
+        "pos": "noun",
+        "tr": "anlaşmazlık, çatışma (fikir)",
+        "def": "a serious disagreement",
+        "examples": ["The meeting ended in a clash over the budget."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çatışmak, çekişmek; (renk) uymamak",
+        "def": "to fight or argue; (of colors or styles) to look bad together",
+        "examples": ["Protesters clashed with police outside parliament.", "That red tie clashes with your orange shirt."]
+      }
+    ],
+    "collocations": ["violent clash", "clash with", "culture clash", "personality clash", "clash of interests"],
+    "synonyms": ["conflict", "fight", "confrontation", "dispute"],
+    "family": [],
+    "note": "Events can also \"clash\" when they happen at the same time: The two meetings clash."
+  },
+  {
+    "word": "class",
+    "ipa": "/klæs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sınıf (öğrenciler)",
+        "def": "a group of students taught together",
+        "examples": ["There are thirty students in my class."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ders",
+        "def": "a period of time when students are taught",
+        "examples": ["I have a chemistry class at nine.", "She takes yoga classes twice a week."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(toplumsal) sınıf",
+        "def": "a social group with a similar level of money, education, or status",
+        "examples": ["The tax cuts mostly helped the middle class."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sınıf, mevki (bilet)",
+        "def": "a level of quality or service, for example on a plane",
+        "examples": ["We flew business class to Tokyo."]
+      }
+    ],
+    "collocations": ["in class", "take a class", "middle class", "working class", "first class", "class of 2025"],
+    "synonyms": ["lesson", "course", "group", "category", "rank"],
+    "family": [
+      { "word": "classy", "pos": "adjective" },
+      { "word": "classmate", "pos": "noun" },
+      { "word": "classify", "pos": "verb" }
+    ],
+    "note": "The room is a \"classroom\", not a \"class\". \"The class of 2025\" means students who graduate that year."
+  },
+  {
+    "word": "classic",
+    "ipa": "/ˈklæsɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "klasik, en iyilerden",
+        "def": "considered one of the best of its kind and admired for a long time",
+        "examples": ["Casablanca is a classic Hollywood film.", "They drove a classic 1960s convertible."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tipik, klasik",
+        "def": "a very typical example of something",
+        "examples": ["Forgetting his keys again was a classic mistake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "klasik (eser)",
+        "def": "a book, film, or song that is well known and admired as excellent",
+        "examples": ["Everyone should read some of the classics of American literature."]
+      }
+    ],
+    "collocations": ["classic example", "classic case", "a modern classic", "classic car", "instant classic"],
+    "synonyms": ["typical", "timeless", "masterpiece", "standard"],
+    "family": [
+      { "word": "classical", "pos": "adjective" },
+      { "word": "classics", "pos": "noun" }
+    ],
+    "note": "\"Classic\" = typical or of lasting quality; \"classical\" = traditional, ancient, or serious music."
+  },
+  {
+    "word": "classical",
+    "ipa": "/ˈklæsɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "klasik (müzik)",
+        "def": "related to serious, traditional Western music",
+        "examples": ["She plays classical piano and loves Bach.", "The radio station plays classical music all night."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "klasik, antik (Yunan ve Roma)",
+        "def": "connected with ancient Greece and Rome",
+        "examples": ["The building's design was inspired by classical architecture."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "geleneksel, klasik",
+        "def": "traditional and widely accepted in style or form",
+        "examples": ["The book uses a classical approach to economics."]
+      }
+    ],
+    "collocations": ["classical music", "classical composer", "classical architecture", "classical ballet", "classical period"],
+    "synonyms": ["traditional", "ancient", "orthodox"],
+    "family": [
+      { "word": "classic", "pos": "adjective" },
+      { "word": "classically", "pos": "adverb" }
+    ],
+    "note": "Say \"classical music\", not \"classic music\"."
+  },
+  {
+    "word": "classification",
+    "ipa": "/ˌklæsɪfɪˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sınıflandırma",
+        "def": "the act or system of putting people or things into groups",
+        "examples": ["The classification of plants is based on their features.", "Films receive an age classification before release."]
+      }
+    ],
+    "collocations": ["classification system", "job classification", "age classification", "scientific classification"],
+    "synonyms": ["categorization", "grouping", "sorting", "ranking"],
+    "family": [
+      { "word": "classify", "pos": "verb" },
+      { "word": "classified", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "classify",
+    "ipa": "/ˈklæsɪfaɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sınıflandırmak, gruplandırmak",
+        "def": "to arrange people or things in groups based on shared features",
+        "examples": ["Libraries classify books by subject.", "The storm was classified as a category 4 hurricane."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gizli olarak sınıflandırmak",
+        "def": "to officially make information secret",
+        "examples": ["The documents were classified for national security reasons."]
+      }
+    ],
+    "collocations": ["classify as", "classify according to", "be classified into", "classified information"],
+    "synonyms": ["categorize", "sort", "group", "rank"],
+    "family": [
+      { "word": "classification", "pos": "noun" },
+      { "word": "classified", "pos": "adjective" }
+    ],
+    "note": "\"Classified ads\" are small newspaper or online ads for jobs, cars, etc."
+  },
+  {
+    "word": "classroom",
+    "ipa": "/ˈklæsruːm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "derslik, sınıf",
+        "def": "a room where a class of students is taught",
+        "examples": ["The classroom was empty when I arrived.", "Every classroom now has a smart board."]
+      }
+    ],
+    "collocations": ["in the classroom", "classroom teacher", "classroom management", "outside the classroom"],
+    "synonyms": ["schoolroom", "lecture room"],
+    "family": [{ "word": "class", "pos": "noun" }],
+    "note": "Turkish \"sınıf\" covers both the room (classroom) and the students (class)."
+  },
+  {
+    "word": "clause",
+    "ipa": "/klɔːz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "madde, hüküm",
+        "def": "a separate section of a legal document",
+        "examples": ["The contract includes a clause about early termination.", "Read the confidentiality clause carefully before you sign."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(dilbilgisi) cümlecik, yan cümle",
+        "def": "a group of words with a subject and a verb",
+        "examples": ["\"Because it was raining\" is a dependent clause."]
+      }
+    ],
+    "collocations": ["contract clause", "escape clause", "main clause", "relative clause", "clause in the contract"],
+    "synonyms": ["article", "provision", "section", "term"],
+    "family": [],
+    "note": "Pronounced like \"claws\"."
+  },
+  {
+    "word": "clean",
+    "ipa": "/kliːn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "temiz",
+        "def": "not dirty",
+        "examples": ["Put on a clean shirt before dinner.", "The hotel room was clean and quiet."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "temiz, sicili temiz, kurallara uygun",
+        "def": "not involving anything illegal or dishonest; not harmful to the environment",
+        "examples": ["The country is investing heavily in clean energy.", "He has a clean driving record."]
+      },
+      {
+        "pos": "verb",
+        "tr": "temizlemek",
+        "def": "to remove dirt or dust from something",
+        "examples": ["I spent all Saturday cleaning the house."]
+      }
+    ],
+    "collocations": ["clean up", "clean energy", "a clean record", "come clean", "spotlessly clean", "clean air"],
+    "synonyms": ["spotless", "tidy", "pure", "wash"],
+    "family": [
+      { "word": "cleaner", "pos": "noun" },
+      { "word": "cleanliness", "pos": "noun" },
+      { "word": "cleanly", "pos": "adverb" }
+    ],
+    "note": "\"Come clean\" means confess the truth. \"Make a clean break\" means end something completely."
+  },
+  {
+    "word": "clear",
+    "ipa": "/klɪr/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "açık, anlaşılır, net",
+        "def": "easy to understand, see, or hear; without doubt",
+        "examples": ["The instructions were clear and simple.", "It's clear that she's not happy with the decision."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "berrak, şeffaf; (hava) açık",
+        "def": "easy to see through; without clouds",
+        "examples": ["The water was so clear we could see the fish.", "On a clear day, you can see the mountains."]
+      },
+      {
+        "pos": "verb",
+        "tr": "temizlemek, boşaltmak, açmak",
+        "def": "to remove things or people that are not wanted from a place",
+        "examples": ["Workers cleared the snow from the road.", "Can you help me clear the table?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "aklamak; (onay) almak",
+        "def": "to prove someone is not guilty, or to give official permission",
+        "examples": ["The court cleared him of all charges."]
+      }
+    ],
+    "collocations": ["make it clear", "crystal clear", "clear the table", "clear up", "clear sky", "steer clear of"],
+    "synonyms": ["obvious", "plain", "transparent", "remove", "empty"],
+    "family": [
+      { "word": "clearly", "pos": "adverb" },
+      { "word": "clarity", "pos": "noun" },
+      { "word": "clearance", "pos": "noun" },
+      { "word": "unclear", "pos": "adjective" }
+    ],
+    "note": "\"Steer clear of\" means avoid. \"Clear up\" can mean explain a misunderstanding or the weather getting better."
+  },
+  {
+    "word": "clearly",
+    "ipa": "/ˈklɪrli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "açıkça, net bir şekilde",
+        "def": "in a way that is easy to see, hear, or understand",
+        "examples": ["Please speak clearly into the microphone.", "The sign was clearly visible from the road."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "belli ki, açıkça görülüyor ki",
+        "def": "used to say that something is obvious",
+        "examples": ["Clearly, the plan isn't working.", "She was clearly upset about the news."]
+      }
+    ],
+    "collocations": ["speak clearly", "think clearly", "clearly visible", "clearly defined", "clearly state"],
+    "synonyms": ["plainly", "distinctly", "obviously", "evidently"],
+    "family": [
+      { "word": "clear", "pos": "adjective" },
+      { "word": "clarity", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "clerk",
+    "ipa": "/klɜːrk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tezgahtar, satış görevlisi; resepsiyonist",
+        "def": "(American) a person who serves customers in a store or hotel",
+        "examples": ["The clerk at the front desk gave us our room keys.", "Ask the store clerk if they have it in a smaller size."]
+      },
+      {
+        "pos": "noun",
+        "tr": "memur, katip",
+        "def": "a person who keeps records or does office work",
+        "examples": ["She worked as a court clerk for ten years."]
+      }
+    ],
+    "collocations": ["store clerk", "hotel clerk", "desk clerk", "court clerk", "bank clerk"],
+    "synonyms": ["assistant", "salesperson", "receptionist", "office worker"],
+    "family": [{ "word": "clerical", "pos": "adjective" }],
+    "note": "American pronunciation /klɜːrk/ rhymes with \"work\"; British is /klɑːk/."
+  }
+]

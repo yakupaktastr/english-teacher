@@ -1,0 +1,1158 @@
+[
+  {
+    "word": "alignment",
+    "ipa": "/əˈlaɪnmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hizalama, hiza, ayar",
+        "def": "the arrangement of things in a straight line or correct position",
+        "examples": ["The car pulls to the right, so the wheel alignment needs checking.", "Use the ruler to check the alignment of the shelves."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uyum, uyumluluk; ittifak",
+        "def": "agreement or support between groups, ideas or goals",
+        "examples": ["The new policy is in alignment with company values.", "Political alignments shifted after the election."]
+      }
+    ],
+    "collocations": ["in alignment with", "out of alignment", "wheel alignment", "political alignment", "strategic alignment"],
+    "synonyms": ["arrangement", "positioning", "agreement", "alliance"],
+    "family": [{ "word": "align", "pos": "verb" }]
+  },
+  {
+    "word": "alike",
+    "ipa": "/əˈlaɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "benzer, birbirine benzeyen",
+        "def": "very similar to each other",
+        "examples": ["The twins look so alike that even their teachers mix them up.", "No two fingerprints are alike."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "aynı şekilde; hem ... hem de",
+        "def": "in a similar way, or used to mean 'both' or 'equally'",
+        "examples": ["The two brothers even dress alike.", "The show is popular with adults and children alike."]
+      }
+    ],
+    "collocations": ["look alike", "think alike", "dress alike", "treat alike", "X and Y alike"],
+    "synonyms": ["similar", "the same", "identical", "equally", "similarly"],
+    "family": [
+      { "word": "like", "pos": "preposition" },
+      { "word": "lookalike", "pos": "noun" }
+    ],
+    "note": "Not used before a noun: \"The houses are alike\", not \"the alike houses\". \"Great minds think alike\" is a common joke."
+  },
+  {
+    "word": "alive",
+    "ipa": "/əˈlaɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "canlı, hayatta, yaşayan",
+        "def": "living; not dead",
+        "examples": ["Doctors said he was lucky to be alive after the crash.", "Are your grandparents still alive?"]
+      },
+      {
+        "pos": "adjective",
+        "tr": "canlı, hareketli, dinamik; sürmekte olan",
+        "def": "full of energy and activity, or continuing to exist",
+        "examples": ["The streets come alive at night during the festival.", "They're trying to keep the old traditions alive."]
+      }
+    ],
+    "collocations": ["stay alive", "keep alive", "come alive", "alive and well", "barely alive", "alive and kicking"],
+    "synonyms": ["living", "breathing", "lively", "active", "surviving"],
+    "family": [
+      { "word": "live", "pos": "verb" },
+      { "word": "life", "pos": "noun" }
+    ],
+    "note": "Not used before a noun: \"The fish is alive\" but \"a live fish\" or \"a living creature\"."
+  },
+  {
+    "word": "all",
+    "ipa": "/ɔːl/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "bütün, tüm, hep",
+        "def": "the whole number or amount of something",
+        "examples": ["All the students passed the exam.", "She spent all her money on clothes."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "hepsi, her şey",
+        "def": "everyone or everything; the whole number or amount",
+        "examples": ["All of my friends were at the party.", "That's all I know about it."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "tamamen, büsbütün",
+        "def": "completely",
+        "examples": ["She was dressed all in black.", "I'm all alone this weekend."]
+      }
+    ],
+    "collocations": ["all day", "all of", "all over", "at all", "after all", "all the time", "all along"],
+    "synonyms": ["every", "entire", "whole", "everyone", "completely"],
+    "family": [],
+    "note": "\"Not at all\" = hiç. \"All along\" = from the beginning. With pronouns use \"all of\": all of us (not \"all us\")."
+  },
+  {
+    "word": "all right",
+    "ipa": "/ɔːl ˈraɪt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "iyi, idare eder, fena değil",
+        "def": "acceptable or good enough; also safe or not hurt",
+        "examples": ["The food was all right, but nothing special.", "Are you all right? That looked like a bad fall."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "iyi, sorunsuz, yolunda",
+        "def": "in an acceptable or satisfactory way",
+        "examples": ["Did the interview go all right?", "I think she's doing all right in her new job."]
+      },
+      {
+        "pos": "exclamation",
+        "tr": "tamam, peki, oldu",
+        "def": "used to agree, check that someone understands, or start a new topic",
+        "examples": ["\"Can you pick me up at eight?\" \"All right.\"", "All right, let's get started."]
+      }
+    ],
+    "collocations": ["it's all right", "are you all right", "be all right", "all right with", "that's all right", "all right then"],
+    "synonyms": ["OK", "fine", "acceptable", "safe", "okay"],
+    "family": [],
+    "note": "\"Alright\" is a common informal spelling, but \"all right\" is standard in formal writing."
+  },
+  {
+    "word": "allegation",
+    "ipa": "/ˌæləˈɡeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iddia, suçlama",
+        "def": "a public claim, made without proof, that someone has done something wrong or illegal",
+        "examples": ["The senator denied the allegations of fraud.", "Police are investigating allegations of abuse at the care home."]
+      }
+    ],
+    "collocations": ["deny an allegation", "make an allegation", "investigate allegations", "allegations of corruption", "face allegations", "serious allegations"],
+    "synonyms": ["accusation", "claim", "charge", "assertion"],
+    "family": [
+      { "word": "allege", "pos": "verb" },
+      { "word": "alleged", "pos": "adjective" },
+      { "word": "allegedly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "allege",
+    "ipa": "/əˈledʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "iddia etmek, ileri sürmek",
+        "def": "to say that something is true, usually that someone did something wrong, without giving proof",
+        "examples": ["The lawsuit alleges that the company hid safety problems.", "She was alleged to have taken bribes."]
+      }
+    ],
+    "collocations": ["allege that", "be alleged to", "it is alleged that", "allege fraud", "allege misconduct"],
+    "synonyms": ["claim", "assert", "accuse", "maintain"],
+    "family": [
+      { "word": "allegation", "pos": "noun" },
+      { "word": "alleged", "pos": "adjective" },
+      { "word": "allegedly", "pos": "adverb" }
+    ],
+    "note": "Common in news and legal English. \"The alleged thief\" = the person said to be the thief (not yet proven)."
+  },
+  {
+    "word": "allegedly",
+    "ipa": "/əˈledʒɪdli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "iddiaya göre, söylendiğine göre",
+        "def": "according to what people say, although it has not been proved",
+        "examples": ["The man allegedly stole three cars before he was caught.", "The documents were allegedly destroyed after the meeting."]
+      }
+    ],
+    "collocations": ["allegedly involved", "allegedly stole", "allegedly killed", "allegedly took place"],
+    "synonyms": ["reportedly", "supposedly", "apparently", "purportedly"],
+    "family": [
+      { "word": "allege", "pos": "verb" },
+      { "word": "alleged", "pos": "adjective" },
+      { "word": "allegation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "alliance",
+    "ipa": "/əˈlaɪəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ittifak, birlik",
+        "def": "an agreement between countries, parties or groups to work together for shared goals",
+        "examples": ["The two parties formed an alliance to win the election.", "NATO is a military alliance of North American and European countries."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ortaklık, işbirliği",
+        "def": "a group of people or organizations working together",
+        "examples": ["The airline is part of a global alliance with other carriers."]
+      }
+    ],
+    "collocations": ["form an alliance", "military alliance", "strategic alliance", "in alliance with", "political alliance", "unlikely alliance"],
+    "synonyms": ["coalition", "partnership", "union", "league", "pact"],
+    "family": [
+      { "word": "ally", "pos": "noun" },
+      { "word": "allied", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "allocate",
+    "ipa": "/ˈæləkeɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ayırmak, tahsis etmek",
+        "def": "to officially give money, time or resources to someone or something for a particular purpose",
+        "examples": ["The city allocated $2 million to repair the roads.", "Each team is allocated thirty minutes to present."]
+      }
+    ],
+    "collocations": ["allocate funds", "allocate resources", "allocate money to", "allocate time", "be allocated to"],
+    "synonyms": ["assign", "allot", "distribute", "set aside", "earmark"],
+    "family": [
+      { "word": "allocation", "pos": "noun" },
+      { "word": "reallocate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "allocation",
+    "ipa": "/ˌæləˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pay, tahsis edilen miktar",
+        "def": "an amount of money, space or time given for a particular purpose",
+        "examples": ["The school's budget allocation for sports was cut in half.", "Each department receives an annual allocation of funds."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tahsis, dağıtım",
+        "def": "the process of dividing and giving out resources",
+        "examples": ["The allocation of seats was decided by lottery."]
+      }
+    ],
+    "collocations": ["resource allocation", "budget allocation", "allocation of funds", "fair allocation", "annual allocation"],
+    "synonyms": ["share", "allotment", "distribution", "quota", "portion"],
+    "family": [{ "word": "allocate", "pos": "verb" }]
+  },
+  {
+    "word": "allow",
+    "ipa": "/əˈlaʊ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "izin vermek, müsaade etmek",
+        "def": "to let someone do something or let something happen",
+        "examples": ["Dogs are not allowed in the restaurant.", "My parents didn't allow me to stay out late."]
+      },
+      {
+        "pos": "verb",
+        "tr": "imkân vermek, olanak sağlamak",
+        "def": "to make it possible for someone to do something",
+        "examples": ["The new app allows users to pay with their phones.", "The money will allow us to hire more staff."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(zaman, para) ayırmak, hesaba katmak",
+        "def": "to plan for a certain amount of time or money to be available",
+        "examples": ["Allow at least two hours for the drive to the airport."]
+      }
+    ],
+    "collocations": ["allow someone to do", "be allowed to", "not allowed", "allow for", "allow access", "allow time"],
+    "synonyms": ["let", "permit", "enable", "authorize"],
+    "family": [
+      { "word": "allowance", "pos": "noun" },
+      { "word": "allowable", "pos": "adjective" }
+    ],
+    "note": "Allow someone TO do something, but let someone DO something. \"Allow for\" = take into account."
+  },
+  {
+    "word": "allowance",
+    "ipa": "/əˈlaʊəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "harçlık",
+        "def": "money that parents regularly give to their children",
+        "examples": ["My kids get a weekly allowance of ten dollars.", "She saved her allowance to buy a bike."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ödenek, tahsisat; hak (bagaj vb.)",
+        "def": "an amount of money or something else that you are allowed or given for a purpose",
+        "examples": ["Employees get a travel allowance for business trips.", "The baggage allowance is one 50-pound bag."]
+      }
+    ],
+    "collocations": ["weekly allowance", "travel allowance", "baggage allowance", "make allowances for", "housing allowance"],
+    "synonyms": ["pocket money", "stipend", "payment", "quota", "grant"],
+    "family": [{ "word": "allow", "pos": "verb" }],
+    "note": "\"Make allowances for\" = be more tolerant because of someone's situation. British English calls a child's allowance \"pocket money\"."
+  },
+  {
+    "word": "ally",
+    "ipa": "/ˈælaɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "müttefik",
+        "def": "a country that has agreed to support another, especially in war",
+        "examples": ["The US and its allies agreed to impose sanctions.", "Britain was America's closest ally during the war."]
+      },
+      {
+        "pos": "noun",
+        "tr": "destekçi, yandaş, dost",
+        "def": "a person who helps and supports someone, especially in a disagreement or campaign",
+        "examples": ["She was a close ally of the mayor for many years."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ally yourself with) ittifak kurmak, -in yanında yer almak",
+        "def": "to join with or support another person, group or country",
+        "examples": ["The small party allied itself with the opposition."]
+      }
+    ],
+    "collocations": ["close ally", "key ally", "political ally", "NATO allies", "ally yourself with", "strong ally"],
+    "synonyms": ["partner", "supporter", "friend", "associate", "collaborator"],
+    "family": [
+      { "word": "alliance", "pos": "noun" },
+      { "word": "allied", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "almost",
+    "ipa": "/ˈɔːlmoʊst/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "neredeyse, hemen hemen, az kalsın",
+        "def": "very nearly but not completely",
+        "examples": ["It's almost midnight; we should go home.", "I almost missed the bus this morning."]
+      }
+    ],
+    "collocations": ["almost always", "almost every", "almost certainly", "almost nothing", "almost impossible", "almost there"],
+    "synonyms": ["nearly", "practically", "virtually", "just about"],
+    "family": [],
+    "note": "Say \"almost all students\" or \"almost every day\", not \"almost students\". With negatives, \"almost nothing\" = hemen hiçbir şey."
+  },
+  {
+    "word": "alone",
+    "ipa": "/əˈloʊn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yalnız, tek başına",
+        "def": "without any other people",
+        "examples": ["She lives alone in a small apartment.", "I don't like being alone in the house at night."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "tek başına, yalnız başına",
+        "def": "without help from other people",
+        "examples": ["He built the cabin alone.", "You shouldn't walk home alone after dark."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "sadece, yalnızca",
+        "def": "only; used after a noun to emphasize that one thing is enough",
+        "examples": ["The rent alone costs half my salary.", "You alone can make this decision."]
+      }
+    ],
+    "collocations": ["live alone", "leave someone alone", "all alone", "let alone", "on your own", "not alone"],
+    "synonyms": ["by yourself", "on your own", "solo", "unaccompanied", "only"],
+    "family": [{ "word": "lonely", "pos": "adjective" }],
+    "note": "\"Alone\" is neutral (no one with you); \"lonely\" means sad because you're alone. \"Let alone\" = not to mention, hele hele."
+  },
+  {
+    "word": "along",
+    "ipa": "/əˈlɔːŋ/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "boyunca",
+        "def": "from one end toward the other end of something, or beside it",
+        "examples": ["We walked along the beach at sunset.", "There are trees along both sides of the road."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "ileri, ilerleyerek",
+        "def": "moving forward",
+        "examples": ["The line moved along slowly.", "Move along, please, there's nothing to see."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "beraber, yanında",
+        "def": "with someone, or to a place where someone is",
+        "examples": ["We're going to the lake; why don't you come along?", "She brought her sister along to the party."]
+      }
+    ],
+    "collocations": ["along the road", "come along", "get along", "along with", "all along", "go along with"],
+    "synonyms": ["beside", "alongside", "forward", "together"],
+    "family": [{ "word": "alongside", "pos": "preposition" }],
+    "note": "\"Get along (with)\" = anlaşmak, geçinmek. \"Along with\" = together with."
+  },
+  {
+    "word": "alongside",
+    "ipa": "/əˌlɔːŋˈsaɪd/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "yanında, yanı sıra",
+        "def": "next to or at the side of something",
+        "examples": ["A police car pulled up alongside us at the light.", "The path runs alongside the river."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "ile birlikte, omuz omuza",
+        "def": "together with someone or something, or at the same time",
+        "examples": ["She worked alongside some of the top scientists in the field.", "The museum displays modern art alongside ancient pieces."]
+      }
+    ],
+    "collocations": ["work alongside", "alongside each other", "run alongside", "fight alongside", "exist alongside"],
+    "synonyms": ["beside", "next to", "together with", "along with"],
+    "family": [{ "word": "along", "pos": "preposition" }]
+  },
+  {
+    "word": "already",
+    "ipa": "/ɔːlˈredi/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "zaten, çoktan, şimdiden",
+        "def": "before now or before a particular time, often sooner than expected",
+        "examples": ["I've already eaten, thanks.", "When we arrived, the movie had already started."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "şimdiden, bu kadar erken",
+        "def": "used to show surprise that something happened so early",
+        "examples": ["Is it 5 o'clock already?", "You're leaving already?"]
+      }
+    ],
+    "collocations": ["already done", "already know", "have already", "already started", "already exist"],
+    "synonyms": ["by now", "by then", "previously", "before"],
+    "family": [],
+    "note": "In American English, the simple past is also common: \"I already ate.\" Don't confuse with \"all ready\" (completely ready)."
+  },
+  {
+    "word": "also",
+    "ipa": "/ˈɔːlsoʊ/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "ayrıca, de/da, aynı zamanda",
+        "def": "in addition; too",
+        "examples": ["She speaks French and also a little Japanese.", "The hotel has a pool. It also has a gym."]
+      }
+    ],
+    "collocations": ["not only ... but also", "also known as", "also called", "also include", "and also"],
+    "synonyms": ["too", "as well", "in addition", "additionally", "besides"],
+    "family": [],
+    "note": "\"Also\" usually goes before the main verb but after \"be\": \"I also like it\", \"She is also tired\". At the end of a sentence, use \"too\"."
+  },
+  {
+    "word": "alter",
+    "ipa": "/ˈɔːltər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "değiştirmek, değişmek",
+        "def": "to become different, or to make someone or something different",
+        "examples": ["The new evidence completely altered the course of the trial.", "The city has altered a lot since I was a kid."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(giysi) tadil etmek, daraltmak/bollaştırmak",
+        "def": "to change clothes so they fit better",
+        "examples": ["I need to have these pants altered; they're too long."]
+      }
+    ],
+    "collocations": ["alter the course", "significantly alter", "dramatically alter", "alter the balance", "genetically altered", "life-altering"],
+    "synonyms": ["change", "modify", "adjust", "transform", "revise"],
+    "family": [
+      { "word": "alteration", "pos": "noun" },
+      { "word": "unaltered", "pos": "adjective" }
+    ],
+    "note": "More formal than \"change\". Sounds the same as \"altar\" (sunak)."
+  },
+  {
+    "word": "alternative",
+    "ipa": "/ɔːlˈtɜːrnətɪv/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alternatif, seçenek",
+        "def": "something you can choose instead of something else",
+        "examples": ["Tofu is a popular alternative to meat.", "We had no alternative but to cancel the trip."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "alternatif, başka, farklı",
+        "def": "able to be used instead of something else",
+        "examples": ["The road is closed, so take an alternative route.", "Solar power is an important alternative energy source."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "alışılmışın dışında, alternatif",
+        "def": "different from what is usual or traditional",
+        "examples": ["She's interested in alternative medicine like acupuncture."]
+      }
+    ],
+    "collocations": ["alternative to", "have no alternative", "alternative energy", "alternative route", "viable alternative", "alternative medicine"],
+    "synonyms": ["option", "choice", "substitute", "other", "different"],
+    "family": [
+      { "word": "alternatively", "pos": "adverb" },
+      { "word": "alternate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "although",
+    "ipa": "/ɔːlˈðoʊ/",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "tr": "-e rağmen, -diği halde, her ne kadar",
+        "def": "used to introduce a fact that makes the main statement seem surprising",
+        "examples": ["Although it was raining, we went for a walk.", "She still got the job, although she had no experience."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "ama, gerçi",
+        "def": "but; used to add a comment that makes the previous statement weaker",
+        "examples": ["I think he's right, although I'm not completely sure."]
+      }
+    ],
+    "collocations": ["although it is true that", "although not always", "although in fact", "although admittedly"],
+    "synonyms": ["though", "even though", "despite the fact that", "while", "but"],
+    "family": [],
+    "note": "Don't use \"but\" in the same sentence: \"Although it was late, we stayed\" (not \"...late, but we stayed\")."
+  },
+  {
+    "word": "altogether",
+    "ipa": "/ˌɔːltəˈɡeðər/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "tamamen, büsbütün",
+        "def": "completely; in every way",
+        "examples": ["The noise stopped altogether after midnight.", "I'm not altogether sure this is a good idea."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "toplamda, hepsi birden",
+        "def": "including everything; in total",
+        "examples": ["Altogether, the trip cost about $3,000.", "There were twenty people altogether."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "genel olarak, her şeyi göz önünde tutarsak",
+        "def": "considering everything",
+        "examples": ["Altogether, it was a pretty good year for the company."]
+      }
+    ],
+    "collocations": ["stop altogether", "disappear altogether", "not altogether", "something else altogether", "avoid altogether"],
+    "synonyms": ["completely", "entirely", "totally", "in total", "overall"],
+    "family": [],
+    "note": "Don't confuse with \"all together\" (everyone in one place/at once): \"Let's sing it all together.\""
+  },
+  {
+    "word": "aluminum",
+    "ipa": "/əˈluːmɪnəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alüminyum",
+        "def": "a light, silver-gray metal used for making cans, foil, cookware and aircraft parts",
+        "examples": ["Wrap the fish in aluminum foil before grilling.", "Recycling aluminum cans saves a lot of energy."]
+      }
+    ],
+    "collocations": ["aluminum foil", "aluminum can", "aluminum frame", "aluminum alloy"],
+    "synonyms": [],
+    "family": [],
+    "note": "American spelling and pronunciation: aluminum /əˈluːmɪnəm/. British: aluminium /ˌæljəˈmɪniəm/."
+  },
+  {
+    "word": "always",
+    "ipa": "/ˈɔːlweɪz/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "her zaman, daima, hep",
+        "def": "at all times or on every occasion",
+        "examples": ["She always takes the bus to work.", "I'll always remember that summer."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "sürekli, durmadan (şikâyet)",
+        "def": "used with continuous tenses to complain that something happens too often",
+        "examples": ["He's always leaving his dirty socks on the floor."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "her zaman (bir seçenek olarak)",
+        "def": "used to suggest another possible action",
+        "examples": ["If the hotel is full, you can always stay with us."]
+      }
+    ],
+    "collocations": ["as always", "almost always", "not always", "always have been", "always remember", "not always the case"],
+    "synonyms": ["every time", "constantly", "forever", "invariably"],
+    "family": [],
+    "note": "Goes before the main verb but after \"be\": \"She always calls\", \"She is always late\"."
+  },
+  {
+    "word": "amateur",
+    "ipa": "/ˈæmətər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "amatör",
+        "def": "doing an activity for pleasure, not as a paid job",
+        "examples": ["He's an amateur photographer who shoots weddings on weekends.", "The festival features amateur theater groups."]
+      },
+      {
+        "pos": "noun",
+        "tr": "amatör, heveskâr",
+        "def": "a person who does a sport or activity for pleasure rather than as a job",
+        "examples": ["The tournament is open to both amateurs and professionals."]
+      },
+      {
+        "pos": "noun",
+        "tr": "acemi, beceriksiz",
+        "def": "a person who is not skilled at something",
+        "examples": ["The repairs look like they were done by a bunch of amateurs."]
+      }
+    ],
+    "collocations": ["amateur photographer", "amateur athlete", "amateur sports", "amateur hour", "keen amateur"],
+    "synonyms": ["nonprofessional", "hobbyist", "enthusiast", "novice", "layperson"],
+    "family": [
+      { "word": "amateurish", "pos": "adjective" },
+      { "word": "amateurism", "pos": "noun" }
+    ],
+    "note": "Opposite: professional. \"Amateurish\" is always negative (unskilled)."
+  },
+  {
+    "word": "amazed",
+    "ipa": "/əˈmeɪzd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "şaşkın, hayret içinde, çok şaşırmış",
+        "def": "very surprised",
+        "examples": ["I was amazed at how quickly she learned to play the guitar.", "We were amazed to see snow in April."]
+      }
+    ],
+    "collocations": ["amazed at", "amazed by", "amazed to see", "absolutely amazed", "be amazed that"],
+    "synonyms": ["astonished", "astounded", "stunned", "surprised", "shocked"],
+    "family": [
+      { "word": "amaze", "pos": "verb" },
+      { "word": "amazing", "pos": "adjective" },
+      { "word": "amazement", "pos": "noun" }
+    ],
+    "note": "-ed describes how you feel (I'm amazed); -ing describes what causes the feeling (it's amazing)."
+  },
+  {
+    "word": "amazing",
+    "ipa": "/əˈmeɪzɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "harika, muhteşem, inanılmaz",
+        "def": "very surprising, especially in a way that you like or admire",
+        "examples": ["The view from the top of the mountain was amazing.", "It's amazing how much kids learn in their first years."]
+      }
+    ],
+    "collocations": ["absolutely amazing", "amazing view", "it's amazing how", "amazing job", "truly amazing"],
+    "synonyms": ["incredible", "astonishing", "wonderful", "fantastic", "awesome"],
+    "family": [
+      { "word": "amaze", "pos": "verb" },
+      { "word": "amazed", "pos": "adjective" },
+      { "word": "amazingly", "pos": "adverb" },
+      { "word": "amazement", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "ambassador",
+    "ipa": "/æmˈbæsədər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "büyükelçi",
+        "def": "a senior official who represents their country in a foreign country",
+        "examples": ["The US ambassador to Turkey met with the foreign minister.", "The country recalled its ambassador after the dispute."]
+      },
+      {
+        "pos": "noun",
+        "tr": "temsilci, elçi, yüz",
+        "def": "a person who represents or promotes an organization, activity or brand",
+        "examples": ["The athlete is a brand ambassador for a sportswear company."]
+      }
+    ],
+    "collocations": ["ambassador to", "US ambassador", "recall an ambassador", "goodwill ambassador", "brand ambassador"],
+    "synonyms": ["envoy", "diplomat", "representative", "emissary"],
+    "family": [{ "word": "embassy", "pos": "noun" }]
+  },
+  {
+    "word": "ambition",
+    "ipa": "/æmˈbɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hedef, hayal, emel",
+        "def": "something that you very much want to do or achieve",
+        "examples": ["Her ambition is to open her own restaurant.", "He finally achieved his lifelong ambition of climbing Everest."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hırs, azim",
+        "def": "a strong desire to be successful, powerful or rich",
+        "examples": ["She's smart, but she lacks ambition.", "His political ambition worried his rivals."]
+      }
+    ],
+    "collocations": ["lifelong ambition", "achieve an ambition", "realize an ambition", "political ambition", "lack ambition", "driven by ambition"],
+    "synonyms": ["goal", "aim", "dream", "aspiration", "drive"],
+    "family": [
+      { "word": "ambitious", "pos": "adjective" },
+      { "word": "ambitiously", "pos": "adverb" }
+    ],
+    "note": "In English, \"ambition\" is usually neutral or positive; Turkish \"hırs\" can sound more negative."
+  },
+  {
+    "word": "ambitious",
+    "ipa": "/æmˈbɪʃəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "hırslı, azimli, iddialı",
+        "def": "determined to be successful, rich or powerful",
+        "examples": ["She's a young, ambitious lawyer who works seventy hours a week.", "He was ambitious from an early age."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "iddialı, büyük çaplı",
+        "def": "(of a plan) needing a lot of effort, money or skill to succeed",
+        "examples": ["The city has an ambitious plan to plant a million trees.", "Finishing by June is a very ambitious target."]
+      }
+    ],
+    "collocations": ["ambitious plan", "ambitious project", "ambitious target", "highly ambitious", "politically ambitious"],
+    "synonyms": ["driven", "determined", "aspiring", "challenging", "bold"],
+    "family": [
+      { "word": "ambition", "pos": "noun" },
+      { "word": "ambitiously", "pos": "adverb" },
+      { "word": "unambitious", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "ambulance",
+    "ipa": "/ˈæmbjələns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ambulans, cankurtaran",
+        "def": "a vehicle with medical equipment used to take sick or injured people to the hospital",
+        "examples": ["Someone call an ambulance! He's not breathing.", "The ambulance arrived within ten minutes."]
+      }
+    ],
+    "collocations": ["call an ambulance", "ambulance crew", "ambulance driver", "by ambulance", "air ambulance"],
+    "synonyms": ["emergency vehicle", "paramedics"],
+    "family": [],
+    "note": "In the US you call 911 for an ambulance. The crew are \"paramedics\" or \"EMTs\"."
+  },
+  {
+    "word": "amend",
+    "ipa": "/əˈmend/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "değiştirmek, düzeltmek, (yasada) değişiklik yapmak",
+        "def": "to change a law, document or statement slightly to correct or improve it",
+        "examples": ["Congress voted to amend the tax law.", "The contract was amended to include a new deadline."]
+      }
+    ],
+    "collocations": ["amend the constitution", "amend a law", "amend a bill", "as amended", "amend the rules"],
+    "synonyms": ["revise", "modify", "change", "alter", "correct"],
+    "family": [
+      { "word": "amendment", "pos": "noun" },
+      { "word": "amends", "pos": "noun" }
+    ],
+    "note": "\"Make amends\" = to do something to show you're sorry for a wrong you did."
+  },
+  {
+    "word": "amendment",
+    "ipa": "/əˈmendmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "değişiklik, değişiklik önergesi, ek madde",
+        "def": "a change made to a law, document or proposal, or the process of changing it",
+        "examples": ["The senator proposed an amendment to the bill.", "Freedom of speech is protected by the First Amendment."]
+      }
+    ],
+    "collocations": ["propose an amendment", "pass an amendment", "constitutional amendment", "First Amendment", "amendment to"],
+    "synonyms": ["change", "revision", "modification", "alteration"],
+    "family": [{ "word": "amend", "pos": "verb" }],
+    "note": "In the US, \"Amendment\" often refers to a change to the Constitution, e.g. the Second Amendment."
+  },
+  {
+    "word": "amid",
+    "ipa": "/əˈmɪd/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "ortasında, arasında, -in eşliğinde",
+        "def": "during or in the middle of something, especially something exciting or worrying",
+        "examples": ["Stock prices fell amid fears of a recession.", "The mayor resigned amid a corruption scandal."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "arasında, ortasında (fiziksel)",
+        "def": "surrounded by things",
+        "examples": ["The cabin stands amid tall pine trees."]
+      }
+    ],
+    "collocations": ["amid fears", "amid concerns", "amid growing", "amid the chaos", "amid speculation", "amid protests"],
+    "synonyms": ["amidst", "during", "among", "in the middle of", "surrounded by"],
+    "family": [{ "word": "amidst", "pos": "preposition" }],
+    "note": "Formal; very common in news headlines."
+  },
+  {
+    "word": "among",
+    "ipa": "/əˈmʌŋ/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "arasında, içinde",
+        "def": "surrounded by or in the middle of a group of people or things",
+        "examples": ["I found the letter among some old papers.", "We walked among the crowds at the market."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "arasında (grubun bir parçası)",
+        "def": "being one of a group, or happening within a group",
+        "examples": ["She is among the best players in the world.", "The idea is popular among young voters."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "arasında (paylaştırma)",
+        "def": "used when dividing or sharing something between more than two people",
+        "examples": ["The prize money was divided among the five winners."]
+      }
+    ],
+    "collocations": ["among others", "among other things", "popular among", "among the best", "among friends", "divided among"],
+    "synonyms": ["amid", "amongst", "between", "in the middle of"],
+    "family": [{ "word": "amongst", "pos": "preposition" }],
+    "note": "Use \"between\" for two separate people or things, \"among\" for a group of three or more seen together."
+  },
+  {
+    "word": "amount",
+    "ipa": "/əˈmaʊnt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "miktar, tutar",
+        "def": "a quantity of something, especially money or something uncountable",
+        "examples": ["You'll need a large amount of patience for this job.", "The total amount of the bill was $85."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(amount to) toplamı ... olmak, ... anlamına gelmek",
+        "def": "used in \"amount to\" meaning to add up to a total or to be the same as something",
+        "examples": ["Her debts amount to over $10,000.", "His comments amounted to an admission of guilt."]
+      }
+    ],
+    "collocations": ["a large amount of", "a small amount of", "the total amount", "a huge amount", "amount to", "a fair amount"],
+    "synonyms": ["quantity", "sum", "total", "volume", "add up to"],
+    "family": [],
+    "note": "Use \"amount\" with uncountable nouns (amount of time) and \"number\" with countable nouns (number of people)."
+  },
+  {
+    "word": "amusing",
+    "ipa": "/əˈmjuːzɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "eğlenceli, komik, hoş",
+        "def": "funny and enjoyable",
+        "examples": ["He told us an amusing story about his first day at work.", "I didn't find the joke particularly amusing."]
+      }
+    ],
+    "collocations": ["highly amusing", "mildly amusing", "find something amusing", "amusing story", "amusing anecdote"],
+    "synonyms": ["funny", "entertaining", "humorous", "comical", "witty"],
+    "family": [
+      { "word": "amuse", "pos": "verb" },
+      { "word": "amused", "pos": "adjective" },
+      { "word": "amusement", "pos": "noun" }
+    ],
+    "note": "\"Amusing\" suggests mild humor; \"hilarious\" is very funny."
+  },
+  {
+    "word": "analogy",
+    "ipa": "/əˈnælədʒi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "benzetme, analoji, kıyas",
+        "def": "a comparison between two things that have similar features, often used to explain an idea",
+        "examples": ["The teacher used the analogy of a pump to explain how the heart works.", "She drew an analogy between running a business and coaching a team."]
+      }
+    ],
+    "collocations": ["draw an analogy", "by analogy", "make an analogy", "analogy between", "useful analogy", "false analogy"],
+    "synonyms": ["comparison", "parallel", "similarity", "likeness", "metaphor"],
+    "family": [
+      { "word": "analogous", "pos": "adjective" },
+      { "word": "analog", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "analysis",
+    "ipa": "/əˈnæləsɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "analiz, inceleme, çözümleme",
+        "def": "the detailed study of something to understand it better, or the results of such a study",
+        "examples": ["A careful analysis of the data revealed some surprising trends.", "Blood samples were sent to the lab for analysis."]
+      }
+    ],
+    "collocations": ["data analysis", "detailed analysis", "carry out an analysis", "in the final analysis", "statistical analysis", "cost-benefit analysis"],
+    "synonyms": ["examination", "study", "evaluation", "assessment", "breakdown"],
+    "family": [
+      { "word": "analyze", "pos": "verb" },
+      { "word": "analyst", "pos": "noun" },
+      { "word": "analytical", "pos": "adjective" },
+      { "word": "analytic", "pos": "adjective" }
+    ],
+    "note": "Plural: analyses /əˈnæləsiːz/. \"In the final analysis\" = when everything is considered."
+  },
+  {
+    "word": "analyst",
+    "ipa": "/ˈænəlɪst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "analist, uzman, yorumcu",
+        "def": "a person whose job is to examine information and give an expert opinion on it",
+        "examples": ["Financial analysts expect interest rates to fall next year.", "She works as a data analyst for a tech company."]
+      },
+      {
+        "pos": "noun",
+        "tr": "psikanalist",
+        "def": "a psychoanalyst or therapist",
+        "examples": ["He has been seeing an analyst once a week for years."]
+      }
+    ],
+    "collocations": ["financial analyst", "political analyst", "data analyst", "industry analysts", "market analyst", "analysts say"],
+    "synonyms": ["expert", "commentator", "specialist", "researcher"],
+    "family": [
+      { "word": "analyze", "pos": "verb" },
+      { "word": "analysis", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "analyze",
+    "ipa": "/ˈænəlaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "analiz etmek, incelemek, çözümlemek",
+        "def": "to examine something in detail, often by separating it into parts, to understand or explain it",
+        "examples": ["Scientists analyzed water samples from the lake.", "We need to analyze why sales dropped last quarter."]
+      }
+    ],
+    "collocations": ["analyze data", "carefully analyze", "analyze results", "analyze the situation", "analyze samples"],
+    "synonyms": ["examine", "study", "investigate", "evaluate", "break down"],
+    "family": [
+      { "word": "analysis", "pos": "noun" },
+      { "word": "analyst", "pos": "noun" },
+      { "word": "analytical", "pos": "adjective" }
+    ],
+    "note": "American spelling: analyze (British: analyse)."
+  },
+  {
+    "word": "ancestor",
+    "ipa": "/ˈænsestər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ata, cet",
+        "def": "a person in your family who lived a long time ago",
+        "examples": ["My ancestors came to America from Ireland in the 1850s.", "She traced her ancestors back to the 1600s."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ata, öncül",
+        "def": "an early form of an animal, plant or machine from which later forms developed",
+        "examples": ["Scientists believe birds share a common ancestor with dinosaurs."]
+      }
+    ],
+    "collocations": ["common ancestor", "distant ancestor", "direct ancestor", "trace your ancestors"],
+    "synonyms": ["forefather", "forebear", "predecessor", "forerunner"],
+    "family": [
+      { "word": "ancestry", "pos": "noun" },
+      { "word": "ancestral", "pos": "adjective" }
+    ],
+    "note": "Opposite: descendant (torun, nesil)."
+  },
+  {
+    "word": "anchor",
+    "ipa": "/ˈæŋkər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çapa, demir",
+        "def": "a heavy metal object dropped from a ship on a chain to keep it in one place",
+        "examples": ["The boat dropped anchor in a quiet bay.", "They raised the anchor and sailed out to sea."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dayanak, destek",
+        "def": "a person or thing that gives support and stability",
+        "examples": ["After her divorce, her sister was her anchor."]
+      },
+      {
+        "pos": "noun",
+        "tr": "haber sunucusu, spiker",
+        "def": "a person who presents a news program on TV",
+        "examples": ["She has been the evening news anchor for twenty years."]
+      },
+      {
+        "pos": "verb",
+        "tr": "demir atmak; sabitlemek; (haber) sunmak",
+        "def": "to hold a ship in place with an anchor, to fix something firmly, or to present a news program",
+        "examples": ["The tent was anchored to the ground with metal stakes."]
+      }
+    ],
+    "collocations": ["drop anchor", "weigh anchor", "at anchor", "news anchor", "anchor store"],
+    "synonyms": ["mainstay", "support", "presenter", "newscaster", "secure"],
+    "family": [{ "word": "anchorage", "pos": "noun" }],
+    "note": "In American English a TV \"anchor\" is a news presenter."
+  },
+  {
+    "word": "ancient",
+    "ipa": "/ˈeɪnʃənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "antik, kadim, eski çağlara ait",
+        "def": "belonging to a period of history thousands of years ago",
+        "examples": ["We visited the ancient ruins of Ephesus.", "She studies ancient Greek and Roman history."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "çok eski, köhne, asırlık",
+        "def": "very old; often used humorously",
+        "examples": ["My dad still uses an ancient laptop that takes ages to start."]
+      }
+    ],
+    "collocations": ["ancient history", "ancient Greece", "ancient Rome", "ancient ruins", "ancient times", "ancient civilization"],
+    "synonyms": ["old", "antique", "historic", "archaic", "prehistoric"],
+    "family": [],
+    "note": "\"That's ancient history\" (informal) = it happened long ago and doesn't matter now."
+  },
+  {
+    "word": "and",
+    "ipa": "/ənd/",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "tr": "ve, ile",
+        "def": "used to connect words, phrases or sentences, meaning 'also' or 'in addition to'",
+        "examples": ["I bought bread, milk and eggs.", "She's smart and funny."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "ve (sonra), ardından",
+        "def": "used to show that one thing happens after or as a result of another",
+        "examples": ["He opened the door and walked in.", "Study hard and you'll pass."]
+      }
+    ],
+    "collocations": ["and so on", "and then", "and yet", "try and", "more and more", "and so forth"],
+    "synonyms": ["plus", "as well as", "also", "along with"],
+    "family": [],
+    "note": "In speech, \"try and\" and \"go and\" are common: \"Go and see who's at the door.\" Strong form /ænd/."
+  },
+  {
+    "word": "angel",
+    "ipa": "/ˈeɪndʒl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "melek",
+        "def": "a spiritual being believed to serve God, often shown with wings and dressed in white",
+        "examples": ["The painting shows an angel appearing to Mary.", "She put a little angel on top of the Christmas tree."]
+      },
+      {
+        "pos": "noun",
+        "tr": "melek gibi kimse, çok iyi kalpli kişi",
+        "def": "a very kind or good person",
+        "examples": ["You're an angel for helping me move!", "The nurses were absolute angels."]
+      }
+    ],
+    "collocations": ["guardian angel", "be an angel", "little angel", "angel investor", "fallen angel"],
+    "synonyms": ["saint", "darling", "sweetheart"],
+    "family": [
+      { "word": "angelic", "pos": "adjective" },
+      { "word": "archangel", "pos": "noun" }
+    ],
+    "note": "Don't confuse with \"angle\" /ˈæŋɡl/ (açı). \"Be an angel and...\" is a friendly way to ask a favor."
+  },
+  {
+    "word": "anger",
+    "ipa": "/ˈæŋɡər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öfke, kızgınlık",
+        "def": "the strong feeling you have when something unfair or bad has happened",
+        "examples": ["There is growing public anger over rising food prices.", "He couldn't hide his anger when he saw the damage."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kızdırmak, öfkelendirmek",
+        "def": "to make someone angry",
+        "examples": ["The decision angered many local residents."]
+      }
+    ],
+    "collocations": ["anger at", "anger over", "express anger", "public anger", "anger management", "in anger"],
+    "synonyms": ["rage", "fury", "outrage", "annoyance", "infuriate"],
+    "family": [
+      { "word": "angry", "pos": "adjective" },
+      { "word": "angrily", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "angle",
+    "ipa": "/ˈæŋɡl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "açı",
+        "def": "the space between two lines or surfaces that meet, measured in degrees",
+        "examples": ["A square has four angles of 90 degrees.", "The ladder was leaning against the wall at a steep angle."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bakış açısı, yön, perspektif",
+        "def": "a particular way of looking at or thinking about a situation",
+        "examples": ["The reporter approached the story from a different angle.", "Let's look at the problem from every angle."]
+      }
+    ],
+    "collocations": ["at an angle", "right angle", "camera angle", "from a different angle", "from every angle", "new angle"],
+    "synonyms": ["slope", "corner", "perspective", "viewpoint", "approach"],
+    "family": [
+      { "word": "angular", "pos": "adjective" },
+      { "word": "triangle", "pos": "noun" }
+    ],
+    "note": "Don't confuse with \"angel\" /ˈeɪndʒl/ (melek)."
+  }
+]

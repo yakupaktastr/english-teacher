@@ -1,0 +1,1279 @@
+[
+  {
+    "word": "making",
+    "ipa": "/ˈmeɪkɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yapım, üretim",
+        "def": "the act or process of making or producing something",
+        "examples": ["The documentary shows the making of the film.", "She has a small business in jewelry making."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(the makings) gerekli nitelikler, potansiyel",
+        "def": "the qualities needed to become a particular thing",
+        "examples": ["The young player has the makings of a future star."]
+      }
+    ],
+    "collocations": ["the making of", "in the making", "decision-making", "of your own making", "have the makings of", "policy-making"],
+    "synonyms": ["production", "creation", "manufacture", "building"],
+    "family": [{ "word": "make", "pos": "verb" }],
+    "note": "\"History in the making\" = something important happening now. \"A problem of your own making\" = one you caused yourself."
+  },
+  {
+    "word": "male",
+    "ipa": "/meɪl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "erkek",
+        "def": "belonging to the sex that does not give birth, or connected with men",
+        "examples": ["Most of the company's senior managers are male.", "A male lion can weigh over 400 pounds."]
+      },
+      {
+        "pos": "noun",
+        "tr": "erkek, erkek hayvan",
+        "def": "a male person, animal or plant",
+        "examples": ["The suspect is a white male in his thirties.", "In many bird species, the male is more colorful than the female."]
+      }
+    ],
+    "collocations": ["male and female", "male colleague", "adult male", "male-dominated", "young male", "male voice"],
+    "synonyms": ["masculine", "man", "boy"],
+    "family": [{ "word": "masculine", "pos": "adjective" }],
+    "note": "\"Male\" as a noun for people sounds clinical (police, science reports). In everyday speech say \"man\"."
+  },
+  {
+    "word": "mall",
+    "ipa": "/mɔːl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "alışveriş merkezi, AVM",
+        "def": "a large building or covered area with many stores and restaurants",
+        "examples": ["Teenagers like to hang out at the mall on weekends.", "The new mall has over two hundred stores."]
+      }
+    ],
+    "collocations": ["shopping mall", "at the mall", "strip mall", "mall rat", "outlet mall"],
+    "synonyms": ["shopping center", "plaza", "arcade"],
+    "family": [],
+    "note": "American English. British English often says \"shopping centre\"."
+  },
+  {
+    "word": "man",
+    "ipa": "/mæn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "adam, erkek",
+        "def": "an adult male human",
+        "examples": ["A man in a gray suit was waiting outside the office.", "He's a kind, honest man."]
+      },
+      {
+        "pos": "noun",
+        "tr": "insan, insanoğlu, insanlık",
+        "def": "humans in general (old-fashioned)",
+        "examples": ["Fire was one of man's most important discoveries."]
+      },
+      {
+        "pos": "exclamation",
+        "tr": "ya, be, vay be",
+        "def": "used to express surprise, anger or excitement (informal)",
+        "examples": ["Man, that was a long drive!"]
+      }
+    ],
+    "collocations": ["a young man", "old man", "man to man", "the man in the street", "man of his word", "best man"],
+    "synonyms": ["gentleman", "guy", "male", "humankind"],
+    "family": [
+      { "word": "manly", "pos": "adjective" },
+      { "word": "manhood", "pos": "noun" },
+      { "word": "mankind", "pos": "noun" }
+    ],
+    "note": "Plural: men. For humans in general, \"people\" or \"humanity\" is preferred today. \"Best man\" = sağdıç."
+  },
+  {
+    "word": "manage",
+    "ipa": "/ˈmænɪdʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yönetmek, idare etmek",
+        "def": "to be in charge of a business, team or organization",
+        "examples": ["She manages a team of twelve engineers.", "He used to manage a hotel in Las Vegas."]
+      },
+      {
+        "pos": "verb",
+        "tr": "başarmak, -ebilmek, becermek",
+        "def": "to succeed in doing something difficult",
+        "examples": ["Somehow we managed to finish the project on time.", "Did you manage to find a parking space?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "idare etmek, geçinmek, başa çıkmak",
+        "def": "to be able to deal with problems or live without much money or help",
+        "examples": ["I don't know how they manage on such a small income."]
+      }
+    ],
+    "collocations": ["manage to do", "manage a team", "manage time", "manage money", "manage without", "manage risk"],
+    "synonyms": ["run", "direct", "handle", "cope", "succeed"],
+    "family": [
+      { "word": "management", "pos": "noun" },
+      { "word": "manager", "pos": "noun" },
+      { "word": "manageable", "pos": "adjective" },
+      { "word": "managerial", "pos": "adjective" }
+    ],
+    "note": "\"Manage to do\" means you succeeded despite difficulty: I managed to fix it (= düzeltmeyi başardım)."
+  },
+  {
+    "word": "management",
+    "ipa": "/ˈmænɪdʒmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yönetim, idare",
+        "def": "the activity of running and controlling a business or organization",
+        "examples": ["She has a degree in business management.", "Good time management is key to success in college."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yönetim (kadrosu), idareciler",
+        "def": "the people who run a company or organization",
+        "examples": ["Management refused to meet with the union.", "The hotel is under new management."]
+      }
+    ],
+    "collocations": ["senior management", "under new management", "time management", "risk management", "project management", "management skills"],
+    "synonyms": ["administration", "running", "leadership", "executives"],
+    "family": [
+      { "word": "manage", "pos": "verb" },
+      { "word": "manager", "pos": "noun" },
+      { "word": "managerial", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "manager",
+    "ipa": "/ˈmænɪdʒər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "müdür, yönetici",
+        "def": "a person in charge of running a business, store or department",
+        "examples": ["I'd like to speak to the manager, please.", "She was promoted to sales manager last year."]
+      },
+      {
+        "pos": "noun",
+        "tr": "menajer; (spor) teknik direktör",
+        "def": "a person who manages an athlete, performer or sports team",
+        "examples": ["The band fired their manager after a dispute over money."]
+      }
+    ],
+    "collocations": ["general manager", "project manager", "store manager", "sales manager", "line manager", "office manager"],
+    "synonyms": ["director", "boss", "supervisor", "head", "executive"],
+    "family": [
+      { "word": "manage", "pos": "verb" },
+      { "word": "management", "pos": "noun" },
+      { "word": "managerial", "pos": "adjective" }
+    ],
+    "note": "In US sports, the head of a baseball team is the \"manager\"; for most other sports it's the \"head coach\"."
+  },
+  {
+    "word": "mandate",
+    "ipa": "/ˈmændeɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(seçimle verilen) yetki, vekâlet",
+        "def": "the authority given to a government or leader by the people who voted for them",
+        "examples": ["The new president has a clear mandate for change.", "The election gave the party a strong mandate."]
+      },
+      {
+        "pos": "noun",
+        "tr": "resmi talimat, zorunluluk",
+        "def": "an official order or requirement to do something",
+        "examples": ["The state lifted its mask mandate in the spring."]
+      },
+      {
+        "pos": "verb",
+        "tr": "zorunlu kılmak, yetkilendirmek",
+        "def": "to officially order or require something",
+        "examples": ["The law mandates that all new buildings have solar panels."]
+      }
+    ],
+    "collocations": ["clear mandate", "a mandate for", "electoral mandate", "mask mandate", "under the mandate", "democratic mandate"],
+    "synonyms": ["authority", "authorization", "order", "requirement", "require"],
+    "family": [{ "word": "mandatory", "pos": "adjective" }],
+    "note": "Formal. In US English the verb \"mandate\" (= require by law) is very common in news."
+  },
+  {
+    "word": "mandatory",
+    "ipa": "/ˈmændətɔːri/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "zorunlu, mecburi",
+        "def": "required by law or by a rule",
+        "examples": ["Wearing a seat belt is mandatory in all states.", "Attendance at the safety meeting is mandatory for all staff."]
+      }
+    ],
+    "collocations": ["mandatory for", "mandatory sentence", "mandatory retirement", "mandatory testing", "make something mandatory"],
+    "synonyms": ["compulsory", "obligatory", "required", "binding"],
+    "family": [{ "word": "mandate", "pos": "noun" }],
+    "note": "Opposite: optional / voluntary. Americans use \"mandatory\" more than \"compulsory\"."
+  },
+  {
+    "word": "manifest",
+    "ipa": "/ˈmænɪfest/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "göstermek, ortaya koymak; kendini göstermek",
+        "def": "to show something clearly, or to appear or become noticeable",
+        "examples": ["The disease can manifest itself in many different ways.", "Her anxiety manifested as constant headaches."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "açık, belli, aşikâr",
+        "def": "easy to see or understand (formal)",
+        "examples": ["His disappointment was manifest to everyone in the room."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gemi, uçak) yük listesi, yolcu listesi",
+        "def": "a list of the cargo or passengers on a ship or plane",
+        "examples": ["The passenger's name did not appear on the flight manifest."]
+      }
+    ],
+    "collocations": ["manifest itself", "manifest in", "manifest as", "become manifest", "passenger manifest"],
+    "synonyms": ["show", "display", "reveal", "obvious", "evident"],
+    "family": [
+      { "word": "manifestation", "pos": "noun" },
+      { "word": "manifesto", "pos": "noun" },
+      { "word": "manifestly", "pos": "adverb" }
+    ],
+    "note": "Formal. Often reflexive: \"manifest itself\". In pop culture, \"manifest\" also means to attract something by believing in it."
+  },
+  {
+    "word": "manipulate",
+    "ipa": "/məˈnɪpjuleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "manipüle etmek, (birini) kullanmak, parmağında oynatmak",
+        "def": "to control or influence someone or something in a clever, often unfair way",
+        "examples": ["He manipulated his friends into lending him money.", "The company was accused of manipulating the figures."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ustalıkla) kullanmak, işlemek, oynamak",
+        "def": "to control or handle something with skill, especially with your hands or a computer",
+        "examples": ["The software lets you manipulate photos easily."]
+      }
+    ],
+    "collocations": ["manipulate someone into", "manipulate data", "manipulate the market", "manipulate public opinion", "easily manipulated"],
+    "synonyms": ["control", "exploit", "influence", "handle", "operate"],
+    "family": [
+      { "word": "manipulation", "pos": "noun" },
+      { "word": "manipulative", "pos": "adjective" },
+      { "word": "manipulator", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "manipulation",
+    "ipa": "/məˌnɪpjuˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "manipülasyon, yönlendirme, oyun",
+        "def": "controlling or influencing someone or something in a clever and unfair way",
+        "examples": ["The bank was fined for market manipulation.", "Emotional manipulation is a common sign of an abusive relationship."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(ustalıkla) işleme, kullanma",
+        "def": "the skillful handling or processing of something",
+        "examples": ["The course covers data manipulation in spreadsheets."]
+      }
+    ],
+    "collocations": ["market manipulation", "emotional manipulation", "media manipulation", "data manipulation", "political manipulation"],
+    "synonyms": ["exploitation", "influence", "control", "handling"],
+    "family": [
+      { "word": "manipulate", "pos": "verb" },
+      { "word": "manipulative", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "manner",
+    "ipa": "/ˈmænər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tarz, biçim, şekil",
+        "def": "the way that something is done or happens",
+        "examples": ["The issue was handled in a professional manner.", "Complaints should be dealt with in a timely manner."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tavır, davranış",
+        "def": "the way someone behaves toward other people",
+        "examples": ["She has a calm, friendly manner with patients."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(manners) görgü, terbiye, adap",
+        "def": "polite behavior that is acceptable in a particular society",
+        "examples": ["It's bad manners to talk with your mouth full.", "Her kids have excellent manners."]
+      }
+    ],
+    "collocations": ["in a manner", "in the same manner", "good manners", "bad manners", "table manners", "all manner of"],
+    "synonyms": ["way", "method", "style", "behavior", "etiquette"],
+    "family": [{ "word": "mannerism", "pos": "noun" }],
+    "note": "\"Manners\" (plural) = politeness. \"All manner of\" (formal) = many different kinds of."
+  },
+  {
+    "word": "manual",
+    "ipa": "/ˈmænjuəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "elle yapılan, bedensel (iş); manuel, el ile çalışan",
+        "def": "done with the hands, or operated by hand rather than automatically",
+        "examples": ["He worked in manual jobs before going to college.", "I learned to drive in a car with a manual transmission."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kılavuz, el kitabı",
+        "def": "a book that tells you how to do something or use a machine",
+        "examples": ["Check the user manual before you set up the printer.", "The staff manual explains the company's policies."]
+      }
+    ],
+    "collocations": ["manual labor", "manual work", "manual transmission", "user manual", "instruction manual", "training manual"],
+    "synonyms": ["physical", "hand-operated", "handbook", "guide", "instructions"],
+    "family": [{ "word": "manually", "pos": "adverb" }],
+    "note": "Opposite: automatic. A car with a manual transmission is called a \"stick shift\" in informal American English."
+  },
+  {
+    "word": "manufacture",
+    "ipa": "/ˌmænjuˈfæktʃər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "üretmek, imal etmek",
+        "def": "to make goods in large quantities, using machines",
+        "examples": ["The company manufactures parts for electric cars.", "Most of these toys are manufactured in Asia."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uydurmak, (yapay olarak) yaratmak",
+        "def": "to invent something such as a story or excuse in order to trick people",
+        "examples": ["The evidence against him was manufactured by police."]
+      },
+      {
+        "pos": "noun",
+        "tr": "üretim, imalat",
+        "def": "the process of producing goods in large quantities",
+        "examples": ["The chemicals are used in the manufacture of plastics."]
+      }
+    ],
+    "collocations": ["manufacture goods", "manufactured in", "the manufacture of", "mass manufacture", "manufacture weapons"],
+    "synonyms": ["produce", "make", "build", "fabricate", "invent"],
+    "family": [
+      { "word": "manufacturer", "pos": "noun" },
+      { "word": "manufacturing", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "manufacturing",
+    "ipa": "/ˌmænjuˈfæktʃərɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "imalat, üretim (sanayisi)",
+        "def": "the business or industry of producing goods in large quantities",
+        "examples": ["Many manufacturing jobs have moved overseas.", "The region's economy was built on manufacturing."]
+      }
+    ],
+    "collocations": ["manufacturing industry", "manufacturing sector", "manufacturing jobs", "manufacturing plant", "manufacturing process"],
+    "synonyms": ["production", "industry", "fabrication"],
+    "family": [
+      { "word": "manufacture", "pos": "verb" },
+      { "word": "manufacturer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "manuscript",
+    "ipa": "/ˈmænjuskrɪpt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "müsvedde, taslak metin",
+        "def": "a writer's copy of a book or article before it is published",
+        "examples": ["She sent her manuscript to over twenty publishers.", "Please submit your manuscript by the end of June."]
+      },
+      {
+        "pos": "noun",
+        "tr": "el yazması",
+        "def": "a very old book or document written by hand",
+        "examples": ["The library holds rare medieval manuscripts."]
+      }
+    ],
+    "collocations": ["submit a manuscript", "original manuscript", "ancient manuscript", "unpublished manuscript", "in manuscript"],
+    "synonyms": ["draft", "text", "document", "script"],
+    "family": []
+  },
+  {
+    "word": "many",
+    "ipa": "/ˈmeni/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "çok, birçok",
+        "def": "a large number of (used with plural nouns)",
+        "examples": ["Many people work from home now.", "There aren't many good restaurants in this area."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "birçoğu, çoğu",
+        "def": "a large number of people or things",
+        "examples": ["Many of the students failed the test.", "I've seen a lot of his films, but not many recently."]
+      }
+    ],
+    "collocations": ["how many", "too many", "so many", "as many as", "many of", "a great many", "many times"],
+    "synonyms": ["numerous", "a lot of", "lots of", "plenty of", "countless"],
+    "family": [],
+    "note": "Use \"many\" with countable nouns (many books) and \"much\" with uncountable nouns (much time). In positive sentences, \"a lot of\" is more natural."
+  },
+  {
+    "word": "map",
+    "ipa": "/mæp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "harita",
+        "def": "a drawing or plan of an area showing roads, towns, rivers, etc.",
+        "examples": ["Check the map to see how far it is to the next town.", "I use the map on my phone to get around the city."]
+      },
+      {
+        "pos": "verb",
+        "tr": "haritasını çıkarmak",
+        "def": "to make a map of an area, or find out and record the details of something",
+        "examples": ["Scientists have mapped the entire human genome.", "The satellite will map the ocean floor."]
+      }
+    ],
+    "collocations": ["road map", "on the map", "map out", "read a map", "street map", "put something on the map"],
+    "synonyms": ["chart", "plan", "atlas", "plot"],
+    "family": [{ "word": "mapping", "pos": "noun" }],
+    "note": "\"Put somewhere on the map\" = make it famous. \"Map out\" = plan in detail."
+  },
+  {
+    "word": "marathon",
+    "ipa": "/ˈmærəθɑːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "maraton",
+        "def": "a running race of about 42 kilometers (26.2 miles)",
+        "examples": ["She ran her first marathon in under four hours.", "Thousands of runners took part in the Boston Marathon."]
+      },
+      {
+        "pos": "noun",
+        "tr": "maraton, uzun soluklu iş",
+        "def": "an activity that lasts a long time and needs a lot of effort",
+        "examples": ["The negotiations turned into a twelve-hour marathon.", "We had a movie marathon all weekend."]
+      }
+    ],
+    "collocations": ["run a marathon", "marathon runner", "half marathon", "marathon session", "a marathon, not a sprint"],
+    "synonyms": ["endurance race", "long haul"],
+    "family": [],
+    "note": "\"It's a marathon, not a sprint\" = success takes patience and steady effort."
+  },
+  {
+    "word": "march",
+    "ipa": "/mɑːrtʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yürüyüş (protesto), eylem",
+        "def": "an organized walk by many people to protest or support something",
+        "examples": ["Thousands joined the march for climate action.", "The civil rights march ended at the Capitol."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uygun adım yürümek, tören yürüyüşü yapmak",
+        "def": "to walk with regular steps like a soldier",
+        "examples": ["The soldiers marched through the city center."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yürüyüş yapmak (protesto); hışımla yürümek",
+        "def": "to walk somewhere as a protest, or to walk quickly and angrily",
+        "examples": ["Students marched on City Hall to demand lower fees.", "She marched into the office and demanded an apology."]
+      }
+    ],
+    "collocations": ["protest march", "march on", "march past", "on the march", "march into", "peace march"],
+    "synonyms": ["parade", "procession", "demonstration", "stride", "walk"],
+    "family": [{ "word": "marcher", "pos": "noun" }]
+  },
+  {
+    "word": "March",
+    "ipa": "/mɑːrtʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mart",
+        "def": "the third month of the year, between February and April",
+        "examples": ["My birthday is in March.", "The new store opens on March 15."]
+      }
+    ],
+    "collocations": ["in March", "on March 3", "last March", "next March", "early March", "the end of March"],
+    "synonyms": [],
+    "family": [],
+    "note": "Always capitalized. Use \"in\" for the month and \"on\" for a date: in March, on March 3."
+  },
+  {
+    "word": "margin",
+    "ipa": "/ˈmɑːrdʒɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kenar boşluğu, marj",
+        "def": "the empty space at the side of a written or printed page",
+        "examples": ["The teacher wrote comments in the margin of my essay.", "Set the margins to one inch on all sides."]
+      },
+      {
+        "pos": "noun",
+        "tr": "fark, ara",
+        "def": "the amount by which one thing is more or less than another, for example in a vote",
+        "examples": ["She won the election by a narrow margin.", "The bill passed by a wide margin."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kâr marjı",
+        "def": "the difference between the cost of something and the price it is sold for",
+        "examples": ["Grocery stores operate on very thin margins."]
+      }
+    ],
+    "collocations": ["in the margin", "narrow margin", "wide margin", "profit margin", "margin of error", "on the margins"],
+    "synonyms": ["edge", "border", "difference", "gap", "markup"],
+    "family": [
+      { "word": "marginal", "pos": "adjective" },
+      { "word": "marginally", "pos": "adverb" },
+      { "word": "marginalize", "pos": "verb" }
+    ],
+    "note": "\"On the margins of society\" = excluded from the mainstream."
+  },
+  {
+    "word": "marginal",
+    "ipa": "/ˈmɑːrdʒɪnl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çok az, önemsiz, küçük",
+        "def": "small and not important",
+        "examples": ["The new policy made only a marginal difference.", "There was a marginal increase in sales last month."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "marjinal, toplumun dışında kalan",
+        "def": "not part of the main group or activity, and having little influence",
+        "examples": ["The party remained a marginal force in national politics."]
+      }
+    ],
+    "collocations": ["marginal difference", "marginal increase", "marginal benefit", "marginal role", "of marginal importance"],
+    "synonyms": ["slight", "small", "minor", "minimal", "peripheral"],
+    "family": [
+      { "word": "margin", "pos": "noun" },
+      { "word": "marginally", "pos": "adverb" },
+      { "word": "marginalize", "pos": "verb" }
+    ],
+    "note": "Trap: Turkish \"marjinal\" often means \"eccentric, unconventional\". In English, \"marginal\" usually means small or unimportant."
+  },
+  {
+    "word": "marine",
+    "ipa": "/məˈriːn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "deniz ile ilgili, denizel",
+        "def": "connected with the sea and the animals and plants that live there",
+        "examples": ["She studied marine biology in Florida.", "Plastic pollution is a serious threat to marine life."]
+      },
+      {
+        "pos": "noun",
+        "tr": "deniz piyadesi",
+        "def": "a soldier trained to fight on land and at sea, especially in the US Marine Corps",
+        "examples": ["Her brother served as a Marine in Afghanistan."]
+      }
+    ],
+    "collocations": ["marine life", "marine biology", "marine environment", "marine species", "the Marine Corps"],
+    "synonyms": ["maritime", "nautical", "ocean", "sea"],
+    "family": [{ "word": "submarine", "pos": "noun" }],
+    "note": "Trap: Turkish \"marina\" is a boat harbor; \"marine\" is an adjective (deniz-) or a soldier."
+  },
+  {
+    "word": "mark",
+    "ipa": "/mɑːrk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iz, leke; işaret",
+        "def": "a small dirty area or damaged spot on a surface, or a written symbol",
+        "examples": ["The wine left a red mark on the tablecloth.", "Put a check mark next to each correct answer."]
+      },
+      {
+        "pos": "noun",
+        "tr": "seviye, sınır; (İngiliz) not",
+        "def": "a particular level or point, or (British) a score given for work",
+        "examples": ["Unemployment has passed the 10 percent mark."]
+      },
+      {
+        "pos": "verb",
+        "tr": "işaretlemek",
+        "def": "to write or draw a sign on something to show something",
+        "examples": ["Mark the dates of your exams on the calendar."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir olayı) kutlamak, anmak; -e işaret etmek",
+        "def": "to celebrate or show that something is important, or to be a sign of a change",
+        "examples": ["The festival marks the beginning of spring.", "The ceremony marked the 50th anniversary of the event."]
+      }
+    ],
+    "collocations": ["leave a mark", "question mark", "make your mark", "mark the end of", "mark an anniversary", "hit the mark"],
+    "synonyms": ["stain", "spot", "sign", "symbol", "indicate", "celebrate"],
+    "family": [
+      { "word": "marked", "pos": "adjective" },
+      { "word": "marker", "pos": "noun" },
+      { "word": "markedly", "pos": "adverb" },
+      { "word": "landmark", "pos": "noun" }
+    ],
+    "note": "\"Make your mark\" = become successful or noticed. Americans \"grade\" papers; British teachers \"mark\" them."
+  },
+  {
+    "word": "marker",
+    "ipa": "/ˈmɑːrkər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işaret, belirteç",
+        "def": "an object or sign that shows the position of something or that something exists",
+        "examples": ["A stone marker shows where the battle took place.", "High blood sugar can be a marker of diabetes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "keçeli kalem, marker",
+        "def": "a pen with a thick felt tip",
+        "examples": ["She wrote the names on the whiteboard with a red marker."]
+      }
+    ],
+    "collocations": ["permanent marker", "marker pen", "boundary marker", "mile marker", "genetic marker"],
+    "synonyms": ["sign", "indicator", "signal", "felt-tip pen"],
+    "family": [{ "word": "mark", "pos": "verb" }]
+  },
+  {
+    "word": "market",
+    "ipa": "/ˈmɑːrkɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pazar, çarşı",
+        "def": "a place, often outdoors, where people buy and sell goods",
+        "examples": ["We buy fresh vegetables at the farmers' market every Saturday.", "The old market is full of spice stalls."]
+      },
+      {
+        "pos": "noun",
+        "tr": "piyasa, pazar",
+        "def": "the trade in a particular type of goods, or the people who want to buy them",
+        "examples": ["The housing market has slowed down this year.", "There's a growing market for plant-based food."]
+      },
+      {
+        "pos": "verb",
+        "tr": "pazarlamak, satışa sunmak",
+        "def": "to advertise and sell a product in a particular way",
+        "examples": ["The drink is marketed to young athletes."]
+      }
+    ],
+    "collocations": ["farmers' market", "stock market", "job market", "on the market", "market share", "free market", "black market"],
+    "synonyms": ["bazaar", "marketplace", "trade", "demand", "promote", "sell"],
+    "family": [
+      { "word": "marketing", "pos": "noun" },
+      { "word": "marketable", "pos": "adjective" },
+      { "word": "marketplace", "pos": "noun" }
+    ],
+    "note": "Trap: Turkish \"market\" means a grocery store; in American English that's a \"grocery store\" or \"supermarket\". \"On the market\" = for sale."
+  },
+  {
+    "word": "marketing",
+    "ipa": "/ˈmɑːrkɪtɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pazarlama",
+        "def": "the activity of presenting, advertising and selling a product in the best way",
+        "examples": ["She works in marketing for a big sportswear brand.", "The company spent millions on marketing for the new phone."]
+      }
+    ],
+    "collocations": ["marketing campaign", "marketing strategy", "digital marketing", "marketing department", "social media marketing"],
+    "synonyms": ["advertising", "promotion", "publicity", "sales"],
+    "family": [
+      { "word": "market", "pos": "verb" },
+      { "word": "marketer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "marketplace",
+    "ipa": "/ˈmɑːrkɪtpleɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "piyasa, pazar ortamı",
+        "def": "the world of business and competition between companies",
+        "examples": ["Small firms struggle to compete in the global marketplace.", "The product was a big hit in the marketplace."]
+      },
+      {
+        "pos": "noun",
+        "tr": "pazar yeri, (online) satış platformu",
+        "def": "an open area where a market is held, or a website where people buy and sell",
+        "examples": ["I sold my old bike on an online marketplace."]
+      }
+    ],
+    "collocations": ["global marketplace", "online marketplace", "compete in the marketplace", "the marketplace of ideas"],
+    "synonyms": ["market", "bazaar", "economy", "platform"],
+    "family": [{ "word": "market", "pos": "noun" }]
+  },
+  {
+    "word": "marriage",
+    "ipa": "/ˈmærɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "evlilik",
+        "def": "the legal relationship between two people who are married",
+        "examples": ["They have a happy marriage after thirty years together.", "Same-sex marriage became legal nationwide in 2015."]
+      },
+      {
+        "pos": "noun",
+        "tr": "evlenme, düğün (töreni)",
+        "def": "the ceremony in which two people get married",
+        "examples": ["Their marriage took place in a small church."]
+      }
+    ],
+    "collocations": ["happy marriage", "arranged marriage", "marriage proposal", "same-sex marriage", "marriage counseling", "by marriage"],
+    "synonyms": ["matrimony", "wedlock", "union", "wedding"],
+    "family": [
+      { "word": "marry", "pos": "verb" },
+      { "word": "married", "pos": "adjective" }
+    ],
+    "note": "\"Marriage\" is the relationship; \"wedding\" is the ceremony/party. \"Related by marriage\" = in-laws."
+  },
+  {
+    "word": "married",
+    "ipa": "/ˈmærid/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "evli",
+        "def": "having a husband or wife",
+        "examples": ["Are you married or single?", "They've been married for twelve years."]
+      }
+    ],
+    "collocations": ["get married", "married to", "married couple", "happily married", "newly married", "married life"],
+    "synonyms": ["wed", "wedded"],
+    "family": [
+      { "word": "marry", "pos": "verb" },
+      { "word": "marriage", "pos": "noun" },
+      { "word": "unmarried", "pos": "adjective" }
+    ],
+    "note": "Use \"married to\", not \"married with\": She is married to a doctor. \"Get married\" is more common than \"marry\"."
+  },
+  {
+    "word": "marry",
+    "ipa": "/ˈmæri/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "evlenmek",
+        "def": "to become someone's husband or wife",
+        "examples": ["He asked her to marry him on the beach.", "They plan to marry next spring."]
+      },
+      {
+        "pos": "verb",
+        "tr": "evlendirmek, nikâh kıymak",
+        "def": "to perform the ceremony in which two people get married",
+        "examples": ["The couple were married by a judge at City Hall."]
+      }
+    ],
+    "collocations": ["marry someone", "marry young", "marry into", "will you marry me", "marry for love"],
+    "synonyms": ["wed", "get married", "tie the knot"],
+    "family": [
+      { "word": "marriage", "pos": "noun" },
+      { "word": "married", "pos": "adjective" }
+    ],
+    "note": "No preposition: \"She married him\", not \"married with him\"."
+  },
+  {
+    "word": "martial",
+    "ipa": "/ˈmɑːrʃl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "askeri, savaşla ilgili, harp",
+        "def": "connected with war, fighting or the army",
+        "examples": ["He has practiced martial arts like karate since he was six.", "The government declared martial law after the coup."]
+      }
+    ],
+    "collocations": ["martial arts", "martial law", "court-martial", "martial music"],
+    "synonyms": ["military", "warlike", "combative"],
+    "family": [{ "word": "court-martial", "pos": "noun" }],
+    "note": "Formal; mainly used in fixed phrases: martial arts (dövüş sanatları), martial law (sıkıyönetim)."
+  },
+  {
+    "word": "mask",
+    "ipa": "/mæsk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "maske",
+        "def": "something worn over the face to hide it, protect it, or as part of a costume",
+        "examples": ["Doctors wear masks during surgery.", "The robbers were wearing ski masks."]
+      },
+      {
+        "pos": "noun",
+        "tr": "maske, sahte tavır",
+        "def": "a way of behaving that hides your real feelings",
+        "examples": ["Behind her mask of confidence, she was terrified."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gizlemek, örtmek, maskelemek",
+        "def": "to hide a feeling, smell or fact so that it can't be noticed",
+        "examples": ["He tried to mask his disappointment with a smile."]
+      }
+    ],
+    "collocations": ["wear a mask", "face mask", "gas mask", "mask mandate", "mask your feelings"],
+    "synonyms": ["cover", "disguise", "hide", "conceal", "veil"],
+    "family": [{ "word": "masked", "pos": "adjective" }]
+  },
+  {
+    "word": "mass",
+    "ipa": "/mæs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kütle, yığın",
+        "def": "a large amount of a substance without a clear shape, or a large number of things together",
+        "examples": ["A mass of dark clouds moved across the sky.", "There was a mass of people outside the stadium."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(the masses) halk kitleleri, yığınlar",
+        "def": "ordinary people in general",
+        "examples": ["The smartphone brought the internet to the masses."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kitlesel, toplu",
+        "def": "affecting or involving a large number of people or things",
+        "examples": ["The factory closure led to mass unemployment in the town.", "Police are investigating a mass shooting."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(Katolik) ayin",
+        "def": "the main religious ceremony in the Catholic Church",
+        "examples": ["They go to Mass every Sunday."]
+      }
+    ],
+    "collocations": ["mass media", "mass production", "mass protest", "mass market", "weapons of mass destruction", "a mass of"],
+    "synonyms": ["heap", "pile", "crowd", "bulk", "large-scale"],
+    "family": [
+      { "word": "massive", "pos": "adjective" },
+      { "word": "mass-produce", "pos": "verb" }
+    ],
+    "note": "In physics, \"mass\" means the amount of matter in an object (kütle), not weight."
+  },
+  {
+    "word": "massacre",
+    "ipa": "/ˈmæsəkər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "katliam, kıyım",
+        "def": "the cruel killing of a large number of people, especially those who cannot defend themselves",
+        "examples": ["Hundreds of villagers died in the massacre.", "The museum is dedicated to the victims of the massacre."]
+      },
+      {
+        "pos": "verb",
+        "tr": "katletmek, kılıçtan geçirmek",
+        "def": "to kill a large number of people in a cruel way",
+        "examples": ["Soldiers massacred civilians as they tried to flee."]
+      }
+    ],
+    "collocations": ["massacre of civilians", "survive the massacre", "school massacre", "carry out a massacre", "victims of the massacre"],
+    "synonyms": ["slaughter", "killing", "bloodbath", "genocide"],
+    "family": [],
+    "note": "Informally, a \"massacre\" in sports means a very heavy defeat."
+  },
+  {
+    "word": "massive",
+    "ipa": "/ˈmæsɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "devasa, kocaman, iri ve ağır",
+        "def": "very large, heavy and solid",
+        "examples": ["A massive oak tree stood in the middle of the field.", "The castle has massive stone walls."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "çok büyük, muazzam, ciddi",
+        "def": "extremely large or serious in amount or degree",
+        "examples": ["He suffered a massive heart attack.", "The movie was a massive success."]
+      }
+    ],
+    "collocations": ["massive amount", "massive increase", "massive heart attack", "massive scale", "massive success"],
+    "synonyms": ["huge", "enormous", "gigantic", "immense", "vast"],
+    "family": [
+      { "word": "mass", "pos": "noun" },
+      { "word": "massively", "pos": "adverb" }
+    ],
+    "note": "Trap: Turkish \"masif\" (solid wood) is narrower. English \"massive\" mostly means huge."
+  },
+  {
+    "word": "master",
+    "ipa": "/ˈmæstər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ustalaşmak, iyice öğrenmek",
+        "def": "to learn or understand something completely",
+        "examples": ["It takes years to master a foreign language.", "She quickly mastered the new software."]
+      },
+      {
+        "pos": "noun",
+        "tr": "usta, üstat",
+        "def": "a person who is very skilled at something",
+        "examples": ["He's a master of suspense in his novels.", "The painting is by a Dutch master."]
+      },
+      {
+        "pos": "noun",
+        "tr": "efendi, sahip",
+        "def": "a man who has control over servants, animals or a situation",
+        "examples": ["The dog waited patiently for its master to return."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yüksek lisans",
+        "def": "(master's) a university degree above a bachelor's",
+        "examples": ["She has a master's in public health."]
+      }
+    ],
+    "collocations": ["master a skill", "master's degree", "master plan", "master bedroom", "master of", "past master"],
+    "synonyms": ["expert", "learn", "grasp", "owner", "virtuoso"],
+    "family": [
+      { "word": "mastery", "pos": "noun" },
+      { "word": "masterpiece", "pos": "noun" },
+      { "word": "masterful", "pos": "adjective" }
+    ],
+    "note": "\"Master's degree\" = yüksek lisans. A \"master bedroom\" is the largest bedroom in a house."
+  },
+  {
+    "word": "match",
+    "ipa": "/mætʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "maç, karşılaşma",
+        "def": "a sports event where two players or teams compete",
+        "examples": ["We watched the tennis match on TV.", "The team hasn't lost a match all season."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kibrit",
+        "def": "a small stick that produces a flame when you rub it against a rough surface",
+        "examples": ["He lit a match to see in the dark."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uymak, eşleşmek, tutmak",
+        "def": "to be the same as or go well with something, or to find things that go together",
+        "examples": ["Your shoes don't match your belt.", "The DNA matched a sample found at the scene."]
+      },
+      {
+        "pos": "noun",
+        "tr": "denk, eş, rakip",
+        "def": "a person or thing that is equal to or goes well with another",
+        "examples": ["The local team was no match for the champions."]
+      }
+    ],
+    "collocations": ["football match", "no match for", "a perfect match", "match the description", "box of matches", "match up"],
+    "synonyms": ["game", "contest", "go with", "correspond", "equal"],
+    "family": [
+      { "word": "matching", "pos": "adjective" },
+      { "word": "mismatch", "pos": "noun" },
+      { "word": "unmatched", "pos": "adjective" }
+    ],
+    "note": "In American English, \"game\" is more common than \"match\" for team sports; \"match\" is used for tennis, boxing, wrestling."
+  },
+  {
+    "word": "matching",
+    "ipa": "/ˈmætʃɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "uyumlu, takım, birbirine uyan",
+        "def": "having the same color, pattern or style as something else",
+        "examples": ["The twins wore matching outfits to the party.", "She bought a dress and matching shoes."]
+      }
+    ],
+    "collocations": ["matching outfits", "matching set", "matching shoes", "matching colors", "matching funds"],
+    "synonyms": ["coordinating", "identical", "corresponding", "twin"],
+    "family": [{ "word": "match", "pos": "verb" }],
+    "note": "\"Matching funds\" = money given by an employer or donor equal to what you raise."
+  },
+  {
+    "word": "mate",
+    "ipa": "/meɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "arkadaş, kanka",
+        "def": "a friend (informal, British and Australian)",
+        "examples": ["I'm going out with my mates tonight.", "Cheers, mate — thanks for the help."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(-mate) arkadaşı (oda, sınıf vb.)",
+        "def": "used in compounds for someone you share something with",
+        "examples": ["My roommate and I split the rent.", "She invited all her classmates to the party."]
+      },
+      {
+        "pos": "noun",
+        "tr": "eş (hayvanlarda), çift",
+        "def": "an animal's sexual partner",
+        "examples": ["Male birds sing to attract a mate."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çiftleşmek",
+        "def": "to have sex in order to produce young (used about animals)",
+        "examples": ["These whales mate in warm waters."]
+      }
+    ],
+    "collocations": ["best mate", "roommate", "classmate", "teammate", "running mate", "attract a mate"],
+    "synonyms": ["friend", "buddy", "pal", "partner", "breed"],
+    "family": [{ "word": "mating", "pos": "noun" }],
+    "note": "\"Mate\" for a friend is British/Australian; Americans say \"buddy\" or \"friend\". A \"running mate\" is a vice-presidential candidate."
+  },
+  {
+    "word": "material",
+    "ipa": "/məˈtɪriəl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "malzeme, madde",
+        "def": "a substance that things can be made from",
+        "examples": ["The house is built from natural materials like wood and stone.", "Plastic is a cheap but polluting material."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kumaş",
+        "def": "cloth used for making clothes, curtains, etc.",
+        "examples": ["The dress is made of a light cotton material."]
+      },
+      {
+        "pos": "noun",
+        "tr": "malzeme, materyal, içerik",
+        "def": "information or ideas used in books, lessons, comedy shows, etc.",
+        "examples": ["The teacher handed out reading material for the course.", "The comedian is testing new material at small clubs."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "maddi",
+        "def": "connected with money and possessions rather than the mind or spirit",
+        "examples": ["They have all the material comforts but still feel unhappy."]
+      }
+    ],
+    "collocations": ["raw material", "building materials", "teaching materials", "reading material", "material wealth", "material possessions"],
+    "synonyms": ["substance", "matter", "fabric", "content", "physical"],
+    "family": [
+      { "word": "materialism", "pos": "noun" },
+      { "word": "materialistic", "pos": "adjective" },
+      { "word": "materialize", "pos": "verb" }
+    ],
+    "note": "Trap: Turkish \"materyalist\" also means \"maddeci\". \"Materialistic\" in English = caring too much about money and things."
+  },
+  {
+    "word": "mathematical",
+    "ipa": "/ˌmæθəˈmætɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "matematiksel",
+        "def": "connected with or involving mathematics",
+        "examples": ["The model uses complex mathematical equations.", "She showed great mathematical ability as a child."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kesin, matematiksel (kesinlikte)",
+        "def": "very exact or certain",
+        "examples": ["With three games left, the team has only a mathematical chance of winning the league."]
+      }
+    ],
+    "collocations": ["mathematical model", "mathematical formula", "mathematical problem", "mathematical skills", "mathematical certainty"],
+    "synonyms": ["numerical", "arithmetic", "precise", "exact"],
+    "family": [
+      { "word": "mathematics", "pos": "noun" },
+      { "word": "mathematician", "pos": "noun" },
+      { "word": "mathematically", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "mathematics",
+    "ipa": "/ˌmæθəˈmætɪks/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "matematik",
+        "def": "the science of numbers, quantities and shapes",
+        "examples": ["He has a PhD in applied mathematics.", "Mathematics is required for all first-year students."]
+      }
+    ],
+    "collocations": ["applied mathematics", "pure mathematics", "a degree in mathematics", "mathematics teacher", "higher mathematics"],
+    "synonyms": ["math", "maths", "arithmetic"],
+    "family": [
+      { "word": "mathematical", "pos": "adjective" },
+      { "word": "mathematician", "pos": "noun" }
+    ],
+    "note": "Takes a singular verb: Mathematics is... Americans usually say \"math\"; the British say \"maths\"."
+  },
+  {
+    "word": "maths",
+    "ipa": "/mæθs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "matematik",
+        "def": "(British) mathematics, especially as a school subject",
+        "examples": ["She got top marks in maths at school in London.", "My maths teacher made the subject fun."]
+      }
+    ],
+    "collocations": ["maths teacher", "maths exam", "maths homework", "good at maths", "maths lesson"],
+    "synonyms": ["mathematics", "math", "arithmetic"],
+    "family": [{ "word": "mathematics", "pos": "noun" }],
+    "note": "British only. American English uses \"math\": I'm good at math."
+  },
+  {
+    "word": "matter",
+    "ipa": "/ˈmætər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mesele, konu, iş",
+        "def": "a subject or situation that you must think about or deal with",
+        "examples": ["We have several important matters to discuss today.", "This is a private matter between me and my wife."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(the matter) sorun, mesele",
+        "def": "used to ask or say why someone is upset or what the problem is",
+        "examples": ["What's the matter? You look upset.", "Is something the matter with your car?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "önemli olmak, fark etmek",
+        "def": "to be important or have an effect",
+        "examples": ["It doesn't matter if you're a few minutes late.", "Your opinion really matters to me."]
+      },
+      {
+        "pos": "noun",
+        "tr": "madde",
+        "def": "physical substance that everything in the universe is made of",
+        "examples": ["Plants turn dead organic matter into soil."]
+      }
+    ],
+    "collocations": ["a matter of", "no matter what", "as a matter of fact", "what's the matter", "it doesn't matter", "a matter of time"],
+    "synonyms": ["issue", "affair", "subject", "count", "substance"],
+    "family": [],
+    "note": "\"No matter how/what/who\" = however/whatever/whoever. \"It's only a matter of time\" = it will certainly happen."
+  },
+  {
+    "word": "mature",
+    "ipa": "/məˈtʃʊr/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "olgun, yetişkin gibi davranan",
+        "def": "behaving in a sensible way, like an adult",
+        "examples": ["She's very mature for a fifteen-year-old.", "Let's discuss this in a calm, mature way."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "olgunlaşmış, yetişkin, gelişmiş",
+        "def": "fully grown or developed",
+        "examples": ["Mature trees provide shade in summer.", "The smartphone market is now very mature."]
+      },
+      {
+        "pos": "verb",
+        "tr": "olgunlaşmak, gelişmek; (yatırım) vadesi dolmak",
+        "def": "to become fully grown or developed, or to become more sensible",
+        "examples": ["He has matured a lot since he left home.", "The wine is left to mature in oak barrels."]
+      }
+    ],
+    "collocations": ["mature adult", "emotionally mature", "mature student", "mature market", "mature content", "mature into"],
+    "synonyms": ["adult", "grown-up", "developed", "ripe", "grow up"],
+    "family": [
+      { "word": "maturity", "pos": "noun" },
+      { "word": "immature", "pos": "adjective" },
+      { "word": "maturation", "pos": "noun" }
+    ],
+    "note": "\"Mature content\" is a polite label for material with sex or violence, not suitable for children."
+  },
+  {
+    "word": "maximize",
+    "ipa": "/ˈmæksɪmaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "en üst düzeye çıkarmak, azami ölçüde artırmak",
+        "def": "to increase something as much as possible",
+        "examples": ["Companies aim to maximize profits for their shareholders.", "Plant the garden in the south to maximize sunlight."]
+      },
+      {
+        "pos": "verb",
+        "tr": "en iyi şekilde kullanmak, değerlendirmek",
+        "def": "to make the best use of something",
+        "examples": ["We need to maximize our limited resources."]
+      }
+    ],
+    "collocations": ["maximize profits", "maximize efficiency", "maximize your chances", "maximize the potential", "maximize revenue"],
+    "synonyms": ["increase", "boost", "optimize", "make the most of"],
+    "family": [
+      { "word": "maximum", "pos": "noun" },
+      { "word": "maximal", "pos": "adjective" }
+    ],
+    "note": "Opposite: minimize. British spelling: maximise. Also used for enlarging a computer window."
+  },
+  {
+    "word": "maximum",
+    "ipa": "/ˈmæksɪməm/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "azami, en yüksek, maksimum",
+        "def": "as large, fast, etc. as is possible or allowed",
+        "examples": ["The maximum speed on this highway is 70 mph.", "The elevator has a maximum load of ten people."]
+      },
+      {
+        "pos": "noun",
+        "tr": "en çok, azami miktar, maksimum",
+        "def": "the greatest amount, size or number that is possible or allowed",
+        "examples": ["The class has a maximum of twenty students.", "Temperatures will reach a maximum of 95 degrees today."]
+      }
+    ],
+    "collocations": ["a maximum of", "to the maximum", "maximum speed", "maximum security", "maximum capacity", "at maximum"],
+    "synonyms": ["highest", "greatest", "top", "peak", "limit"],
+    "family": [
+      { "word": "maximize", "pos": "verb" },
+      { "word": "maximal", "pos": "adjective" }
+    ],
+    "note": "Plural: maximums or maxima (formal/scientific). Opposite: minimum. Informal short form: \"max\"."
+  }
+]

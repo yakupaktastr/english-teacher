@@ -1,0 +1,1258 @@
+[
+  {
+    "word": "long",
+    "ipa": "/lɔːŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "uzun",
+        "def": "measuring a great distance from one end to the other",
+        "examples": ["She has long, dark hair.", "It's a long drive from Boston to Miami."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "uzun (süreli)",
+        "def": "lasting or taking a lot of time",
+        "examples": ["It's been a long day — I'm exhausted.", "We had to wait a long time for the bus."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "uzun süre, uzun zaman",
+        "def": "for a long time",
+        "examples": ["Have you been waiting long?", "It won't take long to fix the problem."]
+      },
+      {
+        "pos": "verb",
+        "tr": "özlemek, hasret çekmek, can atmak",
+        "def": "to want something very much",
+        "examples": ["After weeks of rain, we were longing for some sunshine."]
+      }
+    ],
+    "collocations": ["a long time", "long way", "as long as", "no longer", "long ago", "before long", "long for"],
+    "synonyms": ["lengthy", "extended", "prolonged", "yearn"],
+    "family": [
+      { "word": "length", "pos": "noun" },
+      { "word": "lengthy", "pos": "adjective" },
+      { "word": "longing", "pos": "noun" },
+      { "word": "lengthen", "pos": "verb" }
+    ],
+    "note": "\"As long as\" = provided that (yeter ki). \"No longer\" = not anymore. In questions/negatives, use \"long\"; in positive sentences, \"a long time\"."
+  },
+  {
+    "word": "long-standing",
+    "ipa": "/ˌlɔːŋ ˈstændɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "köklü, uzun süredir var olan, eskiye dayanan",
+        "def": "having existed or lasted for a long time",
+        "examples": ["The two companies have a long-standing partnership.", "The decision ended a long-standing dispute over land rights."]
+      }
+    ],
+    "collocations": ["long-standing tradition", "long-standing relationship", "long-standing dispute", "long-standing problem", "long-standing friendship"],
+    "synonyms": ["established", "long-lasting", "enduring", "old"],
+    "family": [],
+    "note": "Usually describes relationships, problems or traditions, not people. For people, use \"long-time\"."
+  },
+  {
+    "word": "long-term",
+    "ipa": "/ˌlɔːŋ ˈtɜːrm/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "uzun vadeli, uzun süreli",
+        "def": "lasting or having an effect over a long period of time",
+        "examples": ["Smoking has serious long-term effects on your health.", "We need a long-term solution, not a quick fix."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "uzun vadede",
+        "def": "over a long period of time",
+        "examples": ["Investing in education pays off long-term."]
+      }
+    ],
+    "collocations": ["long-term effects", "long-term plan", "long-term goal", "long-term relationship", "in the long term", "long-term care"],
+    "synonyms": ["lasting", "permanent", "extended", "enduring"],
+    "family": [],
+    "note": "Opposite: short-term. \"In the long term\" (British) = \"in the long run\" (American, more common)."
+  },
+  {
+    "word": "long-time",
+    "ipa": "/ˈlɔːŋ taɪm/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "uzun süredir, eski, kadim",
+        "def": "having been a particular thing for a long time",
+        "examples": ["She married her long-time boyfriend last summer.", "He's a long-time resident of the neighborhood."]
+      }
+    ],
+    "collocations": ["long-time friend", "long-time partner", "long-time resident", "long-time member", "long-time fan"],
+    "synonyms": ["old", "veteran", "established", "lifelong"],
+    "family": [],
+    "note": "Often written \"longtime\" in American English. Used before nouns describing people."
+  },
+  {
+    "word": "look",
+    "ipa": "/lʊk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "bakmak",
+        "def": "to turn your eyes toward someone or something so you can see them",
+        "examples": ["Look at this photo of the kids at the beach.", "She looked out the window at the rain."]
+      },
+      {
+        "pos": "verb",
+        "tr": "görünmek, gibi durmak",
+        "def": "to seem or appear to be something",
+        "examples": ["You look tired — did you sleep well?", "It looks like it's going to snow."]
+      },
+      {
+        "pos": "verb",
+        "tr": "aramak",
+        "def": "to try to find someone or something",
+        "examples": ["I'm looking for my car keys."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bakış, göz atma; görünüş",
+        "def": "an act of looking at something, or someone's appearance",
+        "examples": ["Can I take a look at your notes?", "I don't like the look of that cut — see a doctor."]
+      }
+    ],
+    "collocations": ["look at", "look for", "look after", "look forward to", "take a look", "look like", "look up"],
+    "synonyms": ["glance", "watch", "seem", "appear", "search"],
+    "family": [
+      { "word": "looks", "pos": "noun" },
+      { "word": "outlook", "pos": "noun" },
+      { "word": "overlook", "pos": "verb" }
+    ],
+    "note": "\"Look forward to\" + -ing: I look forward to meeting you. \"Look after\" = take care of."
+  },
+  {
+    "word": "loom",
+    "ipa": "/luːm/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(korkutucu biçimde) belirmek, yükselmek",
+        "def": "to appear as a large, unclear shape, especially in a frightening way",
+        "examples": ["A huge ship loomed out of the fog.", "Dark storm clouds loomed over the hills."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(tehlike, sorun) kapıda olmak, yaklaşmak",
+        "def": "to seem likely to happen soon, especially something bad",
+        "examples": ["With exams looming, students packed the library.", "A trade war is looming between the two countries."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dokuma tezgâhı",
+        "def": "a machine for weaving cloth",
+        "examples": ["The village women still weave rugs on wooden looms."]
+      }
+    ],
+    "collocations": ["loom large", "looming deadline", "loom over", "loom ahead", "looming crisis"],
+    "synonyms": ["approach", "threaten", "hang over", "tower", "emerge"],
+    "family": [{ "word": "looming", "pos": "adjective" }],
+    "note": "\"Loom large\" = seem very important or worrying."
+  },
+  {
+    "word": "loop",
+    "ipa": "/luːp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ilmek, halka, döngü",
+        "def": "a shape like a circle made by a line curving round, or a piece of string in this shape",
+        "examples": ["Tie a loop at the end of the rope.", "The road makes a loop around the lake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "döngü, tekrarlanan süreç",
+        "def": "a process or series of events that keeps repeating",
+        "examples": ["The song was playing on a loop all afternoon."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ilmek yapmak, dolamak",
+        "def": "to make a loop or move in a circular path",
+        "examples": ["He looped the cable around the post."]
+      }
+    ],
+    "collocations": ["in the loop", "out of the loop", "keep someone in the loop", "on a loop", "feedback loop", "endless loop"],
+    "synonyms": ["circle", "ring", "coil", "cycle"],
+    "family": [{ "word": "loophole", "pos": "noun" }],
+    "note": "\"Keep me in the loop\" = keep me informed. A \"loophole\" is a gap in a law that lets people avoid it."
+  },
+  {
+    "word": "loose",
+    "ipa": "/luːs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "gevşek, oynak",
+        "def": "not firmly fixed in place",
+        "examples": ["One of the screws on the chair is loose.", "My son has a loose tooth."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "bol, geniş (giysi)",
+        "def": "not fitting tightly",
+        "examples": ["Wear loose, comfortable clothes for the yoga class."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "serbest, başıboş, kaçmış",
+        "def": "free to move around, not tied up or kept somewhere",
+        "examples": ["A dangerous dog is loose in the neighborhood.", "The prisoner is still on the loose."]
+      }
+    ],
+    "collocations": ["come loose", "break loose", "on the loose", "loose clothing", "loose change", "tie up loose ends"],
+    "synonyms": ["unfastened", "wobbly", "baggy", "free", "slack"],
+    "family": [
+      { "word": "loosely", "pos": "adverb" },
+      { "word": "loosen", "pos": "verb" }
+    ],
+    "note": "Don't confuse \"loose\" /luːs/ (gevşek) with \"lose\" /luːz/ (kaybetmek). \"Loose ends\" = unfinished details."
+  },
+  {
+    "word": "lord",
+    "ipa": "/lɔːrd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lord, asilzade",
+        "def": "a man of high rank in the British nobility, or a man with power in medieval times",
+        "examples": ["The castle belonged to a wealthy lord.", "In the Middle Ages, peasants worked the land for their lord."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(the Lord) Tanrı, Rab",
+        "def": "a title for God or Jesus Christ",
+        "examples": ["They prayed to the Lord for help.", "Oh Lord, I forgot my passport!"]
+      }
+    ],
+    "collocations": ["the House of Lords", "feudal lord", "drug lord", "Good Lord", "lord of the manor"],
+    "synonyms": ["noble", "nobleman", "master", "God"],
+    "family": [
+      { "word": "lordship", "pos": "noun" },
+      { "word": "landlord", "pos": "noun" }
+    ],
+    "note": "\"Good Lord!\" and \"Oh Lord!\" express surprise. A \"drug lord\" is a powerful drug trafficker."
+  },
+  {
+    "word": "lorry",
+    "ipa": "/ˈlɔːri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kamyon, tır",
+        "def": "(British) a large vehicle for carrying heavy goods by road",
+        "examples": ["A lorry carrying fruit overturned on the motorway.", "The lorry driver had been on the road for ten hours."]
+      }
+    ],
+    "collocations": ["lorry driver", "heavy lorry", "delivery lorry", "lorry load"],
+    "synonyms": ["truck", "heavy goods vehicle", "semi"],
+    "family": [],
+    "note": "British only. In American English, say \"truck\" (and \"semi\" or \"tractor-trailer\" for a tır)."
+  },
+  {
+    "word": "lose",
+    "ipa": "/luːz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kaybetmek, yitirmek",
+        "def": "to be unable to find something, or to stop having something",
+        "examples": ["I always lose my keys somewhere in the house.", "Thousands of workers will lose their jobs when the factory closes."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(maç, yarışma) kaybetmek, yenilmek",
+        "def": "to be defeated in a game, competition or election",
+        "examples": ["Our team hates to lose at home.", "If we lose this game, we're out of the tournament."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kilo) vermek; (zaman, para) kaybetmek",
+        "def": "to have less of something, such as weight, time or money",
+        "examples": ["He wants to lose ten pounds before summer."]
+      }
+    ],
+    "collocations": ["lose weight", "lose your temper", "lose your job", "lose touch", "lose track of", "lose sight of"],
+    "synonyms": ["misplace", "forfeit", "be defeated", "shed"],
+    "family": [
+      { "word": "loss", "pos": "noun" },
+      { "word": "lost", "pos": "adjective" },
+      { "word": "loser", "pos": "noun" }
+    ],
+    "note": "Irregular: lose – lost – lost. Pronounced /luːz/; don't confuse with \"loose\" /luːs/."
+  },
+  {
+    "word": "loss",
+    "ipa": "/lɔːs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kayıp, kaybetme",
+        "def": "the state of no longer having something or having less of it",
+        "examples": ["The storm caused a loss of power across the city.", "Memory loss can be an early sign of disease."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zarar",
+        "def": "money that a business loses",
+        "examples": ["The airline reported a loss of $200 million this quarter."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kayıp, ölüm; yenilgi",
+        "def": "the death of someone, or a defeat in a game",
+        "examples": ["We were saddened by the loss of our friend.", "It was the team's third loss in a row."]
+      }
+    ],
+    "collocations": ["weight loss", "job losses", "hearing loss", "make a loss", "at a loss", "loss of life"],
+    "synonyms": ["deprivation", "deficit", "defeat", "death", "damage"],
+    "family": [{ "word": "lose", "pos": "verb" }],
+    "note": "\"Be at a loss (for words)\" = not know what to say or do. \"I'm sorry for your loss\" is said to someone grieving."
+  },
+  {
+    "word": "lost",
+    "ipa": "/lɔːst/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kaybolmuş, yolunu şaşırmış",
+        "def": "unable to find your way, or unable to be found",
+        "examples": ["We got lost on the way to the hotel.", "The airline is still searching for my lost luggage."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "şaşkın, ne yapacağını bilemeyen",
+        "def": "confused or not knowing what to do",
+        "examples": ["I was completely lost in the first math class.", "She felt lost after her husband died."]
+      }
+    ],
+    "collocations": ["get lost", "lost and found", "lost in thought", "feel lost", "lost cause", "lost property"],
+    "synonyms": ["missing", "misplaced", "confused", "bewildered"],
+    "family": [{ "word": "lose", "pos": "verb" }],
+    "note": "\"Get lost!\" is a rude way to tell someone to go away. \"Lost and found\" = kayıp eşya bürosu."
+  },
+  {
+    "word": "lot",
+    "ipa": "/lɑːt/",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "tr": "(a lot) çok, bir sürü",
+        "def": "a large number or amount",
+        "examples": ["I learned a lot from my first job.", "There's a lot to do before the guests arrive."]
+      },
+      {
+        "pos": "determiner",
+        "tr": "(a lot of / lots of) çok, birçok",
+        "def": "a large number or amount of",
+        "examples": ["She has a lot of friends in the city.", "We spent lots of money on the wedding."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(a lot) çok, epey, sık sık",
+        "def": "very much or very often",
+        "examples": ["I feel a lot better today.", "We go to the beach a lot in summer."]
+      },
+      {
+        "pos": "noun",
+        "tr": "arsa, alan, otopark",
+        "def": "an area of land used for a particular purpose",
+        "examples": ["I parked in the lot behind the supermarket."]
+      }
+    ],
+    "collocations": ["a lot of", "lots of", "quite a lot", "a lot better", "thanks a lot", "parking lot"],
+    "synonyms": ["many", "much", "plenty", "loads"],
+    "family": [],
+    "note": "\"A lot\" is two words, never \"alot\". \"Parking lot\" is American; British say \"car park\"."
+  },
+  {
+    "word": "lottery",
+    "ipa": "/ˈlɑːtəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "piyango, loto",
+        "def": "a game where people buy numbered tickets and prizes go to those whose numbers are chosen by chance",
+        "examples": ["He quit his job after winning the lottery.", "She buys a lottery ticket every week."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şans işi, kumar",
+        "def": "a situation whose result depends only on luck",
+        "examples": ["Getting a spot in that school is a bit of a lottery."]
+      }
+    ],
+    "collocations": ["win the lottery", "lottery ticket", "national lottery", "lottery winner", "play the lottery"],
+    "synonyms": ["draw", "raffle", "gamble", "lotto"],
+    "family": [],
+    "note": "\"Win the lottery\" also means to be extremely lucky in general."
+  },
+  {
+    "word": "loud",
+    "ipa": "/laʊd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yüksek sesli, gürültülü",
+        "def": "making a lot of noise",
+        "examples": ["The music at the party was too loud to talk.", "There was a loud bang from the kitchen."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(renk, kıyafet) cırtlak, göz alıcı",
+        "def": "too bright or colorful",
+        "examples": ["He wore a loud Hawaiian shirt to the funeral."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yüksek sesle",
+        "def": "in a way that makes a lot of noise",
+        "examples": ["Could you speak a little louder? I can't hear you."]
+      }
+    ],
+    "collocations": ["out loud", "loud and clear", "loud noise", "loud music", "too loud", "think out loud"],
+    "synonyms": ["noisy", "deafening", "booming", "flashy"],
+    "family": [
+      { "word": "loudly", "pos": "adverb" },
+      { "word": "loudness", "pos": "noun" },
+      { "word": "aloud", "pos": "adverb" }
+    ],
+    "note": "\"Read out loud\" = read aloud (sesli okumak). \"Loud and clear\" = clearly understood."
+  },
+  {
+    "word": "loudly",
+    "ipa": "/ˈlaʊdli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yüksek sesle, gürültülü bir şekilde",
+        "def": "in a way that makes a lot of noise",
+        "examples": ["The baby was crying loudly in the next room.", "He complained loudly about the slow service."]
+      }
+    ],
+    "collocations": ["speak loudly", "laugh loudly", "loudly protest", "loudly complain", "applaud loudly"],
+    "synonyms": ["noisily", "aloud", "out loud"],
+    "family": [{ "word": "loud", "pos": "adjective" }]
+  },
+  {
+    "word": "love",
+    "ipa": "/lʌv/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "aşk, sevgi",
+        "def": "a very strong feeling of caring for someone, or of romantic attraction",
+        "examples": ["Their love for each other grew stronger over the years.", "She fell in love with her best friend."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sevmek, âşık olmak",
+        "def": "to have very strong feelings of caring for someone",
+        "examples": ["I love you more than anything.", "Parents love their children unconditionally."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bayılmak, çok sevmek",
+        "def": "to like something very much",
+        "examples": ["I love Italian food.", "She loves going to concerts."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tutku, sevdiği şey",
+        "def": "something that you enjoy very much",
+        "examples": ["Music was his first love."]
+      }
+    ],
+    "collocations": ["fall in love", "in love with", "love at first sight", "make love", "would love to", "love life"],
+    "synonyms": ["affection", "adore", "cherish", "passion", "enjoy"],
+    "family": [
+      { "word": "lovely", "pos": "adjective" },
+      { "word": "lover", "pos": "noun" },
+      { "word": "loving", "pos": "adjective" },
+      { "word": "beloved", "pos": "adjective" }
+    ],
+    "note": "\"I'd love to\" is a warm way to accept an invitation. In tennis, \"love\" means zero."
+  },
+  {
+    "word": "lovely",
+    "ipa": "/ˈlʌvli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "güzel, hoş, sevimli",
+        "def": "beautiful or attractive",
+        "examples": ["You look lovely in that dress.", "They have a lovely house by the lake."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "çok hoş, harika, keyifli",
+        "def": "very pleasant or enjoyable",
+        "examples": ["We had a lovely evening — thanks for inviting us.", "It's a lovely day for a picnic."]
+      }
+    ],
+    "collocations": ["lovely day", "lovely time", "look lovely", "lovely to see you", "lovely weather"],
+    "synonyms": ["beautiful", "pretty", "charming", "delightful", "wonderful"],
+    "family": [
+      { "word": "love", "pos": "noun" },
+      { "word": "loveliness", "pos": "noun" }
+    ],
+    "note": "More common in British English; Americans often say \"great\", \"beautiful\" or \"wonderful\" instead."
+  },
+  {
+    "word": "low",
+    "ipa": "/ləʊ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "alçak, kısa, basık",
+        "def": "not high or tall; close to the ground",
+        "examples": ["Mind your head — the ceiling is very low.", "The sun was low in the sky."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "düşük, az",
+        "def": "below the usual level, amount or value",
+        "examples": ["The store sells clothes at very low prices.", "My phone battery is low."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "alçaktan, aşağıda",
+        "def": "in or into a low position or level",
+        "examples": ["The plane flew low over the houses."]
+      },
+      {
+        "pos": "noun",
+        "tr": "en düşük seviye, dip",
+        "def": "a low level or point",
+        "examples": ["The stock fell to a record low on Monday."]
+      }
+    ],
+    "collocations": ["low price", "low income", "low level", "low-risk", "record low", "feel low", "keep a low profile"],
+    "synonyms": ["short", "small", "cheap", "reduced", "depressed"],
+    "family": [
+      { "word": "lower", "pos": "verb" },
+      { "word": "lowly", "pos": "adjective" }
+    ],
+    "note": "\"Feel low\" = feel sad. \"Keep a low profile\" = avoid attracting attention."
+  },
+  {
+    "word": "lower",
+    "ipa": "/ˈləʊər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "düşürmek, azaltmak, indirmek",
+        "def": "to reduce something in amount, value or level",
+        "examples": ["The bank lowered interest rates for the second time this year.", "Regular exercise helps lower blood pressure."]
+      },
+      {
+        "pos": "verb",
+        "tr": "indirmek, alçaltmak",
+        "def": "to move something to a lower position",
+        "examples": ["The workers lowered the piano carefully down the stairs.", "She lowered her voice so nobody else could hear."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "alt, aşağı",
+        "def": "located below something else of the same type",
+        "examples": ["The cleaning supplies are on the lower shelf."]
+      }
+    ],
+    "collocations": ["lower prices", "lower the risk", "lower your voice", "lower interest rates", "lower back", "lower your expectations"],
+    "synonyms": ["reduce", "decrease", "cut", "drop", "let down"],
+    "family": [{ "word": "low", "pos": "adjective" }],
+    "note": "Opposite: raise. \"Lower yourself\" (to do something) = do something beneath your dignity."
+  },
+  {
+    "word": "loyal",
+    "ipa": "/ˈlɔɪəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sadık, vefalı",
+        "def": "always supporting a person, organization or belief",
+        "examples": ["He has been a loyal friend for over twenty years.", "The brand has many loyal customers."]
+      }
+    ],
+    "collocations": ["loyal to", "loyal customer", "loyal supporter", "loyal fan", "remain loyal", "fiercely loyal"],
+    "synonyms": ["faithful", "devoted", "dedicated", "true"],
+    "family": [
+      { "word": "loyalty", "pos": "noun" },
+      { "word": "loyally", "pos": "adverb" },
+      { "word": "disloyal", "pos": "adjective" },
+      { "word": "loyalist", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "loyalty",
+    "ipa": "/ˈlɔɪəlti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sadakat, bağlılık, vefa",
+        "def": "the quality of always supporting someone or something",
+        "examples": ["The company rewards customer loyalty with discounts.", "Dogs are known for their loyalty to their owners."]
+      }
+    ],
+    "collocations": ["loyalty to", "brand loyalty", "customer loyalty", "loyalty card", "loyalty program", "divided loyalties"],
+    "synonyms": ["faithfulness", "devotion", "allegiance", "commitment"],
+    "family": [
+      { "word": "loyal", "pos": "adjective" },
+      { "word": "disloyalty", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "luck",
+    "ipa": "/lʌk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şans, talih",
+        "def": "good or bad things that happen by chance and not because of your own actions",
+        "examples": ["Good luck with your interview tomorrow!", "We've had a lot of bad luck with this car."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şans, başarı",
+        "def": "success or good things that happen by chance",
+        "examples": ["I've had no luck finding an apartment so far.", "With any luck, we'll be home by six."]
+      }
+    ],
+    "collocations": ["good luck", "bad luck", "best of luck", "with any luck", "be in luck", "out of luck", "beginner's luck"],
+    "synonyms": ["chance", "fortune", "fate", "success"],
+    "family": [
+      { "word": "lucky", "pos": "adjective" },
+      { "word": "luckily", "pos": "adverb" },
+      { "word": "unlucky", "pos": "adjective" }
+    ],
+    "note": "\"Good luck!\" is said before a challenge. \"Tough luck\" can sound unsympathetic."
+  },
+  {
+    "word": "lucky",
+    "ipa": "/ˈlʌki/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "şanslı, talihli",
+        "def": "having good luck, or happening because of good luck",
+        "examples": ["You're lucky to have such a supportive family.", "It was a lucky guess — I didn't really know the answer."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "uğurlu",
+        "def": "believed to bring good luck",
+        "examples": ["Seven is my lucky number."]
+      }
+    ],
+    "collocations": ["lucky to be alive", "lucky number", "lucky charm", "get lucky", "lucky break", "count yourself lucky"],
+    "synonyms": ["fortunate", "blessed", "fortuitous"],
+    "family": [
+      { "word": "luck", "pos": "noun" },
+      { "word": "luckily", "pos": "adverb" },
+      { "word": "unlucky", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "lunch",
+    "ipa": "/lʌntʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öğle yemeği",
+        "def": "a meal eaten in the middle of the day",
+        "examples": ["Let's have lunch together on Friday.", "I usually eat lunch at my desk."]
+      }
+    ],
+    "collocations": ["have lunch", "lunch break", "out to lunch", "packed lunch", "business lunch", "lunch hour"],
+    "synonyms": ["midday meal", "luncheon"],
+    "family": [{ "word": "luncheon", "pos": "noun" }],
+    "note": "No article in general use: \"have lunch\", not \"have a lunch\". \"Out to lunch\" (informal) can also mean crazy or unaware."
+  },
+  {
+    "word": "lung",
+    "ipa": "/lʌŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "akciğer",
+        "def": "either of the two organs in the chest used for breathing",
+        "examples": ["Smoking is the main cause of lung cancer.", "The swimmer filled her lungs with air before diving."]
+      }
+    ],
+    "collocations": ["lung cancer", "lung disease", "lung capacity", "at the top of your lungs", "lung function"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"At the top of your lungs\" (American) = as loudly as possible."
+  },
+  {
+    "word": "luxury",
+    "ipa": "/ˈlʌkʃəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lüks, konfor, şatafat",
+        "def": "great comfort and pleasure from expensive and beautiful things",
+        "examples": ["They live in luxury in a huge villa.", "The hotel offers every luxury you can imagine."]
+      },
+      {
+        "pos": "noun",
+        "tr": "lüks (olmazsa olmaz olmayan şey)",
+        "def": "something pleasant but expensive or not necessary",
+        "examples": ["A long, quiet bath is a real luxury for parents of young kids."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "lüks",
+        "def": "expensive and of very high quality",
+        "examples": ["They spent their honeymoon in a luxury resort."]
+      }
+    ],
+    "collocations": ["luxury hotel", "luxury car", "live in luxury", "luxury goods", "afford the luxury of", "luxury brand"],
+    "synonyms": ["comfort", "extravagance", "indulgence", "opulence", "upscale"],
+    "family": [
+      { "word": "luxurious", "pos": "adjective" },
+      { "word": "luxuriously", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "lyric",
+    "ipa": "/ˈlɪrɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şarkı sözü",
+        "def": "the words of a song (usually plural)",
+        "examples": ["I love the melody, but I can never remember the lyrics.", "She wrote the lyrics for the band's latest album."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "lirik",
+        "def": "expressing personal feelings in a poetic, song-like way",
+        "examples": ["The book contains her best lyric poetry."]
+      }
+    ],
+    "collocations": ["song lyrics", "write lyrics", "the lyrics to", "lyric poetry", "catchy lyrics"],
+    "synonyms": ["words", "verse", "poetic"],
+    "family": [
+      { "word": "lyrical", "pos": "adjective" },
+      { "word": "lyricist", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "machine",
+    "ipa": "/məˈʃiːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "makine, alet",
+        "def": "a piece of equipment with moving parts that does a particular job",
+        "examples": ["The washing machine broke down again.", "Can you get me a soda from the vending machine?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "(örgütlü) mekanizma, çark",
+        "def": "an organized group of people who control something, especially in politics",
+        "examples": ["The party's political machine worked hard to win the election."]
+      }
+    ],
+    "collocations": ["washing machine", "vending machine", "coffee machine", "machine learning", "answering machine", "by machine"],
+    "synonyms": ["device", "appliance", "apparatus", "engine"],
+    "family": [
+      { "word": "machinery", "pos": "noun" },
+      { "word": "mechanic", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "machinery",
+    "ipa": "/məˈʃiːnəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "makineler, makine teçhizatı",
+        "def": "machines as a group, especially large ones",
+        "examples": ["The factory invested in new farm machinery.", "Heavy machinery is used to clear the site."]
+      },
+      {
+        "pos": "noun",
+        "tr": "işleyiş, mekanizma, çark",
+        "def": "the organization or system for doing something",
+        "examples": ["The machinery of government moves slowly."]
+      }
+    ],
+    "collocations": ["heavy machinery", "farm machinery", "industrial machinery", "operate machinery", "the machinery of government"],
+    "synonyms": ["equipment", "machines", "apparatus", "system"],
+    "family": [{ "word": "machine", "pos": "noun" }],
+    "note": "Uncountable: \"a piece of machinery\", not \"a machinery\"."
+  },
+  {
+    "word": "mad",
+    "ipa": "/mæd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kızgın, sinirli",
+        "def": "very angry (informal, especially American)",
+        "examples": ["My mom was mad at me for coming home so late.", "Don't get mad — it was just a joke."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "deli, çılgın, saçma",
+        "def": "very silly or not sensible; mentally ill (old-fashioned)",
+        "examples": ["You'd be mad to turn down that job offer.", "It was a mad idea to drive all night."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(bir şeye) deli olan, hasta, tutkun",
+        "def": "very enthusiastic about something (informal)",
+        "examples": ["He's mad about baseball."]
+      }
+    ],
+    "collocations": ["mad at someone", "get mad", "go mad", "drive someone mad", "mad about", "like mad"],
+    "synonyms": ["angry", "furious", "crazy", "insane", "foolish"],
+    "family": [
+      { "word": "madness", "pos": "noun" },
+      { "word": "madly", "pos": "adverb" },
+      { "word": "madman", "pos": "noun" }
+    ],
+    "note": "In American English, \"mad\" usually means angry. Calling a person mentally ill \"mad\" is offensive."
+  },
+  {
+    "word": "magazine",
+    "ipa": "/ˈmæɡəziːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dergi",
+        "def": "a thin publication with articles and photos, sold weekly or monthly, or a similar online publication",
+        "examples": ["I read a fashion magazine while waiting at the dentist.", "She writes for a popular science magazine."]
+      }
+    ],
+    "collocations": ["fashion magazine", "monthly magazine", "magazine article", "magazine cover", "online magazine"],
+    "synonyms": ["journal", "periodical", "publication"],
+    "family": [],
+    "note": "Trap: \"magazine\" is not \"mağaza\" (store). In American English, the stress is often on the first syllable."
+  },
+  {
+    "word": "magic",
+    "ipa": "/ˈmædʒɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sihir, büyü",
+        "def": "the secret power of making impossible things happen by using special words or actions",
+        "examples": ["In the story, the witch uses magic to turn the prince into a frog.", "The kids loved the magic show at the party."]
+      },
+      {
+        "pos": "noun",
+        "tr": "büyü, cazibe, özel bir hava",
+        "def": "a special, exciting quality that makes something seem wonderful",
+        "examples": ["Nothing beats the magic of Christmas morning."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sihirli, büyülü",
+        "def": "having or using special powers to make impossible things happen",
+        "examples": ["There's no magic solution to poverty.", "Say the magic word!"]
+      }
+    ],
+    "collocations": ["magic trick", "black magic", "as if by magic", "work like magic", "magic wand", "magic word"],
+    "synonyms": ["sorcery", "witchcraft", "illusion", "charm", "enchantment"],
+    "family": [
+      { "word": "magical", "pos": "adjective" },
+      { "word": "magician", "pos": "noun" },
+      { "word": "magically", "pos": "adverb" }
+    ],
+    "note": "\"The magic word\" (to children) = \"please\"."
+  },
+  {
+    "word": "magical",
+    "ipa": "/ˈmædʒɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "büyülü, sihirli",
+        "def": "containing or using magic",
+        "examples": ["The fairy tale is about a girl with magical powers.", "Some plants were once believed to have magical properties."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "büyüleyici, masalsı, harika",
+        "def": "wonderful and exciting in a special way",
+        "examples": ["Our evening in Venice was absolutely magical."]
+      }
+    ],
+    "collocations": ["magical powers", "magical moment", "magical experience", "magical world", "magical atmosphere"],
+    "synonyms": ["enchanting", "wonderful", "supernatural", "mystical"],
+    "family": [
+      { "word": "magic", "pos": "noun" },
+      { "word": "magically", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "magistrate",
+    "ipa": "/ˈmædʒɪstreɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sulh hâkimi, yargıç",
+        "def": "an official who acts as a judge in courts that deal with less serious cases",
+        "examples": ["The magistrate fined him $500 for disorderly conduct.", "She appeared before a magistrate the morning after her arrest."]
+      }
+    ],
+    "collocations": ["magistrate's court", "appear before a magistrate", "local magistrate", "chief magistrate"],
+    "synonyms": ["judge", "justice of the peace"],
+    "family": [],
+    "note": "Formal and legal. In the US, magistrate judges assist federal judges; in the UK they hear minor cases."
+  },
+  {
+    "word": "magnetic",
+    "ipa": "/mæɡˈnetɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "manyetik, mıknatıslı",
+        "def": "acting like a magnet, or able to be attracted by a magnet",
+        "examples": ["The Earth has a magnetic field that protects it from the sun.", "Credit cards used to rely on a magnetic strip."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "çekici, karizmatik, etkileyici",
+        "def": "having a quality that strongly attracts people",
+        "examples": ["The singer had a magnetic personality on stage."]
+      }
+    ],
+    "collocations": ["magnetic field", "magnetic strip", "magnetic personality", "magnetic resonance", "magnetic north"],
+    "synonyms": ["attractive", "charismatic", "captivating", "irresistible"],
+    "family": [
+      { "word": "magnet", "pos": "noun" },
+      { "word": "magnetism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "magnificent",
+    "ipa": "/mæɡˈnɪfɪsnt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "muhteşem, görkemli, şahane",
+        "def": "extremely beautiful, impressive or deserving praise",
+        "examples": ["From the top, there's a magnificent view of the canyon.", "She gave a magnificent performance in the final."]
+      }
+    ],
+    "collocations": ["magnificent view", "magnificent building", "magnificent performance", "truly magnificent", "magnificent example"],
+    "synonyms": ["splendid", "impressive", "superb", "grand", "glorious"],
+    "family": [
+      { "word": "magnificence", "pos": "noun" },
+      { "word": "magnificently", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "magnitude",
+    "ipa": "/ˈmæɡnɪtuːd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "büyüklük, boyut, önem",
+        "def": "the great size or importance of something",
+        "examples": ["Nobody understood the magnitude of the problem at first.", "A crisis of this magnitude requires international cooperation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(deprem) büyüklük, şiddet",
+        "def": "the size or strength of an earthquake or a star's brightness",
+        "examples": ["A magnitude 7.2 earthquake struck the coast early this morning."]
+      }
+    ],
+    "collocations": ["the magnitude of", "of this magnitude", "order of magnitude", "sheer magnitude", "magnitude 6 earthquake"],
+    "synonyms": ["size", "scale", "extent", "importance", "significance"],
+    "family": [],
+    "note": "Formal. \"An order of magnitude\" = about ten times larger or smaller."
+  },
+  {
+    "word": "mail",
+    "ipa": "/meɪl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "posta, mektuplar",
+        "def": "the system for sending letters and packages, or the letters and packages sent",
+        "examples": ["I sent the documents by mail last week.", "Has the mail come yet today?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "e-posta",
+        "def": "email",
+        "examples": ["I've got over a hundred unread messages in my mail."]
+      },
+      {
+        "pos": "verb",
+        "tr": "postalamak, postayla göndermek",
+        "def": "to send something by post",
+        "examples": ["Could you mail this package for me on your way to work?"]
+      }
+    ],
+    "collocations": ["by mail", "check the mail", "junk mail", "mail a letter", "voice mail", "mail order"],
+    "synonyms": ["post", "letters", "correspondence", "send"],
+    "family": [
+      { "word": "mailbox", "pos": "noun" },
+      { "word": "mailman", "pos": "noun" },
+      { "word": "email", "pos": "noun" }
+    ],
+    "note": "American \"mail\" = British \"post\". Uncountable: \"a lot of mail\", not \"mails\" (for letters)."
+  },
+  {
+    "word": "main",
+    "ipa": "/meɪn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ana, temel, başlıca",
+        "def": "largest or most important",
+        "examples": ["The main reason I moved was the job.", "Turn left onto the main road."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ana boru, şebeke hattı",
+        "def": "a large pipe or cable that carries water, gas or electricity to buildings",
+        "examples": ["A burst water main flooded the street."]
+      }
+    ],
+    "collocations": ["main reason", "main road", "main course", "main street", "main idea", "in the main"],
+    "synonyms": ["primary", "chief", "principal", "major", "central"],
+    "family": [
+      { "word": "mainly", "pos": "adverb" },
+      { "word": "mainland", "pos": "noun" },
+      { "word": "mainstream", "pos": "noun" }
+    ],
+    "note": "Used only before nouns: \"the main problem\", not \"the problem is main\". \"Main Street\" also symbolizes ordinary Americans."
+  },
+  {
+    "word": "mainland",
+    "ipa": "/ˈmeɪnlænd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "anakara",
+        "def": "the main area of land of a country or region, not including islands near it",
+        "examples": ["The ferry takes about an hour to reach the mainland.", "Prices on the island are higher than on the mainland."]
+      }
+    ],
+    "collocations": ["the mainland", "mainland China", "mainland Europe", "on the mainland", "back to the mainland"],
+    "synonyms": ["continent", "main landmass"],
+    "family": [],
+    "note": "Almost always used with \"the\": the mainland."
+  },
+  {
+    "word": "mainly",
+    "ipa": "/ˈmeɪnli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "çoğunlukla, esas olarak, başlıca",
+        "def": "more than anything else; mostly",
+        "examples": ["The audience was mainly made up of students.", "I use my phone mainly for messages and maps."]
+      }
+    ],
+    "collocations": ["mainly because", "mainly due to", "consist mainly of", "mainly for", "mainly in"],
+    "synonyms": ["mostly", "largely", "chiefly", "primarily"],
+    "family": [{ "word": "main", "pos": "adjective" }]
+  },
+  {
+    "word": "mainstream",
+    "ipa": "/ˈmeɪnstriːm/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ana akım, genel kabul gören, yaygın",
+        "def": "considered normal because it is accepted by most people",
+        "examples": ["The band has never had much mainstream success.", "Electric cars are becoming more mainstream every year."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ana akım, toplumun geneli",
+        "def": "the ideas, opinions and styles shared by most people",
+        "examples": ["Yoga has moved from the fringe into the mainstream."]
+      }
+    ],
+    "collocations": ["mainstream media", "mainstream culture", "go mainstream", "the political mainstream", "enter the mainstream"],
+    "synonyms": ["conventional", "popular", "normal", "established", "orthodox"],
+    "family": [],
+    "note": "\"Mainstream media\" = large, traditional news organizations."
+  },
+  {
+    "word": "maintain",
+    "ipa": "/meɪnˈteɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sürdürmek, korumak, devam ettirmek",
+        "def": "to make something continue at the same level or standard",
+        "examples": ["It's important to maintain a healthy weight.", "The two countries maintain close ties."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bakımını yapmak, bakmak",
+        "def": "to keep a building or machine in good condition by checking and repairing it",
+        "examples": ["The city spends millions to maintain its roads."]
+      },
+      {
+        "pos": "verb",
+        "tr": "iddia etmek, ısrarla söylemek",
+        "def": "to keep saying that something is true, even when others disagree",
+        "examples": ["He has always maintained his innocence."]
+      }
+    ],
+    "collocations": ["maintain contact", "maintain control", "maintain standards", "maintain a balance", "well maintained", "maintain your innocence"],
+    "synonyms": ["keep", "preserve", "sustain", "look after", "claim"],
+    "family": [
+      { "word": "maintenance", "pos": "noun" }
+    ],
+    "note": "Note the spelling change: maintain → maintenance (not \"maintainance\")."
+  },
+  {
+    "word": "maintenance",
+    "ipa": "/ˈmeɪntənəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bakım, onarım",
+        "def": "the work of keeping something in good condition by checking and repairing it",
+        "examples": ["The elevator is closed for maintenance.", "Older cars need more regular maintenance."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sürdürme, koruma",
+        "def": "the act of making a situation or state continue",
+        "examples": ["The UN plays a role in the maintenance of world peace."]
+      }
+    ],
+    "collocations": ["routine maintenance", "maintenance costs", "regular maintenance", "high maintenance", "low maintenance", "maintenance work"],
+    "synonyms": ["upkeep", "care", "servicing", "repair", "preservation"],
+    "family": [{ "word": "maintain", "pos": "verb" }],
+    "note": "\"High-maintenance\" (informal) describes a person who needs a lot of attention."
+  },
+  {
+    "word": "major",
+    "ipa": "/ˈmeɪdʒər/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "büyük, önemli, başlıca",
+        "def": "very large, important or serious",
+        "examples": ["Traffic is a major problem in the city.", "The surgery was a major operation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(üniversite) ana dal; ana dal öğrencisi",
+        "def": "the main subject a student studies at college, or a student studying it (American)",
+        "examples": ["Her major is biology.", "He's an English major at Ohio State."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir alanda) ana dal okumak",
+        "def": "to study something as your main subject at college (American)",
+        "examples": ["I majored in economics."]
+      }
+    ],
+    "collocations": ["major problem", "major role", "major change", "major city", "major in", "a major factor"],
+    "synonyms": ["significant", "important", "key", "serious", "main"],
+    "family": [
+      { "word": "majority", "pos": "noun" }
+    ],
+    "note": "Opposite: minor. \"Major\" is also a military rank (binbaşı)."
+  },
+  {
+    "word": "majority",
+    "ipa": "/məˈdʒɔːrəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çoğunluk",
+        "def": "the largest part of a group of people or things",
+        "examples": ["The majority of students live on campus.", "A large majority of voters support the plan."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(seçim) çoğunluk, oy farkı",
+        "def": "the number of votes by which one party or candidate wins",
+        "examples": ["The party won the election with a majority of 30 seats."]
+      }
+    ],
+    "collocations": ["the majority of", "vast majority", "large majority", "in the majority", "majority vote", "overall majority"],
+    "synonyms": ["most", "bulk", "greater part", "mass"],
+    "family": [
+      { "word": "major", "pos": "adjective" },
+      { "word": "minority", "pos": "noun" }
+    ],
+    "note": "\"The majority of\" + plural noun takes a plural verb: The majority of people are..."
+  },
+  {
+    "word": "make",
+    "ipa": "/meɪk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yapmak, üretmek, hazırlamak",
+        "def": "to create or prepare something by putting materials or parts together",
+        "examples": ["I'll make dinner tonight.", "This company makes furniture from recycled wood."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(birine bir şey) yaptırmak, zorlamak",
+        "def": "to cause or force someone to do something",
+        "examples": ["Sad movies always make me cry.", "My parents made me practice piano every day."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kazanmak; (sonucu) etmek",
+        "def": "to earn money, or to add up to a total",
+        "examples": ["She makes about $80,000 a year.", "Two and two make four."]
+      },
+      {
+        "pos": "noun",
+        "tr": "marka",
+        "def": "the name of the company that made a product",
+        "examples": ["What make is your car?"]
+      }
+    ],
+    "collocations": ["make a decision", "make a mistake", "make money", "make sure", "make sense", "make friends", "make up your mind"],
+    "synonyms": ["create", "produce", "build", "force", "earn", "brand"],
+    "family": [
+      { "word": "maker", "pos": "noun" },
+      { "word": "making", "pos": "noun" },
+      { "word": "remake", "pos": "verb" }
+    ],
+    "note": "Irregular: make – made – made. \"Make someone do\" (no \"to\"). Turks often confuse make/do: make a mistake, do homework."
+  },
+  {
+    "word": "make-up",
+    "ipa": "/ˈmeɪk ʌp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "makyaj",
+        "def": "colored substances put on the face to look more attractive or to change your appearance",
+        "examples": ["She never wears much make-up to work.", "The actors spent two hours in make-up before the show."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yapı, bileşim, karakter",
+        "def": "the different parts or people that form something, or a person's character",
+        "examples": ["The ethnic make-up of the city has changed a lot.", "Being competitive is part of his genetic make-up."]
+      }
+    ],
+    "collocations": ["wear make-up", "put on make-up", "remove make-up", "make-up artist", "genetic make-up", "the make-up of"],
+    "synonyms": ["cosmetics", "makeup", "composition", "structure", "character"],
+    "family": [{ "word": "make up", "pos": "verb" }],
+    "note": "Usually spelled \"makeup\" in American English. Uncountable: \"a lot of makeup\". The verb \"make up\" also means invent or reconcile."
+  }
+]

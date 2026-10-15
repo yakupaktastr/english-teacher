@@ -1,0 +1,1243 @@
+[
+  {
+    "word": "cupboard",
+    "ipa": "/ˈkʌbərd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dolap, mutfak dolabı",
+        "def": "a piece of furniture or a space in a wall with doors and shelves, used for storing things",
+        "examples": ["The plates are in the cupboard above the sink.", "We keep cleaning supplies in the cupboard under the stairs."]
+      }
+    ],
+    "collocations": ["kitchen cupboard", "in the cupboard", "cupboard door", "built-in cupboard", "the cupboard is bare"],
+    "synonyms": ["cabinet", "closet", "pantry"],
+    "family": [{ "word": "cup", "pos": "noun" }],
+    "note": "Pronounced /ˈkʌbərd/: the p is silent. Americans usually say \"cabinet\" in kitchens and \"closet\" for clothes."
+  },
+  {
+    "word": "cure",
+    "ipa": "/kjʊr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tedavi, çare, şifa",
+        "def": "a medicine or treatment that makes an illness go away",
+        "examples": ["Scientists are still searching for a cure for Alzheimer's.", "There is no cure for the common cold."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çözüm, çare",
+        "def": "something that solves a problem",
+        "examples": ["Lower taxes are not a cure for every economic problem."]
+      },
+      {
+        "pos": "verb",
+        "tr": "iyileştirmek, tedavi etmek; (sorunu) çözmek",
+        "def": "to make a person or animal healthy again, or to end an illness or problem",
+        "examples": ["The treatment cured her of the infection in two weeks.", "Nothing will cure his habit of arriving late."]
+      }
+    ],
+    "collocations": ["a cure for", "find a cure", "miracle cure", "cure a disease", "cure someone of something", "prevention is better than cure"],
+    "synonyms": ["remedy", "treatment", "heal", "fix"],
+    "family": [
+      { "word": "curable", "pos": "adjective" },
+      { "word": "incurable", "pos": "adjective" },
+      { "word": "cure-all", "pos": "noun" }
+    ],
+    "note": "\"Cure\" means to fully heal; \"treat\" means to give medical care, which may or may not cure."
+  },
+  {
+    "word": "curiosity",
+    "ipa": "/ˌkjʊriˈɑːsəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "merak",
+        "def": "a strong wish to know or learn about something",
+        "examples": ["Out of curiosity, I opened the box to see what was inside.", "Children are full of natural curiosity about the world."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ilginç/tuhaf şey, nadide eşya",
+        "def": "an unusual and interesting object or person",
+        "examples": ["The old shop was full of curiosities from around the world."]
+      }
+    ],
+    "collocations": ["out of curiosity", "satisfy your curiosity", "intellectual curiosity", "natural curiosity", "curiosity killed the cat", "arouse curiosity"],
+    "synonyms": ["interest", "inquisitiveness", "wonder", "oddity"],
+    "family": [
+      { "word": "curious", "pos": "adjective" },
+      { "word": "curiously", "pos": "adverb" }
+    ],
+    "note": "\"Curiosity killed the cat\" warns that being too curious can get you into trouble."
+  },
+  {
+    "word": "curious",
+    "ipa": "/ˈkjʊriəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "meraklı, merak eden",
+        "def": "wanting to know or learn about something",
+        "examples": ["I'm curious to know how the story ends.", "The kids were curious about the strange noise in the attic."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tuhaf, garip, ilginç",
+        "def": "strange and unusual",
+        "examples": ["There was a curious smell coming from the basement."]
+      }
+    ],
+    "collocations": ["curious about", "curious to know", "just curious", "a curious mix", "curious case"],
+    "synonyms": ["inquisitive", "interested", "strange", "odd", "peculiar"],
+    "family": [
+      { "word": "curiosity", "pos": "noun" },
+      { "word": "curiously", "pos": "adverb" }
+    ],
+    "note": "\"Just curious\" is a polite way to show you're asking out of interest, not suspicion."
+  },
+  {
+    "word": "curly",
+    "ipa": "/ˈkɜːrli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kıvırcık, kıvrımlı",
+        "def": "having curls or a curved shape",
+        "examples": ["She has long curly hair that she usually ties back.", "The puppy has a short curly tail."]
+      }
+    ],
+    "collocations": ["curly hair", "naturally curly", "curly brackets", "curly fries", "short and curly"],
+    "synonyms": ["wavy", "frizzy", "curled"],
+    "family": [
+      { "word": "curl", "pos": "noun" },
+      { "word": "curl", "pos": "verb" }
+    ],
+    "note": "Opposite: straight hair. \"Curly brackets\" are { }."
+  },
+  {
+    "word": "currency",
+    "ipa": "/ˈkɜːrənsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "para birimi, döviz",
+        "def": "the system of money used in a particular country",
+        "examples": ["The euro is the official currency of 20 European countries.", "You can exchange foreign currency at the airport."]
+      },
+      {
+        "pos": "noun",
+        "tr": "geçerlilik, kabul görme, yaygınlık",
+        "def": "the state of being generally accepted or used",
+        "examples": ["The idea gained currency among economists in the 1980s."]
+      }
+    ],
+    "collocations": ["foreign currency", "local currency", "currency exchange", "single currency", "digital currency", "gain currency"],
+    "synonyms": ["money", "cash", "acceptance"],
+    "family": [{ "word": "current", "pos": "adjective" }],
+    "note": "\"Gain currency\" = become widely accepted (used for ideas and words)."
+  },
+  {
+    "word": "current",
+    "ipa": "/ˈkɜːrənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "şimdiki, mevcut, güncel",
+        "def": "happening or existing now",
+        "examples": ["What's your current address?", "The current situation is better than it was a year ago."]
+      },
+      {
+        "pos": "noun",
+        "tr": "akıntı, (hava) akım",
+        "def": "a movement of water or air in a particular direction",
+        "examples": ["The current was too strong for the swimmers.", "Warm ocean currents keep the coast mild in winter."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(elektrik) akım",
+        "def": "a flow of electricity through a wire",
+        "examples": ["Turn off the current before you touch the wires."]
+      }
+    ],
+    "collocations": ["current events", "current affairs", "current situation", "strong current", "electric current", "the current year"],
+    "synonyms": ["present", "existing", "up-to-date", "flow", "stream"],
+    "family": [
+      { "word": "currently", "pos": "adverb" },
+      { "word": "currency", "pos": "noun" },
+      { "word": "undercurrent", "pos": "noun" }
+    ],
+    "note": "Don't confuse with \"currant\" (a small dried fruit), which sounds the same."
+  },
+  {
+    "word": "currently",
+    "ipa": "/ˈkɜːrəntli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "şu anda, şu sıralar, halihazırda",
+        "def": "at the present time",
+        "examples": ["She's currently working on her second novel.", "The museum is currently closed for renovation."]
+      }
+    ],
+    "collocations": ["currently available", "currently working", "currently under way", "is currently being", "currently unavailable"],
+    "synonyms": ["now", "at present", "presently", "at the moment"],
+    "family": [{ "word": "current", "pos": "adjective" }],
+    "note": "Trap for Turkish speakers: \"actually\" does NOT mean \"currently\" (aktüel). Use \"currently\" for \"şu anda\"."
+  },
+  {
+    "word": "curriculum",
+    "ipa": "/kəˈrɪkjələm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "müfredat, öğretim programı",
+        "def": "the subjects included in a course of study or taught in a school",
+        "examples": ["Coding has been added to the elementary school curriculum.", "The university is reviewing its curriculum for first-year students."]
+      }
+    ],
+    "collocations": ["school curriculum", "national curriculum", "on the curriculum", "curriculum development", "core curriculum"],
+    "synonyms": ["syllabus", "program of study", "course"],
+    "family": [
+      { "word": "curricular", "pos": "adjective" },
+      { "word": "extracurricular", "pos": "adjective" }
+    ],
+    "note": "Plural: curricula or curriculums. A CV (curriculum vitae) is usually called a \"résumé\" in the US."
+  },
+  {
+    "word": "curtain",
+    "ipa": "/ˈkɜːrtn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "perde",
+        "def": "a piece of cloth hung to cover a window or divide a space",
+        "examples": ["Could you close the curtains? The sun is in my eyes.", "She pulled back the shower curtain."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(tiyatro) sahne perdesi",
+        "def": "the large cloth in front of a theater stage",
+        "examples": ["The audience clapped as the curtain came down."]
+      }
+    ],
+    "collocations": ["draw the curtains", "close the curtains", "open the curtains", "shower curtain", "curtain call", "behind the curtain"],
+    "synonyms": ["drape", "drapes", "blind"],
+    "family": [],
+    "note": "Americans also say \"drapes\" for heavy curtains. \"Curtain call\" = when actors come back to bow."
+  },
+  {
+    "word": "curve",
+    "ipa": "/kɜːrv/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eğri, kıvrım, viraj",
+        "def": "a line or surface that bends smoothly, or a bend in a road",
+        "examples": ["Slow down: there's a sharp curve ahead.", "The graph shows a steady upward curve in sales."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kıvrılmak, eğri çizmek, bükmek",
+        "def": "to bend or move in a smooth round line",
+        "examples": ["The path curves gently down to the beach.", "The ball curved into the top corner of the net."]
+      }
+    ],
+    "collocations": ["sharp curve", "learning curve", "ahead of the curve", "bell curve", "flatten the curve", "curve around"],
+    "synonyms": ["bend", "arc", "turn", "arch"],
+    "family": [
+      { "word": "curved", "pos": "adjective" },
+      { "word": "curvy", "pos": "adjective" },
+      { "word": "curvature", "pos": "noun" }
+    ],
+    "note": "\"A steep learning curve\" = something that takes a lot of effort to learn quickly."
+  },
+  {
+    "word": "curved",
+    "ipa": "/kɜːrvd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kavisli, eğri, kıvrık",
+        "def": "having a round, bent shape rather than a straight one",
+        "examples": ["The bridge has a beautiful curved design.", "A parrot uses its strong curved beak to crack nuts."]
+      }
+    ],
+    "collocations": ["curved line", "curved surface", "curved screen", "slightly curved", "curved edge"],
+    "synonyms": ["bent", "rounded", "arched", "bowed"],
+    "family": [{ "word": "curve", "pos": "noun" }],
+    "note": "Opposite: straight."
+  },
+  {
+    "word": "custody",
+    "ipa": "/ˈkʌstədi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "velayet",
+        "def": "the legal right to care for a child, especially after parents separate",
+        "examples": ["After the divorce, the mother was given custody of the children.", "They share joint custody of their son."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gözaltı, tutukluluk",
+        "def": "the state of being held by the police, usually before a trial",
+        "examples": ["The suspect is now in police custody.", "Two men were taken into custody after the robbery."]
+      }
+    ],
+    "collocations": ["in custody", "take into custody", "police custody", "joint custody", "custody battle", "full custody"],
+    "synonyms": ["guardianship", "care", "detention", "arrest"],
+    "family": [
+      { "word": "custodian", "pos": "noun" },
+      { "word": "custodial", "pos": "adjective" }
+    ],
+    "note": "In the US, a \"custodian\" is also a building janitor."
+  },
+  {
+    "word": "custom",
+    "ipa": "/ˈkʌstəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gelenek, örf, âdet",
+        "def": "a traditional way of doing something in a society or group",
+        "examples": ["In Japan, it is the custom to take off your shoes indoors.", "Giving gifts at New Year is an old local custom."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "özel yapım, kişiye özel",
+        "def": "made specially for a particular customer",
+        "examples": ["They ordered custom furniture for the new house."]
+      }
+    ],
+    "collocations": ["local custom", "ancient custom", "it is the custom to", "custom-made", "custom design"],
+    "synonyms": ["tradition", "practice", "convention", "habit"],
+    "family": [
+      { "word": "customary", "pos": "adjective" },
+      { "word": "customize", "pos": "verb" },
+      { "word": "customs", "pos": "noun" },
+      { "word": "customer", "pos": "noun" }
+    ],
+    "note": "\"Customs\" (plural) is the place at a border where bags are checked: \"go through customs\"."
+  },
+  {
+    "word": "customer",
+    "ipa": "/ˈkʌstəmər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "müşteri",
+        "def": "a person or organization that buys goods or services from a business",
+        "examples": ["The store gives regular customers a 10% discount.", "Call customer service if your package doesn't arrive."]
+      }
+    ],
+    "collocations": ["customer service", "regular customer", "loyal customer", "satisfied customer", "attract customers", "customer satisfaction"],
+    "synonyms": ["client", "buyer", "shopper", "consumer"],
+    "family": [
+      { "word": "custom", "pos": "noun" },
+      { "word": "customize", "pos": "verb" }
+    ],
+    "note": "\"Client\" is used for professional services (lawyers, agencies); \"customer\" for shops and companies."
+  },
+  {
+    "word": "cut",
+    "ipa": "/kʌt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kesmek, doğramak",
+        "def": "to divide, open, or shape something with a knife, scissors, or other sharp tool",
+        "examples": ["Cut the onions into small pieces.", "I cut my finger while opening the package."]
+      },
+      {
+        "pos": "verb",
+        "tr": "azaltmak, kısmak, kesinti yapmak",
+        "def": "to reduce the amount, size, or number of something",
+        "examples": ["The company plans to cut 2,000 jobs this year.", "Try to cut down on sugar."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kesik, yara",
+        "def": "a wound made by something sharp",
+        "examples": ["He had a deep cut on his hand from the broken glass."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kesinti, indirim, azaltma",
+        "def": "a reduction in amount or size",
+        "examples": ["Teachers protested against the budget cuts."]
+      }
+    ],
+    "collocations": ["cut costs", "budget cuts", "tax cut", "cut down on", "cut off", "cut corners", "a haircut"],
+    "synonyms": ["slice", "chop", "reduce", "wound", "reduction"],
+    "family": [
+      { "word": "cutting", "pos": "adjective" },
+      { "word": "cutter", "pos": "noun" },
+      { "word": "cutback", "pos": "noun" },
+      { "word": "haircut", "pos": "noun" },
+      { "word": "shortcut", "pos": "noun" }
+    ],
+    "note": "Irregular verb: cut – cut – cut. \"Cut it out!\" (informal) = stop doing that."
+  },
+  {
+    "word": "cute",
+    "ipa": "/kjuːt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sevimli, şirin, tatlı",
+        "def": "pretty and attractive, especially in a small or childlike way",
+        "examples": ["Look at that cute little puppy!", "The baby looks so cute in that hat."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(kişi) çekici, yakışıklı/hoş",
+        "def": "(informal) sexually attractive",
+        "examples": ["She thinks the new guy at work is really cute."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(olumsuz) kendini akıllı sanan, işgüzar",
+        "def": "trying too hard to be clever, in an annoying way",
+        "examples": ["Don't get cute with me; just answer the question."]
+      }
+    ],
+    "collocations": ["so cute", "really cute", "cute little", "look cute", "cute as a button"],
+    "synonyms": ["adorable", "sweet", "lovely", "attractive"],
+    "family": [
+      { "word": "cutely", "pos": "adverb" },
+      { "word": "cuteness", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "cutting",
+    "ipa": "/ˈkʌtɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gazete kupürü, kesik",
+        "def": "(British) an article or picture cut from a newspaper or magazine",
+        "examples": ["Her mother kept a folder of newspaper cuttings about her career."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çelik (bitki), fide",
+        "def": "a piece cut from a plant to grow a new plant",
+        "examples": ["I took a cutting from my neighbor's rose bush and planted it."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "iğneleyici, kırıcı, (rüzgâr) dondurucu",
+        "def": "unkind and meant to hurt someone's feelings, or (of wind) very cold",
+        "examples": ["He made a cutting remark about her weight.", "A cutting wind blew off the lake."]
+      }
+    ],
+    "collocations": ["newspaper cutting", "take a cutting", "cutting remark", "cutting edge", "cutting-edge technology", "cost-cutting"],
+    "synonyms": ["clipping", "hurtful", "sharp", "biting"],
+    "family": [{ "word": "cut", "pos": "verb" }],
+    "note": "Americans say \"newspaper clipping\" rather than \"cutting\". \"Cutting-edge\" = the most advanced."
+  },
+  {
+    "word": "cycle",
+    "ipa": "/ˈsaɪkl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "döngü, devir, çevrim",
+        "def": "a series of events that repeat in the same order",
+        "examples": ["The program aims to break the cycle of poverty.", "The washing machine takes an hour to finish one cycle."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bisiklet, motosiklet",
+        "def": "a bicycle or motorcycle",
+        "examples": ["The city has built new cycle lanes downtown."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bisiklete binmek, bisikletle gitmek",
+        "def": "to ride a bicycle",
+        "examples": ["She cycles to work every day, even in winter."]
+      }
+    ],
+    "collocations": ["life cycle", "vicious cycle", "break the cycle", "business cycle", "news cycle", "cycle path"],
+    "synonyms": ["circle", "round", "sequence", "bike", "ride"],
+    "family": [
+      { "word": "cyclist", "pos": "noun" },
+      { "word": "cycling", "pos": "noun" },
+      { "word": "cyclical", "pos": "adjective" },
+      { "word": "recycle", "pos": "verb" },
+      { "word": "bicycle", "pos": "noun" }
+    ],
+    "note": "In everyday American English, people usually say \"bike\" and \"ride a bike\" rather than \"cycle\"."
+  },
+  {
+    "word": "cynical",
+    "ipa": "/ˈsɪnɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kinik, şüpheci, her şeye kötü gözle bakan",
+        "def": "believing that people usually act only for selfish reasons, not honest or good ones",
+        "examples": ["Many voters have become cynical about politicians' promises.", "Years of working in sales made him cynical."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "çıkarcı, hesapçı",
+        "def": "caring only about your own advantage, without regard for others",
+        "examples": ["The ad campaign was a cynical attempt to make money from a tragedy."]
+      }
+    ],
+    "collocations": ["cynical about", "deeply cynical", "cynical view", "cynical attempt", "cynical ploy"],
+    "synonyms": ["skeptical", "distrustful", "suspicious", "jaded"],
+    "family": [
+      { "word": "cynic", "pos": "noun" },
+      { "word": "cynicism", "pos": "noun" },
+      { "word": "cynically", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "dad",
+    "ipa": "/dæd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "baba",
+        "def": "(informal) father",
+        "examples": ["My dad taught me how to ride a bike.", "Dad, can you pick me up after practice?"]
+      }
+    ],
+    "collocations": ["my dad", "mom and dad", "stay-at-home dad", "new dad", "dad joke"],
+    "synonyms": ["father", "daddy", "pop"],
+    "family": [{ "word": "daddy", "pos": "noun" }],
+    "note": "Write \"Dad\" with a capital letter when used as a name. A \"dad joke\" is a corny, predictable joke."
+  },
+  {
+    "word": "daily",
+    "ipa": "/ˈdeɪli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "günlük, gündelik",
+        "def": "happening, done, or produced every day",
+        "examples": ["Exercise should be part of your daily routine.", "The museum gets about 5,000 daily visitors."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "her gün, günlük olarak",
+        "def": "every day",
+        "examples": ["Take the medicine twice daily with food.", "The newspaper is published daily."]
+      },
+      {
+        "pos": "noun",
+        "tr": "günlük gazete",
+        "def": "a newspaper published every day",
+        "examples": ["The story was on the front page of every national daily."]
+      }
+    ],
+    "collocations": ["daily life", "daily routine", "daily basis", "on a daily basis", "twice daily", "daily newspaper"],
+    "synonyms": ["everyday", "day-to-day", "every day"],
+    "family": [{ "word": "day", "pos": "noun" }]
+  },
+  {
+    "word": "dairy",
+    "ipa": "/ˈderi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "süt ürünleri",
+        "def": "milk, cheese, butter, and other foods made from milk",
+        "examples": ["She's allergic to dairy, so she drinks oat milk.", "Try to eat less meat and dairy."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "süt (ürünleri) ile ilgili, mandıra",
+        "def": "made from milk, or connected with producing milk",
+        "examples": ["Dairy products are a good source of calcium.", "He grew up on a dairy farm in Wisconsin."]
+      }
+    ],
+    "collocations": ["dairy products", "dairy farm", "dairy cow", "dairy-free", "dairy industry"],
+    "synonyms": ["milk products"],
+    "family": [],
+    "note": "Don't confuse \"dairy\" /ˈderi/ with \"diary\" /ˈdaɪəri/ (a daily journal)."
+  },
+  {
+    "word": "dam",
+    "ipa": "/dæm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "baraj, set",
+        "def": "a wall built across a river to hold back water, often to make a lake or produce electricity",
+        "examples": ["The Hoover Dam supplies electricity to millions of people.", "Heavy rain caused the old dam to burst."]
+      },
+      {
+        "pos": "verb",
+        "tr": "baraj kurmak, önünü kesmek",
+        "def": "to build a dam across a river",
+        "examples": ["The river was dammed in the 1960s to create a reservoir."]
+      }
+    ],
+    "collocations": ["build a dam", "dam burst", "hydroelectric dam", "dam collapse", "beaver dam"],
+    "synonyms": ["barrier", "barrage", "embankment"],
+    "family": [],
+    "note": "Don't confuse with \"damn\" (a swear word), which sounds the same."
+  },
+  {
+    "word": "damage",
+    "ipa": "/ˈdæmɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hasar, zarar",
+        "def": "physical harm that makes something less useful, valuable, or attractive",
+        "examples": ["The storm caused serious damage to homes along the coast.", "Smoking can cause permanent damage to your lungs."]
+      },
+      {
+        "pos": "verb",
+        "tr": "zarar vermek, hasar vermek",
+        "def": "to harm something physically, or to have a bad effect on something",
+        "examples": ["Several cars were damaged in the flood.", "The scandal damaged the company's reputation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(damages) tazminat",
+        "def": "money that a court orders someone to pay for causing harm or loss",
+        "examples": ["She was awarded $2 million in damages."]
+      }
+    ],
+    "collocations": ["cause damage", "serious damage", "brain damage", "damage control", "permanent damage", "pay damages"],
+    "synonyms": ["harm", "destruction", "injury", "hurt", "impair"],
+    "family": [
+      { "word": "damaging", "pos": "adjective" },
+      { "word": "damaged", "pos": "adjective" }
+    ],
+    "note": "\"Damage\" (harm) is uncountable: \"a lot of damage\", not \"damages\". \"Damages\" means money paid by court order."
+  },
+  {
+    "word": "damaging",
+    "ipa": "/ˈdæmɪdʒɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "zararlı, yıkıcı",
+        "def": "causing harm or having a bad effect",
+        "examples": ["The leaked emails were deeply damaging to her campaign.", "Too much sun can be damaging to your skin."]
+      }
+    ],
+    "collocations": ["damaging effect", "deeply damaging", "potentially damaging", "damaging to", "environmentally damaging"],
+    "synonyms": ["harmful", "destructive", "detrimental", "hurtful"],
+    "family": [{ "word": "damage", "pos": "verb" }]
+  },
+  {
+    "word": "dance",
+    "ipa": "/dæns/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dans etmek, oynamak",
+        "def": "to move your body to music",
+        "examples": ["We danced all night at their wedding.", "Do you want to dance?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "dans",
+        "def": "a set of movements done to music, or an occasion when people dance",
+        "examples": ["The tango is a dance from Argentina.", "Are you going to the school dance on Friday?"]
+      }
+    ],
+    "collocations": ["dance floor", "dance class", "dance with someone", "slow dance", "folk dance", "dance music"],
+    "synonyms": ["move", "groove", "ball", "party"],
+    "family": [
+      { "word": "dancer", "pos": "noun" },
+      { "word": "dancing", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "dancer",
+    "ipa": "/ˈdænsər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dansçı, dansöz",
+        "def": "a person who dances, especially as a job",
+        "examples": ["She trained as a ballet dancer in New York.", "I'm not a very good dancer, so I'll just watch."]
+      }
+    ],
+    "collocations": ["ballet dancer", "professional dancer", "backup dancer", "good dancer", "lead dancer"],
+    "synonyms": ["performer", "ballerina"],
+    "family": [{ "word": "dance", "pos": "verb" }],
+    "note": "In Turkish \"dansöz\" means a belly dancer; in English that is \"belly dancer\". \"Dancer\" is general."
+  },
+  {
+    "word": "dancing",
+    "ipa": "/ˈdænsɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dans, dans etme",
+        "def": "the activity of moving your body to music",
+        "examples": ["Let's go dancing on Saturday night.", "She takes dancing lessons twice a week."]
+      }
+    ],
+    "collocations": ["go dancing", "dancing lessons", "ballroom dancing", "line dancing", "dancing shoes"],
+    "synonyms": ["dance"],
+    "family": [
+      { "word": "dance", "pos": "verb" },
+      { "word": "dancer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "danger",
+    "ipa": "/ˈdeɪndʒər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tehlike",
+        "def": "the possibility of being hurt, killed, or harmed",
+        "examples": ["The sign warned of danger from falling rocks.", "Doctors say the patient is now out of danger."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tehlike, risk, tehdit",
+        "def": "something or someone that may cause harm, or the risk that something bad will happen",
+        "examples": ["Icy roads are a real danger to drivers.", "There's a danger that prices will rise again."]
+      }
+    ],
+    "collocations": ["in danger", "out of danger", "danger of", "serious danger", "pose a danger", "danger zone"],
+    "synonyms": ["risk", "threat", "hazard", "peril"],
+    "family": [
+      { "word": "dangerous", "pos": "adjective" },
+      { "word": "dangerously", "pos": "adverb" },
+      { "word": "endanger", "pos": "verb" },
+      { "word": "endangered", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "dangerous",
+    "ipa": "/ˈdeɪndʒərəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tehlikeli",
+        "def": "likely to cause injury, harm, or damage",
+        "examples": ["It's dangerous to text while driving.", "Police say the escaped prisoner is armed and dangerous."]
+      }
+    ],
+    "collocations": ["extremely dangerous", "dangerous situation", "dangerous driving", "armed and dangerous", "potentially dangerous"],
+    "synonyms": ["risky", "hazardous", "unsafe", "perilous"],
+    "family": [
+      { "word": "danger", "pos": "noun" },
+      { "word": "dangerously", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "dare",
+    "ipa": "/der/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "cesaret etmek, cüret etmek",
+        "def": "to be brave enough to do something",
+        "examples": ["Nobody dared to tell the boss about the mistake.", "I didn't dare look down from the top of the tower."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(birine bir şey yapması için) meydan okumak",
+        "def": "to challenge someone to do something dangerous or difficult",
+        "examples": ["His friends dared him to jump into the freezing lake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "meydan okuma, iddia",
+        "def": "a challenge to do something risky",
+        "examples": ["She ate the hot pepper on a dare."]
+      }
+    ],
+    "collocations": ["dare to do", "don't you dare", "how dare you", "I dare say", "on a dare", "truth or dare"],
+    "synonyms": ["venture", "risk", "challenge"],
+    "family": [
+      { "word": "daring", "pos": "adjective" },
+      { "word": "daredevil", "pos": "noun" }
+    ],
+    "note": "\"How dare you!\" expresses anger. \"Don't you dare!\" is a strong warning. \"Dare\" can be followed by an infinitive with or without \"to\"."
+  },
+  {
+    "word": "dark",
+    "ipa": "/dɑːrk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "karanlık",
+        "def": "with little or no light",
+        "examples": ["It gets dark around five o'clock in winter.", "The hallway was too dark to see anything."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(renk) koyu; (saç, ten) esmer",
+        "def": "close to black in color, or (of hair, eyes, skin) brown or black",
+        "examples": ["He wore a dark blue suit to the interview.", "She has dark hair and green eyes."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "karanlık, kasvetli, kötü",
+        "def": "sad, unpleasant, or evil",
+        "examples": ["The film has a much darker ending than the book."]
+      },
+      {
+        "pos": "noun",
+        "tr": "karanlık",
+        "def": "the lack of light, especially at night",
+        "examples": ["Many kids are afraid of the dark.", "Be home before dark."]
+      }
+    ],
+    "collocations": ["get dark", "after dark", "before dark", "in the dark", "dark side", "dark humor"],
+    "synonyms": ["dim", "black", "gloomy", "sinister", "night"],
+    "family": [
+      { "word": "darkness", "pos": "noun" },
+      { "word": "darken", "pos": "verb" },
+      { "word": "darkly", "pos": "adverb" }
+    ],
+    "note": "\"Keep someone in the dark\" = not tell them what is happening."
+  },
+  {
+    "word": "darkness",
+    "ipa": "/ˈdɑːrknəs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "karanlık",
+        "def": "the state of having no light",
+        "examples": ["The power went out and the whole street was plunged into darkness.", "We drove home in darkness after the concert."]
+      },
+      {
+        "pos": "noun",
+        "tr": "karanlık, kötülük, kasvet",
+        "def": "evil or sadness",
+        "examples": ["The novel explores the darkness inside ordinary people."]
+      }
+    ],
+    "collocations": ["total darkness", "in darkness", "under cover of darkness", "darkness falls", "plunged into darkness"],
+    "synonyms": ["dark", "blackness", "gloom", "shadow"],
+    "family": [{ "word": "dark", "pos": "adjective" }],
+    "note": "\"Under cover of darkness\" = hidden by the night."
+  },
+  {
+    "word": "data",
+    "ipa": "/ˈdeɪtə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "veri, bilgi",
+        "def": "facts or information, especially when collected and studied to learn something or make decisions",
+        "examples": ["The data shows a sharp rise in housing prices.", "Researchers collected data from over 10,000 patients."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bilgisayar, telefon) veri, internet paketi",
+        "def": "information stored or used by a computer, or mobile internet usage",
+        "examples": ["I've used up all my data for this month.", "Hackers stole personal data from millions of users."]
+      }
+    ],
+    "collocations": ["collect data", "analyze data", "personal data", "data protection", "big data", "data breach"],
+    "synonyms": ["information", "facts", "figures", "statistics"],
+    "family": [{ "word": "database", "pos": "noun" }],
+    "note": "In American English, \"data\" is usually treated as uncountable: \"the data is\". \"The data are\" is more formal/academic."
+  },
+  {
+    "word": "database",
+    "ipa": "/ˈdeɪtəbeɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "veri tabanı",
+        "def": "an organized collection of information stored on a computer that can be searched easily",
+        "examples": ["The police checked his fingerprints against a national database.", "All customer orders are stored in a central database."]
+      }
+    ],
+    "collocations": ["online database", "search a database", "national database", "database of", "update a database", "store in a database"],
+    "synonyms": ["data bank", "archive", "records"],
+    "family": [{ "word": "data", "pos": "noun" }]
+  },
+  {
+    "word": "date",
+    "ipa": "/deɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tarih",
+        "def": "a particular day of the month or year",
+        "examples": ["What's the date today?", "Please write the date at the top of the form."]
+      },
+      {
+        "pos": "noun",
+        "tr": "randevu, buluşma, flört",
+        "def": "a romantic meeting, or a person you go out with romantically",
+        "examples": ["They went on their first date to a little Italian restaurant.", "Who's your date for the wedding?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "çıkmak, flört etmek",
+        "def": "to have a romantic relationship with someone",
+        "examples": ["They dated for three years before getting married."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tarih atmak; (yaşını) tarihlendirmek; (from ile) -den kalma olmak",
+        "def": "to write the date on something, or to say or show how old something is",
+        "examples": ["The letter was dated May 3, 1945.", "This church dates from the 12th century."]
+      }
+    ],
+    "collocations": ["up to date", "out of date", "to date", "release date", "go on a date", "date back to", "save the date"],
+    "synonyms": ["day", "appointment", "go out with", "see"],
+    "family": [
+      { "word": "dated", "pos": "adjective" },
+      { "word": "outdated", "pos": "adjective" },
+      { "word": "update", "pos": "verb" }
+    ],
+    "note": "US date format is month/day/year: 3/5/2026 = March 5. \"Date\" is also the sweet fruit (hurma)."
+  },
+  {
+    "word": "daughter",
+    "ipa": "/ˈdɔːtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kız evlat, kızı",
+        "def": "a person's female child",
+        "examples": ["They have two sons and a daughter.", "My daughter just started kindergarten."]
+      }
+    ],
+    "collocations": ["only daughter", "eldest daughter", "youngest daughter", "teenage daughter", "daughter-in-law"],
+    "synonyms": ["girl", "child"],
+    "family": [{ "word": "granddaughter", "pos": "noun" }, { "word": "stepdaughter", "pos": "noun" }],
+    "note": "The \"gh\" is silent: /ˈdɔːtər/. A \"daughter-in-law\" is your son's wife (gelin)."
+  },
+  {
+    "word": "dawn",
+    "ipa": "/dɔːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şafak, tan, gün ağarması",
+        "def": "the time of day when light first appears",
+        "examples": ["We left at dawn to avoid the traffic.", "The fishermen work from dawn until dusk."]
+      },
+      {
+        "pos": "noun",
+        "tr": "başlangıç, doğuş",
+        "def": "the beginning of a period of time or of something new",
+        "examples": ["The invention of the printing press marked the dawn of a new age."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(on ile) birden anlamak, aklına gelmek",
+        "def": "if something dawns on you, you realize it for the first time",
+        "examples": ["It suddenly dawned on me that I had left my passport at home."]
+      }
+    ],
+    "collocations": ["at dawn", "dawn breaks", "from dawn to dusk", "the crack of dawn", "the dawn of", "dawn on someone"],
+    "synonyms": ["daybreak", "sunrise", "beginning", "start"],
+    "family": [],
+    "note": "\"It dawned on me\" = I suddenly realized. Opposite of dawn: dusk."
+  },
+  {
+    "word": "day",
+    "ipa": "/deɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gün",
+        "def": "a period of 24 hours",
+        "examples": ["The store is open seven days a week.", "I'll call you in a few days."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gündüz",
+        "def": "the time when it is light outside, between sunrise and sunset",
+        "examples": ["He works during the day and studies at night."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dönem, zaman",
+        "def": "a particular period in history or in someone's life",
+        "examples": ["In my grandfather's day, nobody had a phone at home.", "These days, almost everyone works online."]
+      }
+    ],
+    "collocations": ["these days", "the other day", "one day", "day off", "call it a day", "day by day"],
+    "synonyms": ["daytime", "period", "era", "time"],
+    "family": [
+      { "word": "daily", "pos": "adjective" },
+      { "word": "daylight", "pos": "noun" },
+      { "word": "daytime", "pos": "noun" },
+      { "word": "daydream", "pos": "verb" }
+    ],
+    "note": "\"Call it a day\" = stop working for now. \"The other day\" = a few days ago."
+  },
+  {
+    "word": "dead",
+    "ipa": "/ded/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ölü, ölmüş",
+        "def": "no longer alive",
+        "examples": ["Two people were found dead in the burned house.", "My grandparents have been dead for years."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(cihaz, pil) bitmiş, çalışmayan; (yer) ıssız, cansız",
+        "def": "not working because of no power, or very quiet with no activity",
+        "examples": ["My phone is dead; can I borrow your charger?", "This town is completely dead after 9 p.m."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "tamamen, kesinlikle, tam",
+        "def": "(informal) completely or exactly",
+        "examples": ["I'm dead serious about quitting my job.", "The hotel is dead ahead, at the end of the street."]
+      }
+    ],
+    "collocations": ["dead body", "dead end", "dead battery", "dead silence", "dead tired", "the dead"],
+    "synonyms": ["deceased", "lifeless", "flat", "completely"],
+    "family": [
+      { "word": "death", "pos": "noun" },
+      { "word": "die", "pos": "verb" },
+      { "word": "deadly", "pos": "adjective" },
+      { "word": "deaden", "pos": "verb" }
+    ],
+    "note": "\"Dead\" is the adjective, \"die\" the verb, \"death\" the noun. Don't say \"He is died\"; say \"He is dead\" or \"He died\"."
+  },
+  {
+    "word": "deadline",
+    "ipa": "/ˈdedlaɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "son tarih, son teslim tarihi",
+        "def": "a time or date by which something must be finished",
+        "examples": ["The deadline for applications is March 1.", "I'm working late tonight to meet a deadline."]
+      }
+    ],
+    "collocations": ["meet a deadline", "miss a deadline", "tight deadline", "extend the deadline", "set a deadline", "deadline for"],
+    "synonyms": ["due date", "time limit", "cutoff"],
+    "family": []
+  },
+  {
+    "word": "deadly",
+    "ipa": "/ˈdedli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ölümcül, öldürücü",
+        "def": "causing or likely to cause death",
+        "examples": ["It was the deadliest earthquake in the country's history.", "Some mushrooms in these woods are deadly."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "son derece, müthiş (ciddi); çok sıkıcı",
+        "def": "extremely serious or accurate, or (informal) very boring",
+        "examples": ["She's a deadly accurate shooter.", "He said it in deadly earnest."]
+      }
+    ],
+    "collocations": ["deadly disease", "deadly weapon", "deadly attack", "deadly serious", "deadly virus", "seven deadly sins"],
+    "synonyms": ["fatal", "lethal", "mortal", "dangerous"],
+    "family": [
+      { "word": "dead", "pos": "adjective" },
+      { "word": "death", "pos": "noun" }
+    ],
+    "note": "\"Deadly\" is an adjective despite the -ly ending. \"Fatal\" describes something that actually killed; \"deadly\" can mean able to kill."
+  },
+  {
+    "word": "deal",
+    "ipa": "/diːl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "anlaşma, iş, pazarlık",
+        "def": "an agreement, especially in business, about buying, selling, or doing something",
+        "examples": ["The two companies signed a $3 billion deal.", "I got a great deal on this laptop."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(a great deal) çok, epey",
+        "def": "a large amount",
+        "examples": ["She spends a great deal of time helping others."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(with ile) ilgilenmek, başa çıkmak, ele almak",
+        "def": "to take action to solve a problem or handle a situation or person",
+        "examples": ["The manager will deal with your complaint.", "I can't deal with this right now."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kâğıt) dağıtmak; (uyuşturucu) satmak",
+        "def": "to give out playing cards, or to buy and sell drugs or goods",
+        "examples": ["It's your turn to deal the cards.", "He was arrested for dealing drugs."]
+      }
+    ],
+    "collocations": ["make a deal", "a good deal", "a great deal of", "big deal", "deal with", "it's a deal"],
+    "synonyms": ["agreement", "arrangement", "bargain", "handle", "manage"],
+    "family": [
+      { "word": "dealer", "pos": "noun" },
+      { "word": "dealing", "pos": "noun" },
+      { "word": "dealings", "pos": "noun" }
+    ],
+    "note": "Irregular verb: deal – dealt – dealt. \"No big deal\" = not important."
+  },
+  {
+    "word": "dealer",
+    "ipa": "/ˈdiːlər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "satıcı, bayi, tüccar",
+        "def": "a person or business that buys and sells a particular product",
+        "examples": ["We bought the car from a dealer in New Jersey.", "She's an art dealer with a gallery in Chicago."]
+      },
+      {
+        "pos": "noun",
+        "tr": "torbacı, uyuşturucu satıcısı",
+        "def": "a person who sells illegal drugs",
+        "examples": ["Police arrested three drug dealers near the park."]
+      }
+    ],
+    "collocations": ["car dealer", "art dealer", "drug dealer", "antiques dealer", "authorized dealer", "arms dealer"],
+    "synonyms": ["trader", "seller", "merchant", "distributor"],
+    "family": [
+      { "word": "deal", "pos": "verb" },
+      { "word": "dealership", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "dear",
+    "ipa": "/dɪr/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "Sayın, Sevgili (mektup başında)",
+        "def": "used at the start of a letter or email before the person's name",
+        "examples": ["Dear Ms. Lopez, thank you for your application.", "She started the email with \"Dear team\"."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "değerli, sevgili, aziz",
+        "def": "loved by someone, or very important to them",
+        "examples": ["She's a dear friend of mine.", "This house is very dear to me."]
+      },
+      {
+        "pos": "exclamation",
+        "tr": "Eyvah! Hay Allah! Aman!",
+        "def": "used to show surprise, worry, or disappointment",
+        "examples": ["Oh dear, I've forgotten my wallet again.", "Dear me, look at the time!"]
+      },
+      {
+        "pos": "noun",
+        "tr": "canım, tatlım",
+        "def": "used to speak to someone you love or are being kind to",
+        "examples": ["Thank you, dear, that's very kind."]
+      }
+    ],
+    "collocations": ["Dear Sir or Madam", "dear friend", "dear to someone", "oh dear", "dear me", "hold something dear"],
+    "synonyms": ["beloved", "precious", "darling", "cherished"],
+    "family": [
+      { "word": "dearly", "pos": "adverb" },
+      { "word": "darling", "pos": "noun" }
+    ],
+    "note": "\"Pay dearly\" = suffer a lot because of a mistake. In British English, \"dear\" can mean expensive."
+  },
+  {
+    "word": "death",
+    "ipa": "/deθ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ölüm, vefat",
+        "def": "the end of someone's life, or the fact of dying",
+        "examples": ["The cause of death is still unknown.", "His father's death hit him very hard."]
+      },
+      {
+        "pos": "noun",
+        "tr": "son, bitiş, yok oluş",
+        "def": "the end of something",
+        "examples": ["Online shopping has meant the death of many small bookstores."]
+      }
+    ],
+    "collocations": ["cause of death", "death toll", "death penalty", "bored to death", "life and death", "sudden death"],
+    "synonyms": ["passing", "loss of life", "demise", "end"],
+    "family": [
+      { "word": "dead", "pos": "adjective" },
+      { "word": "die", "pos": "verb" },
+      { "word": "deadly", "pos": "adjective" },
+      { "word": "deathly", "pos": "adjective" }
+    ],
+    "note": "\"To death\" adds emphasis: bored to death, scared to death. \"Death toll\" = number of people killed."
+  },
+  {
+    "word": "debate",
+    "ipa": "/dɪˈbeɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tartışma, münazara",
+        "def": "a formal discussion in which people with different opinions argue, often followed by a vote",
+        "examples": ["The two candidates will face each other in a televised debate.", "There is a heated debate over gun control."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tartışmak, enine boyuna düşünmek",
+        "def": "to discuss something formally, or to think carefully before deciding",
+        "examples": ["Congress is debating a new immigration bill.", "I debated whether to call her or not."]
+      }
+    ],
+    "collocations": ["heated debate", "public debate", "open to debate", "presidential debate", "spark a debate", "debate whether"],
+    "synonyms": ["discussion", "argument", "dispute", "discuss", "consider"],
+    "family": [
+      { "word": "debatable", "pos": "adjective" },
+      { "word": "debater", "pos": "noun" }
+    ],
+    "note": "\"Debate\" is used without \"about\" as a verb: \"debate the issue\", not \"debate about the issue\"."
+  },
+  {
+    "word": "debris",
+    "ipa": "/dəˈbriː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "enkaz, moloz, döküntü",
+        "def": "broken pieces of something left after it has been destroyed",
+        "examples": ["Rescue workers searched through the debris after the earthquake.", "The storm left debris scattered across the highway."]
+      }
+    ],
+    "collocations": ["flying debris", "clear the debris", "space debris", "pile of debris", "covered in debris"],
+    "synonyms": ["rubble", "wreckage", "remains", "fragments", "waste"],
+    "family": [],
+    "note": "Pronounced /dəˈbriː/: the s is silent. Uncountable: \"a lot of debris\"."
+  },
+  {
+    "word": "debt",
+    "ipa": "/det/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "borç",
+        "def": "money that someone owes, or the state of owing money",
+        "examples": ["Many students graduate with huge debts.", "He's been in debt since he lost his job."]
+      },
+      {
+        "pos": "noun",
+        "tr": "minnet borcu",
+        "def": "a feeling that you should be grateful to someone for their help",
+        "examples": ["I owe you a debt of gratitude for all your support."]
+      }
+    ],
+    "collocations": ["in debt", "pay off a debt", "national debt", "credit card debt", "get into debt", "debt of gratitude"],
+    "synonyms": ["loan", "liability", "obligation", "arrears"],
+    "family": [
+      { "word": "debtor", "pos": "noun" },
+      { "word": "indebted", "pos": "adjective" }
+    ],
+    "note": "The b is silent: /det/. \"In debt\" = owing money."
+  }
+]

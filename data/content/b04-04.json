@@ -1,0 +1,1273 @@
+[
+  {
+    "word": "excitement",
+    "ipa": "/ɪkˈsaɪtmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "heyecan, coşku",
+        "def": "a feeling of great happiness and enthusiasm",
+        "examples": ["The children could hardly sleep with excitement on Christmas Eve.", "There's a lot of excitement about the new stadium."]
+      },
+      {
+        "pos": "noun",
+        "tr": "heyecan verici şey, macera",
+        "def": "something that causes this feeling",
+        "examples": ["After the excitement of the wedding, life felt quiet again."]
+      }
+    ],
+    "collocations": ["with excitement", "full of excitement", "a sense of excitement", "great excitement", "the excitement of", "cause excitement"],
+    "synonyms": ["thrill", "enthusiasm", "eagerness", "anticipation", "buzz"],
+    "family": [
+      { "word": "excite", "pos": "verb" },
+      { "word": "excited", "pos": "adjective" },
+      { "word": "exciting", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "exciting",
+    "ipa": "/ɪkˈsaɪtɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "heyecan verici, heyecanlı, ilgi çekici",
+        "def": "causing great interest, enthusiasm, or excitement",
+        "examples": ["It was the most exciting game of the season.", "Moving to a new city is scary but exciting."]
+      }
+    ],
+    "collocations": ["really exciting", "an exciting opportunity", "exciting news", "an exciting time", "exciting new", "nothing exciting"],
+    "synonyms": ["thrilling", "exhilarating", "gripping", "stimulating", "electrifying"],
+    "family": [
+      { "word": "excite", "pos": "verb" },
+      { "word": "excited", "pos": "adjective" },
+      { "word": "excitement", "pos": "noun" },
+      { "word": "excitingly", "pos": "adverb" }
+    ],
+    "note": "Exciting = causes the feeling (an exciting trip); excited = has the feeling (I'm excited)."
+  },
+  {
+    "word": "exclude",
+    "ipa": "/ɪkˈskluːd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dışlamak, hariç tutmak, katmamak",
+        "def": "to deliberately not include someone or something, or to keep someone out",
+        "examples": ["The price excludes taxes and delivery.", "She felt excluded when her friends planned the trip without her."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ihtimal) dışarıda bırakmak, göz ardı etmek",
+        "def": "to decide that something is not possible or not worth considering",
+        "examples": ["Police have not excluded the possibility of murder."]
+      }
+    ],
+    "collocations": ["exclude from", "exclude the possibility", "feel excluded", "socially excluded", "be excluded from the list"],
+    "synonyms": ["leave out", "omit", "keep out", "rule out", "bar"],
+    "family": [
+      { "word": "exclusion", "pos": "noun" },
+      { "word": "exclusive", "pos": "adjective" },
+      { "word": "excluding", "pos": "preposition" }
+    ],
+    "note": "Opposite: include. \"Excluding\" works as a preposition: $50 excluding tax."
+  },
+  {
+    "word": "exclusion",
+    "ipa": "/ɪkˈskluːʒn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dışlanma, dışarıda bırakma, hariç tutma",
+        "def": "the act of keeping someone or something out, or of not including it",
+        "examples": ["Many disabled people face exclusion from the job market.", "The policy lists several exclusions, such as flood damage."]
+      }
+    ],
+    "collocations": ["social exclusion", "exclusion from", "to the exclusion of", "exclusion zone", "exclusion clause"],
+    "synonyms": ["omission", "rejection", "ban", "exception", "elimination"],
+    "family": [
+      { "word": "exclude", "pos": "verb" },
+      { "word": "exclusive", "pos": "adjective" }
+    ],
+    "note": "\"To the exclusion of\" = so much that other things are ignored: He studied to the exclusion of everything else."
+  },
+  {
+    "word": "exclusive",
+    "ipa": "/ɪkˈskluːsɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "özel, sadece belli kişilere ait",
+        "def": "only for one particular person or group, not shared with others",
+        "examples": ["The hotel has an exclusive beach for guests.", "The network has exclusive rights to broadcast the games."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "seçkin, lüks, elit",
+        "def": "expensive and only for rich or high-status people",
+        "examples": ["They live in an exclusive neighborhood in the hills."]
+      },
+      {
+        "pos": "noun",
+        "tr": "özel haber",
+        "def": "a news story that only one newspaper or channel has",
+        "examples": ["The magazine ran an exclusive on the singer's divorce."]
+      }
+    ],
+    "collocations": ["exclusive rights", "exclusive interview", "exclusive club", "exclusive access", "mutually exclusive", "exclusive to"],
+    "synonyms": ["sole", "private", "restricted", "elite", "upscale"],
+    "family": [
+      { "word": "exclusively", "pos": "adverb" },
+      { "word": "exclusivity", "pos": "noun" },
+      { "word": "exclude", "pos": "verb" }
+    ],
+    "note": "\"Mutually exclusive\" = two things that cannot both be true or exist together."
+  },
+  {
+    "word": "exclusively",
+    "ipa": "/ɪkˈskluːsɪvli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yalnızca, sadece, münhasıran",
+        "def": "only, for one particular person, group, or purpose",
+        "examples": ["The new parking lot is exclusively for employees.", "The shoes are sold exclusively online."]
+      }
+    ],
+    "collocations": ["almost exclusively", "exclusively for", "exclusively online", "focus exclusively on", "rely exclusively on"],
+    "synonyms": ["only", "solely", "purely", "entirely", "just"],
+    "family": [
+      { "word": "exclusive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "excuse",
+    "ipa": "/ɪkˈskjuːs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bahane, mazeret",
+        "def": "a reason, true or invented, that you give to explain or defend your behavior",
+        "examples": ["He always has an excuse for being late.", "Being tired is no excuse for being rude."]
+      },
+      {
+        "pos": "verb",
+        "tr": "affetmek, mazur görmek",
+        "def": "to forgive someone for something small, such as being impolite",
+        "examples": ["Please excuse the mess; we just moved in.", "Excuse me, is this seat taken?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "muaf tutmak, izin vermek",
+        "def": "to allow someone not to do something they would normally have to do",
+        "examples": ["She was excused from gym class because of her injury."]
+      }
+    ],
+    "collocations": ["make an excuse", "no excuse for", "a good excuse", "a lame excuse", "excuse me", "be excused from"],
+    "synonyms": ["reason", "justification", "pretext", "forgive", "exempt"],
+    "family": [
+      { "word": "inexcusable", "pos": "adjective" },
+      { "word": "excusable", "pos": "adjective" }
+    ],
+    "note": "Pronunciation: noun /ɪkˈskjuːs/ (s sound), verb /ɪkˈskjuːz/ (z sound). \"Excuse me\" = before interrupting; \"sorry\" = after a mistake."
+  },
+  {
+    "word": "execute",
+    "ipa": "/ˈeksɪkjuːt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "idam etmek",
+        "def": "to kill someone, especially as a legal punishment",
+        "examples": ["The prisoner was executed for murder in 1998."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uygulamak, yerine getirmek, icra etmek",
+        "def": "to carry out a plan, order, or task, or to perform a skillful action",
+        "examples": ["The team executed the plan perfectly.", "The gymnast executed a difficult double flip."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bilgisayar) çalıştırmak",
+        "def": "to make a computer program or command run",
+        "examples": ["The program executes automatically when you start the computer."]
+      }
+    ],
+    "collocations": ["execute a plan", "execute an order", "be executed for", "execute a strategy", "executed by firing squad", "well executed"],
+    "synonyms": ["put to death", "carry out", "implement", "perform", "run"],
+    "family": [
+      { "word": "execution", "pos": "noun" },
+      { "word": "executive", "pos": "noun" },
+      { "word": "executioner", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "execution",
+    "ipa": "/ˌeksɪˈkjuːʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "idam",
+        "def": "the act of killing someone as a legal punishment",
+        "examples": ["Human rights groups protested the execution of the prisoners.", "The number of executions in the state has fallen."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uygulama, yürütme, icra",
+        "def": "the act of carrying out a plan or performing a task",
+        "examples": ["The idea was good, but the execution was poor."]
+      }
+    ],
+    "collocations": ["public execution", "stay of execution", "execution of a plan", "in the execution of", "flawless execution"],
+    "synonyms": ["capital punishment", "implementation", "performance", "accomplishment"],
+    "family": [
+      { "word": "execute", "pos": "verb" },
+      { "word": "executioner", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "executive",
+    "ipa": "/ɪɡˈzekjətɪv/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yönetici, idareci",
+        "def": "a person with an important management job in a company or organization",
+        "examples": ["She's a senior executive at a major bank.", "Top executives received huge bonuses despite the losses."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yönetimle ilgili, yürütme, idari",
+        "def": "connected with managing a business or making decisions",
+        "examples": ["He was promoted to an executive position last year.", "The president holds executive power."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yürütme (organı)",
+        "def": "the part of a government that carries out laws and decisions",
+        "examples": ["The executive and the legislature disagree on the budget."]
+      }
+    ],
+    "collocations": ["chief executive", "senior executive", "executive director", "executive order", "executive branch", "executive decision"],
+    "synonyms": ["manager", "director", "administrator", "official", "managerial"],
+    "family": [
+      { "word": "execute", "pos": "verb" },
+      { "word": "execution", "pos": "noun" }
+    ],
+    "note": "\"CEO\" = chief executive officer. In the US, \"the executive branch\" means the president and government departments."
+  },
+  {
+    "word": "exercise",
+    "ipa": "/ˈeksərsaɪz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "egzersiz, spor, idman",
+        "def": "physical activity that you do to stay healthy or become stronger",
+        "examples": ["Regular exercise reduces the risk of heart disease.", "I don't get enough exercise sitting at a desk all day."]
+      },
+      {
+        "pos": "noun",
+        "tr": "alıştırma; tatbikat",
+        "def": "a task or activity designed to practice a skill, or a military training operation",
+        "examples": ["Do exercises 1 to 5 on page 30 for homework.", "The navy is holding joint exercises with its allies."]
+      },
+      {
+        "pos": "verb",
+        "tr": "egzersiz yapmak, spor yapmak",
+        "def": "to do physical activity to stay healthy or strong",
+        "examples": ["She exercises at the gym three times a week."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(hak, yetki) kullanmak",
+        "def": "to use a power, right, or quality (formal)",
+        "examples": ["Every citizen should exercise their right to vote."]
+      }
+    ],
+    "collocations": ["get exercise", "do exercise", "regular exercise", "exercise bike", "exercise caution", "exercise a right"],
+    "synonyms": ["workout", "training", "activity", "drill", "work out"],
+    "family": [
+      { "word": "exerciser", "pos": "noun" }
+    ],
+    "note": "Uncountable for general activity (get some exercise); countable for specific movements (stretching exercises)."
+  },
+  {
+    "word": "exert",
+    "ipa": "/ɪɡˈzɜːrt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(güç, etki, baskı) uygulamak, kullanmak",
+        "def": "to use power, influence, or pressure to affect someone or something",
+        "examples": ["The oil industry exerts a lot of influence on lawmakers.", "Rising prices are exerting pressure on families."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kendini zorlamak, çaba göstermek",
+        "def": "to make a strong physical or mental effort (exert yourself)",
+        "examples": ["Don't exert yourself too much in the first week after surgery."]
+      }
+    ],
+    "collocations": ["exert influence", "exert pressure", "exert control", "exert force", "exert yourself", "exert an effect"],
+    "synonyms": ["apply", "use", "wield", "employ", "strain"],
+    "family": [
+      { "word": "exertion", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "exhibit",
+    "ipa": "/ɪɡˈzɪbɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sergilemek",
+        "def": "to show something in a public place such as a museum or gallery",
+        "examples": ["Her photographs are being exhibited at a gallery in Chicago."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(belirti, özellik) göstermek, sergilemek",
+        "def": "to show a particular quality, feeling, or sign (formal)",
+        "examples": ["The patient exhibited signs of severe stress."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sergilenen eser; sergi; (mahkemede) delil",
+        "def": "an object shown in a museum, an exhibition, or an object shown as evidence in court",
+        "examples": ["The dinosaur skeleton is the museum's most popular exhibit.", "The prosecutor showed the jury the knife, Exhibit A."]
+      }
+    ],
+    "collocations": ["exhibit signs of", "exhibit work", "on exhibit", "museum exhibit", "an exhibit of", "Exhibit A"],
+    "synonyms": ["display", "show", "present", "demonstrate", "exhibition"],
+    "family": [
+      { "word": "exhibition", "pos": "noun" },
+      { "word": "exhibitor", "pos": "noun" }
+    ],
+    "note": "In American English \"exhibit\" (noun) is often used for a whole show, where British English prefers \"exhibition\"."
+  },
+  {
+    "word": "exhibition",
+    "ipa": "/ˌeksɪˈbɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sergi, fuar",
+        "def": "a public show of art, objects, or products",
+        "examples": ["We went to an exhibition of Impressionist paintings.", "The exhibition runs until the end of March."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gösteri, (beceri) sergileme",
+        "def": "an act of showing a skill or quality, or a game played just for show",
+        "examples": ["The team played an exhibition game before the season started."]
+      }
+    ],
+    "collocations": ["art exhibition", "on exhibition", "hold an exhibition", "exhibition center", "exhibition game", "a major exhibition"],
+    "synonyms": ["show", "exhibit", "display", "exposition", "fair"],
+    "family": [
+      { "word": "exhibit", "pos": "verb" },
+      { "word": "exhibitor", "pos": "noun" }
+    ],
+    "note": "\"Make an exhibition of yourself\" = to behave foolishly in public."
+  },
+  {
+    "word": "exile",
+    "ipa": "/ˈeksaɪl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sürgün",
+        "def": "the state of being forced to live outside your own country, especially for political reasons",
+        "examples": ["The former president has lived in exile since the coup.", "The poet spent twenty years in exile in Paris."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sürgün (kişi)",
+        "def": "a person who has been forced to leave their country",
+        "examples": ["Many political exiles settled in Miami."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sürgüne göndermek, sürmek",
+        "def": "to force someone to leave their country",
+        "examples": ["The king was exiled after the revolution."]
+      }
+    ],
+    "collocations": ["in exile", "go into exile", "live in exile", "send into exile", "political exile", "self-imposed exile"],
+    "synonyms": ["banishment", "expulsion", "refugee", "expatriate", "banish"],
+    "family": [
+      { "word": "exiled", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "exist",
+    "ipa": "/ɪɡˈzɪst/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "var olmak, mevcut olmak, bulunmak",
+        "def": "to be real or present in a place or situation",
+        "examples": ["Do you think life exists on other planets?", "The company no longer exists."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(zar zor) yaşamak, hayatta kalmak",
+        "def": "to stay alive, especially with very little food or money",
+        "examples": ["The refugees existed on rice and water for weeks."]
+      }
+    ],
+    "collocations": ["no longer exists", "continue to exist", "cease to exist", "exist in", "already exist", "exist on"],
+    "synonyms": ["be", "live", "survive", "occur", "be present"],
+    "family": [
+      { "word": "existence", "pos": "noun" },
+      { "word": "existing", "pos": "adjective" },
+      { "word": "existent", "pos": "adjective" },
+      { "word": "nonexistent", "pos": "adjective" }
+    ],
+    "note": "Not used in the continuous form for basic existence: NOT \"Ghosts are existing\"."
+  },
+  {
+    "word": "existence",
+    "ipa": "/ɪɡˈzɪstəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "varlık, var olma, mevcudiyet",
+        "def": "the state or fact of being real, alive, or present",
+        "examples": ["Scientists question the existence of the creature.", "It's the oldest restaurant in existence in the city."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yaşam, hayat (tarzı)",
+        "def": "a way of living, especially a difficult or boring one",
+        "examples": ["They led a lonely existence on a remote farm."]
+      }
+    ],
+    "collocations": ["in existence", "come into existence", "the existence of", "daily existence", "threat to existence", "a miserable existence"],
+    "synonyms": ["being", "life", "presence", "survival", "reality"],
+    "family": [
+      { "word": "exist", "pos": "verb" },
+      { "word": "existential", "pos": "adjective" },
+      { "word": "existing", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "exit",
+    "ipa": "/ˈeksɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çıkış, çıkış kapısı",
+        "def": "a door or way out of a building, vehicle, or highway",
+        "examples": ["Please use the emergency exit at the back.", "Take exit 12 for the airport."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çıkış, ayrılma",
+        "def": "the act of leaving a place or a situation",
+        "examples": ["The country's exit from the trade deal surprised investors."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çıkmak, terk etmek; (programdan) çıkmak",
+        "def": "to leave a place, or to close a computer program",
+        "examples": ["Exit the highway at Main Street.", "Save your work before you exit the program."]
+      }
+    ],
+    "collocations": ["emergency exit", "fire exit", "exit strategy", "make an exit", "exit the building", "take the exit"],
+    "synonyms": ["way out", "door", "departure", "leave", "withdrawal"],
+    "family": [],
+    "note": "Opposite: entrance. Highway exits in the US are numbered: \"Take exit 47\"."
+  },
+  {
+    "word": "exotic",
+    "ipa": "/ɪɡˈzɑːtɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "egzotik, yabancı, uzak diyarlardan gelen",
+        "def": "from or connected with a distant, often tropical country, and seeming unusual and exciting",
+        "examples": ["The market sells exotic fruits like mangosteen and durian.", "They spent their honeymoon on an exotic island."]
+      }
+    ],
+    "collocations": ["exotic fruit", "exotic location", "exotic animals", "exotic plants", "exotic dancer", "exotic species"],
+    "synonyms": ["foreign", "unusual", "tropical", "striking", "unfamiliar"],
+    "family": [
+      { "word": "exotically", "pos": "adverb" },
+      { "word": "exoticism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "expand",
+    "ipa": "/ɪkˈspænd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "genişlemek, büyümek; genişletmek, büyütmek",
+        "def": "to become larger in size, number, or importance, or to make something do this",
+        "examples": ["The company plans to expand into Asian markets.", "Metal expands when it is heated."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(konuyu) açmak, ayrıntılandırmak",
+        "def": "to give more details about something you have said (expand on)",
+        "examples": ["Could you expand on what you said about the budget?"]
+      }
+    ],
+    "collocations": ["expand rapidly", "expand into", "expand the business", "expand on", "expand access", "rapidly expanding"],
+    "synonyms": ["grow", "increase", "enlarge", "extend", "widen"],
+    "family": [
+      { "word": "expansion", "pos": "noun" },
+      { "word": "expansive", "pos": "adjective" },
+      { "word": "expanse", "pos": "noun" }
+    ],
+    "note": "Opposite: contract, shrink."
+  },
+  {
+    "word": "expansion",
+    "ipa": "/ɪkˈspænʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "genişleme, büyüme, yayılma",
+        "def": "an increase in the size, amount, or importance of something",
+        "examples": ["The airport's expansion will create 2,000 jobs.", "The economy is in a period of rapid expansion."]
+      }
+    ],
+    "collocations": ["rapid expansion", "economic expansion", "expansion plans", "expansion into", "room for expansion", "territorial expansion"],
+    "synonyms": ["growth", "increase", "enlargement", "development", "extension"],
+    "family": [
+      { "word": "expand", "pos": "verb" },
+      { "word": "expansive", "pos": "adjective" },
+      { "word": "expansionist", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "expect",
+    "ipa": "/ɪkˈspekt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "beklemek, ummak",
+        "def": "to think or believe that something will happen",
+        "examples": ["We expect the package to arrive on Monday.", "I didn't expect so many people to come."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(birinden bir şey) beklemek",
+        "def": "to think that someone should do something because it is their duty",
+        "examples": ["Employees are expected to arrive by 9 a.m.", "Don't expect me to clean up after you."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bebek) beklemek, hamile olmak",
+        "def": "to be pregnant (be expecting)",
+        "examples": ["My sister is expecting her second baby in May."]
+      }
+    ],
+    "collocations": ["expect someone to do something", "as expected", "be expected to", "expect a baby", "widely expected", "I expect so"],
+    "synonyms": ["anticipate", "predict", "await", "require", "count on"],
+    "family": [
+      { "word": "expectation", "pos": "noun" },
+      { "word": "expected", "pos": "adjective" },
+      { "word": "unexpected", "pos": "adjective" },
+      { "word": "expectant", "pos": "adjective" }
+    ],
+    "note": "Turkish trap: \"beklemek\" = both \"wait\" and \"expect\". Wait = spend time until something happens; expect = believe it will happen."
+  },
+  {
+    "word": "expectation",
+    "ipa": "/ˌekspekˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "beklenti",
+        "def": "a belief that something will happen, or a hope about what something will be like",
+        "examples": ["Sales this year have exceeded all expectations.", "The movie didn't live up to my expectations."]
+      }
+    ],
+    "collocations": ["high expectations", "live up to expectations", "meet expectations", "exceed expectations", "contrary to expectations", "unrealistic expectations"],
+    "synonyms": ["anticipation", "hope", "assumption", "prediction", "belief"],
+    "family": [
+      { "word": "expect", "pos": "verb" },
+      { "word": "expected", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "expected",
+    "ipa": "/ɪkˈspektɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "beklenen, tahmin edilen",
+        "def": "that you think will happen or arrive",
+        "examples": ["The expected arrival time is 6:45 p.m.", "Turnout was lower than expected."]
+      }
+    ],
+    "collocations": ["than expected", "as expected", "expected to", "the expected outcome", "life expectancy"],
+    "synonyms": ["anticipated", "predicted", "forecast", "likely"],
+    "family": [
+      { "word": "expect", "pos": "verb" },
+      { "word": "unexpected", "pos": "adjective" },
+      { "word": "expectation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "expedition",
+    "ipa": "/ˌekspəˈdɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "keşif gezisi, sefer",
+        "def": "an organized journey with a purpose, especially to explore a little-known place",
+        "examples": ["The team set off on an expedition to the South Pole.", "Scientists joined an expedition to study the Amazon rainforest."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kısa) gezi, alışveriş turu",
+        "def": "a short trip for a particular purpose, such as shopping (often humorous)",
+        "examples": ["We went on a shopping expedition to the outlet mall."]
+      }
+    ],
+    "collocations": ["go on an expedition", "lead an expedition", "scientific expedition", "fishing expedition", "Arctic expedition"],
+    "synonyms": ["journey", "voyage", "trip", "mission", "trek"],
+    "family": [],
+    "note": "\"A fishing expedition\" can also mean a search for information without a clear reason."
+  },
+  {
+    "word": "expenditure",
+    "ipa": "/ɪkˈspendɪtʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "harcama, gider",
+        "def": "the amount of money that a government, company, or person spends",
+        "examples": ["Government expenditure on health has doubled in ten years.", "We need to reduce our monthly expenditure."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(enerji, zaman) harcama, sarf",
+        "def": "the use of energy, time, or effort",
+        "examples": ["Running burns more calories than any other energy expenditure."]
+      }
+    ],
+    "collocations": ["public expenditure", "government expenditure", "capital expenditure", "expenditure on", "reduce expenditure", "energy expenditure"],
+    "synonyms": ["spending", "expense", "outlay", "cost", "costs"],
+    "family": [
+      { "word": "expend", "pos": "verb" },
+      { "word": "expense", "pos": "noun" }
+    ],
+    "note": "Formal; common in economics and official reports. In everyday speech use \"spending\"."
+  },
+  {
+    "word": "expense",
+    "ipa": "/ɪkˈspens/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "masraf, gider, harcama",
+        "def": "the money you spend on something, or something that costs money",
+        "examples": ["A car is a big expense for a student.", "They spared no expense on the wedding."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(iş) masrafları, harcırah",
+        "def": "money you spend while working, which your employer pays back (expenses)",
+        "examples": ["The company covers all travel expenses."]
+      }
+    ],
+    "collocations": ["at the expense of", "at your own expense", "travel expenses", "living expenses", "spare no expense", "medical expenses"],
+    "synonyms": ["cost", "expenditure", "charge", "outlay", "price"],
+    "family": [
+      { "word": "expensive", "pos": "adjective" },
+      { "word": "expenditure", "pos": "noun" },
+      { "word": "inexpensive", "pos": "adjective" }
+    ],
+    "note": "\"At the expense of\" = causing harm to: He got rich at the expense of his workers. \"A joke at my expense\" = making fun of me."
+  },
+  {
+    "word": "expensive",
+    "ipa": "/ɪkˈspensɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "pahalı",
+        "def": "costing a lot of money",
+        "examples": ["Rent is very expensive in San Francisco.", "It was an expensive mistake that cost the company millions."]
+      }
+    ],
+    "collocations": ["very expensive", "too expensive", "an expensive hobby", "expensive to run", "prohibitively expensive"],
+    "synonyms": ["costly", "pricey", "high-priced", "overpriced", "dear"],
+    "family": [
+      { "word": "expense", "pos": "noun" },
+      { "word": "expensively", "pos": "adverb" },
+      { "word": "inexpensive", "pos": "adjective" }
+    ],
+    "note": "Prices are \"high\", not \"expensive\": The price is high / The car is expensive."
+  },
+  {
+    "word": "experience",
+    "ipa": "/ɪkˈspɪriəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "deneyim, tecrübe",
+        "def": "knowledge and skill you get from doing something over a period of time",
+        "examples": ["The job requires at least five years of experience.", "In my experience, people work better when they feel trusted."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yaşantı, deneyim, başa gelen olay",
+        "def": "something that happens to you and affects how you feel",
+        "examples": ["Going skydiving was an amazing experience."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yaşamak, deneyimlemek, karşılaşmak",
+        "def": "to have something happen to you, or to feel something",
+        "examples": ["Many patients experience pain after the operation.", "The region is experiencing its worst drought in decades."]
+      }
+    ],
+    "collocations": ["work experience", "in my experience", "gain experience", "learn from experience", "a positive experience", "experience difficulties"],
+    "synonyms": ["expertise", "know-how", "event", "undergo", "go through"],
+    "family": [
+      { "word": "experienced", "pos": "adjective" },
+      { "word": "inexperienced", "pos": "adjective" },
+      { "word": "experiential", "pos": "adjective" }
+    ],
+    "note": "Uncountable for skill (much experience); countable for events (some strange experiences)."
+  },
+  {
+    "word": "experienced",
+    "ipa": "/ɪkˈspɪriənst/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "deneyimli, tecrübeli",
+        "def": "having knowledge or skill from doing something for a long time",
+        "examples": ["We need an experienced nurse for the night shift.", "She's an experienced hiker who has climbed many mountains."]
+      }
+    ],
+    "collocations": ["highly experienced", "experienced in", "experienced staff", "less experienced", "an experienced teacher"],
+    "synonyms": ["skilled", "seasoned", "expert", "knowledgeable", "veteran"],
+    "family": [
+      { "word": "experience", "pos": "noun" },
+      { "word": "inexperienced", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "experiment",
+    "ipa": "/ɪkˈsperɪmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "deney",
+        "def": "a scientific test done to discover something or to check a theory",
+        "examples": ["We did an experiment to see how plants react to music.", "Experiments on animals are banned for cosmetics in the EU."]
+      },
+      {
+        "pos": "noun",
+        "tr": "deneme, tecrübe",
+        "def": "a new activity or method tried to see what happens",
+        "examples": ["The four-day work week began as an experiment."]
+      },
+      {
+        "pos": "verb",
+        "tr": "deney yapmak; denemek, denemeler yapmak",
+        "def": "to do scientific tests, or to try new ideas or methods",
+        "examples": ["The chef likes to experiment with unusual spices.", "Researchers experimented on mice to test the drug."]
+      }
+    ],
+    "collocations": ["conduct an experiment", "carry out an experiment", "do an experiment", "experiment with", "experiment on", "a social experiment"],
+    "synonyms": ["test", "trial", "investigation", "try out", "test out"],
+    "family": [
+      { "word": "experimental", "pos": "adjective" },
+      { "word": "experimentation", "pos": "noun" },
+      { "word": "experimentally", "pos": "adverb" }
+    ],
+    "note": "Turkish trap: \"deney yapmak\" = do/conduct an experiment (NOT make an experiment)."
+  },
+  {
+    "word": "experimental",
+    "ipa": "/ɪkˌsperɪˈmentl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "deneysel, deneme aşamasında",
+        "def": "based on new ideas or methods that are being tested",
+        "examples": ["The drug is still experimental and not yet approved.", "The band is known for its experimental music."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "deneysel (bilimsel)",
+        "def": "connected with scientific experiments",
+        "examples": ["The theory needs more experimental evidence."]
+      }
+    ],
+    "collocations": ["experimental drug", "experimental stage", "experimental data", "experimental design", "experimental music", "highly experimental"],
+    "synonyms": ["trial", "test", "pilot", "innovative", "exploratory"],
+    "family": [
+      { "word": "experiment", "pos": "noun" },
+      { "word": "experimentally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "expert",
+    "ipa": "/ˈekspɜːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "uzman",
+        "def": "a person with special knowledge, skill, or training in something",
+        "examples": ["Experts say the virus could spread quickly in winter.", "She's an expert on Middle Eastern history."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "uzman, usta, uzmanlık gerektiren",
+        "def": "having or showing great knowledge or skill",
+        "examples": ["You should get expert advice before investing.", "He's an expert skier."]
+      }
+    ],
+    "collocations": ["an expert on", "an expert in", "expert advice", "leading expert", "expert witness", "medical experts"],
+    "synonyms": ["specialist", "authority", "professional", "skilled", "master"],
+    "family": [
+      { "word": "expertise", "pos": "noun" },
+      { "word": "expertly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "expertise",
+    "ipa": "/ˌekspɜːrˈtiːz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "uzmanlık, uzmanlık bilgisi",
+        "def": "expert knowledge or skill in a particular subject or job",
+        "examples": ["We need someone with expertise in cybersecurity.", "The project relied on the expertise of local engineers."]
+      }
+    ],
+    "collocations": ["technical expertise", "expertise in", "area of expertise", "lack the expertise", "professional expertise", "share expertise"],
+    "synonyms": ["skill", "knowledge", "know-how", "proficiency", "competence"],
+    "family": [
+      { "word": "expert", "pos": "noun" }
+    ],
+    "note": "Uncountable. Stress on the last syllable. Turkish \"ekspertiz\" (car inspection) is a false friend."
+  },
+  {
+    "word": "expire",
+    "ipa": "/ɪkˈspaɪər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "süresi dolmak, geçerliliğini yitirmek",
+        "def": "to stop being valid because the time it can be used has ended",
+        "examples": ["My passport expires next month.", "The offer expires at midnight on Friday."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ölmek, son nefesini vermek",
+        "def": "to die (formal or literary)",
+        "examples": ["The old man expired peacefully in his sleep."]
+      }
+    ],
+    "collocations": ["expire on", "the contract expires", "the license expires", "be due to expire", "expired milk"],
+    "synonyms": ["run out", "end", "lapse", "terminate", "die"],
+    "family": [
+      { "word": "expiration", "pos": "noun" },
+      { "word": "expired", "pos": "adjective" },
+      { "word": "expiry", "pos": "noun" }
+    ],
+    "note": "American: \"expiration date\" (son kullanma tarihi); British: \"expiry date\"."
+  },
+  {
+    "word": "explain",
+    "ipa": "/ɪkˈspleɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "açıklamak, anlatmak",
+        "def": "to tell someone about something clearly so that it is easy to understand",
+        "examples": ["Can you explain how this machine works?", "The teacher explained the rules to the new students."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(nedenini) açıklamak, izah etmek",
+        "def": "to give a reason for something",
+        "examples": ["He couldn't explain why he was late.", "That explains the strange smell in the kitchen."]
+      }
+    ],
+    "collocations": ["explain something to someone", "explain why", "explain how", "difficult to explain", "explain yourself", "explain away"],
+    "synonyms": ["describe", "clarify", "account for", "make clear", "spell out"],
+    "family": [
+      { "word": "explanation", "pos": "noun" },
+      { "word": "explanatory", "pos": "adjective" },
+      { "word": "unexplained", "pos": "adjective" }
+    ],
+    "note": "Turkish trap: explain something TO someone (NOT \"explain me\"). Correct: Explain it to me."
+  },
+  {
+    "word": "explanation",
+    "ipa": "/ˌekspləˈneɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "açıklama, izah",
+        "def": "a statement or fact that makes something clear or gives a reason for it",
+        "examples": ["There must be a logical explanation for the noise.", "She left without any explanation."]
+      }
+    ],
+    "collocations": ["give an explanation", "a possible explanation", "a simple explanation", "offer an explanation", "without explanation", "explanation for"],
+    "synonyms": ["reason", "account", "justification", "clarification", "description"],
+    "family": [
+      { "word": "explain", "pos": "verb" },
+      { "word": "explanatory", "pos": "adjective" }
+    ],
+    "note": "Spelling: explAnation (no i after the a)."
+  },
+  {
+    "word": "explicit",
+    "ipa": "/ɪkˈsplɪsɪt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "açık, net, açıkça belirtilmiş",
+        "def": "clear and direct, leaving no doubt about what is meant",
+        "examples": ["The instructions were very explicit about what not to do.", "He gave explicit permission for us to use his car."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(cinsellik, şiddet) müstehcen, açık",
+        "def": "showing or describing sex or violence very openly",
+        "examples": ["The movie contains explicit scenes and is rated R."]
+      }
+    ],
+    "collocations": ["explicit instructions", "explicit permission", "make something explicit", "sexually explicit", "explicit content", "explicit reference"],
+    "synonyms": ["clear", "direct", "precise", "specific", "graphic"],
+    "family": [
+      { "word": "explicitly", "pos": "adverb" }
+    ],
+    "note": "Opposite: implicit (dolaylı, örtük)."
+  },
+  {
+    "word": "explicitly",
+    "ipa": "/ɪkˈsplɪsɪtli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "açıkça, net bir şekilde",
+        "def": "in a clear and direct way, so the meaning is easy to understand",
+        "examples": ["The contract explicitly states that pets are not allowed.", "I explicitly told you not to touch my laptop."]
+      }
+    ],
+    "collocations": ["explicitly state", "explicitly mention", "explicitly forbid", "explicitly designed", "not explicitly"],
+    "synonyms": ["clearly", "directly", "specifically", "expressly", "plainly"],
+    "family": [
+      { "word": "explicit", "pos": "adjective" }
+    ],
+    "note": "Opposite: implicitly."
+  },
+  {
+    "word": "explode",
+    "ipa": "/ɪkˈspləʊd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "patlamak; patlatmak",
+        "def": "to burst loudly and violently, or to make something do this",
+        "examples": ["A bomb exploded near the train station.", "The car exploded into flames after the crash."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(öfkeyle) patlamak, parlamak",
+        "def": "to suddenly express a strong emotion, especially anger",
+        "examples": ["When he heard the news, he exploded with rage."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hızla artmak, patlama yapmak",
+        "def": "to increase suddenly and very quickly",
+        "examples": ["The city's population exploded in the 1990s."]
+      }
+    ],
+    "collocations": ["a bomb exploded", "explode with anger", "explode into", "explode in popularity", "about to explode"],
+    "synonyms": ["blow up", "burst", "detonate", "erupt", "skyrocket"],
+    "family": [
+      { "word": "explosion", "pos": "noun" },
+      { "word": "explosive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "exploit",
+    "ipa": "/ɪkˈsplɔɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sömürmek, istismar etmek",
+        "def": "to treat someone unfairly in order to gain an advantage, especially money",
+        "examples": ["The factory exploited workers by paying them almost nothing.", "Scammers exploit people's fear to steal their money."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yararlanmak, değerlendirmek, işletmek",
+        "def": "to use something fully to get an advantage or benefit",
+        "examples": ["The team exploited every weakness in the other side's defense.", "The region has rich mineral resources that have not been exploited."]
+      },
+      {
+        "pos": "noun",
+        "tr": "maceralı/cesur iş, başarı",
+        "def": "a brave, exciting, or unusual act (usually plural)",
+        "examples": ["He loved telling stories about his wartime exploits."]
+      }
+    ],
+    "collocations": ["exploit workers", "exploit a weakness", "exploit resources", "exploit an opportunity", "exploit a loophole", "be exploited by"],
+    "synonyms": ["take advantage of", "abuse", "use", "capitalize on", "misuse"],
+    "family": [
+      { "word": "exploitation", "pos": "noun" },
+      { "word": "exploitative", "pos": "adjective" }
+    ],
+    "note": "Noun is stressed on the first syllable: /ˈeksplɔɪt/."
+  },
+  {
+    "word": "exploitation",
+    "ipa": "/ˌeksplɔɪˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sömürü, istismar",
+        "def": "unfair treatment of people, especially using their work to make money",
+        "examples": ["The report exposed the exploitation of migrant workers.", "Child labor is a form of exploitation."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kaynak) işletme, kullanma",
+        "def": "the use of natural resources or other things for profit",
+        "examples": ["The exploitation of the forest led to serious environmental damage."]
+      }
+    ],
+    "collocations": ["sexual exploitation", "labor exploitation", "exploitation of workers", "commercial exploitation", "exploitation of resources"],
+    "synonyms": ["abuse", "misuse", "oppression", "use", "utilization"],
+    "family": [
+      { "word": "exploit", "pos": "verb" },
+      { "word": "exploitative", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "exploration",
+    "ipa": "/ˌekspləˈreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "keşif, araştırma",
+        "def": "the act of traveling through a place to learn about it or search for something",
+        "examples": ["Space exploration is expensive but important.", "The company has stopped oil exploration in the Arctic."]
+      },
+      {
+        "pos": "noun",
+        "tr": "inceleme, irdeleme",
+        "def": "a careful study or discussion of a subject or idea",
+        "examples": ["The book is a deep exploration of grief and loss."]
+      }
+    ],
+    "collocations": ["space exploration", "oil exploration", "voyage of exploration", "exploration of", "further exploration"],
+    "synonyms": ["discovery", "expedition", "investigation", "research", "examination"],
+    "family": [
+      { "word": "explore", "pos": "verb" },
+      { "word": "explorer", "pos": "noun" },
+      { "word": "exploratory", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "explore",
+    "ipa": "/ɪkˈsplɔːr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "keşfetmek, gezip görmek",
+        "def": "to travel around a place to learn about it",
+        "examples": ["We spent the afternoon exploring the old town.", "The kids loved exploring the caves."]
+      },
+      {
+        "pos": "verb",
+        "tr": "araştırmak, incelemek, ele almak",
+        "def": "to think about or examine a subject or possibility carefully",
+        "examples": ["The company is exploring ways to cut costs.", "The film explores themes of loyalty and betrayal."]
+      }
+    ],
+    "collocations": ["explore the city", "explore options", "explore possibilities", "explore ways to", "explore the idea", "explore further"],
+    "synonyms": ["travel", "tour", "investigate", "examine", "look into"],
+    "family": [
+      { "word": "exploration", "pos": "noun" },
+      { "word": "explorer", "pos": "noun" },
+      { "word": "exploratory", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "explosion",
+    "ipa": "/ɪkˈspləʊʒn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "patlama",
+        "def": "a sudden violent burst with a loud noise, as from a bomb",
+        "examples": ["The explosion could be heard ten miles away.", "Three people were hurt in a gas explosion."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(ani ve büyük) artış, patlama",
+        "def": "a sudden large increase in something",
+        "examples": ["There's been an explosion in the number of food delivery apps."]
+      }
+    ],
+    "collocations": ["gas explosion", "a huge explosion", "cause an explosion", "population explosion", "an explosion of", "nuclear explosion"],
+    "synonyms": ["blast", "bang", "detonation", "boom", "surge"],
+    "family": [
+      { "word": "explode", "pos": "verb" },
+      { "word": "explosive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "explosive",
+    "ipa": "/ɪkˈspləʊsɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "patlayıcı, patlamaya hazır",
+        "def": "able or likely to explode",
+        "examples": ["Police found an explosive device under the car."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "gergin, patlamaya hazır, hassas",
+        "def": "likely to cause anger or violence; increasing very fast",
+        "examples": ["Race relations remain an explosive issue in the city.", "The company has seen explosive growth this year."]
+      },
+      {
+        "pos": "noun",
+        "tr": "patlayıcı (madde)",
+        "def": "a substance that can cause an explosion",
+        "examples": ["The truck was packed with explosives."]
+      }
+    ],
+    "collocations": ["explosive device", "high explosives", "explosive growth", "explosive situation", "explosive temper", "plastic explosives"],
+    "synonyms": ["volatile", "unstable", "tense", "dangerous", "bomb"],
+    "family": [
+      { "word": "explode", "pos": "verb" },
+      { "word": "explosion", "pos": "noun" },
+      { "word": "explosively", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "export",
+    "ipa": "/ˈekspɔːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ihracat; ihraç ürünü",
+        "def": "the business of selling goods to other countries, or a product that is sold abroad",
+        "examples": ["Coffee is the country's main export.", "Exports to China fell by 10 percent last year."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ihraç etmek",
+        "def": "to sell and send goods to another country",
+        "examples": ["Turkey exports textiles to many European countries."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(veri, dosya) dışa aktarmak",
+        "def": "to move computer data into a different file or program",
+        "examples": ["You can export the spreadsheet as a PDF."]
+      }
+    ],
+    "collocations": ["export goods", "export market", "main export", "export ban", "boost exports", "export to"],
+    "synonyms": ["sell abroad", "ship", "send", "trade"],
+    "family": [
+      { "word": "exporter", "pos": "noun" },
+      { "word": "exportation", "pos": "noun" }
+    ],
+    "note": "Stress: noun /ˈekspɔːrt/, verb usually /ɪkˈspɔːrt/. Opposite: import."
+  },
+  {
+    "word": "expose",
+    "ipa": "/ɪkˈspəʊz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "açığa çıkarmak, ortaya çıkarmak, ifşa etmek",
+        "def": "to show something that is usually hidden, or to reveal the truth about someone",
+        "examples": ["The journalist exposed corruption in the city government.", "The low tide exposed the rocks."]
+      },
+      {
+        "pos": "verb",
+        "tr": "maruz bırakmak, (tehlikeye) açık bırakmak",
+        "def": "to put someone in a situation where they are not protected from something harmful",
+        "examples": ["Workers were exposed to dangerous chemicals.", "Children should be exposed to different cultures."]
+      }
+    ],
+    "collocations": ["be exposed to", "expose corruption", "expose the truth", "expose someone as", "exposed to risk", "expose a weakness"],
+    "synonyms": ["reveal", "uncover", "disclose", "subject to", "lay bare"],
+    "family": [
+      { "word": "exposure", "pos": "noun" },
+      { "word": "exposed", "pos": "adjective" }
+    ],
+    "note": "\"Exposé\" /ˌekspəʊˈzeɪ/ (noun) = a news story revealing a scandal."
+  },
+  {
+    "word": "exposure",
+    "ipa": "/ɪkˈspəʊʒər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "maruz kalma",
+        "def": "the state of being in a situation with no protection from something harmful",
+        "examples": ["Long exposure to the sun can cause skin cancer.", "The climbers died of exposure on the mountain."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ifşa, açığa çıkarma",
+        "def": "the act of making public something bad that was hidden",
+        "examples": ["The exposure of the scandal forced the CEO to resign."]
+      },
+      {
+        "pos": "noun",
+        "tr": "medyada görünürlük, tanınırlık",
+        "def": "attention from the media and the public",
+        "examples": ["The festival gives young bands a lot of exposure."]
+      }
+    ],
+    "collocations": ["exposure to", "sun exposure", "die of exposure", "media exposure", "prolonged exposure", "limit exposure"],
+    "synonyms": ["contact", "vulnerability", "revelation", "publicity", "disclosure"],
+    "family": [
+      { "word": "expose", "pos": "verb" },
+      { "word": "exposed", "pos": "adjective" }
+    ],
+    "note": "\"Die of exposure\" = to die from extreme cold or bad weather."
+  },
+  {
+    "word": "express",
+    "ipa": "/ɪkˈspres/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ifade etmek, dile getirmek",
+        "def": "to show a feeling, opinion, or idea through words, looks, or actions",
+        "examples": ["Many residents expressed concern about the new highway.", "Kids often express their feelings through drawing."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ekspres, hızlı",
+        "def": "traveling or being sent very quickly",
+        "examples": ["Take the express train; it only stops twice."]
+      }
+    ],
+    "collocations": ["express concern", "express an opinion", "express gratitude", "express yourself", "express interest", "express delivery"],
+    "synonyms": ["state", "voice", "convey", "communicate", "articulate"],
+    "family": [
+      { "word": "expression", "pos": "noun" },
+      { "word": "expressive", "pos": "adjective" },
+      { "word": "expressly", "pos": "adverb" }
+    ],
+    "note": "\"Express yourself\" = to communicate your thoughts or feelings. \"Expressly\" (formal) = clearly or for a specific purpose."
+  }
+]

@@ -1,0 +1,1292 @@
+[
+  {
+    "word": "cattle",
+    "ipa": "/ˈkætl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sığır, büyükbaş hayvan",
+        "def": "cows and bulls kept on a farm for milk or meat",
+        "examples": ["The farmer raises cattle on two thousand acres in Texas.", "Hundreds of cattle died during the drought."]
+      }
+    ],
+    "collocations": ["herd of cattle", "beef cattle", "dairy cattle", "cattle ranch", "raise cattle"],
+    "synonyms": ["cows", "livestock", "herd"],
+    "family": [],
+    "note": "Always plural: \"The cattle are grazing\". You can't say \"a cattle\"; say \"a cow\" or \"ten head of cattle\"."
+  },
+  {
+    "word": "cause",
+    "ipa": "/kɔːz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sebep, neden",
+        "def": "the person or thing that makes something happen",
+        "examples": ["Investigators are still trying to find the cause of the fire.", "Heart disease is the leading cause of death in the US."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dava, amaç, uğruna mücadele edilen şey",
+        "def": "an aim or idea that people support or fight for",
+        "examples": ["The concert raised money for a good cause."]
+      },
+      {
+        "pos": "verb",
+        "tr": "neden olmak, yol açmak",
+        "def": "to make something happen, especially something bad",
+        "examples": ["The storm caused serious damage to the coast.", "I'm sorry for causing you so much trouble."]
+      }
+    ],
+    "collocations": ["the cause of", "root cause", "a good cause", "cause damage", "cause problems", "cause for concern"],
+    "synonyms": ["reason", "source", "origin", "bring about", "lead to"],
+    "family": [
+      { "word": "causal", "pos": "adjective" },
+      { "word": "causation", "pos": "noun" }
+    ],
+    "note": "\"Cause for\" means reason for a feeling: There is no cause for alarm. Pattern: cause someone to do something."
+  },
+  {
+    "word": "caution",
+    "ipa": "/ˈkɔːʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dikkat, ihtiyat, temkin",
+        "def": "great care taken to avoid danger or mistakes",
+        "examples": ["Drivers should use caution on icy roads.", "Investors are treating the new market with caution."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uyarmak, ikaz etmek",
+        "def": "to warn someone about a possible danger or problem",
+        "examples": ["Doctors caution against taking these pills with alcohol."]
+      }
+    ],
+    "collocations": ["with caution", "exercise caution", "proceed with caution", "a word of caution", "err on the side of caution", "caution against"],
+    "synonyms": ["care", "carefulness", "prudence", "warn"],
+    "family": [
+      { "word": "cautious", "pos": "adjective" },
+      { "word": "cautionary", "pos": "adjective" }
+    ],
+    "note": "\"Err on the side of caution\" means choose the safer option. A \"cautionary tale\" is a story that warns."
+  },
+  {
+    "word": "cautious",
+    "ipa": "/ˈkɔːʃəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "temkinli, ihtiyatlı, dikkatli",
+        "def": "careful to avoid risks or mistakes",
+        "examples": ["Banks have become more cautious about lending money.", "She's cautious about sharing personal information online."]
+      }
+    ],
+    "collocations": ["cautious about", "cautious approach", "cautiously optimistic", "overly cautious", "remain cautious"],
+    "synonyms": ["careful", "wary", "prudent", "guarded"],
+    "family": [
+      { "word": "cautiously", "pos": "adverb" },
+      { "word": "caution", "pos": "noun" }
+    ],
+    "note": "\"Cautiously optimistic\" is common in news: hopeful but careful."
+  },
+  {
+    "word": "cave",
+    "ipa": "/keɪv/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mağara",
+        "def": "a large natural hole in the side of a hill or under the ground",
+        "examples": ["The hikers took shelter from the storm in a cave.", "Ancient paintings were found on the cave walls."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(baskıya) boyun eğmek, pes etmek",
+        "def": "to finally agree to something after resisting (cave in)",
+        "examples": ["The company caved in to the workers' demands."]
+      }
+    ],
+    "collocations": ["cave painting", "cave entrance", "cave in", "underwater cave"],
+    "synonyms": ["cavern", "grotto", "give in", "yield"],
+    "family": [{ "word": "caveman", "pos": "noun" }],
+    "note": "\"Cave in\" also means a roof or wall falling down inward."
+  },
+  {
+    "word": "CD",
+    "ipa": "/ˌsiː ˈdiː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "CD, kompakt disk",
+        "def": "a small disc on which music or data is recorded",
+        "examples": ["My dad still listens to his old CDs in the car.", "The software used to come on a CD."]
+      }
+    ],
+    "collocations": ["CD player", "burn a CD", "on CD", "CD collection"],
+    "synonyms": ["disc", "compact disc"],
+    "family": [],
+    "note": "Short for \"compact disc\". Mostly replaced by streaming today."
+  },
+  {
+    "word": "cease",
+    "ipa": "/siːs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "durmak, sona ermek; durdurmak",
+        "def": "to stop happening or existing, or to stop doing something",
+        "examples": ["The factory ceased production in 2019.", "Her kindness never ceases to amaze me."]
+      }
+    ],
+    "collocations": ["cease to exist", "cease operations", "never cease to amaze", "cease fire", "cease and desist"],
+    "synonyms": ["stop", "end", "halt", "discontinue"],
+    "family": [
+      { "word": "ceasefire", "pos": "noun" },
+      { "word": "ceaseless", "pos": "adjective" },
+      { "word": "incessant", "pos": "adjective" }
+    ],
+    "note": "Formal. In everyday speech, say \"stop\". A \"ceasefire\" is an agreement to stop fighting (ateşkes)."
+  },
+  {
+    "word": "ceiling",
+    "ipa": "/ˈsiːlɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tavan",
+        "def": "the inside surface at the top of a room",
+        "examples": ["The apartment has high ceilings and big windows.", "There's a crack in the bathroom ceiling."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(üst) sınır, tavan",
+        "def": "an upper limit on prices, wages, or amounts",
+        "examples": ["Congress voted to raise the debt ceiling."]
+      }
+    ],
+    "collocations": ["high ceiling", "ceiling fan", "debt ceiling", "glass ceiling", "hit the ceiling"],
+    "synonyms": ["limit", "cap", "maximum"],
+    "family": [],
+    "note": "The \"glass ceiling\" is an invisible barrier stopping women or minorities from reaching top jobs."
+  },
+  {
+    "word": "celebrate",
+    "ipa": "/ˈselɪbreɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kutlamak",
+        "def": "to do something enjoyable because of a special day or event",
+        "examples": ["We went out to dinner to celebrate our anniversary.", "Fans celebrated in the streets after the final."]
+      },
+      {
+        "pos": "verb",
+        "tr": "övmek, onurlandırmak",
+        "def": "to praise someone or something publicly",
+        "examples": ["The festival celebrates the city's immigrant communities."]
+      }
+    ],
+    "collocations": ["celebrate a birthday", "celebrate success", "celebrate an anniversary", "cause to celebrate", "widely celebrated"],
+    "synonyms": ["commemorate", "mark", "honor", "praise"],
+    "family": [
+      { "word": "celebration", "pos": "noun" },
+      { "word": "celebrated", "pos": "adjective" },
+      { "word": "celebratory", "pos": "adjective" }
+    ],
+    "note": "You celebrate an event, not a person: \"celebrate her birthday\". To speak to the person, say \"congratulate\"."
+  },
+  {
+    "word": "celebration",
+    "ipa": "/ˌselɪˈbreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kutlama",
+        "def": "a party or special event organized to celebrate something",
+        "examples": ["The New Year's celebrations went on until morning.", "Her promotion calls for a celebration!"]
+      }
+    ],
+    "collocations": ["in celebration of", "birthday celebration", "cause for celebration", "calls for a celebration", "hold a celebration"],
+    "synonyms": ["party", "festivity", "festival"],
+    "family": [
+      { "word": "celebrate", "pos": "verb" },
+      { "word": "celebratory", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "celebrity",
+    "ipa": "/səˈlebrəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ünlü, meşhur kişi",
+        "def": "a famous person, especially in entertainment",
+        "examples": ["The restaurant is popular with Hollywood celebrities.", "She became an overnight celebrity after her video went viral."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şöhret, ün",
+        "def": "the state of being famous",
+        "examples": ["He struggled to deal with his sudden celebrity."]
+      }
+    ],
+    "collocations": ["celebrity chef", "A-list celebrity", "celebrity culture", "celebrity status", "become a celebrity"],
+    "synonyms": ["star", "famous person", "fame"],
+    "family": [{ "word": "celeb", "pos": "noun" }],
+    "note": "\"Celeb\" is an informal short form."
+  },
+  {
+    "word": "cell",
+    "ipa": "/sel/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hücre",
+        "def": "the smallest unit of a living thing",
+        "examples": ["The human body contains trillions of cells.", "Cancer cells grow and divide very quickly."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(hapishane) hücre, koğuş",
+        "def": "a small room where a prisoner is kept",
+        "examples": ["He spent the night in a police cell."]
+      },
+      {
+        "pos": "noun",
+        "tr": "cep telefonu",
+        "def": "(American, informal) a cell phone",
+        "examples": ["Call me on my cell if you're running late."]
+      }
+    ],
+    "collocations": ["blood cells", "brain cells", "stem cells", "prison cell", "cell phone"],
+    "synonyms": ["unit", "compartment", "mobile"],
+    "family": [
+      { "word": "cellular", "pos": "adjective" },
+      { "word": "cellphone", "pos": "noun" }
+    ],
+    "note": "Americans say \"cell phone\" or \"cell\"; British speakers say \"mobile\"."
+  },
+  {
+    "word": "cemetery",
+    "ipa": "/ˈseməteri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mezarlık",
+        "def": "an area of land where dead people are buried",
+        "examples": ["Her grandparents are buried in the cemetery outside town.", "We walked through an old military cemetery."]
+      }
+    ],
+    "collocations": ["national cemetery", "military cemetery", "buried in a cemetery", "cemetery plot"],
+    "synonyms": ["graveyard", "burial ground"],
+    "family": [],
+    "note": "A \"graveyard\" is often next to a church; a \"cemetery\" usually is not. Spelling: -tery, not -tary."
+  },
+  {
+    "word": "cent",
+    "ipa": "/sent/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sent",
+        "def": "a coin or unit of money worth one hundredth of a dollar or euro",
+        "examples": ["The candy costs ninety-nine cents.", "Gas prices went up ten cents a gallon this week."]
+      }
+    ],
+    "collocations": ["fifty cents", "per cent", "every cent", "not a cent", "put in your two cents"],
+    "synonyms": ["penny"],
+    "family": [{ "word": "percent", "pos": "noun" }],
+    "note": "Americans call a one-cent coin a \"penny\". \"My two cents\" means my opinion. Percent is one word in American English."
+  },
+  {
+    "word": "center",
+    "ipa": "/ˈsentər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "merkez, orta",
+        "def": "the middle point or part of something",
+        "examples": ["Place the vase in the center of the table.", "Our hotel is right in the center of the city."]
+      },
+      {
+        "pos": "noun",
+        "tr": "merkez (bina, kurum)",
+        "def": "a building or place used for a particular activity",
+        "examples": ["The new community center offers free classes."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir şey etrafında) odaklanmak, yoğunlaşmak",
+        "def": "to have something as the main subject or focus (center on/around)",
+        "examples": ["The debate centered on the rising cost of housing."]
+      }
+    ],
+    "collocations": ["in the center of", "city center", "shopping center", "center of attention", "center on"],
+    "synonyms": ["middle", "core", "heart", "hub", "focus on"],
+    "family": [
+      { "word": "central", "pos": "adjective" },
+      { "word": "centralize", "pos": "verb" },
+      { "word": "centered", "pos": "adjective" }
+    ],
+    "note": "American spelling: center. British spelling: centre. Use \"center on\", not \"center about\"."
+  },
+  {
+    "word": "central",
+    "ipa": "/ˈsentrəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "merkezi, orta",
+        "def": "in or near the middle of a place or object",
+        "examples": ["They live in a central part of the city, close to everything.", "Snow is expected across central Europe."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ana, temel, en önemli",
+        "def": "most important or main",
+        "examples": ["Education is central to the president's plan."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "merkezi (yönetim)",
+        "def": "controlled from one main place",
+        "examples": ["The central bank raised interest rates again."]
+      }
+    ],
+    "collocations": ["central role", "central to", "central bank", "central government", "central heating", "central location"],
+    "synonyms": ["middle", "main", "key", "core"],
+    "family": [
+      { "word": "center", "pos": "noun" },
+      { "word": "centrally", "pos": "adverb" },
+      { "word": "centralize", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "century",
+    "ipa": "/ˈsentʃəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yüzyıl, asır",
+        "def": "a period of one hundred years",
+        "examples": ["The church was built in the twelfth century.", "Life has changed enormously over the last century."]
+      }
+    ],
+    "collocations": ["the 21st century", "turn of the century", "centuries ago", "half a century", "for centuries"],
+    "synonyms": ["hundred years"],
+    "family": [{ "word": "centennial", "pos": "noun" }],
+    "note": "The 1900s are \"the twentieth century\". \"Turn of the century\" means the years around 1900 or 2000."
+  },
+  {
+    "word": "ceremony",
+    "ipa": "/ˈserəməʊni/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tören",
+        "def": "a formal public or religious event with traditional actions",
+        "examples": ["The wedding ceremony took place in a small chapel.", "The awards ceremony will be broadcast live."]
+      },
+      {
+        "pos": "noun",
+        "tr": "resmiyet, teklif",
+        "def": "formal behavior on special occasions",
+        "examples": ["The new president was sworn in without much ceremony."]
+      }
+    ],
+    "collocations": ["wedding ceremony", "opening ceremony", "awards ceremony", "graduation ceremony", "hold a ceremony"],
+    "synonyms": ["ritual", "service", "rite", "formality"],
+    "family": [
+      { "word": "ceremonial", "pos": "adjective" },
+      { "word": "ceremonious", "pos": "adjective" }
+    ],
+    "note": "\"Without ceremony\" means quickly, with no fuss."
+  },
+  {
+    "word": "certain",
+    "ipa": "/ˈsɜːrtn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "emin",
+        "def": "completely sure about something",
+        "examples": ["I'm certain I locked the door before we left.", "Are you certain this is the right address?"]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kesin, kaçınılmaz",
+        "def": "sure to happen or be true",
+        "examples": ["Without a cure, the disease leads to certain death.", "It's almost certain that prices will rise."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "belli, bazı",
+        "def": "used to refer to particular people or things without naming them",
+        "examples": ["Certain foods can trigger migraines."]
+      }
+    ],
+    "collocations": ["make certain", "for certain", "a certain amount", "to a certain extent", "certain that"],
+    "synonyms": ["sure", "positive", "definite", "particular"],
+    "family": [
+      { "word": "certainly", "pos": "adverb" },
+      { "word": "certainty", "pos": "noun" },
+      { "word": "uncertain", "pos": "adjective" },
+      { "word": "uncertainty", "pos": "noun" }
+    ],
+    "note": "\"To a certain extent\" means partly. \"A certain\" before a name means you don't know them: a certain Mr. Jones."
+  },
+  {
+    "word": "certainly",
+    "ipa": "/ˈsɜːrtnli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kesinlikle, şüphesiz",
+        "def": "without any doubt",
+        "examples": ["The new design is certainly an improvement.", "He certainly knows how to tell a good story."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "elbette, tabii ki",
+        "def": "used to agree or give permission politely",
+        "examples": ["\"Could you help me with this?\" \"Certainly.\""]
+      }
+    ],
+    "collocations": ["almost certainly", "certainly not", "most certainly", "it certainly is"],
+    "synonyms": ["definitely", "surely", "of course", "undoubtedly"],
+    "family": [
+      { "word": "certain", "pos": "adjective" },
+      { "word": "certainty", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "certainty",
+    "ipa": "/ˈsɜːrtnti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kesinlik, eminlik",
+        "def": "the state of being completely sure",
+        "examples": ["Nobody can say with any certainty what will happen next year.", "Scientists know with near certainty that the climate is warming."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kesin olan şey",
+        "def": "something that is sure to happen",
+        "examples": ["Victory was a certainty after the first half."]
+      }
+    ],
+    "collocations": ["with certainty", "absolute certainty", "a degree of certainty", "lack of certainty", "near certainty"],
+    "synonyms": ["confidence", "sureness", "conviction", "inevitability"],
+    "family": [
+      { "word": "certain", "pos": "adjective" },
+      { "word": "uncertainty", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "certificate",
+    "ipa": "/sərˈtɪfɪkət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "belge, sertifika, ruhsat",
+        "def": "an official document that proves certain facts are true",
+        "examples": ["You'll need your birth certificate to apply for a passport.", "Everyone who finishes the course gets a certificate."]
+      }
+    ],
+    "collocations": ["birth certificate", "death certificate", "marriage certificate", "gift certificate", "certificate of completion"],
+    "synonyms": ["document", "diploma", "license", "credential"],
+    "family": [
+      { "word": "certify", "pos": "verb" },
+      { "word": "certification", "pos": "noun" },
+      { "word": "certified", "pos": "adjective" }
+    ],
+    "note": "A \"gift certificate\" (American) is a voucher you give as a present."
+  },
+  {
+    "word": "chain",
+    "ipa": "/tʃeɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "zincir",
+        "def": "a series of metal rings joined together, used for fastening or pulling",
+        "examples": ["She wore a gold chain around her neck.", "Lock your bike to the rack with a chain."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(mağaza, otel) zincir",
+        "def": "a group of stores, hotels, or restaurants owned by one company",
+        "examples": ["The coffee chain plans to open 200 new stores."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zincirleme olay, silsile",
+        "def": "a series of connected events or things",
+        "examples": ["The accident set off a chain of events that nobody expected."]
+      },
+      {
+        "pos": "verb",
+        "tr": "zincirlemek, zincirle bağlamak",
+        "def": "to fasten someone or something with a chain",
+        "examples": ["Protesters chained themselves to the gates."]
+      }
+    ],
+    "collocations": ["supply chain", "chain of events", "restaurant chain", "chain reaction", "food chain"],
+    "synonyms": ["series", "sequence", "string", "link", "tie"],
+    "family": [],
+    "note": "A \"chain reaction\" is a series of events where each causes the next."
+  },
+  {
+    "word": "chair",
+    "ipa": "/tʃer/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sandalye",
+        "def": "a seat for one person, with a back and usually four legs",
+        "examples": ["Pull up a chair and join us.", "This office chair hurts my back."]
+      },
+      {
+        "pos": "noun",
+        "tr": "başkan (toplantı, komite)",
+        "def": "the person in charge of a meeting or committee",
+        "examples": ["She was elected chair of the board last year."]
+      },
+      {
+        "pos": "verb",
+        "tr": "başkanlık etmek, yönetmek",
+        "def": "to be in charge of a meeting or committee",
+        "examples": ["The senator chairs the committee on energy."]
+      }
+    ],
+    "collocations": ["sit on a chair", "office chair", "chair a meeting", "chair of the board", "pull up a chair"],
+    "synonyms": ["seat", "chairperson", "head", "preside over"],
+    "family": [
+      { "word": "chairman", "pos": "noun" },
+      { "word": "chairperson", "pos": "noun" },
+      { "word": "armchair", "pos": "noun" }
+    ],
+    "note": "\"Sit on a chair\" but \"sit in an armchair\". \"Chair\" is a gender-neutral title for chairman."
+  },
+  {
+    "word": "chairman",
+    "ipa": "/ˈtʃermən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "başkan, (yönetim kurulu) başkanı",
+        "def": "the person who leads a meeting, committee, or company board",
+        "examples": ["The chairman opened the meeting at nine o'clock.", "He stepped down as chairman after twenty years."]
+      }
+    ],
+    "collocations": ["chairman of the board", "vice chairman", "deputy chairman", "elected chairman", "committee chairman"],
+    "synonyms": ["chair", "chairperson", "president", "head"],
+    "family": [
+      { "word": "chair", "pos": "noun" },
+      { "word": "chairwoman", "pos": "noun" },
+      { "word": "chairmanship", "pos": "noun" }
+    ],
+    "note": "Many organizations now prefer the neutral \"chair\" or \"chairperson\". Plural: chairmen."
+  },
+  {
+    "word": "challenge",
+    "ipa": "/ˈtʃælɪndʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "zorluk, meydan okuma, sınav",
+        "def": "a difficult task that tests someone's ability",
+        "examples": ["Climate change is one of the biggest challenges we face.", "Running a marathon was a real challenge for me."]
+      },
+      {
+        "pos": "verb",
+        "tr": "itiraz etmek, sorgulamak, karşı çıkmak",
+        "def": "to question whether something is right, true, or legal",
+        "examples": ["The company plans to challenge the decision in court.", "Good teachers challenge students to think for themselves."]
+      },
+      {
+        "pos": "verb",
+        "tr": "meydan okumak",
+        "def": "to invite someone to compete or fight",
+        "examples": ["He challenged his brother to a game of chess."]
+      }
+    ],
+    "collocations": ["face a challenge", "meet a challenge", "rise to the challenge", "major challenge", "legal challenge", "challenge a decision"],
+    "synonyms": ["difficulty", "test", "question", "dispute", "dare"],
+    "family": [
+      { "word": "challenging", "pos": "adjective" },
+      { "word": "challenger", "pos": "noun" },
+      { "word": "challenged", "pos": "adjective" }
+    ],
+    "note": "In English, \"challenge\" often has a positive feel: a test you can grow from."
+  },
+  {
+    "word": "challenging",
+    "ipa": "/ˈtʃælɪndʒɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "zorlayıcı, zor ama ilgi çekici",
+        "def": "difficult in a way that tests your ability, often in an interesting way",
+        "examples": ["Teaching teenagers is challenging but rewarding.", "The past year has been very challenging for small businesses."]
+      }
+    ],
+    "collocations": ["challenging task", "challenging times", "highly challenging", "challenging environment", "find something challenging"],
+    "synonyms": ["difficult", "demanding", "tough", "testing"],
+    "family": [
+      { "word": "challenge", "pos": "noun" },
+      { "word": "challenger", "pos": "noun" }
+    ],
+    "note": "Often used as a polite word for \"difficult\" in work and business contexts."
+  },
+  {
+    "word": "chamber",
+    "ipa": "/ˈtʃeɪmbər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "meclis salonu; (parlamento) meclis",
+        "def": "a hall used for formal meetings, or one of the parts of a parliament",
+        "examples": ["The senators returned to the chamber for the final vote.", "The bill must pass both chambers of Congress."]
+      },
+      {
+        "pos": "noun",
+        "tr": "oda, bölme, hazne",
+        "def": "an enclosed space in a body, machine, or building",
+        "examples": ["The heart has four chambers."]
+      }
+    ],
+    "collocations": ["Senate chamber", "chamber of commerce", "chamber music", "gas chamber", "upper chamber"],
+    "synonyms": ["hall", "house", "room", "compartment"],
+    "family": [{ "word": "chambermaid", "pos": "noun" }],
+    "note": "A \"chamber of commerce\" (ticaret odası) is a group of local businesses."
+  },
+  {
+    "word": "champion",
+    "ipa": "/ˈtʃæmpiən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şampiyon",
+        "def": "a person or team that has won a competition",
+        "examples": ["She is the current world champion in the 100 meters.", "The defending champions lost in the first round."]
+      },
+      {
+        "pos": "noun",
+        "tr": "savunucu, destekçi",
+        "def": "someone who publicly fights for a cause or group",
+        "examples": ["He was a lifelong champion of workers' rights."]
+      },
+      {
+        "pos": "verb",
+        "tr": "savunmak, desteklemek",
+        "def": "to publicly support or fight for a cause",
+        "examples": ["The senator has championed clean energy for years."]
+      }
+    ],
+    "collocations": ["world champion", "defending champion", "reigning champion", "national champion", "champion of"],
+    "synonyms": ["winner", "victor", "advocate", "supporter"],
+    "family": [{ "word": "championship", "pos": "noun" }]
+  },
+  {
+    "word": "championship",
+    "ipa": "/ˈtʃæmpiənʃɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şampiyona",
+        "def": "a competition to find the best player or team in a sport",
+        "examples": ["The team is competing in the national championship this weekend.", "She won her first world championship at nineteen."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şampiyonluk",
+        "def": "the position of being a champion",
+        "examples": ["They held the championship for three years in a row."]
+      }
+    ],
+    "collocations": ["win a championship", "world championship", "championship game", "championship title"],
+    "synonyms": ["tournament", "competition", "title"],
+    "family": [{ "word": "champion", "pos": "noun" }]
+  },
+  {
+    "word": "chance",
+    "ipa": "/tʃæns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "olasılık, ihtimal, şans",
+        "def": "the possibility that something will happen",
+        "examples": ["There's a good chance it will rain tomorrow.", "What are the chances of winning the lottery?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "fırsat",
+        "def": "an opportunity to do something",
+        "examples": ["I never got a chance to thank her.", "This is your last chance to apply."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tesadüf, rastlantı",
+        "def": "the way things happen without being planned",
+        "examples": ["We met by chance at a friend's party."]
+      }
+    ],
+    "collocations": ["a good chance", "get a chance", "by chance", "take a chance", "no chance", "chances are"],
+    "synonyms": ["possibility", "likelihood", "opportunity", "luck"],
+    "family": [{ "word": "chancy", "pos": "adjective" }],
+    "note": "Turkish \"şans\" often means luck; English \"chance\" means possibility or opportunity. For luck, say \"luck\": Good luck!"
+  },
+  {
+    "word": "change",
+    "ipa": "/tʃeɪndʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "değişmek, değiştirmek",
+        "def": "to become different, or to make something different",
+        "examples": ["The town has changed a lot since I was a kid.", "She changed her mind at the last minute."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kıyafet, otobüs vb.) değiştirmek, aktarma yapmak",
+        "def": "to replace one thing with another, such as clothes or trains",
+        "examples": ["I need to change trains in Philadelphia.", "Give me a minute to change out of my work clothes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "değişiklik, değişim",
+        "def": "the act or result of something becoming different",
+        "examples": ["The new manager made a lot of changes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bozuk para; para üstü",
+        "def": "coins, or the money you get back when you pay more than the price",
+        "examples": ["Keep the change.", "Do you have change for a twenty?"]
+      }
+    ],
+    "collocations": ["change your mind", "make a change", "climate change", "for a change", "keep the change", "change trains"],
+    "synonyms": ["alter", "modify", "transform", "shift"],
+    "family": [
+      { "word": "changeable", "pos": "adjective" },
+      { "word": "unchanged", "pos": "adjective" },
+      { "word": "changing", "pos": "adjective" }
+    ],
+    "note": "\"For a change\" means doing something different from usual: Let's eat out for a change."
+  },
+  {
+    "word": "channel",
+    "ipa": "/ˈtʃænl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(TV) kanal",
+        "def": "a television station or an online video account",
+        "examples": ["What channel is the game on?", "She started a cooking channel on YouTube."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kanal, yol, araç (iletişim)",
+        "def": "a way of communicating or sending information or goods",
+        "examples": ["Complaints should go through the proper channels."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kanal, boğaz (su yolu)",
+        "def": "a passage of water connecting two seas, or a narrow route for water",
+        "examples": ["Ships crossed the English Channel at night."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yönlendirmek, aktarmak",
+        "def": "to direct money, energy, or ideas toward a particular purpose",
+        "examples": ["He channeled his anger into his music."]
+      }
+    ],
+    "collocations": ["TV channel", "change the channel", "news channel", "through the proper channels", "channel your energy"],
+    "synonyms": ["station", "route", "means", "passage", "direct"],
+    "family": [],
+    "note": "American spelling: channeled, channeling (British: channelled). A man-made waterway is a \"canal\", not a channel."
+  },
+  {
+    "word": "chaos",
+    "ipa": "/ˈkeɪɑːs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kaos, karmaşa, kargaşa",
+        "def": "a state of complete confusion and lack of order",
+        "examples": ["The snowstorm caused chaos on the roads.", "The kitchen was in total chaos after the party."]
+      }
+    ],
+    "collocations": ["total chaos", "cause chaos", "in chaos", "descend into chaos", "economic chaos"],
+    "synonyms": ["disorder", "confusion", "mayhem", "turmoil"],
+    "family": [
+      { "word": "chaotic", "pos": "adjective" },
+      { "word": "chaotically", "pos": "adverb" }
+    ],
+    "note": "Pronounced /ˈkeɪɑːs/ (KAY-oss). Uncountable: \"a lot of chaos\", not \"a chaos\"."
+  },
+  {
+    "word": "chapter",
+    "ipa": "/ˈtʃæptər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bölüm (kitap)",
+        "def": "one of the main sections of a book, usually with a number or title",
+        "examples": ["Read the first three chapters before next class.", "The final chapter reveals who the killer is."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dönem, sayfa (hayat, tarih)",
+        "def": "a period of time in someone's life or in history",
+        "examples": ["Moving abroad opened a new chapter in her life."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(dernek) şube",
+        "def": "(American) a local branch of a club or organization",
+        "examples": ["She runs the Boston chapter of the charity."]
+      }
+    ],
+    "collocations": ["first chapter", "new chapter", "chapter in history", "close a chapter", "chapter and verse"],
+    "synonyms": ["section", "part", "period", "phase"],
+    "family": [],
+    "note": "\"Chapter 11\" (American) is a type of bankruptcy that lets a company keep operating."
+  },
+  {
+    "word": "character",
+    "ipa": "/ˈkærəktər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "karakter (kitap, film)",
+        "def": "a person or animal in a book, play, or movie",
+        "examples": ["The main character is a detective in 1920s Chicago.", "Which character did you like most?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "kişilik, karakter, mizaç",
+        "def": "all the qualities that make up a person's personality, especially moral qualities",
+        "examples": ["Losing with dignity shows real strength of character."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yer) karakter, özellik",
+        "def": "the special qualities that make a place or thing different from others",
+        "examples": ["The old houses give the neighborhood its character."]
+      },
+      {
+        "pos": "noun",
+        "tr": "harf, karakter (yazı)",
+        "def": "a letter, number, or symbol used in writing",
+        "examples": ["Passwords must be at least eight characters long."]
+      }
+    ],
+    "collocations": ["main character", "strength of character", "character trait", "out of character", "in character"],
+    "synonyms": ["personality", "nature", "role", "figure", "symbol"],
+    "family": [
+      { "word": "characteristic", "pos": "noun" },
+      { "word": "characterize", "pos": "verb" },
+      { "word": "characterization", "pos": "noun" }
+    ],
+    "note": "\"Out of character\" means unusual for that person: It was out of character for him to shout."
+  },
+  {
+    "word": "characteristic",
+    "ipa": "/ˌkærəktəˈrɪstɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "özellik, nitelik",
+        "def": "a typical quality or feature of someone or something",
+        "examples": ["Patience is one of the key characteristics of a good teacher.", "The two species share many physical characteristics."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(birine/bir şeye) özgü, tipik",
+        "def": "very typical of a particular person, place, or thing",
+        "examples": ["She answered with her characteristic honesty.", "The sharp taste is characteristic of this type of cheese."]
+      }
+    ],
+    "collocations": ["key characteristic", "physical characteristics", "share characteristics", "characteristic of", "common characteristic"],
+    "synonyms": ["feature", "trait", "quality", "typical", "distinctive"],
+    "family": [
+      { "word": "characteristically", "pos": "adverb" },
+      { "word": "character", "pos": "noun" },
+      { "word": "uncharacteristic", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "characterize",
+    "ipa": "/ˈkærəktəraɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(bir şeyin) özelliği olmak, belirlemek",
+        "def": "to be a typical feature of something",
+        "examples": ["The region is characterized by hot summers and mild winters.", "Long working hours characterize the industry."]
+      },
+      {
+        "pos": "verb",
+        "tr": "nitelendirmek, tanımlamak",
+        "def": "to describe someone or something as having particular qualities",
+        "examples": ["The minister characterized the protests as peaceful."]
+      }
+    ],
+    "collocations": ["characterized by", "characterize as", "best characterized", "be characterized as"],
+    "synonyms": ["typify", "distinguish", "describe", "portray"],
+    "family": [
+      { "word": "characterization", "pos": "noun" },
+      { "word": "character", "pos": "noun" },
+      { "word": "characteristic", "pos": "adjective" }
+    ],
+    "note": "Very common in the passive: \"be characterized by\". British spelling: characterise."
+  },
+  {
+    "word": "charge",
+    "ipa": "/tʃɑːrdʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(ücret) almak, istemek",
+        "def": "to ask for money for goods or a service",
+        "examples": ["The hotel charges forty dollars a night for parking.", "They didn't charge us for the extra bags."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ücret",
+        "def": "the amount of money asked for something",
+        "examples": ["Delivery is free of charge for orders over fifty dollars."]
+      },
+      {
+        "pos": "verb",
+        "tr": "suçlamak, itham etmek",
+        "def": "to formally accuse someone of a crime",
+        "examples": ["He was charged with theft and released on bail."]
+      },
+      {
+        "pos": "verb",
+        "tr": "şarj etmek",
+        "def": "to put electricity into a battery",
+        "examples": ["I need to charge my phone before we leave."]
+      }
+    ],
+    "collocations": ["free of charge", "in charge of", "charge with", "charge a fee", "drop the charges", "service charge"],
+    "synonyms": ["fee", "price", "cost", "accuse", "bill"],
+    "family": [
+      { "word": "charger", "pos": "noun" },
+      { "word": "rechargeable", "pos": "adjective" },
+      { "word": "chargeable", "pos": "adjective" }
+    ],
+    "note": "\"In charge of\" means responsible for: She's in charge of marketing. \"Charge\" is also an accusation: face charges."
+  },
+  {
+    "word": "charity",
+    "ipa": "/ˈtʃærəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hayır kurumu, yardım derneği",
+        "def": "an organization that collects money to help people in need",
+        "examples": ["She volunteers for a charity that helps homeless people.", "All the money raised will go to charity."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hayırseverlik, yardım, sadaka",
+        "def": "money or help given to people in need",
+        "examples": ["The family refused to accept charity from neighbors."]
+      }
+    ],
+    "collocations": ["give to charity", "raise money for charity", "charity event", "charity work", "local charity"],
+    "synonyms": ["foundation", "nonprofit", "donation", "aid"],
+    "family": [
+      { "word": "charitable", "pos": "adjective" },
+      { "word": "charitably", "pos": "adverb" }
+    ],
+    "note": "Americans often say \"nonprofit\" for a charity organization. \"Charity begins at home\" is a common saying."
+  },
+  {
+    "word": "charm",
+    "ipa": "/tʃɑːrm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çekicilik, cazibe",
+        "def": "the quality of being pleasant and attractive",
+        "examples": ["The old town has a lot of charm.", "He used all his charm to get a table at the restaurant."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uğur, muska, nazarlık",
+        "def": "a small object believed to bring good luck",
+        "examples": ["She wears a lucky charm around her neck."]
+      },
+      {
+        "pos": "verb",
+        "tr": "büyülemek, cezbetmek",
+        "def": "to please or attract someone",
+        "examples": ["The puppy charmed everyone at the party."]
+      }
+    ],
+    "collocations": ["full of charm", "lucky charm", "turn on the charm", "work like a charm", "old-world charm"],
+    "synonyms": ["appeal", "attraction", "allure", "delight"],
+    "family": [
+      { "word": "charming", "pos": "adjective" },
+      { "word": "charmed", "pos": "adjective" },
+      { "word": "charmer", "pos": "noun" }
+    ],
+    "note": "\"Work like a charm\" means work very well. Turkish \"nazar boncuğu\" can be called an \"evil eye charm\"."
+  },
+  {
+    "word": "charming",
+    "ipa": "/ˈtʃɑːrmɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çekici, sevimli, büyüleyici",
+        "def": "very pleasant or attractive",
+        "examples": ["We stayed in a charming little hotel by the sea.", "Her husband is a charming man with a great sense of humor."]
+      }
+    ],
+    "collocations": ["absolutely charming", "charming village", "charming smile", "Prince Charming"],
+    "synonyms": ["delightful", "lovely", "attractive", "pleasant"],
+    "family": [
+      { "word": "charm", "pos": "noun" },
+      { "word": "charmingly", "pos": "adverb" }
+    ],
+    "note": "\"Prince Charming\" means an ideal romantic partner, often used ironically."
+  },
+  {
+    "word": "chart",
+    "ipa": "/tʃɑːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "grafik, çizelge, tablo",
+        "def": "a drawing, diagram, or table that shows information",
+        "examples": ["The chart shows how sales have grown since 2020.", "The nurse checked the patient's chart."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(müzik) liste",
+        "def": "a weekly list of the most popular songs or albums (the charts)",
+        "examples": ["Her new single went straight to number one on the charts."]
+      },
+      {
+        "pos": "verb",
+        "tr": "takip etmek, kaydetmek, haritasını çıkarmak",
+        "def": "to record or follow the progress of something",
+        "examples": ["The documentary charts the rise of social media."]
+      }
+    ],
+    "collocations": ["pie chart", "bar chart", "top the charts", "flow chart", "chart the course"],
+    "synonyms": ["graph", "diagram", "table", "track", "record"],
+    "family": [{ "word": "uncharted", "pos": "adjective" }],
+    "note": "\"Uncharted territory/waters\" means a new, unknown situation."
+  },
+  {
+    "word": "charter",
+    "ipa": "/ˈtʃɑːrtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tüzük, şart, beyanname",
+        "def": "an official document that sets out the rights, aims, or rules of a group",
+        "examples": ["The UN Charter was signed in 1945.", "The city's charter gives the mayor wide powers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çarter, kiralık (uçak, tekne)",
+        "def": "the act of renting a plane, boat, or bus for a particular trip",
+        "examples": ["We booked a charter flight to the islands."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kiralamak (uçak, tekne)",
+        "def": "to rent a plane, boat, or bus for private use",
+        "examples": ["The team chartered a plane for the away game."]
+      }
+    ],
+    "collocations": ["charter flight", "UN Charter", "charter school", "royal charter", "charter a plane"],
+    "synonyms": ["constitution", "code", "rent", "hire"],
+    "family": [{ "word": "chartered", "pos": "adjective" }],
+    "note": "A \"charter school\" (American) is publicly funded but run independently."
+  },
+  {
+    "word": "chase",
+    "ipa": "/tʃeɪs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kovalamak, peşinden koşmak",
+        "def": "to run or drive after someone or something to catch them",
+        "examples": ["The dog chased the cat up a tree.", "Police chased the stolen car for twenty miles."]
+      },
+      {
+        "pos": "verb",
+        "tr": "peşinde koşmak (hedef, para)",
+        "def": "to try hard to get something you want",
+        "examples": ["Too many young people chase fame instead of building skills."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kovalamaca, takip",
+        "def": "the act of following someone quickly in order to catch them",
+        "examples": ["The movie ends with an exciting car chase through the city."]
+      }
+    ],
+    "collocations": ["car chase", "chase after", "chase a dream", "chase away", "cut to the chase", "give chase"],
+    "synonyms": ["pursue", "follow", "hunt", "pursuit"],
+    "family": [{ "word": "chaser", "pos": "noun" }],
+    "note": "\"Cut to the chase\" means get to the main point quickly."
+  },
+  {
+    "word": "chat",
+    "ipa": "/tʃæt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sohbet etmek, laflamak",
+        "def": "to talk in a friendly, informal way",
+        "examples": ["We chatted for hours over coffee.", "I chatted with a woman on the train about her trip."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sohbet, muhabbet",
+        "def": "a friendly, informal conversation",
+        "examples": ["Let's have a quick chat after the meeting."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(internet) sohbet, yazışma",
+        "def": "a written conversation online",
+        "examples": ["Send me the link in the group chat."]
+      }
+    ],
+    "collocations": ["have a chat", "a quick chat", "chat with", "group chat", "chat room", "live chat"],
+    "synonyms": ["talk", "conversation", "gossip"],
+    "family": [
+      { "word": "chatty", "pos": "adjective" },
+      { "word": "chatter", "pos": "verb" }
+    ],
+    "note": "\"Chat\" is always friendly and informal; for serious talks, use \"discuss\" or \"talk\"."
+  },
+  {
+    "word": "cheap",
+    "ipa": "/tʃiːp/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ucuz",
+        "def": "costing little money",
+        "examples": ["Fruit is cheap at the farmers' market in summer.", "We found a cheap flight to Lisbon."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kalitesiz, adi; (kişi) cimri",
+        "def": "low in quality; or (American) unwilling to spend money",
+        "examples": ["The cheap shoes fell apart after a month.", "Don't be so cheap; leave a proper tip."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "ucuza",
+        "def": "(informal) for a low price",
+        "examples": ["I got this sofa really cheap at a garage sale."]
+      }
+    ],
+    "collocations": ["dirt cheap", "cheap labor", "cheap flights", "on the cheap", "cheap and cheerful"],
+    "synonyms": ["inexpensive", "affordable", "low-cost", "stingy"],
+    "family": [
+      { "word": "cheaply", "pos": "adverb" },
+      { "word": "cheapen", "pos": "verb" }
+    ],
+    "note": "\"Cheap\" can suggest poor quality; \"inexpensive\" or \"affordable\" sound more positive."
+  },
+  {
+    "word": "cheat",
+    "ipa": "/tʃiːt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kopya çekmek, hile yapmak",
+        "def": "to act dishonestly to win or gain an advantage",
+        "examples": ["He was caught cheating on his final exam.", "Players who cheat will be banned."]
+      },
+      {
+        "pos": "verb",
+        "tr": "aldatmak (eşini)",
+        "def": "to have a secret sexual relationship outside your marriage or relationship (cheat on)",
+        "examples": ["She found out her boyfriend had been cheating on her."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hilekar, sahtekar",
+        "def": "a person who cheats",
+        "examples": ["Everyone knew he was a cheat at cards."]
+      }
+    ],
+    "collocations": ["cheat on a test", "cheat on someone", "cheat at cards", "cheat someone out of", "cheat sheet"],
+    "synonyms": ["deceive", "trick", "swindle", "fraud"],
+    "family": [
+      { "word": "cheater", "pos": "noun" },
+      { "word": "cheating", "pos": "noun" }
+    ],
+    "note": "Americans more often say \"cheater\" for the person. \"Cheat on a test\" (American) / \"cheat in an exam\" (British)."
+  },
+  {
+    "word": "check",
+    "ipa": "/tʃek/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kontrol etmek",
+        "def": "to look at something to make sure it is correct, safe, or as expected",
+        "examples": ["Always check your answers before handing in the test.", "Can you check whether the store is open?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "kontrol, denetim",
+        "def": "an examination to make sure something is correct or safe",
+        "examples": ["Airport staff carried out security checks on every bag."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hesap (restoran); çek",
+        "def": "(American) the bill in a restaurant; also a written order to a bank to pay money",
+        "examples": ["Could we have the check, please?", "My grandmother still pays her rent by check."]
+      }
+    ],
+    "collocations": ["check in", "check out", "double-check", "security check", "background check", "keep in check"],
+    "synonyms": ["examine", "inspect", "verify", "bill", "test"],
+    "family": [
+      { "word": "checkup", "pos": "noun" },
+      { "word": "checklist", "pos": "noun" },
+      { "word": "checkpoint", "pos": "noun" }
+    ],
+    "note": "British spelling for the bank document is \"cheque\". \"Keep something in check\" means control it."
+  },
+  {
+    "word": "cheek",
+    "ipa": "/tʃiːk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yanak",
+        "def": "either side of the face below the eyes",
+        "examples": ["She kissed her grandmother on the cheek.", "Tears ran down his cheeks."]
+      }
+    ],
+    "collocations": ["kiss on the cheek", "rosy cheeks", "tongue in cheek", "cheek to cheek", "turn the other cheek"],
+    "synonyms": [],
+    "family": [
+      { "word": "cheeky", "pos": "adjective" },
+      { "word": "cheekbone", "pos": "noun" }
+    ],
+    "note": "\"Tongue in cheek\" means not serious, joking. In British English, \"cheek\" also means rude, disrespectful talk."
+  }
+]

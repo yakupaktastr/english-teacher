@@ -1,0 +1,1156 @@
+[
+  {
+    "word": "prosecutor",
+    "ipa": "/ˈprɑːsɪkjuːtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "savcı",
+        "def": "a lawyer who works for the government and tries to prove in court that someone is guilty of a crime",
+        "examples": ["The prosecutor argued that the defendant had planned the robbery for weeks.", "Federal prosecutors dropped the charges after new evidence emerged."]
+      }
+    ],
+    "collocations": ["federal prosecutor", "chief prosecutor", "special prosecutor", "public prosecutor", "prosecutors allege"],
+    "synonyms": ["district attorney", "DA"],
+    "family": [
+      { "word": "prosecute", "pos": "verb" },
+      { "word": "prosecution", "pos": "noun" }
+    ],
+    "note": "In the US, a local prosecutor is usually called a \"district attorney\" (DA). The opposite side is the \"defense attorney\"."
+  },
+  {
+    "word": "prospect",
+    "ipa": "/ˈprɑːspekt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "olasılık, ihtimal",
+        "def": "the chance or possibility that something will happen, especially something good",
+        "examples": ["There is little prospect of an agreement before the deadline.", "The prospect of moving abroad both excited and scared her."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gelecek) beklentiler, umut, iş olanakları",
+        "def": "chances of success in the future, especially in a career (usually plural)",
+        "examples": ["A degree in engineering will improve your job prospects.", "The team's prospects for the playoffs look bright this season."]
+      }
+    ],
+    "collocations": ["job prospects", "the prospect of", "little prospect of", "a bleak prospect", "future prospects", "prospects for growth"],
+    "synonyms": ["possibility", "chance", "likelihood", "outlook"],
+    "family": [
+      { "word": "prospective", "pos": "adjective" },
+      { "word": "prospector", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "prospective",
+    "ipa": "/prəˈspektɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "olası, muhtemel, aday, müstakbel",
+        "def": "likely or expected to become something or to do something in the future",
+        "examples": ["The college offers campus tours for prospective students and their parents.", "We showed the apartment to three prospective buyers this weekend."]
+      }
+    ],
+    "collocations": ["prospective students", "prospective buyers", "prospective employer", "prospective candidates", "prospective clients"],
+    "synonyms": ["potential", "future", "possible", "would-be"],
+    "family": [{ "word": "prospect", "pos": "noun" }]
+  },
+  {
+    "word": "prosperity",
+    "ipa": "/prɑːˈsperəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "refah, zenginlik, bolluk",
+        "def": "the state of being successful and having plenty of money",
+        "examples": ["The postwar years brought a period of economic prosperity.", "Trade with its neighbors is key to the region's long-term prosperity."]
+      }
+    ],
+    "collocations": ["economic prosperity", "peace and prosperity", "a period of prosperity", "shared prosperity", "bring prosperity"],
+    "synonyms": ["wealth", "affluence", "success", "well-being"],
+    "family": [
+      { "word": "prosper", "pos": "verb" },
+      { "word": "prosperous", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "protect",
+    "ipa": "/prəˈtekt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "korumak, muhafaza etmek",
+        "def": "to keep someone or something safe from harm, damage, or loss",
+        "examples": ["Wear sunscreen to protect your skin from the sun.", "The new law is designed to protect workers from unfair dismissal."]
+      }
+    ],
+    "collocations": ["protect from", "protect against", "protect the environment", "protect your privacy", "legally protected", "protect children"],
+    "synonyms": ["defend", "guard", "shield", "safeguard"],
+    "family": [
+      { "word": "protection", "pos": "noun" },
+      { "word": "protective", "pos": "adjective" },
+      { "word": "protector", "pos": "noun" },
+      { "word": "protected", "pos": "adjective" }
+    ],
+    "note": "Use \"protect from\" or \"protect against\", not \"protect of\"."
+  },
+  {
+    "word": "protection",
+    "ipa": "/prəˈtekʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "koruma, korunma",
+        "def": "the act of keeping someone or something safe, or the state of being kept safe",
+        "examples": ["The vaccine gives protection against several strains of flu.", "Witnesses in the case were placed under police protection."]
+      }
+    ],
+    "collocations": ["protection against", "protection from", "environmental protection", "consumer protection", "under protection", "provide protection"],
+    "synonyms": ["defense", "safety", "security", "shelter"],
+    "family": [
+      { "word": "protect", "pos": "verb" },
+      { "word": "protective", "pos": "adjective" },
+      { "word": "protectionism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "protective",
+    "ipa": "/prəˈtektɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "koruyucu",
+        "def": "designed to keep someone or something safe from harm",
+        "examples": ["Workers must wear protective gear when handling chemicals.", "The phone comes with a protective case."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "korumacı, (aşırı) kollayan",
+        "def": "wanting to keep someone you love safe, sometimes too much",
+        "examples": ["He's very protective of his younger sister.", "Some parents become overly protective once their kids start dating."]
+      }
+    ],
+    "collocations": ["protective clothing", "protective equipment", "protective of someone", "overly protective", "protective custody"],
+    "synonyms": ["defensive", "shielding", "caring", "overprotective"],
+    "family": [
+      { "word": "protect", "pos": "verb" },
+      { "word": "protectively", "pos": "adverb" },
+      { "word": "overprotective", "pos": "adjective" }
+    ],
+    "note": "Pattern: be protective OF someone (not \"to\")."
+  },
+  {
+    "word": "protein",
+    "ipa": "/ˈprəʊtiːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "protein",
+        "def": "a natural substance in foods like meat, eggs, and beans that the body needs to grow and repair itself",
+        "examples": ["Lentils are a cheap source of protein for vegetarians.", "Athletes often drink protein shakes after a workout."]
+      }
+    ],
+    "collocations": ["high in protein", "source of protein", "protein intake", "protein shake", "plant-based protein", "lean protein"],
+    "synonyms": [],
+    "family": []
+  },
+  {
+    "word": "protest",
+    "ipa": "/ˈprəʊtest/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "protesto, itiraz",
+        "def": "a public action or statement showing strong disagreement with something",
+        "examples": ["Thousands of students joined the protest outside city hall.", "The fans left the stadium early in protest at the ticket prices."]
+      },
+      {
+        "pos": "verb",
+        "tr": "protesto etmek, itiraz etmek, karşı çıkmak",
+        "def": "to say or show publicly that you strongly disagree with something",
+        "examples": ["Residents protested against the plan to close the local hospital.", "Nurses marched downtown to protest low pay."]
+      }
+    ],
+    "collocations": ["peaceful protest", "in protest", "protest against", "stage a protest", "protest march", "mass protests"],
+    "synonyms": ["demonstration", "objection", "object", "demonstrate"],
+    "family": [
+      { "word": "protester", "pos": "noun" },
+      { "word": "Protestant", "pos": "noun" }
+    ],
+    "note": "Stress: noun PRO-test, verb usually pro-TEST. In American English the verb can take a direct object: \"protest the war\"."
+  },
+  {
+    "word": "protester",
+    "ipa": "/prəˈtestər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "protestocu, eylemci",
+        "def": "a person who takes part in a public protest",
+        "examples": ["Police used tear gas to break up a crowd of protesters.", "Protesters held signs demanding action on climate change."]
+      }
+    ],
+    "collocations": ["anti-war protesters", "peaceful protesters", "crowds of protesters", "protesters gathered", "arrest protesters"],
+    "synonyms": ["demonstrator", "activist", "dissenter"],
+    "family": [
+      { "word": "protest", "pos": "noun" },
+      { "word": "protest", "pos": "verb" }
+    ],
+    "note": "Also spelled \"protestor\"."
+  },
+  {
+    "word": "protocol",
+    "ipa": "/ˈprəʊtəkɑːl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "protokol, resmi kurallar",
+        "def": "the official rules about correct behavior on formal or diplomatic occasions",
+        "examples": ["According to protocol, the president greets foreign leaders at the airport.", "He broke royal protocol by hugging the queen."]
+      },
+      {
+        "pos": "noun",
+        "tr": "prosedür, uygulama kuralları",
+        "def": "a set of rules or procedures to follow in a particular situation, e.g. in medicine or computing",
+        "examples": ["Hospitals updated their safety protocols during the outbreak.", "The two computers communicate using a secure protocol."]
+      }
+    ],
+    "collocations": ["follow protocol", "breach of protocol", "safety protocol", "diplomatic protocol", "standard protocol", "treatment protocol"],
+    "synonyms": ["etiquette", "procedure", "rules", "convention"],
+    "family": []
+  },
+  {
+    "word": "proud",
+    "ipa": "/praʊd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "gururlu, (biriyle/bir şeyle) gurur duyan, iftihar eden",
+        "def": "feeling pleased about something you have done or about someone connected to you",
+        "examples": ["We're so proud of you for finishing the marathon.", "She was proud to represent her country at the Olympics."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kibirli, mağrur, onurlu",
+        "def": "having too high an opinion of yourself, or too much self-respect to ask for help",
+        "examples": ["He was too proud to admit he needed money from his parents."]
+      }
+    ],
+    "collocations": ["proud of", "proud to", "justly proud", "a proud moment", "too proud to", "the proud owner of"],
+    "synonyms": ["pleased", "satisfied", "arrogant", "dignified"],
+    "family": [
+      { "word": "pride", "pos": "noun" },
+      { "word": "proudly", "pos": "adverb" }
+    ],
+    "note": "Use \"proud of\", not \"proud with\". Noun: pride (\"take pride in\")."
+  },
+  {
+    "word": "prove",
+    "ipa": "/pruːv/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kanıtlamak, ispat etmek",
+        "def": "to use facts or evidence to show that something is true",
+        "examples": ["Lawyers could not prove that he was at the scene of the crime.", "Scientists have proved that the drug reduces the risk of stroke."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(… olduğu) ortaya çıkmak, anlaşılmak",
+        "def": "to turn out to be a particular thing, as shown by what happens over time",
+        "examples": ["The new software proved to be more difficult than expected.", "Finding a parking space downtown proved impossible."]
+      }
+    ],
+    "collocations": ["prove that", "prove someone wrong", "prove to be", "prove useful", "prove yourself", "difficult to prove"],
+    "synonyms": ["demonstrate", "show", "establish", "turn out"],
+    "family": [
+      { "word": "proof", "pos": "noun" },
+      { "word": "proven", "pos": "adjective" },
+      { "word": "unproven", "pos": "adjective" },
+      { "word": "disprove", "pos": "verb" }
+    ],
+    "note": "Past participle: proved or proven; \"proven\" is common in American English, especially as an adjective (\"a proven method\")."
+  },
+  {
+    "word": "provide",
+    "ipa": "/prəˈvaɪd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sağlamak, temin etmek, vermek",
+        "def": "to give something to someone or make it available for them to use",
+        "examples": ["The hotel provides free breakfast for all guests.", "Can you provide more details about the incident?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ailesini) geçindirmek, bakmak",
+        "def": "to give someone the money, food, and things they need to live (provide for)",
+        "examples": ["He works two jobs to provide for his family."]
+      }
+    ],
+    "collocations": ["provide someone with something", "provide something for someone", "provide support", "provide information", "provide for a family"],
+    "synonyms": ["supply", "give", "offer", "support"],
+    "family": [
+      { "word": "provider", "pos": "noun" },
+      { "word": "provision", "pos": "noun" },
+      { "word": "provided", "pos": "conjunction" }
+    ],
+    "note": "Patterns: provide someone WITH something, or provide something FOR/TO someone. Not \"provide someone something\"."
+  },
+  {
+    "word": "province",
+    "ipa": "/ˈprɑːvɪns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "il, eyalet",
+        "def": "one of the main areas some countries are divided into, with its own local government",
+        "examples": ["Quebec is the largest province in Canada.", "Heavy flooding hit several southern provinces last week."]
+      },
+      {
+        "pos": "noun",
+        "tr": "taşra",
+        "def": "the parts of a country outside the capital or main cities (the provinces)",
+        "examples": ["The theater company tours the provinces every summer."]
+      }
+    ],
+    "collocations": ["the province of", "eastern province", "provincial capital", "in the provinces", "border province"],
+    "synonyms": ["region", "state", "territory", "district"],
+    "family": [{ "word": "provincial", "pos": "adjective" }],
+    "note": "Turkey's 81 \"iller\" are usually called provinces in English."
+  },
+  {
+    "word": "provincial",
+    "ipa": "/prəˈvɪnʃl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "il, eyalet (ile ilgili), il düzeyinde",
+        "def": "relating to a province or its local government",
+        "examples": ["The provincial government announced new funding for schools.", "Provincial elections will be held next spring."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "taşralı, dar görüşlü",
+        "def": "outside the capital, or having old-fashioned, narrow-minded attitudes (often disapproving)",
+        "examples": ["She found the town's attitudes provincial after years in New York."]
+      }
+    ],
+    "collocations": ["provincial government", "provincial capital", "provincial election", "provincial town", "provincial attitudes"],
+    "synonyms": ["regional", "local", "parochial", "narrow-minded"],
+    "family": [{ "word": "province", "pos": "noun" }]
+  },
+  {
+    "word": "provision",
+    "ipa": "/prəˈvɪʒn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sağlama, temin, hizmet sunumu",
+        "def": "the act of supplying something that people need",
+        "examples": ["The city is responsible for the provision of clean water.", "There is very little provision for disabled travelers at the station."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hüküm, madde, şart",
+        "def": "a condition or rule in a law or legal agreement",
+        "examples": ["A provision in the contract allows either side to cancel with 30 days' notice."]
+      },
+      {
+        "pos": "noun",
+        "tr": "erzak, kumanya",
+        "def": "supplies of food and other necessary things, especially for a journey (provisions)",
+        "examples": ["The hikers packed enough provisions for a week in the mountains."]
+      }
+    ],
+    "collocations": ["the provision of", "make provision for", "a provision in the law", "health care provision", "under the provisions of"],
+    "synonyms": ["supply", "clause", "condition", "supplies"],
+    "family": [
+      { "word": "provide", "pos": "verb" },
+      { "word": "provisional", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "provoke",
+    "ipa": "/prəˈvəʊk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(tepki, tartışma) yol açmak, neden olmak, uyandırmak",
+        "def": "to cause a particular reaction or feeling, especially a negative one",
+        "examples": ["The decision to raise taxes provoked an angry response from voters.", "Her speech provoked a heated debate online."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kışkırtmak, tahrik etmek",
+        "def": "to deliberately make someone angry so that they react",
+        "examples": ["Don't let him provoke you into a fight."]
+      }
+    ],
+    "collocations": ["provoke a reaction", "provoke outrage", "provoke debate", "provoke someone into", "unprovoked attack"],
+    "synonyms": ["cause", "trigger", "spark", "incite", "goad"],
+    "family": [
+      { "word": "provocation", "pos": "noun" },
+      { "word": "provocative", "pos": "adjective" },
+      { "word": "unprovoked", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "psychiatric",
+    "ipa": "/ˌsaɪkiˈætrɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "psikiyatrik, ruhsal",
+        "def": "relating to the treatment of mental illness",
+        "examples": ["He spent two months in a psychiatric hospital after the breakdown.", "The prisoner was given a psychiatric evaluation before trial."]
+      }
+    ],
+    "collocations": ["psychiatric hospital", "psychiatric treatment", "psychiatric care", "psychiatric disorder", "psychiatric evaluation"],
+    "synonyms": ["mental health", "psychological"],
+    "family": [
+      { "word": "psychiatry", "pos": "noun" },
+      { "word": "psychiatrist", "pos": "noun" }
+    ],
+    "note": "The \"p\" is silent: /saɪ-/. A psychiatrist is a medical doctor; a psychologist usually is not."
+  },
+  {
+    "word": "psychological",
+    "ipa": "/ˌsaɪkəˈlɑːdʒɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "psikolojik, ruhsal",
+        "def": "connected with the mind and the way it affects feelings and behavior",
+        "examples": ["Long periods of isolation can cause serious psychological harm.", "Losing in the final minute was a big psychological blow to the team."]
+      }
+    ],
+    "collocations": ["psychological effects", "psychological problems", "psychological pressure", "psychological support", "psychological barrier"],
+    "synonyms": ["mental", "emotional", "psychic"],
+    "family": [
+      { "word": "psychologically", "pos": "adverb" },
+      { "word": "psychology", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "psychologist",
+    "ipa": "/saɪˈkɑːlədʒɪst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "psikolog",
+        "def": "a person trained in psychology, who studies the mind or helps people with emotional problems",
+        "examples": ["The school hired a psychologist to support students after the tragedy.", "Child psychologists say routines help young kids feel safe."]
+      }
+    ],
+    "collocations": ["clinical psychologist", "child psychologist", "see a psychologist", "sports psychologist", "educational psychologist"],
+    "synonyms": ["therapist", "counselor"],
+    "family": [
+      { "word": "psychology", "pos": "noun" },
+      { "word": "psychological", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "psychology",
+    "ipa": "/saɪˈkɑːlədʒi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "psikoloji",
+        "def": "the scientific study of the mind and how it affects behavior",
+        "examples": ["She majored in psychology at a state university.", "The course covers the basics of child psychology."]
+      },
+      {
+        "pos": "noun",
+        "tr": "psikoloji, ruh hali, zihniyet",
+        "def": "the way a particular person or group thinks and behaves",
+        "examples": ["Marketers study the psychology of shoppers to boost sales."]
+      }
+    ],
+    "collocations": ["degree in psychology", "child psychology", "social psychology", "the psychology of", "reverse psychology"],
+    "synonyms": ["mindset", "mentality"],
+    "family": [
+      { "word": "psychologist", "pos": "noun" },
+      { "word": "psychological", "pos": "adjective" },
+      { "word": "psychologically", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "pub",
+    "ipa": "/pʌb/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bar, birahane, pub",
+        "def": "a place where people go to drink alcohol and other drinks, and often eat, especially in Britain",
+        "examples": ["After the game, we went to an Irish pub downtown.", "The pub serves fish and chips and local beer."]
+      }
+    ],
+    "collocations": ["go to the pub", "local pub", "Irish pub", "pub quiz", "pub food"],
+    "synonyms": ["bar", "tavern"],
+    "family": [],
+    "note": "\"Pub\" is a typically British word. Americans usually say \"bar\", though \"pub\" is used for British or Irish-style bars."
+  },
+  {
+    "word": "public",
+    "ipa": "/ˈpʌblɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kamu, kamusal, halka açık, umumi",
+        "def": "for or relating to people in general, or provided by the government for everyone",
+        "examples": ["Smoking is banned in all public places.", "Public opinion has turned against the war."]
+      },
+      {
+        "pos": "noun",
+        "tr": "halk, kamuoyu",
+        "def": "ordinary people in general (the public)",
+        "examples": ["The museum is open to the public on weekends.", "The government failed to warn the public about the risks."]
+      }
+    ],
+    "collocations": ["the general public", "public opinion", "in public", "public transportation", "public health", "go public"],
+    "synonyms": ["communal", "open", "people", "community"],
+    "family": [
+      { "word": "publicly", "pos": "adverb" },
+      { "word": "publicity", "pos": "noun" },
+      { "word": "publicize", "pos": "verb" }
+    ],
+    "note": "In the US, a \"public school\" is free and government-funded; in Britain it is an expensive private school."
+  },
+  {
+    "word": "publication",
+    "ipa": "/ˌpʌblɪˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yayımlama, yayımlanma",
+        "def": "the act of printing a book, article, etc. and making it available to the public",
+        "examples": ["The novel became a bestseller within a month of its publication.", "The study was submitted for publication in a medical journal."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yayın",
+        "def": "a book, magazine, newspaper, or similar thing that has been published",
+        "examples": ["The magazine is one of the most respected publications in the industry."]
+      }
+    ],
+    "collocations": ["date of publication", "accepted for publication", "academic publications", "publication of the report", "online publication"],
+    "synonyms": ["printing", "release", "issue", "periodical"],
+    "family": [
+      { "word": "publish", "pos": "verb" },
+      { "word": "publisher", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "publicity",
+    "ipa": "/pʌbˈlɪsəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tanıtım, reklam, medyanın ilgisi",
+        "def": "attention given to someone or something by the media, or the business of attracting that attention",
+        "examples": ["The scandal brought a lot of unwanted publicity to the company.", "The band did a publicity tour before the album came out."]
+      }
+    ],
+    "collocations": ["bad publicity", "attract publicity", "publicity stunt", "negative publicity", "publicity campaign"],
+    "synonyms": ["attention", "promotion", "advertising", "exposure", "hype"],
+    "family": [
+      { "word": "publicize", "pos": "verb" },
+      { "word": "publicist", "pos": "noun" }
+    ],
+    "note": "\"There's no such thing as bad publicity\" is a common saying."
+  },
+  {
+    "word": "publish",
+    "ipa": "/ˈpʌblɪʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yayımlamak, basmak",
+        "def": "to print and sell a book, magazine, etc., or to make something available online",
+        "examples": ["Her first novel was published when she was only 22.", "The company publishes children's books in twelve languages."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bilgi, sonuç) yayımlamak, açıklamak",
+        "def": "to make information officially available to the public",
+        "examples": ["The researchers published their findings in a leading journal.", "The government will publish the report next month."]
+      }
+    ],
+    "collocations": ["publish a book", "publish findings", "publish online", "recently published", "published in a journal"],
+    "synonyms": ["print", "issue", "release", "bring out"],
+    "family": [
+      { "word": "publisher", "pos": "noun" },
+      { "word": "publication", "pos": "noun" },
+      { "word": "publishing", "pos": "noun" },
+      { "word": "unpublished", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "publishing",
+    "ipa": "/ˈpʌblɪʃɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yayıncılık",
+        "def": "the business of preparing and selling books, magazines, etc.",
+        "examples": ["She has worked in publishing for over twenty years.", "Digital publishing has changed how authors reach readers."]
+      }
+    ],
+    "collocations": ["work in publishing", "publishing house", "publishing industry", "digital publishing", "self-publishing"],
+    "synonyms": [],
+    "family": [
+      { "word": "publish", "pos": "verb" },
+      { "word": "publisher", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "pull",
+    "ipa": "/pʊl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "çekmek",
+        "def": "to hold something and move it toward you or behind you",
+        "examples": ["Pull the door hard; it sticks in cold weather.", "Two horses pulled the cart up the hill."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(araç) yanaşmak, kenara çekmek",
+        "def": "to move a vehicle somewhere (pull over, pull into, pull out)",
+        "examples": ["A police officer pulled me over for speeding.", "The train pulled into the station ten minutes late."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çekiş, çekme; çekim gücü, cazibe",
+        "def": "an act of pulling, or a strong force that attracts",
+        "examples": ["Give the rope a good pull.", "The pull of city life was too strong for her to stay in the village."]
+      }
+    ],
+    "collocations": ["pull over", "pull out of", "pull a muscle", "pull strings", "pull yourself together", "the pull of"],
+    "synonyms": ["drag", "tug", "draw", "attraction"],
+    "family": [],
+    "note": "Many phrasal verbs: pull off (succeed), pull through (survive), pull out (withdraw). Opposite: push."
+  },
+  {
+    "word": "pulse",
+    "ipa": "/pʌls/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "nabız",
+        "def": "the regular beat of your heart, which you can feel at your wrist or neck",
+        "examples": ["The nurse took my pulse and blood pressure.", "Her pulse raced as she waited for the results."]
+      },
+      {
+        "pos": "noun",
+        "tr": "baklagil (mercimek, nohut vb.)",
+        "def": "the dried seeds of plants like lentils, beans, and peas, eaten as food (pulses)",
+        "examples": ["Pulses such as chickpeas and lentils are rich in fiber."]
+      }
+    ],
+    "collocations": ["take someone's pulse", "check the pulse", "a weak pulse", "pulse rate", "keep a finger on the pulse"],
+    "synonyms": ["heartbeat", "beat", "rhythm"],
+    "family": [{ "word": "pulsate", "pos": "verb" }],
+    "note": "\"Have your finger on the pulse\" means to know the latest developments in a field."
+  },
+  {
+    "word": "pump",
+    "ipa": "/pʌmp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pompa",
+        "def": "a machine that pushes liquid, gas, or air into or out of something",
+        "examples": ["I need a bike pump; my back tire is flat.", "The water pump in the basement broke during the storm."]
+      },
+      {
+        "pos": "verb",
+        "tr": "pompalamak, basmak",
+        "def": "to move liquid, gas, or air somewhere using a pump or a similar action",
+        "examples": ["The heart pumps blood around the body.", "Firefighters pumped water out of the flooded tunnel."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(para) akıtmak, yatırmak",
+        "def": "to put a lot of money into something",
+        "examples": ["Investors have pumped billions into electric car startups."]
+      }
+    ],
+    "collocations": ["gas pump", "pump water", "pump blood", "pump money into", "pump up", "heat pump"],
+    "synonyms": ["push", "force", "inject"],
+    "family": [],
+    "note": "Informal \"pumped (up)\" means very excited. A \"gas pump\" is a fuel pump at a gas station."
+  },
+  {
+    "word": "punch",
+    "ipa": "/pʌntʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yumruklamak, yumruk atmak",
+        "def": "to hit someone or something hard with a closed hand",
+        "examples": ["He punched the wall in frustration and broke his hand.", "The boxer was punched in the face in the first round."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yumruk",
+        "def": "a hard hit with a closed hand",
+        "examples": ["She threw a punch at the man who grabbed her bag.", "The final punch knocked him out."]
+      },
+      {
+        "pos": "noun",
+        "tr": "punç (meyveli içecek)",
+        "def": "a drink made by mixing fruit juices, often with alcohol",
+        "examples": ["There was a big bowl of fruit punch at the party."]
+      }
+    ],
+    "collocations": ["throw a punch", "punch someone in the face", "land a punch", "pack a punch", "punch line", "punch in a code"],
+    "synonyms": ["hit", "strike", "blow", "jab"],
+    "family": [{ "word": "punchy", "pos": "adjective" }],
+    "note": "\"Pack a punch\" means to have a strong effect. \"Punch line\" is the funny last part of a joke."
+  },
+  {
+    "word": "punish",
+    "ipa": "/ˈpʌnɪʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "cezalandırmak",
+        "def": "to make someone suffer because they have broken a rule or the law",
+        "examples": ["The boy was punished for lying to his teachers.", "Companies that pollute rivers should be severely punished."]
+      }
+    ],
+    "collocations": ["punish someone for", "severely punished", "be punished by law", "punish offenders", "go unpunished"],
+    "synonyms": ["penalize", "discipline", "sanction"],
+    "family": [
+      { "word": "punishment", "pos": "noun" },
+      { "word": "punishing", "pos": "adjective" },
+      { "word": "punitive", "pos": "adjective" },
+      { "word": "unpunished", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "punishment",
+    "ipa": "/ˈpʌnɪʃmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ceza, cezalandırma",
+        "def": "something done to someone because they have done something wrong",
+        "examples": ["As punishment, she lost her phone for a week.", "The judge said the punishment should fit the crime."]
+      }
+    ],
+    "collocations": ["capital punishment", "harsh punishment", "physical punishment", "as punishment", "escape punishment", "a glutton for punishment"],
+    "synonyms": ["penalty", "sentence", "discipline", "penalization"],
+    "family": [
+      { "word": "punish", "pos": "verb" },
+      { "word": "punitive", "pos": "adjective" }
+    ],
+    "note": "\"Capital punishment\" means the death penalty."
+  },
+  {
+    "word": "punk",
+    "ipa": "/pʌŋk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "punk (müzik)",
+        "def": "a loud, fast, aggressive type of rock music that became popular in the late 1970s",
+        "examples": ["He grew up listening to punk and played guitar in a garage band.", "The club hosts punk and metal shows on Fridays."]
+      },
+      {
+        "pos": "noun",
+        "tr": "punkçı; (argo) serseri, külhanbeyi",
+        "def": "a fan of punk music; also (informal, American) a young person who behaves badly",
+        "examples": ["Some punk spray-painted the side of our garage."]
+      }
+    ],
+    "collocations": ["punk rock", "punk band", "punk music", "punk scene", "pop punk"],
+    "synonyms": ["punk rock", "hooligan", "thug"],
+    "family": [],
+    "note": "In informal American English, calling someone \"a punk\" is an insult meaning a troublemaker."
+  },
+  {
+    "word": "pupil",
+    "ipa": "/ˈpjuːpl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öğrenci",
+        "def": "a child or young person who goes to school, or someone taught by a particular teacher",
+        "examples": ["The school has about 300 pupils between ages five and eleven.", "The old piano teacher still remembers her favorite pupil."]
+      },
+      {
+        "pos": "noun",
+        "tr": "göz bebeği",
+        "def": "the small black circle in the middle of your eye",
+        "examples": ["Your pupils get bigger in the dark to let in more light."]
+      }
+    ],
+    "collocations": ["primary school pupils", "former pupil", "star pupil", "dilated pupils", "pupils and teachers"],
+    "synonyms": ["student", "schoolchild", "learner"],
+    "family": [],
+    "note": "\"Pupil\" (school child) sounds British or formal; Americans usually say \"student\" at all levels."
+  },
+  {
+    "word": "purchase",
+    "ipa": "/ˈpɜːrtʃəs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "satın almak",
+        "def": "to buy something (more formal than \"buy\")",
+        "examples": ["Tickets can be purchased online or at the box office.", "The city purchased the land to build a new park."]
+      },
+      {
+        "pos": "noun",
+        "tr": "satın alma, alım; alınan şey",
+        "def": "the act of buying something, or something that you have bought",
+        "examples": ["Keep your receipt as proof of purchase.", "A house is the biggest purchase most people ever make."]
+      }
+    ],
+    "collocations": ["make a purchase", "proof of purchase", "purchase price", "in-app purchases", "purchase online", "purchasing power"],
+    "synonyms": ["buy", "acquire", "acquisition"],
+    "family": [
+      { "word": "purchaser", "pos": "noun" },
+      { "word": "purchasing", "pos": "noun" }
+    ],
+    "note": "Pronounced /ˈpɜːrtʃəs/, not \"pur-chase\" with -chase. More formal than \"buy\"."
+  },
+  {
+    "word": "pure",
+    "ipa": "/pjʊr/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "saf, katışıksız, has",
+        "def": "not mixed with anything else",
+        "examples": ["The sweater is made of pure wool.", "This juice is 100 percent pure orange with no added sugar."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "temiz, arı (su, hava)",
+        "def": "clean and free from harmful substances",
+        "examples": ["The mountain air was cold and pure."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tamamen, sırf, düpedüz",
+        "def": "used for emphasis, meaning complete or nothing but",
+        "examples": ["We met by pure chance at an airport in Chicago.", "Her face showed pure joy when she saw the puppy."]
+      }
+    ],
+    "collocations": ["pure gold", "pure water", "pure chance", "pure luck", "pure and simple", "pure science"],
+    "synonyms": ["unmixed", "clean", "sheer", "utter", "complete"],
+    "family": [
+      { "word": "purely", "pos": "adverb" },
+      { "word": "purity", "pos": "noun" },
+      { "word": "purify", "pos": "verb" },
+      { "word": "impure", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "purely",
+    "ipa": "/ˈpjʊrli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "sadece, yalnızca, tamamen, salt",
+        "def": "only, completely, and for no other reason",
+        "examples": ["I took the job purely for the money.", "The decision was made on purely financial grounds."]
+      }
+    ],
+    "collocations": ["purely by chance", "purely for", "purely on", "purely and simply", "purely academic"],
+    "synonyms": ["only", "solely", "simply", "entirely", "merely"],
+    "family": [{ "word": "pure", "pos": "adjective" }]
+  },
+  {
+    "word": "purple",
+    "ipa": "/ˈpɜːrpl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "mor",
+        "def": "having the color you get by mixing red and blue",
+        "examples": ["She wore a purple dress to the wedding.", "His face turned purple with anger."]
+      },
+      {
+        "pos": "noun",
+        "tr": "mor (renk)",
+        "def": "the color made by mixing red and blue",
+        "examples": ["Purple was once a color worn only by kings and emperors."]
+      }
+    ],
+    "collocations": ["dark purple", "light purple", "deep purple", "purple flowers", "turn purple", "purple prose"],
+    "synonyms": ["violet", "lilac", "mauve"],
+    "family": [{ "word": "purplish", "pos": "adjective" }]
+  },
+  {
+    "word": "purpose",
+    "ipa": "/ˈpɜːrpəs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "amaç, maksat, gaye",
+        "def": "the reason something is done or made, or what it is meant to achieve",
+        "examples": ["What is the purpose of your visit to the United States?", "The meeting's main purpose was to discuss the budget."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hedef, anlam, yaşam amacı",
+        "def": "a feeling of having an aim that makes life feel meaningful",
+        "examples": ["Volunteering gave him a new sense of purpose after he retired."]
+      }
+    ],
+    "collocations": ["on purpose", "the purpose of", "for the purpose of", "sense of purpose", "serve a purpose", "defeat the purpose"],
+    "synonyms": ["aim", "goal", "intention", "reason", "function"],
+    "family": [
+      { "word": "purposeful", "pos": "adjective" },
+      { "word": "purposely", "pos": "adverb" }
+    ],
+    "note": "\"On purpose\" means deliberately: \"He broke it on purpose.\" Not \"with purpose\"."
+  },
+  {
+    "word": "pursue",
+    "ipa": "/pərˈsuː/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "peşinden koşmak, sürdürmek, (kariyer, hedef) izlemek",
+        "def": "to try to achieve something or continue doing an activity over a long period",
+        "examples": ["After college, she moved to Los Angeles to pursue a career in acting.", "The police decided not to pursue the case any further."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kovalamak, takip etmek",
+        "def": "to follow or chase someone in order to catch them",
+        "examples": ["Officers pursued the stolen car for several miles."]
+      }
+    ],
+    "collocations": ["pursue a career", "pursue a goal", "pursue a dream", "pursue legal action", "pursue a policy", "pursue a degree"],
+    "synonyms": ["follow", "seek", "chase", "strive for"],
+    "family": [
+      { "word": "pursuit", "pos": "noun" },
+      { "word": "pursuer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "pursuit",
+    "ipa": "/pərˈsuːt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "peşinde koşma, arayış, uğraş",
+        "def": "the act of trying to get or achieve something",
+        "examples": ["The Declaration of Independence mentions life, liberty, and the pursuit of happiness.", "He left home in pursuit of a better life."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kovalama, takip",
+        "def": "the act of chasing someone",
+        "examples": ["The suspect crashed his car during a high-speed police pursuit."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uğraş, hobi, faaliyet",
+        "def": "an activity you spend time doing, especially for pleasure",
+        "examples": ["Hiking and fishing are popular outdoor pursuits in the area."]
+      }
+    ],
+    "collocations": ["in pursuit of", "the pursuit of happiness", "police pursuit", "outdoor pursuits", "hot pursuit", "leisure pursuits"],
+    "synonyms": ["quest", "search", "chase", "hobby"],
+    "family": [{ "word": "pursue", "pos": "verb" }]
+  },
+  {
+    "word": "push",
+    "ipa": "/pʊʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "itmek, (düğmeye) basmak",
+        "def": "to use your hands or body to move something away from you, or to press a button",
+        "examples": ["Can you help me push the car off the road?", "Push the green button to start the machine."]
+      },
+      {
+        "pos": "verb",
+        "tr": "zorlamak, baskı yapmak",
+        "def": "to try hard to make someone do something or to make something happen",
+        "examples": ["Her parents pushed her to study medicine.", "Activists are pushing for stricter gun laws."]
+      },
+      {
+        "pos": "noun",
+        "tr": "itme, itiş; girişim, çaba",
+        "def": "an act of pushing, or a strong effort to achieve something",
+        "examples": ["Give the door a push; it isn't locked.", "The company is making a big push into the Asian market."]
+      }
+    ],
+    "collocations": ["push a button", "push for", "push someone to do", "push the limits", "push ahead", "a big push"],
+    "synonyms": ["shove", "press", "urge", "pressure", "drive"],
+    "family": [
+      { "word": "pushy", "pos": "adjective" },
+      { "word": "pushover", "pos": "noun" }
+    ],
+    "note": "\"Pushy\" means too forceful in getting what you want. A \"pushover\" is someone easy to persuade."
+  },
+  {
+    "word": "put",
+    "ipa": "/pʊt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "koymak, yerleştirmek",
+        "def": "to move something into a particular place or position",
+        "examples": ["Put your keys on the table so you don't lose them.", "She put the baby to bed at eight."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir duruma) sokmak, getirmek",
+        "def": "to cause someone or something to be in a particular state or situation",
+        "examples": ["The scandal put the mayor in a very difficult position.", "Rising costs have put many small shops out of business."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ifade etmek, söylemek",
+        "def": "to say or express something in a particular way",
+        "examples": ["To put it simply, we can't afford a new car right now."]
+      }
+    ],
+    "collocations": ["put something on", "put off", "put up with", "put pressure on", "put it simply", "put an end to"],
+    "synonyms": ["place", "set", "lay", "express"],
+    "family": [],
+    "note": "Irregular: put – put – put. Many phrasal verbs: put off (postpone), put up with (tolerate), put out (extinguish)."
+  },
+  {
+    "word": "puzzle",
+    "ipa": "/ˈpʌzl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bulmaca, yapboz",
+        "def": "a game or toy that you have to think carefully about to solve or put together",
+        "examples": ["My grandfather does the crossword puzzle every morning.", "The kids spent the afternoon putting together a 500-piece puzzle."]
+      },
+      {
+        "pos": "noun",
+        "tr": "muamma, bilmece, sır",
+        "def": "something that is difficult to understand or explain",
+        "examples": ["How the thieves got into the vault remains a puzzle."]
+      },
+      {
+        "pos": "verb",
+        "tr": "şaşırtmak, kafasını karıştırmak",
+        "def": "to make someone confused because they cannot understand something",
+        "examples": ["His sudden resignation puzzled everyone in the office."]
+      }
+    ],
+    "collocations": ["crossword puzzle", "jigsaw puzzle", "solve a puzzle", "a piece of the puzzle", "puzzle over something"],
+    "synonyms": ["riddle", "mystery", "enigma", "baffle", "confuse"],
+    "family": [
+      { "word": "puzzled", "pos": "adjective" },
+      { "word": "puzzling", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "qualification",
+    "ipa": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "nitelik, yeterlilik, vasıf",
+        "def": "a skill, quality, or experience that makes you suitable for a job",
+        "examples": ["The main qualification for the job is five years of sales experience.", "He lacks the qualifications to run a large hospital."]
+      },
+      {
+        "pos": "noun",
+        "tr": "diploma, sertifika, belge",
+        "def": "an exam you have passed or a course you have completed",
+        "examples": ["She left school without any formal qualifications."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(turnuvaya) katılım hakkı, eleme",
+        "def": "the fact of reaching a later stage of a competition",
+        "examples": ["The win secured the team's qualification for the World Cup."]
+      }
+    ],
+    "collocations": ["professional qualifications", "academic qualifications", "formal qualifications", "qualification for", "without qualification"],
+    "synonyms": ["credential", "certificate", "skill", "eligibility"],
+    "family": [
+      { "word": "qualify", "pos": "verb" },
+      { "word": "qualified", "pos": "adjective" }
+    ],
+    "note": "\"Qualifications\" for degrees and certificates is more British; Americans often say \"credentials\"."
+  },
+  {
+    "word": "qualified",
+    "ipa": "/ˈkwɑːlɪfaɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "nitelikli, kalifiye, ehliyetli, yetkin",
+        "def": "having the training, exams, or experience needed for a particular job",
+        "examples": ["Only qualified electricians should work on the wiring.", "She's highly qualified for the position."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kısmi, şartlı, sınırlı",
+        "def": "limited in some way; not complete",
+        "examples": ["The plan received qualified support from the board."]
+      }
+    ],
+    "collocations": ["highly qualified", "qualified to do", "qualified for", "fully qualified", "qualified teacher", "qualified success"],
+    "synonyms": ["trained", "certified", "skilled", "competent", "eligible"],
+    "family": [
+      { "word": "unqualified", "pos": "adjective" },
+      { "word": "overqualified", "pos": "adjective" },
+      { "word": "qualify", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "qualify",
+    "ipa": "/ˈkwɑːlɪfaɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yetki/diploma almak, (bir meslekte) yeterlilik kazanmak",
+        "def": "to complete the training or exams needed to do a particular job",
+        "examples": ["He qualified as a nurse after three years of training."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hak kazanmak, (için) uygun olmak",
+        "def": "to have the right to do or receive something because you meet certain conditions",
+        "examples": ["Families with low incomes qualify for free school lunches.", "She qualified for the final with the second-fastest time."]
+      }
+    ],
+    "collocations": ["qualify for", "qualify as", "qualify to do", "fail to qualify", "qualify for the finals"],
+    "synonyms": ["be eligible", "be entitled", "pass", "make the cut"],
+    "family": [
+      { "word": "qualification", "pos": "noun" },
+      { "word": "qualified", "pos": "adjective" },
+      { "word": "qualifier", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "qualitative",
+    "ipa": "/ˈkwɑːləteɪtɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "nitel, niteliksel",
+        "def": "relating to how good something is or what it is like, rather than how much of it there is",
+        "examples": ["The researchers combined survey data with qualitative interviews.", "There is a qualitative difference between the two teaching methods."]
+      }
+    ],
+    "collocations": ["qualitative research", "qualitative data", "qualitative analysis", "qualitative difference", "qualitative study"],
+    "synonyms": ["descriptive", "non-numerical"],
+    "family": [
+      { "word": "qualitatively", "pos": "adverb" },
+      { "word": "quality", "pos": "noun" }
+    ],
+    "note": "Academic word. Opposite: quantitative (based on numbers and amounts)."
+  }
+]

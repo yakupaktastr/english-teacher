@@ -1,0 +1,581 @@
+[
+  {
+    "word": "hundred",
+    "ipa": "/ˈhʌndrəd/",
+    "senses": [
+      { "pos": "number", "tr": "yüz (100)", "def": "the number 100", "examples": ["The tickets cost a hundred dollars each.", "About three hundred people came to the meeting."] },
+      { "pos": "noun", "tr": "yüzlerce (hundreds)", "def": "(hundreds) a very large number", "examples": ["Hundreds of fans waited outside the stadium.", "I've told you a hundred times to close the door!"] }
+    ],
+    "collocations": ["a hundred", "hundreds of", "a hundred percent", "a hundred times", "one hundred"],
+    "synonyms": [],
+    "family": [{ "word": "hundredth", "pos": "number" }],
+    "note": "No -s after a number: \"two hundred people\", not \"two hundreds people\". But \"hundreds of people\"."
+  },
+  {
+    "word": "hunger",
+    "ipa": "/ˈhʌŋɡər/",
+    "senses": [
+      { "pos": "noun", "tr": "açlık", "def": "the state of not having enough food, or the feeling of needing to eat", "examples": ["Millions of people around the world suffer from hunger.", "The soup helped ease my hunger."] },
+      { "pos": "noun", "tr": "(bir şeye) açlık, büyük istek", "def": "a strong wish for something", "examples": ["The young players showed a real hunger for success."] }
+    ],
+    "collocations": ["world hunger", "die of hunger", "hunger strike", "hunger for", "suffer from hunger"],
+    "synonyms": ["starvation", "famine", "craving", "desire"],
+    "family": [{ "word": "hungry", "pos": "adjective" }, { "word": "hungrily", "pos": "adverb" }],
+    "note": "\"Hunger strike\" = refusing to eat as a protest."
+  },
+  {
+    "word": "hungry",
+    "ipa": "/ˈhʌŋɡri/",
+    "senses": [
+      { "pos": "adjective", "tr": "aç, acıkmış", "def": "wanting or needing food", "examples": ["I'm really hungry — let's get something to eat.", "The children were hungry after swimming all afternoon."] },
+      { "pos": "adjective", "tr": "(bir şeye) aç, hırslı", "def": "having a strong desire for something", "examples": ["The team is hungry for a championship."] }
+    ],
+    "collocations": ["feel hungry", "go hungry", "starving hungry", "hungry for", "get hungry"],
+    "synonyms": ["starving", "famished", "eager", "ravenous"],
+    "family": [{ "word": "hunger", "pos": "noun" }, { "word": "hungrily", "pos": "adverb" }],
+    "note": "\"Go hungry\" = not have enough food to eat."
+  },
+  {
+    "word": "hunt",
+    "ipa": "/hʌnt/",
+    "senses": [
+      { "pos": "verb", "tr": "avlamak, avlanmak", "def": "to chase and kill wild animals for food or sport", "examples": ["Lions usually hunt at night.", "They hunt deer in the fall."] },
+      { "pos": "verb", "tr": "aramak, peşine düşmek", "def": "to search hard for someone or something", "examples": ["I've been hunting for my keys all morning.", "Police are hunting the escaped prisoner."] },
+      { "pos": "noun", "tr": "arama; av", "def": "an act of searching for someone or something, or of hunting animals", "examples": ["The hunt for the missing child continued overnight.", "She's on the hunt for a new apartment."] }
+    ],
+    "collocations": ["hunt for", "job hunt", "house hunting", "manhunt", "the hunt for", "witch hunt"],
+    "synonyms": ["search", "look for", "chase", "pursue", "track"],
+    "family": [{ "word": "hunter", "pos": "noun" }, { "word": "hunting", "pos": "noun" }]
+  },
+  {
+    "word": "hunting",
+    "ipa": "/ˈhʌntɪŋ/",
+    "senses": [
+      { "pos": "noun", "tr": "avcılık, av", "def": "chasing and killing wild animals for sport or food", "examples": ["Hunting is popular in rural parts of the state.", "My uncle goes hunting every November."] },
+      { "pos": "noun", "tr": "arama (iş, ev vb.)", "def": "the process of searching for something", "examples": ["Job hunting can take months.", "We spent the weekend house hunting."] }
+    ],
+    "collocations": ["go hunting", "hunting season", "job hunting", "house hunting", "hunting rifle"],
+    "synonyms": ["the chase", "searching"],
+    "family": [{ "word": "hunt", "pos": "verb" }, { "word": "hunter", "pos": "noun" }]
+  },
+  {
+    "word": "hurricane",
+    "ipa": "/ˈhɜːrəkeɪn/",
+    "senses": [
+      { "pos": "noun", "tr": "kasırga", "def": "a violent storm with very strong winds, especially in the western Atlantic", "examples": ["The hurricane destroyed hundreds of homes along the coast.", "Residents were told to evacuate before the hurricane hit."] }
+    ],
+    "collocations": ["hurricane season", "hurricane warning", "hit by a hurricane", "Category 5 hurricane", "hurricane-force winds"],
+    "synonyms": ["storm", "typhoon", "cyclone", "tornado"],
+    "family": [],
+    "note": "Same storm type is called a typhoon in the Pacific and a cyclone in the Indian Ocean."
+  },
+  {
+    "word": "hurry",
+    "ipa": "/ˈhɜːri/",
+    "senses": [
+      { "pos": "verb", "tr": "acele etmek, koşturmak; acele ettirmek", "def": "to do something or move quickly because there is little time", "examples": ["Hurry up or we'll miss the train!", "She hurried home before the rain started."] },
+      { "pos": "noun", "tr": "acele", "def": "the need to do something quickly", "examples": ["Sorry, I can't talk now — I'm in a hurry.", "There's no hurry; take your time."] }
+    ],
+    "collocations": ["hurry up", "in a hurry", "no hurry", "in no hurry", "hurry back"],
+    "synonyms": ["rush", "hasten", "speed", "dash"],
+    "family": [{ "word": "hurried", "pos": "adjective" }, { "word": "hurriedly", "pos": "adverb" }],
+    "note": "\"In no hurry to do something\" = not wanting to do it soon."
+  },
+  {
+    "word": "hurt",
+    "ipa": "/hɜːrt/",
+    "senses": [
+      { "pos": "verb", "tr": "incitmek, yaralamak; acıtmak, ağrımak", "def": "to cause physical pain or injury, or to feel painful", "examples": ["I hurt my back lifting the boxes.", "My feet hurt after walking all day."] },
+      { "pos": "verb", "tr": "(duygusal olarak) kırmak, incitmek", "def": "to make someone feel upset or offended", "examples": ["I didn't mean to hurt your feelings."] },
+      { "pos": "verb", "tr": "zarar vermek", "def": "to have a bad effect on something", "examples": ["The bad weather hurt sales this summer."] },
+      { "pos": "adjective", "tr": "yaralı; kırgın, incinmiş", "def": "injured, or upset because of something someone did", "examples": ["Was anyone hurt in the accident?", "She felt hurt that nobody remembered her birthday."] }
+    ],
+    "collocations": ["get hurt", "hurt somebody's feelings", "badly hurt", "it won't hurt to", "feel hurt"],
+    "synonyms": ["injure", "harm", "ache", "upset", "damage"],
+    "family": [{ "word": "hurtful", "pos": "adjective" }],
+    "note": "Irregular: hurt – hurt – hurt. \"It doesn't hurt to ask\" = there's no harm in asking."
+  },
+  {
+    "word": "husband",
+    "ipa": "/ˈhʌzbənd/",
+    "senses": [
+      { "pos": "noun", "tr": "koca, eş", "def": "the man someone is married to", "examples": ["Her husband works as a teacher in the same school.", "She met her husband in college."] }
+    ],
+    "collocations": ["ex-husband", "future husband", "husband and wife", "loving husband"],
+    "synonyms": ["spouse", "partner"],
+    "family": [{ "word": "wife", "pos": "noun" }]
+  },
+  {
+    "word": "hydrogen",
+    "ipa": "/ˈhaɪdrədʒən/",
+    "senses": [
+      { "pos": "noun", "tr": "hidrojen", "def": "the lightest chemical element, a gas with no color or smell (symbol H)", "examples": ["Water is made of hydrogen and oxygen.", "Some buses now run on hydrogen fuel cells."] }
+    ],
+    "collocations": ["hydrogen gas", "hydrogen fuel", "hydrogen bomb", "hydrogen atom", "hydrogen peroxide"],
+    "synonyms": [],
+    "family": []
+  },
+  {
+    "word": "hypothesis",
+    "ipa": "/haɪˈpɑːθəsɪs/",
+    "senses": [
+      { "pos": "noun", "tr": "hipotez, varsayım", "def": "an idea that tries to explain something but has not yet been proved", "examples": ["The scientists designed an experiment to test their hypothesis.", "The data supports the hypothesis that sleep improves memory."] }
+    ],
+    "collocations": ["test a hypothesis", "support a hypothesis", "reject a hypothesis", "working hypothesis", "the hypothesis that"],
+    "synonyms": ["theory", "assumption", "proposition", "premise"],
+    "family": [{ "word": "hypothetical", "pos": "adjective" }, { "word": "hypothesize", "pos": "verb" }],
+    "note": "Plural: hypotheses /haɪˈpɑːθəsiːz/. Academic word."
+  },
+  {
+    "word": "I",
+    "ipa": "/aɪ/",
+    "senses": [
+      { "pos": "pronoun", "tr": "ben", "def": "used by the speaker or writer to refer to himself or herself as the subject", "examples": ["I live in Chicago with my wife and kids.", "My brother and I went to the same school."] }
+    ],
+    "collocations": ["I think", "I mean", "I guess", "you and I"],
+    "synonyms": [],
+    "family": [{ "word": "me", "pos": "pronoun" }, { "word": "my", "pos": "determiner" }, { "word": "myself", "pos": "pronoun" }],
+    "note": "Always capitalized. Put yourself last: \"my friend and I\", not \"I and my friend\". Turkish often drops \"ben\"; English needs \"I\"."
+  },
+  {
+    "word": "ID",
+    "ipa": "/ˌaɪ ˈdiː/",
+    "senses": [
+      { "pos": "noun", "tr": "kimlik, kimlik kartı", "def": "an official document, such as a card, that shows who you are", "examples": ["You'll need to show your ID to get into the club.", "Do you have any photo ID with you?"] },
+      { "pos": "verb", "tr": "kimliğini tespit etmek, teşhis etmek", "def": "(informal) to identify someone", "examples": ["The suspect was ID'd by two witnesses."] }
+    ],
+    "collocations": ["photo ID", "ID card", "show your ID", "valid ID", "user ID"],
+    "synonyms": ["identification", "identity card"],
+    "family": [{ "word": "identify", "pos": "verb" }, { "word": "identity", "pos": "noun" }],
+    "note": "Short for identification or identity. Pronounced as two letters: I-D."
+  },
+  {
+    "word": "IT",
+    "ipa": "/ˌaɪ ˈtiː/",
+    "senses": [
+      { "pos": "noun", "tr": "bilişim teknolojileri, bilgi işlem", "def": "information technology: the use of computers to store, process, and send information", "examples": ["She works in IT for a large bank.", "Call the IT department if your computer stops working."] }
+    ],
+    "collocations": ["IT department", "IT support", "IT specialist", "IT industry", "IT skills"],
+    "synonyms": ["information technology", "tech"],
+    "family": [],
+    "note": "Pronounced as two letters: I-T."
+  },
+  {
+    "word": "ice",
+    "ipa": "/aɪs/",
+    "senses": [
+      { "pos": "noun", "tr": "buz", "def": "water that has frozen and become solid", "examples": ["Can I have some ice in my drink?", "Be careful — there's ice on the sidewalk."] },
+      { "pos": "verb", "tr": "(kek) kremayla kaplamak; buz koymak", "def": "to cover a cake with icing, or to put ice on an injury", "examples": ["Ice your knee for twenty minutes to reduce the swelling."] }
+    ],
+    "collocations": ["ice cube", "thin ice", "break the ice", "on ice", "ice age", "black ice"],
+    "synonyms": ["frost"],
+    "family": [{ "word": "icy", "pos": "adjective" }, { "word": "icing", "pos": "noun" }, { "word": "iceberg", "pos": "noun" }],
+    "note": "\"Break the ice\" = make people feel relaxed when they first meet. \"On thin ice\" = in a risky situation."
+  },
+  {
+    "word": "ice cream",
+    "ipa": "/ˈaɪs kriːm/",
+    "senses": [
+      { "pos": "noun", "tr": "dondurma", "def": "a sweet frozen food made from milk or cream and flavored with fruit, chocolate, etc.", "examples": ["Let's get some ice cream after dinner.", "Would you like vanilla or chocolate ice cream?"] }
+    ],
+    "collocations": ["ice cream cone", "scoop of ice cream", "vanilla ice cream", "ice cream truck", "ice cream parlor"],
+    "synonyms": ["gelato", "frozen dessert"],
+    "family": [],
+    "note": "Usually uncountable, but \"two ice creams\" = two servings."
+  },
+  {
+    "word": "icon",
+    "ipa": "/ˈaɪkɑːn/",
+    "senses": [
+      { "pos": "noun", "tr": "simge, ikon", "def": "a small picture on a screen that you click to open a program or file", "examples": ["Click the printer icon to print the document.", "Drag the icon to your desktop."] },
+      { "pos": "noun", "tr": "ikon, sembol, simge (kişi)", "def": "a famous person or thing that represents an idea or period", "examples": ["She became a fashion icon in the 1960s.", "The Statue of Liberty is an American icon."] },
+      { "pos": "noun", "tr": "ikona, dini tasvir", "def": "a religious painting of a holy person, especially in Orthodox churches", "examples": ["The church is famous for its ancient icons."] }
+    ],
+    "collocations": ["click on the icon", "desktop icon", "cultural icon", "fashion icon", "pop icon", "gay icon"],
+    "synonyms": ["symbol", "image", "idol", "legend"],
+    "family": [{ "word": "iconic", "pos": "adjective" }, { "word": "iconography", "pos": "noun" }]
+  },
+  {
+    "word": "idea",
+    "ipa": "/aɪˈdiːə/",
+    "senses": [
+      { "pos": "noun", "tr": "fikir, düşünce, plan", "def": "a plan, thought, or suggestion about what to do", "examples": ["That's a great idea! Let's do it.", "She came up with the idea for the app in college."] },
+      { "pos": "noun", "tr": "fikir, kanaat, bilgi", "def": "a belief, opinion, or understanding of something", "examples": ["I have no idea where he went.", "Can you give me an idea of the cost?"] },
+      { "pos": "noun", "tr": "amaç, maksat", "def": "the purpose or aim of something", "examples": ["The idea is to save money by buying in bulk."] }
+    ],
+    "collocations": ["good idea", "have no idea", "come up with an idea", "get the idea", "the whole idea", "bright idea"],
+    "synonyms": ["thought", "notion", "concept", "plan", "suggestion"],
+    "family": [{ "word": "ideal", "pos": "adjective" }],
+    "note": "\"I have no idea\" = I don't know at all. \"Get the idea\" = understand."
+  },
+  {
+    "word": "ideal",
+    "ipa": "/aɪˈdiːəl/",
+    "senses": [
+      { "pos": "adjective", "tr": "ideal, mükemmel, en uygun", "def": "perfect, or the most suitable possible", "examples": ["The weather was ideal for a picnic.", "This apartment is ideal for a young couple."] },
+      { "pos": "noun", "tr": "ideal, ülkü", "def": "a principle or standard that seems perfect and worth trying to reach", "examples": ["The country was founded on the ideals of freedom and equality.", "He hasn't given up his youthful ideals."] }
+    ],
+    "collocations": ["ideal for", "ideal solution", "ideal place", "in an ideal world", "democratic ideals", "high ideals"],
+    "synonyms": ["perfect", "best", "optimal", "principle", "value"],
+    "family": [{ "word": "ideally", "pos": "adverb" }, { "word": "idealism", "pos": "noun" }, { "word": "idealistic", "pos": "adjective" }, { "word": "idealize", "pos": "verb" }],
+    "note": "\"In an ideal world\" = if things were perfect (but they are not)."
+  },
+  {
+    "word": "identical",
+    "ipa": "/aɪˈdentɪkl/",
+    "senses": [
+      { "pos": "adjective", "tr": "aynı, özdeş, tıpatıp", "def": "exactly the same in every detail", "examples": ["The two houses look almost identical.", "Her dress was identical to mine."] }
+    ],
+    "collocations": ["identical twins", "identical to", "almost identical", "virtually identical", "identical in"],
+    "synonyms": ["the same", "alike", "matching", "indistinguishable"],
+    "family": [{ "word": "identically", "pos": "adverb" }],
+    "note": "Identical TO (or with) something."
+  },
+  {
+    "word": "identification",
+    "ipa": "/aɪˌdentɪfɪˈkeɪʃn/",
+    "senses": [
+      { "pos": "noun", "tr": "teşhis, tanımlama, belirleme", "def": "the process of recognizing or proving who or what someone or something is", "examples": ["Early identification of the disease is important.", "The identification of the body took several days."] },
+      { "pos": "noun", "tr": "kimlik belgesi", "def": "official documents that prove who you are", "examples": ["Please bring some form of identification to the exam."] },
+      { "pos": "noun", "tr": "özdeşleşme, empati", "def": "a feeling of understanding and sharing someone's feelings", "examples": ["Readers feel a strong identification with the main character."] }
+    ],
+    "collocations": ["form of identification", "positive identification", "early identification", "identification card", "photo identification"],
+    "synonyms": ["recognition", "ID", "detection", "empathy"],
+    "family": [{ "word": "identify", "pos": "verb" }, { "word": "identity", "pos": "noun" }]
+  },
+  {
+    "word": "identify",
+    "ipa": "/aɪˈdentɪfaɪ/",
+    "senses": [
+      { "pos": "verb", "tr": "tanımak, teşhis etmek, kimliğini belirlemek", "def": "to recognize someone or something and say who or what they are", "examples": ["The victim has not yet been identified.", "Can you identify the man in this photo?"] },
+      { "pos": "verb", "tr": "belirlemek, saptamak", "def": "to find or discover something, such as a problem or need", "examples": ["Researchers have identified several risk factors for the disease.", "We need to identify the cause of the delay."] },
+      { "pos": "verb", "tr": "özdeşleşmek, kendini (biriyle) bir hissetmek", "def": "(identify with) to feel that you understand and share someone's situation", "examples": ["Many teenagers identify with the main character."] }
+    ],
+    "collocations": ["identify the problem", "identify with", "identify as", "clearly identify", "be identified as"],
+    "synonyms": ["recognize", "name", "pinpoint", "determine", "relate to"],
+    "family": [{ "word": "identification", "pos": "noun" }, { "word": "identity", "pos": "noun" }, { "word": "identifiable", "pos": "adjective" }, { "word": "identifier", "pos": "noun" }]
+  },
+  {
+    "word": "identity",
+    "ipa": "/aɪˈdentəti/",
+    "senses": [
+      { "pos": "noun", "tr": "kimlik", "def": "who a person is, or the name of a person", "examples": ["The police have not revealed the identity of the suspect.", "Someone stole my identity and opened credit cards in my name."] },
+      { "pos": "noun", "tr": "kimlik, benlik, aidiyet", "def": "the qualities and beliefs that make a person or group different from others", "examples": ["Language is an important part of national identity.", "As a teenager, she struggled with her sense of identity."] }
+    ],
+    "collocations": ["identity theft", "sense of identity", "national identity", "cultural identity", "mistaken identity", "identity crisis"],
+    "synonyms": ["name", "individuality", "self", "character"],
+    "family": [{ "word": "identify", "pos": "verb" }, { "word": "identification", "pos": "noun" }],
+    "note": "\"Identity card\" exists, but Americans usually say \"ID\" or \"driver's license\"."
+  },
+  {
+    "word": "ideological",
+    "ipa": "/ˌaɪdiəˈlɑːdʒɪkl/",
+    "senses": [
+      { "pos": "adjective", "tr": "ideolojik", "def": "based on or connected with a set of political or economic ideas", "examples": ["The two parties have deep ideological differences.", "His opposition to the plan is purely ideological."] }
+    ],
+    "collocations": ["ideological differences", "ideological divide", "ideological grounds", "ideological battle", "ideological commitment"],
+    "synonyms": ["political", "doctrinal", "dogmatic"],
+    "family": [{ "word": "ideology", "pos": "noun" }, { "word": "ideologically", "pos": "adverb" }]
+  },
+  {
+    "word": "ideology",
+    "ipa": "/ˌaɪdiˈɑːlədʒi/",
+    "senses": [
+      { "pos": "noun", "tr": "ideoloji", "def": "a set of ideas and beliefs that a political or economic system is based on", "examples": ["The party's ideology is based on free markets and small government.", "People were imprisoned for opposing the official ideology."] }
+    ],
+    "collocations": ["political ideology", "dominant ideology", "extremist ideology", "right-wing ideology", "ideology of"],
+    "synonyms": ["beliefs", "doctrine", "philosophy", "creed"],
+    "family": [{ "word": "ideological", "pos": "adjective" }, { "word": "ideologue", "pos": "noun" }]
+  },
+  {
+    "word": "idiot",
+    "ipa": "/ˈɪdiət/",
+    "senses": [
+      { "pos": "noun", "tr": "aptal, salak, ahmak", "def": "(rude) a very stupid person", "examples": ["Some idiot parked in front of my driveway.", "I felt like an idiot when I forgot her name."] }
+    ],
+    "collocations": ["complete idiot", "feel like an idiot", "you idiot", "act like an idiot"],
+    "synonyms": ["fool", "moron", "jerk", "dummy"],
+    "family": [{ "word": "idiotic", "pos": "adjective" }, { "word": "idiocy", "pos": "noun" }],
+    "note": "Offensive when said to someone; \"feel like an idiot\" about yourself is common and mild."
+  },
+  {
+    "word": "if",
+    "ipa": "/ɪf/",
+    "senses": [
+      { "pos": "conjunction", "tr": "eğer, -se/-sa", "def": "used to say that one thing happens or is true only when another thing happens or is true", "examples": ["If it rains tomorrow, we'll stay inside.", "If I had more money, I'd travel the world."] },
+      { "pos": "conjunction", "tr": "-ip -mediğini, acaba", "def": "used to introduce an indirect yes/no question", "examples": ["She asked me if I wanted coffee.", "I wonder if he'll call."] },
+      { "pos": "conjunction", "tr": "her ne zaman, -dığında", "def": "used to mean \"whenever\" for something that always happens", "examples": ["If you heat ice, it melts."] }
+    ],
+    "collocations": ["as if", "even if", "if only", "only if", "if not", "what if"],
+    "synonyms": ["provided that", "assuming", "whether", "in case"],
+    "family": [],
+    "note": "Don't use \"will\" right after \"if\" for future: \"If it rains\", not \"If it will rain\". \"What if…?\" = what would happen?"
+  },
+  {
+    "word": "ignorance",
+    "ipa": "/ˈɪɡnərəns/",
+    "senses": [
+      { "pos": "noun", "tr": "bilgisizlik, cehalet", "def": "a lack of knowledge or information about something", "examples": ["Public ignorance about the disease led to fear.", "I was embarrassed by my ignorance of local history."] }
+    ],
+    "collocations": ["ignorance of", "out of ignorance", "complete ignorance", "ignorance is bliss", "plead ignorance"],
+    "synonyms": ["unawareness", "lack of knowledge", "inexperience"],
+    "family": [{ "word": "ignorant", "pos": "adjective" }, { "word": "ignore", "pos": "verb" }],
+    "note": "\"Ignorance is bliss\" = it is better not to know some things. \"Plead ignorance\" = say you didn't know."
+  },
+  {
+    "word": "ignorant",
+    "ipa": "/ˈɪɡnərənt/",
+    "senses": [
+      { "pos": "adjective", "tr": "habersiz, bilgisiz", "def": "not knowing about something you should know about", "examples": ["Many voters are ignorant of the candidates' actual policies.", "I'm ignorant about how cars work."] },
+      { "pos": "adjective", "tr": "cahil, kaba, görgüsüz", "def": "showing a lack of education or understanding, often in a rude way", "examples": ["He made some ignorant comments about immigrants."] }
+    ],
+    "collocations": ["ignorant of", "ignorant about", "completely ignorant", "ignorant comments"],
+    "synonyms": ["unaware", "uninformed", "uneducated", "clueless"],
+    "family": [{ "word": "ignorance", "pos": "noun" }, { "word": "ignorantly", "pos": "adverb" }],
+    "note": "Not the adjective of \"ignore\". Calling someone ignorant is quite insulting."
+  },
+  {
+    "word": "ignore",
+    "ipa": "/ɪɡˈnɔːr/",
+    "senses": [
+      { "pos": "verb", "tr": "görmezden gelmek, aldırmamak", "def": "to pay no attention to something, or to act as if you have not noticed it", "examples": ["She ignored her doctor's advice and kept smoking.", "We can't ignore the problem any longer."] },
+      { "pos": "verb", "tr": "yüzüne bakmamak, takmamak", "def": "to deliberately not speak to or look at someone", "examples": ["He ignored me all evening at the party."] }
+    ],
+    "collocations": ["ignore advice", "ignore a warning", "completely ignore", "simply ignore", "can't ignore", "choose to ignore"],
+    "synonyms": ["disregard", "overlook", "neglect", "brush aside"],
+    "family": [{ "word": "ignorance", "pos": "noun" }, { "word": "ignorant", "pos": "adjective" }],
+    "note": "\"Ignore\" means not paying attention on purpose; it doesn't mean \"not know\" (that is \"be ignorant of\")."
+  },
+  {
+    "word": "ill",
+    "ipa": "/ɪl/",
+    "senses": [
+      { "pos": "adjective", "tr": "hasta, rahatsız", "def": "sick or not feeling well", "examples": ["She was seriously ill with pneumonia last winter.", "He felt ill after eating the shrimp."] },
+      { "pos": "adjective", "tr": "kötü, zararlı", "def": "bad or harmful", "examples": ["The drug has no ill effects."] },
+      { "pos": "adverb", "tr": "kötü, olumsuz şekilde", "def": "badly or not enough", "examples": ["We can ill afford another delay.", "Don't speak ill of the dead."] }
+    ],
+    "collocations": ["seriously ill", "mentally ill", "fall ill", "ill effects", "ill health", "speak ill of"],
+    "synonyms": ["sick", "unwell", "harmful", "badly"],
+    "family": [{ "word": "illness", "pos": "noun" }],
+    "note": "In American English \"sick\" is more common in speech; \"ill\" is a bit formal. Use \"sick\" before a noun: a sick child."
+  },
+  {
+    "word": "illegal",
+    "ipa": "/ɪˈliːɡl/",
+    "senses": [
+      { "pos": "adjective", "tr": "yasa dışı, kanunsuz", "def": "not allowed by law", "examples": ["It's illegal to drive without a license.", "Police seized a large amount of illegal drugs."] }
+    ],
+    "collocations": ["illegal drugs", "illegal activity", "make something illegal", "illegal immigration", "strictly illegal"],
+    "synonyms": ["unlawful", "illicit", "criminal", "prohibited"],
+    "family": [{ "word": "illegally", "pos": "adverb" }, { "word": "illegality", "pos": "noun" }, { "word": "legal", "pos": "adjective" }],
+    "note": "\"Illegal\" for a person (an illegal) is offensive; say \"undocumented immigrant\"."
+  },
+  {
+    "word": "illness",
+    "ipa": "/ˈɪlnəs/",
+    "senses": [
+      { "pos": "noun", "tr": "hastalık, rahatsızlık", "def": "the state of being sick, or a particular disease", "examples": ["She missed two weeks of school because of illness.", "He died after a long illness."] }
+    ],
+    "collocations": ["serious illness", "mental illness", "long illness", "chronic illness", "terminal illness"],
+    "synonyms": ["sickness", "disease", "condition", "ailment"],
+    "family": [{ "word": "ill", "pos": "adjective" }],
+    "note": "Illness is the state of being sick; disease is often a specific medical condition, especially infectious."
+  },
+  {
+    "word": "illusion",
+    "ipa": "/ɪˈluːʒn/",
+    "senses": [
+      { "pos": "noun", "tr": "yanılsama, hayal, kuruntu", "def": "a false idea or belief about someone or a situation", "examples": ["She had no illusions about how hard the job would be.", "The election gave the illusion of democracy."] },
+      { "pos": "noun", "tr": "göz yanılması, illüzyon", "def": "something that seems to exist or be true but is not", "examples": ["Mirrors create the illusion of more space in a small room."] }
+    ],
+    "collocations": ["have no illusions", "under the illusion that", "optical illusion", "create an illusion", "the illusion of"],
+    "synonyms": ["delusion", "fantasy", "misconception", "deception"],
+    "family": [{ "word": "illusory", "pos": "adjective" }, { "word": "disillusioned", "pos": "adjective" }],
+    "note": "\"Be under the illusion that…\" = wrongly believe that…"
+  },
+  {
+    "word": "illustrate",
+    "ipa": "/ˈɪləstreɪt/",
+    "senses": [
+      { "pos": "verb", "tr": "örneklerle açıklamak, göstermek", "def": "to make something clearer by using examples, pictures, or stories", "examples": ["The teacher used a simple diagram to illustrate the process.", "This case illustrates how dangerous the system has become."] },
+      { "pos": "verb", "tr": "resimlemek", "def": "to draw pictures for a book or magazine", "examples": ["The children's book was beautifully illustrated by a local artist."] }
+    ],
+    "collocations": ["illustrate a point", "illustrate the importance of", "beautifully illustrated", "clearly illustrate", "illustrated with"],
+    "synonyms": ["demonstrate", "show", "exemplify", "explain", "depict"],
+    "family": [{ "word": "illustration", "pos": "noun" }, { "word": "illustrator", "pos": "noun" }, { "word": "illustrative", "pos": "adjective" }]
+  },
+  {
+    "word": "illustration",
+    "ipa": "/ˌɪləˈstreɪʃn/",
+    "senses": [
+      { "pos": "noun", "tr": "resim, çizim, illüstrasyon", "def": "a drawing or picture in a book or magazine", "examples": ["The book has beautiful color illustrations.", "She works in children's book illustration."] },
+      { "pos": "noun", "tr": "örnek", "def": "an example that helps explain or prove something", "examples": ["The flood is a clear illustration of the effects of climate change."] }
+    ],
+    "collocations": ["by way of illustration", "clear illustration", "color illustration", "a perfect illustration of"],
+    "synonyms": ["picture", "drawing", "image", "example", "demonstration"],
+    "family": [{ "word": "illustrate", "pos": "verb" }, { "word": "illustrator", "pos": "noun" }]
+  },
+  {
+    "word": "image",
+    "ipa": "/ˈɪmɪdʒ/",
+    "senses": [
+      { "pos": "noun", "tr": "imaj, izlenim, itibar", "def": "the general opinion that people have of a person, company, or product", "examples": ["The scandal damaged the company's public image.", "He's trying to improve his image with younger voters."] },
+      { "pos": "noun", "tr": "görüntü, resim", "def": "a picture, photo, or a picture on a screen", "examples": ["The satellite sent back images of the storm.", "You can upload images to your profile."] },
+      { "pos": "noun", "tr": "zihinsel imge, hayal", "def": "a picture of something in your mind", "examples": ["I still have an image of her standing at the station."] }
+    ],
+    "collocations": ["public image", "self-image", "body image", "image of", "improve your image", "spitting image"],
+    "synonyms": ["reputation", "picture", "photo", "impression", "likeness"],
+    "family": [{ "word": "imagery", "pos": "noun" }, { "word": "imagine", "pos": "verb" }],
+    "note": "\"Be the spitting image of someone\" = look exactly like them."
+  },
+  {
+    "word": "imagery",
+    "ipa": "/ˈɪmɪdʒəri/",
+    "senses": [
+      { "pos": "noun", "tr": "imgeler, tasvir, betimleme", "def": "language, pictures, or symbols that create images in people's minds", "examples": ["The poem is full of religious imagery.", "The film uses dark imagery to show the character's fear."] },
+      { "pos": "noun", "tr": "görüntüler", "def": "pictures or photos, especially from satellites or computers", "examples": ["Satellite imagery showed the damage from the fire."] }
+    ],
+    "collocations": ["vivid imagery", "religious imagery", "satellite imagery", "powerful imagery", "visual imagery"],
+    "synonyms": ["images", "symbolism", "description", "pictures"],
+    "family": [{ "word": "image", "pos": "noun" }]
+  },
+  {
+    "word": "imaginary",
+    "ipa": "/ɪˈmædʒɪneri/",
+    "senses": [
+      { "pos": "adjective", "tr": "hayali, düşsel, gerçek olmayan", "def": "existing only in your mind, not in real life", "examples": ["As a child, she had an imaginary friend named Bob.", "The equator is an imaginary line around the earth."] }
+    ],
+    "collocations": ["imaginary friend", "imaginary line", "imaginary world", "real or imaginary"],
+    "synonyms": ["fictional", "made-up", "unreal", "invented"],
+    "family": [{ "word": "imagine", "pos": "verb" }, { "word": "imaginative", "pos": "adjective" }],
+    "note": "Imaginary = not real; imaginative = creative, full of new ideas."
+  },
+  {
+    "word": "imagination",
+    "ipa": "/ɪˌmædʒɪˈneɪʃn/",
+    "senses": [
+      { "pos": "noun", "tr": "hayal gücü, muhayyile", "def": "the ability to create pictures or new ideas in your mind", "examples": ["Children have wonderful imaginations.", "The job requires creativity and imagination."] },
+      { "pos": "noun", "tr": "hayal, kuruntu", "def": "something you think exists or happened but does not", "examples": ["Was someone at the door, or was it just my imagination?"] }
+    ],
+    "collocations": ["use your imagination", "vivid imagination", "lack of imagination", "capture the imagination", "beyond imagination"],
+    "synonyms": ["creativity", "inventiveness", "fantasy", "vision"],
+    "family": [{ "word": "imagine", "pos": "verb" }, { "word": "imaginative", "pos": "adjective" }, { "word": "imaginary", "pos": "adjective" }],
+    "note": "\"Capture somebody's imagination\" = make them very interested and excited."
+  },
+  {
+    "word": "imagine",
+    "ipa": "/ɪˈmædʒɪn/",
+    "senses": [
+      { "pos": "verb", "tr": "hayal etmek, düşünmek, gözünde canlandırmak", "def": "to form a picture in your mind of what something might be like", "examples": ["Imagine you're lying on a beach in Hawaii.", "I can't imagine living without the internet."] },
+      { "pos": "verb", "tr": "sanmak, tahmin etmek", "def": "to think something is probably true", "examples": ["I imagine she'll be tired after the long flight."] },
+      { "pos": "verb", "tr": "kuruntu etmek, hayal görmek", "def": "to believe something is real when it is not", "examples": ["Nobody's there — you're imagining things."] }
+    ],
+    "collocations": ["imagine doing", "can't imagine", "just imagine", "imagine things", "hard to imagine"],
+    "synonyms": ["picture", "visualize", "envision", "suppose", "suspect"],
+    "family": [{ "word": "imagination", "pos": "noun" }, { "word": "imaginary", "pos": "adjective" }, { "word": "imaginative", "pos": "adjective" }, { "word": "unimaginable", "pos": "adjective" }],
+    "note": "Followed by -ing, not \"to\": \"imagine living\", not \"imagine to live\"."
+  },
+  {
+    "word": "immediate",
+    "ipa": "/ɪˈmiːdiət/",
+    "senses": [
+      { "pos": "adjective", "tr": "hemen, anında, acil", "def": "happening or done without delay", "examples": ["The new law will take immediate effect.", "Patients with chest pain need immediate attention."] },
+      { "pos": "adjective", "tr": "yakın, en yakın", "def": "nearest in time, place, or relationship", "examples": ["Only immediate family members attended the funeral.", "There are no shops in the immediate area."] },
+      { "pos": "adjective", "tr": "şu anki, mevcut", "def": "existing now and needing attention", "examples": ["Our immediate concern is finding a place to stay tonight."] }
+    ],
+    "collocations": ["immediate effect", "immediate action", "immediate family", "immediate future", "immediate area", "immediate response"],
+    "synonyms": ["instant", "prompt", "urgent", "nearest", "current"],
+    "family": [{ "word": "immediately", "pos": "adverb" }, { "word": "immediacy", "pos": "noun" }]
+  },
+  {
+    "word": "immediately",
+    "ipa": "/ɪˈmiːdiətli/",
+    "senses": [
+      { "pos": "adverb", "tr": "hemen, derhal, anında", "def": "right now, without any delay", "examples": ["Call 911 immediately if you smell gas.", "She immediately regretted what she had said."] },
+      { "pos": "adverb", "tr": "hemen (yanında, öncesinde, sonrasında)", "def": "directly next to or just before or after something", "examples": ["The restaurant is immediately to the left of the bank.", "Immediately after the meeting, he left for the airport."] }
+    ],
+    "collocations": ["immediately after", "immediately before", "almost immediately", "leave immediately", "immediately available"],
+    "synonyms": ["at once", "right away", "instantly", "straight away"],
+    "family": [{ "word": "immediate", "pos": "adjective" }]
+  },
+  {
+    "word": "immense",
+    "ipa": "/ɪˈmens/",
+    "senses": [
+      { "pos": "adjective", "tr": "muazzam, uçsuz bucaksız, çok büyük", "def": "extremely large or great", "examples": ["The project was an immense success.", "She felt immense pressure before the final exam."] }
+    ],
+    "collocations": ["immense pressure", "immense value", "immense importance", "immense pleasure", "immense amount"],
+    "synonyms": ["huge", "enormous", "vast", "tremendous", "massive"],
+    "family": [{ "word": "immensely", "pos": "adverb" }, { "word": "immensity", "pos": "noun" }],
+    "note": "\"Immensely\" is common: I enjoyed it immensely."
+  },
+  {
+    "word": "immigrant",
+    "ipa": "/ˈɪmɪɡrənt/",
+    "senses": [
+      { "pos": "noun", "tr": "göçmen", "def": "a person who has come to live permanently in a different country", "examples": ["Her grandparents were Irish immigrants who arrived in Boston.", "The city has a large immigrant community."] }
+    ],
+    "collocations": ["illegal immigrant", "undocumented immigrant", "immigrant community", "first-generation immigrant", "recent immigrant"],
+    "synonyms": ["migrant", "newcomer", "settler"],
+    "family": [{ "word": "immigrate", "pos": "verb" }, { "word": "immigration", "pos": "noun" }, { "word": "emigrant", "pos": "noun" }],
+    "note": "Immigrant = coming INTO a country; emigrant = leaving a country. Migrant = moving, often temporarily for work."
+  },
+  {
+    "word": "immigrate",
+    "ipa": "/ˈɪmɪɡreɪt/",
+    "senses": [
+      { "pos": "verb", "tr": "göç etmek (bir ülkeye)", "def": "to come to live permanently in a new country", "examples": ["His family immigrated to the United States in 1985.", "Many doctors immigrate to Canada each year."] }
+    ],
+    "collocations": ["immigrate to", "immigrate from", "decide to immigrate", "legally immigrate"],
+    "synonyms": ["migrate", "move", "settle", "relocate"],
+    "family": [{ "word": "immigrant", "pos": "noun" }, { "word": "immigration", "pos": "noun" }, { "word": "emigrate", "pos": "verb" }],
+    "note": "Immigrate TO a new country; emigrate FROM your home country."
+  },
+  {
+    "word": "immigration",
+    "ipa": "/ˌɪmɪˈɡreɪʃn/",
+    "senses": [
+      { "pos": "noun", "tr": "göç, göçmenlik", "def": "the process of people coming to live permanently in a country", "examples": ["Immigration has been a major issue in the election.", "The government wants to reduce illegal immigration."] },
+      { "pos": "noun", "tr": "pasaport kontrolü, göçmen bürosu", "def": "the place at an airport or border where passports are checked", "examples": ["It took an hour to get through immigration at the airport."] }
+    ],
+    "collocations": ["immigration policy", "illegal immigration", "immigration reform", "go through immigration", "immigration officer", "immigration law"],
+    "synonyms": ["migration", "influx", "border control"],
+    "family": [{ "word": "immigrant", "pos": "noun" }, { "word": "immigrate", "pos": "verb" }]
+  },
+  {
+    "word": "imminent",
+    "ipa": "/ˈɪmɪnənt/",
+    "senses": [
+      { "pos": "adjective", "tr": "yakın, eli kulağında, an meselesi", "def": "likely to happen very soon, especially something bad", "examples": ["Residents were warned that a hurricane was imminent.", "The company is in imminent danger of bankruptcy."] }
+    ],
+    "collocations": ["imminent danger", "imminent threat", "imminent collapse", "imminent arrival", "be imminent"],
+    "synonyms": ["impending", "approaching", "forthcoming", "looming"],
+    "family": [{ "word": "imminently", "pos": "adverb" }, { "word": "imminence", "pos": "noun" }],
+    "note": "Don't confuse with \"eminent\" (famous and respected)."
+  },
+  {
+    "word": "immune",
+    "ipa": "/ɪˈmjuːn/",
+    "senses": [
+      { "pos": "adjective", "tr": "bağışık, bağışıklığı olan", "def": "unable to catch a particular disease because your body can resist it", "examples": ["Once you've had chickenpox, you're usually immune to it.", "Vaccines help your immune system fight infection."] },
+      { "pos": "adjective", "tr": "etkilenmeyen, korunaklı; muaf", "def": "not affected by something, or protected from something such as punishment", "examples": ["No industry is immune to the economic downturn.", "Diplomats are immune from prosecution."] }
+    ],
+    "collocations": ["immune system", "immune to", "immune from", "immune response", "immune to criticism"],
+    "synonyms": ["resistant", "protected", "unaffected", "exempt"],
+    "family": [{ "word": "immunity", "pos": "noun" }, { "word": "immunize", "pos": "verb" }, { "word": "immunization", "pos": "noun" }],
+    "note": "Immune TO a disease or influence; immune FROM legal action."
+  },
+  {
+    "word": "impact",
+    "ipa": "/ˈɪmpækt/",
+    "senses": [
+      { "pos": "noun", "tr": "etki, tesir", "def": "a strong effect that something has on someone or something", "examples": ["Social media has had a huge impact on how we communicate.", "The study examines the environmental impact of air travel."] },
+      { "pos": "noun", "tr": "çarpma, darbe", "def": "the force of one object hitting another", "examples": ["The driver was killed on impact.", "The impact of the crash threw him from the car."] },
+      { "pos": "verb", "tr": "etkilemek", "def": "to have an effect on someone or something", "examples": ["The new rules will impact thousands of small businesses.", "Lack of sleep can negatively impact your health."] }
+    ],
+    "collocations": ["have an impact on", "major impact", "environmental impact", "on impact", "negative impact", "economic impact"],
+    "synonyms": ["effect", "influence", "consequence", "collision", "affect"],
+    "family": [{ "word": "impactful", "pos": "adjective" }],
+    "note": "Noun stress: IMpact. Have an impact ON something. Some people dislike \"impact\" as a verb; \"affect\" is safer in formal writing."
+  }
+]

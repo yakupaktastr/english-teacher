@@ -1,0 +1,1246 @@
+[
+  {
+    "word": "debut",
+    "ipa": "/deɪˈbjuː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ilk çıkış, ilk gösteri, ilk maç",
+        "def": "the first public appearance of a performer, player, or product",
+        "examples": ["She made her Broadway debut at the age of nineteen.", "The band's debut album sold a million copies."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ilk kez sahneye çıkmak, ilk kez piyasaya sürülmek",
+        "def": "to appear or be shown to the public for the first time",
+        "examples": ["The new phone debuts in stores next month."]
+      }
+    ],
+    "collocations": ["make your debut", "debut album", "debut novel", "professional debut", "impressive debut"],
+    "synonyms": ["first appearance", "premiere", "launch", "introduction"],
+    "family": [{ "word": "debutant", "pos": "noun" }],
+    "note": "French origin: the t is silent. Often used as an adjective: debut album, debut season."
+  },
+  {
+    "word": "decade",
+    "ipa": "/ˈdekeɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "on yıl",
+        "def": "a period of ten years",
+        "examples": ["Prices have doubled over the past decade.", "The 1960s were a decade of huge social change."]
+      }
+    ],
+    "collocations": ["past decade", "last decade", "for decades", "decades ago", "over the next decade", "the first decade of"],
+    "synonyms": ["ten years"],
+    "family": [],
+    "note": "\"Decades\" is often used to mean \"a very long time\": \"for decades\"."
+  },
+  {
+    "word": "December",
+    "ipa": "/dɪˈsembər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "aralık (ayı)",
+        "def": "the twelfth and last month of the year",
+        "examples": ["The store gets very busy in December before the holidays.", "My birthday is on December 3."]
+      }
+    ],
+    "collocations": ["in December", "on December 1", "early December", "late December", "last December"],
+    "synonyms": [],
+    "family": [],
+    "note": "Always capitalized. Use \"in December\" for the month and \"on December 3\" for a date."
+  },
+  {
+    "word": "decent",
+    "ipa": "/ˈdiːsnt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "makul, düzgün, fena değil, tatmin edici",
+        "def": "of a good enough standard or quality",
+        "examples": ["It's hard to find a decent apartment for less than $2,000 a month.", "Everyone deserves a decent wage."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "terbiyeli, dürüst, saygıdeğer, efendi",
+        "def": "honest, fair, and kind, following accepted moral standards",
+        "examples": ["He's a decent guy who would never cheat anyone.", "Do the decent thing and apologize."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(giyimli) uygun, üstü başı düzgün",
+        "def": "wearing enough clothes not to be embarrassed",
+        "examples": ["Can I come in? Are you decent?"]
+      }
+    ],
+    "collocations": ["a decent job", "decent wage", "decent living", "decent people", "do the decent thing", "pretty decent"],
+    "synonyms": ["adequate", "reasonable", "acceptable", "respectable", "honest"],
+    "family": [
+      { "word": "decency", "pos": "noun" },
+      { "word": "decently", "pos": "adverb" },
+      { "word": "indecent", "pos": "adjective" }
+    ],
+    "note": "Pronounced /ˈdiːsnt/. Don't confuse with \"descent\" /dɪˈsent/ (going down)."
+  },
+  {
+    "word": "decide",
+    "ipa": "/dɪˈsaɪd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "karar vermek",
+        "def": "to choose what to do after thinking about the possibilities",
+        "examples": ["We decided to sell the house and move to Denver.", "I can't decide which dress to wear."]
+      },
+      {
+        "pos": "verb",
+        "tr": "belirlemek, sonucunu tayin etmek",
+        "def": "to affect the result of something",
+        "examples": ["A single goal decided the championship."]
+      }
+    ],
+    "collocations": ["decide to do", "decide on", "decide against", "decide whether", "finally decided", "hard to decide"],
+    "synonyms": ["choose", "determine", "make up your mind", "settle"],
+    "family": [
+      { "word": "decision", "pos": "noun" },
+      { "word": "decisive", "pos": "adjective" },
+      { "word": "decided", "pos": "adjective" },
+      { "word": "undecided", "pos": "adjective" }
+    ],
+    "note": "\"Decide on\" = choose: \"We decided on the blue sofa.\" \"Decide against\" = choose not to."
+  },
+  {
+    "word": "decision",
+    "ipa": "/dɪˈsɪʒn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "karar",
+        "def": "a choice you make after thinking about what is best to do",
+        "examples": ["Moving abroad was the best decision I ever made.", "The judge's decision will be announced tomorrow."]
+      }
+    ],
+    "collocations": ["make a decision", "difficult decision", "final decision", "reach a decision", "decision on", "reverse a decision"],
+    "synonyms": ["choice", "judgment", "conclusion", "ruling"],
+    "family": [
+      { "word": "decide", "pos": "verb" },
+      { "word": "decisive", "pos": "adjective" },
+      { "word": "indecision", "pos": "noun" }
+    ],
+    "note": "In American English you \"make\" a decision; \"take a decision\" is British."
+  },
+  {
+    "word": "decision-making",
+    "ipa": "/dɪˈsɪʒn meɪkɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "karar alma, karar verme (süreci)",
+        "def": "the process of making important decisions, especially in an organization",
+        "examples": ["Employees want to be more involved in decision-making.", "Stress can seriously affect your decision-making."]
+      }
+    ],
+    "collocations": ["decision-making process", "involved in decision-making", "decision-making power", "good decision-making", "shared decision-making"],
+    "synonyms": ["judgment", "choice", "policymaking"],
+    "family": [
+      { "word": "decision-maker", "pos": "noun" },
+      { "word": "decision", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "decisive",
+    "ipa": "/dɪˈsaɪsɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "belirleyici, kesin, kesin sonuçlu",
+        "def": "very important in deciding the final result",
+        "examples": ["Her testimony was decisive in winning the case.", "The army won a decisive victory."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kararlı, hızlı karar veren",
+        "def": "able to make decisions quickly and with confidence",
+        "examples": ["A good leader needs to be decisive in a crisis."]
+      }
+    ],
+    "collocations": ["decisive role", "decisive victory", "decisive factor", "decisive action", "decisive moment"],
+    "synonyms": ["crucial", "conclusive", "determined", "resolute", "firm"],
+    "family": [
+      { "word": "decisively", "pos": "adverb" },
+      { "word": "decisiveness", "pos": "noun" },
+      { "word": "indecisive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "deck",
+    "ipa": "/dek/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "güverte, (otobüs) kat",
+        "def": "the outside floor of a ship, or one of the floors of a ship or bus",
+        "examples": ["The passengers went up on deck to watch the sunset.", "We sat on the top deck of the tour bus."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ahşap veranda, teras",
+        "def": "a wooden floor built outside a house, usually raised above the ground",
+        "examples": ["We had dinner out on the back deck."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(iskambil) deste",
+        "def": "a complete set of playing cards",
+        "examples": ["Shuffle the deck and deal five cards to each player."]
+      }
+    ],
+    "collocations": ["on deck", "top deck", "back deck", "deck of cards", "all hands on deck", "sun deck"],
+    "synonyms": ["floor", "level", "patio", "pack"],
+    "family": [{ "word": "deckchair", "pos": "noun" }],
+    "note": "\"All hands on deck\" = everyone must help. Americans say \"a deck of cards\"; British say \"a pack\"."
+  },
+  {
+    "word": "declaration",
+    "ipa": "/ˌdekləˈreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bildiri, beyanname, ilan, açıklama",
+        "def": "an official or formal statement, or the act of making one",
+        "examples": ["The Declaration of Independence was signed in 1776.", "The president made a declaration of war."]
+      },
+      {
+        "pos": "noun",
+        "tr": "beyan, (gümrük, vergi) beyanı",
+        "def": "a written statement giving official information, such as income or goods",
+        "examples": ["Fill out the customs declaration before you land."]
+      }
+    ],
+    "collocations": ["declaration of war", "declaration of independence", "make a declaration", "formal declaration", "customs declaration", "declaration of love"],
+    "synonyms": ["statement", "announcement", "proclamation", "pronouncement"],
+    "family": [{ "word": "declare", "pos": "verb" }]
+  },
+  {
+    "word": "declare",
+    "ipa": "/dɪˈkler/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ilan etmek, açıklamak, bildirmek",
+        "def": "to say something officially or publicly",
+        "examples": ["The governor declared a state of emergency after the floods.", "The company was declared bankrupt in 2019."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(gümrük, vergi) beyan etmek",
+        "def": "to tell officials about money you earned or goods you are bringing into a country",
+        "examples": ["Do you have anything to declare?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "kesin bir dille söylemek",
+        "def": "to say something clearly and firmly",
+        "examples": ["\"I'm never going back there,\" she declared."]
+      }
+    ],
+    "collocations": ["declare war", "declare independence", "declare a state of emergency", "declare bankruptcy", "declared dead", "nothing to declare"],
+    "synonyms": ["announce", "proclaim", "state", "assert"],
+    "family": [
+      { "word": "declaration", "pos": "noun" },
+      { "word": "declared", "pos": "adjective" },
+      { "word": "undeclared", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "düşüş, azalma, gerileme",
+        "def": "a gradual decrease in number, value, quality, or strength",
+        "examples": ["There has been a sharp decline in birth rates.", "The town went into decline when the factory closed."]
+      },
+      {
+        "pos": "verb",
+        "tr": "azalmak, düşmek, gerilemek",
+        "def": "to become smaller, fewer, or worse",
+        "examples": ["Sales declined by 15% last quarter.", "His health declined rapidly after the fall."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(kibarca) reddetmek, geri çevirmek",
+        "def": "to politely refuse an offer or invitation",
+        "examples": ["She declined the job offer.", "The senator declined to comment."]
+      }
+    ],
+    "collocations": ["in decline", "sharp decline", "steady decline", "decline to comment", "decline an invitation", "decline sharply"],
+    "synonyms": ["decrease", "drop", "fall", "refuse", "turn down"],
+    "family": [{ "word": "declining", "pos": "adjective" }],
+    "note": "\"Your card was declined\" = the payment was refused."
+  },
+  {
+    "word": "decorate",
+    "ipa": "/ˈdekəreɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "süslemek, dekore etmek",
+        "def": "to make something look more attractive by adding things to it",
+        "examples": ["We decorated the tree with lights and ornaments.", "The cake was decorated with fresh strawberries."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ev) boyamak, döşemek",
+        "def": "to paint or put wallpaper and furniture in a room or house",
+        "examples": ["They decorated the baby's room in soft yellow."]
+      },
+      {
+        "pos": "verb",
+        "tr": "madalya vermek, nişanla ödüllendirmek",
+        "def": "to give someone a medal or honor",
+        "examples": ["He was decorated for bravery during the war."]
+      }
+    ],
+    "collocations": ["decorate with", "beautifully decorated", "decorate a room", "decorate a cake", "decorated for bravery"],
+    "synonyms": ["adorn", "embellish", "furnish", "honor"],
+    "family": [
+      { "word": "decoration", "pos": "noun" },
+      { "word": "decorative", "pos": "adjective" },
+      { "word": "decorator", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "decoration",
+    "ipa": "/ˌdekəˈreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "süs, süsleme",
+        "def": "something added to make a place or thing look attractive, especially for a special occasion",
+        "examples": ["We put up the Christmas decorations in early December.", "The walls were bare, with no decoration at all."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dekorasyon",
+        "def": "the way a room or building is painted and furnished",
+        "examples": ["The hotel's interior decoration is very modern."]
+      },
+      {
+        "pos": "noun",
+        "tr": "madalya, nişan",
+        "def": "a medal given as an honor",
+        "examples": ["He received several military decorations."]
+      }
+    ],
+    "collocations": ["Christmas decorations", "party decorations", "put up decorations", "interior decoration", "for decoration"],
+    "synonyms": ["ornament", "adornment", "embellishment", "medal"],
+    "family": [
+      { "word": "decorate", "pos": "verb" },
+      { "word": "decorative", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "decrease",
+    "ipa": "/ˈdiːkriːs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "azalma, düşüş",
+        "def": "a reduction in size, number, or amount",
+        "examples": ["There was a 10% decrease in crime last year.", "Doctors noticed a decrease in her blood pressure."]
+      },
+      {
+        "pos": "verb",
+        "tr": "azalmak, azaltmak",
+        "def": "to become smaller or fewer, or to make something smaller",
+        "examples": ["The number of smokers has decreased steadily since the 1990s.", "The new road should decrease traffic downtown."]
+      }
+    ],
+    "collocations": ["decrease in", "sharp decrease", "significant decrease", "decrease by 10%", "decrease steadily"],
+    "synonyms": ["reduction", "decline", "drop", "reduce", "fall"],
+    "family": [{ "word": "decreasing", "pos": "adjective" }],
+    "note": "Stress moves: the noun is /ˈdiːkriːs/, the verb usually /dɪˈkriːs/. Opposite: increase."
+  },
+  {
+    "word": "dedicated",
+    "ipa": "/ˈdedɪkeɪtɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kendini adamış, özverili",
+        "def": "working hard at something because it is very important to you",
+        "examples": ["She's a dedicated teacher who stays late to help her students.", "The charity is run by a small team of dedicated volunteers."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(bir amaca) özel, tahsis edilmiş",
+        "def": "made or used for only one particular purpose",
+        "examples": ["The building has a dedicated bike lane and charging stations."]
+      }
+    ],
+    "collocations": ["dedicated to", "highly dedicated", "dedicated fans", "dedicated staff", "dedicated team"],
+    "synonyms": ["committed", "devoted", "loyal", "specialized"],
+    "family": [
+      { "word": "dedicate", "pos": "verb" },
+      { "word": "dedication", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "dedication",
+    "ipa": "/ˌdedɪˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "özveri, kendini adama, bağlılık",
+        "def": "hard work and effort that someone gives to something they think is important",
+        "examples": ["Her dedication to her patients is remarkable.", "It takes years of dedication to become a concert pianist."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ithaf",
+        "def": "words at the start of a book or song that say who it is written for",
+        "examples": ["The dedication at the front of the book reads, \"For my mother.\""]
+      }
+    ],
+    "collocations": ["dedication to", "hard work and dedication", "show dedication", "total dedication", "years of dedication"],
+    "synonyms": ["commitment", "devotion", "loyalty", "determination"],
+    "family": [
+      { "word": "dedicate", "pos": "verb" },
+      { "word": "dedicated", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "deduce",
+    "ipa": "/dɪˈduːs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sonuç çıkarmak, çıkarsamak",
+        "def": "to reach a conclusion by thinking about the facts or evidence you have",
+        "examples": ["From the mud on his boots, she deduced that he had been in the garden.", "Scientists deduced the age of the rock from its chemical makeup."]
+      }
+    ],
+    "collocations": ["deduce from", "deduce that", "possible to deduce", "easily deduced", "deduce the cause"],
+    "synonyms": ["conclude", "infer", "work out", "figure out", "reason"],
+    "family": [
+      { "word": "deduction", "pos": "noun" },
+      { "word": "deductive", "pos": "adjective" },
+      { "word": "deducible", "pos": "adjective" }
+    ],
+    "note": "Formal. Don't confuse with \"deduct\" (to take away an amount, e.g. from pay); both share the noun \"deduction\"."
+  },
+  {
+    "word": "deed",
+    "ipa": "/diːd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iş, eylem, hareket",
+        "def": "something someone does, especially something very good or very bad",
+        "examples": ["Helping the old man carry his groceries was her good deed for the day.", "He was punished for his evil deeds."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tapu, senet",
+        "def": "a legal document showing who owns a house or land",
+        "examples": ["Keep the deed to the house in a safe place."]
+      }
+    ],
+    "collocations": ["good deed", "evil deed", "heroic deed", "words and deeds", "title deed", "no good deed goes unpunished"],
+    "synonyms": ["act", "action", "feat", "achievement"],
+    "family": [],
+    "note": "Formal or literary in the \"action\" sense, except in the common phrase \"good deed\"."
+  },
+  {
+    "word": "deem",
+    "ipa": "/diːm/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "saymak, addetmek, kabul etmek, uygun görmek",
+        "def": "to consider or judge someone or something in a particular way",
+        "examples": ["The building was deemed unsafe after the earthquake.", "Officials will take whatever action they deem necessary."]
+      }
+    ],
+    "collocations": ["deemed necessary", "deemed unsafe", "deemed appropriate", "deemed to be", "as you deem fit"],
+    "synonyms": ["consider", "judge", "regard as", "believe", "view"],
+    "family": [],
+    "note": "Formal; often passive: \"was deemed safe\". No \"as\": \"deemed it necessary\", not \"deemed it as necessary\"."
+  },
+  {
+    "word": "deep",
+    "ipa": "/diːp/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "derin",
+        "def": "going a long way down from the top or surface, or a long way in",
+        "examples": ["The lake is very deep in the middle.", "He has a deep cut on his leg."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(duygu, uyku) derin, yoğun; (ses) kalın, pes",
+        "def": "very strong or serious, or (of sounds) low",
+        "examples": ["She fell into a deep sleep.", "He has a deep voice that's perfect for radio."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(renk) koyu",
+        "def": "(of colors) dark and strong",
+        "examples": ["The walls were painted a deep red."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "derine, derinlere, derinlemesine",
+        "def": "a long way below the surface or far inside something",
+        "examples": ["The miners worked deep underground.", "They walked deep into the forest."]
+      }
+    ],
+    "collocations": ["deep water", "take a deep breath", "deep sleep", "deep voice", "deep down", "in deep trouble"],
+    "synonyms": ["profound", "intense", "low", "dark"],
+    "family": [
+      { "word": "depth", "pos": "noun" },
+      { "word": "deeply", "pos": "adverb" },
+      { "word": "deepen", "pos": "verb" }
+    ],
+    "note": "\"Deep down\" = in your true feelings: \"Deep down, he knew she was right.\""
+  },
+  {
+    "word": "deeply",
+    "ipa": "/ˈdiːpli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "derinden, çok, son derece",
+        "def": "very much or very strongly",
+        "examples": ["I'm deeply sorry for your loss.", "The community was deeply divided over the new law."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "derin derin",
+        "def": "a long way down or in",
+        "examples": ["Breathe deeply and try to relax."]
+      }
+    ],
+    "collocations": ["deeply concerned", "deeply sorry", "deeply divided", "deeply rooted", "breathe deeply", "care deeply"],
+    "synonyms": ["profoundly", "extremely", "greatly", "intensely"],
+    "family": [{ "word": "deep", "pos": "adjective" }],
+    "note": "Use \"deeply\" for feelings (deeply moved); use \"deep\" for physical distance (dig deep)."
+  },
+  {
+    "word": "default",
+    "ipa": "/dɪˈfɔːlt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "varsayılan (ayar)",
+        "def": "what happens or is used automatically if you do not choose something else, especially on a computer",
+        "examples": ["The default language is English, but you can change it in Settings.", "Restore the phone to its default settings."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(borcu) ödememe, temerrüt",
+        "def": "failure to pay back a loan or debt",
+        "examples": ["The country is close to default on its foreign debt."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(borcu) ödememek, temerrüde düşmek",
+        "def": "to fail to pay money that you owe",
+        "examples": ["Thousands of homeowners defaulted on their mortgages in 2008."]
+      }
+    ],
+    "collocations": ["by default", "default settings", "default option", "default on a loan", "risk of default"],
+    "synonyms": ["preset", "standard", "nonpayment"],
+    "family": [{ "word": "defaulter", "pos": "noun" }],
+    "note": "\"By default\" also means \"because nobody else did\": \"She won by default when the other player didn't show up.\""
+  },
+  {
+    "word": "defeat",
+    "ipa": "/dɪˈfiːt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yenilgi, bozgun",
+        "def": "failure to win a game, war, or election",
+        "examples": ["It was the team's worst defeat in twenty years.", "The party suffered a heavy defeat in the election."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yenmek, mağlup etmek",
+        "def": "to win against someone in a war, game, or competition",
+        "examples": ["Spain defeated Germany 2–1 in the final.", "The rebels were finally defeated after a long war."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(tasarı, plan) engellemek, reddettirmek",
+        "def": "to stop something from succeeding, or to vote against it",
+        "examples": ["The bill was defeated in the Senate by three votes."]
+      }
+    ],
+    "collocations": ["suffer a defeat", "admit defeat", "narrow defeat", "crushing defeat", "defeat the purpose", "heavily defeated"],
+    "synonyms": ["loss", "beat", "conquer", "overcome", "reject"],
+    "family": [
+      { "word": "defeated", "pos": "adjective" },
+      { "word": "defeatist", "pos": "adjective" },
+      { "word": "undefeated", "pos": "adjective" }
+    ],
+    "note": "\"Defeat the purpose\" = make something pointless."
+  },
+  {
+    "word": "defect",
+    "ipa": "/ˈdiːfekt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kusur, hata, arıza",
+        "def": "a fault in something or in the way it was made",
+        "examples": ["The cars were recalled because of a defect in the brakes.", "She was born with a heart defect."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(karşı tarafa) iltica etmek, saf değiştirmek",
+        "def": "to leave your country, party, or group to join an opposing one",
+        "examples": ["The spy defected to the West in 1985."]
+      }
+    ],
+    "collocations": ["birth defect", "heart defect", "manufacturing defect", "serious defect", "defect to"],
+    "synonyms": ["fault", "flaw", "imperfection", "desert"],
+    "family": [
+      { "word": "defective", "pos": "adjective" },
+      { "word": "defector", "pos": "noun" },
+      { "word": "defection", "pos": "noun" }
+    ],
+    "note": "Noun stress: /ˈdiːfekt/; verb stress: /dɪˈfekt/."
+  },
+  {
+    "word": "defend",
+    "ipa": "/dɪˈfend/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "savunmak, korumak",
+        "def": "to protect someone or something from attack or harm",
+        "examples": ["The soldiers defended the city for three months.", "She took classes to learn how to defend herself."]
+      },
+      {
+        "pos": "verb",
+        "tr": "savunmak, desteklemek, arkasında durmak",
+        "def": "to speak or write in support of someone or something that is criticized",
+        "examples": ["The minister defended the decision to raise taxes."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(mahkemede) savunmak; (unvanı) korumaya çalışmak",
+        "def": "to act as someone's lawyer in court, or to try to keep a title in a competition",
+        "examples": ["A well-known lawyer will defend him at the trial.", "She is defending her Olympic title this year."]
+      }
+    ],
+    "collocations": ["defend yourself", "defend against", "defend a decision", "defend a title", "strongly defend", "defend your rights"],
+    "synonyms": ["protect", "guard", "support", "justify", "stand up for"],
+    "family": [
+      { "word": "defense", "pos": "noun" },
+      { "word": "defender", "pos": "noun" },
+      { "word": "defendant", "pos": "noun" },
+      { "word": "defensive", "pos": "adjective" },
+      { "word": "defensible", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "defender",
+    "ipa": "/dɪˈfendər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(spor) defans oyuncusu, savunma oyuncusu",
+        "def": "a player whose main job is to stop the other team from scoring",
+        "examples": ["The defender cleared the ball just before it crossed the line.", "They signed a young central defender from Brazil."]
+      },
+      {
+        "pos": "noun",
+        "tr": "savunucu, koruyucu",
+        "def": "a person who protects someone or something or speaks in support of them",
+        "examples": ["She's a passionate defender of free speech."]
+      }
+    ],
+    "collocations": ["central defender", "defender of human rights", "public defender", "staunch defender", "title defender"],
+    "synonyms": ["protector", "guardian", "champion", "supporter", "back"],
+    "family": [{ "word": "defend", "pos": "verb" }],
+    "note": "In the US, a \"public defender\" is a lawyer paid by the state to defend people who can't afford one."
+  },
+  {
+    "word": "defense",
+    "ipa": "/dɪˈfens/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "savunma, korunma",
+        "def": "the act of protecting someone or something from attack or criticism",
+        "examples": ["The country spends billions on defense every year.", "He spoke in defense of his colleague."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(mahkemede) savunma, müdafaa",
+        "def": "the arguments and lawyers that try to show in court that someone is not guilty",
+        "examples": ["The defense argued that the evidence was unreliable."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(spor) defans, savunma",
+        "def": "the players in a team whose job is to stop the other side from scoring",
+        "examples": ["Our defense has been weak all season."]
+      }
+    ],
+    "collocations": ["in defense of", "self-defense", "defense spending", "defense lawyer", "national defense", "first line of defense"],
+    "synonyms": ["protection", "security", "justification", "guard"],
+    "family": [
+      { "word": "defend", "pos": "verb" },
+      { "word": "defensive", "pos": "adjective" },
+      { "word": "defenseless", "pos": "adjective" }
+    ],
+    "note": "American spelling; British is \"defence\". In US sports it is often stressed /ˈdiːfens/."
+  },
+  {
+    "word": "defensive",
+    "ipa": "/dɪˈfensɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "savunma amaçlı, savunmaya yönelik",
+        "def": "used or intended to protect against attack",
+        "examples": ["Troops built defensive positions along the river.", "The coach changed to a more defensive strategy."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "savunmacı, alıngan",
+        "def": "reacting as if you are being criticized, even when you are not",
+        "examples": ["He gets very defensive whenever I mention his drinking."]
+      }
+    ],
+    "collocations": ["get defensive", "on the defensive", "defensive driving", "defensive position", "defensive player"],
+    "synonyms": ["protective", "sensitive", "touchy"],
+    "family": [
+      { "word": "defensively", "pos": "adverb" },
+      { "word": "defense", "pos": "noun" }
+    ],
+    "note": "\"On the defensive\" = having to defend yourself against attack or criticism."
+  },
+  {
+    "word": "deficiency",
+    "ipa": "/dɪˈfɪʃnsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eksiklik, yetersizlik",
+        "def": "a lack of something that is needed, especially in the body",
+        "examples": ["Vitamin D deficiency is common in people who don't get much sun.", "Iron deficiency can make you feel tired."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kusur, zayıf yön",
+        "def": "a weakness or fault in something",
+        "examples": ["The report pointed out serious deficiencies in the safety system."]
+      }
+    ],
+    "collocations": ["vitamin deficiency", "iron deficiency", "nutritional deficiency", "serious deficiencies", "correct a deficiency"],
+    "synonyms": ["shortage", "lack", "insufficiency", "flaw", "weakness"],
+    "family": [{ "word": "deficient", "pos": "adjective" }]
+  },
+  {
+    "word": "deficit",
+    "ipa": "/ˈdefɪsɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "açık, bütçe açığı",
+        "def": "the amount by which money spent is greater than money received",
+        "examples": ["The government is trying to reduce the budget deficit.", "The country has run a trade deficit for decades."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(skor) geride olma farkı; eksiklik",
+        "def": "the amount by which a team is behind, or a lack of something",
+        "examples": ["The team came back from a 15-point deficit to win.", "Some children with attention deficits need extra support."]
+      }
+    ],
+    "collocations": ["budget deficit", "trade deficit", "reduce the deficit", "run a deficit", "federal deficit", "attention deficit"],
+    "synonyms": ["shortfall", "deficiency", "gap", "loss"],
+    "family": [],
+    "note": "Opposite: surplus. \"Deficit\" is about money or scores; \"deficiency\" is usually about the body or quality."
+  },
+  {
+    "word": "define",
+    "ipa": "/dɪˈfaɪn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tanımlamak, anlamını açıklamak",
+        "def": "to explain the meaning of a word or idea",
+        "examples": ["How would you define \"success\"?", "The law defines a child as anyone under 18."]
+      },
+      {
+        "pos": "verb",
+        "tr": "belirlemek, ortaya koymak, şekillendirmek",
+        "def": "to describe or show something clearly, or to be a key feature of something",
+        "examples": ["The contract clearly defines each person's responsibilities.", "That one moment defined his entire career."]
+      }
+    ],
+    "collocations": ["clearly defined", "define as", "broadly defined", "narrowly defined", "define the problem", "well-defined"],
+    "synonyms": ["explain", "describe", "specify", "determine", "characterize"],
+    "family": [
+      { "word": "definition", "pos": "noun" },
+      { "word": "definite", "pos": "adjective" },
+      { "word": "defining", "pos": "adjective" },
+      { "word": "undefined", "pos": "adjective" }
+    ],
+    "note": "\"A defining moment\" = a moment that shows or decides the true nature of someone or something."
+  },
+  {
+    "word": "definite",
+    "ipa": "/ˈdefɪnət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kesin, belli, net",
+        "def": "certain and not likely to change",
+        "examples": ["We don't have a definite date for the wedding yet.", "Is that a definite yes?"]
+      },
+      {
+        "pos": "adjective",
+        "tr": "açık, belirgin, bariz",
+        "def": "easy to see or notice; clear",
+        "examples": ["There's been a definite improvement in her grades."]
+      }
+    ],
+    "collocations": ["definite answer", "definite plans", "definite improvement", "nothing definite", "definite article"],
+    "synonyms": ["certain", "fixed", "firm", "clear", "obvious"],
+    "family": [
+      { "word": "definitely", "pos": "adverb" },
+      { "word": "indefinite", "pos": "adjective" },
+      { "word": "definitive", "pos": "adjective" }
+    ],
+    "note": "Common spelling mistake: \"definate\". \"Definite\" = certain; \"definitive\" = final and most authoritative."
+  },
+  {
+    "word": "definitely",
+    "ipa": "/ˈdefɪnətli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kesinlikle, kesin olarak, mutlaka",
+        "def": "used to emphasize that something is true and there is no doubt",
+        "examples": ["I'll definitely be there on Saturday.", "This is definitely the best pizza in town."]
+      }
+    ],
+    "collocations": ["definitely not", "most definitely", "definitely worth", "definitely going to", "I definitely agree"],
+    "synonyms": ["certainly", "absolutely", "for sure", "surely", "undoubtedly"],
+    "family": [{ "word": "definite", "pos": "adjective" }],
+    "note": "Often used alone as a strong \"yes\": \"Are you coming?\" \"Definitely!\""
+  },
+  {
+    "word": "definition",
+    "ipa": "/ˌdefɪˈnɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tanım",
+        "def": "a statement explaining what a word or idea means",
+        "examples": ["Look up the definition in a dictionary.", "There's no single definition of happiness."]
+      },
+      {
+        "pos": "noun",
+        "tr": "netlik, çözünürlük",
+        "def": "how clear an image or sound is",
+        "examples": ["The new TV has amazing picture definition."]
+      }
+    ],
+    "collocations": ["by definition", "dictionary definition", "clear definition", "broad definition", "high definition"],
+    "synonyms": ["meaning", "explanation", "description", "clarity", "sharpness"],
+    "family": [
+      { "word": "define", "pos": "verb" },
+      { "word": "definitive", "pos": "adjective" }
+    ],
+    "note": "\"By definition\" = because of what something is: \"A circle is, by definition, round.\""
+  },
+  {
+    "word": "defy",
+    "ipa": "/dɪˈfaɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "karşı gelmek, hiçe saymak, meydan okumak",
+        "def": "to refuse to obey a person, law, or rule",
+        "examples": ["Thousands defied the ban and marched through the city.", "He defied his parents and dropped out of college."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(açıklamaya, tarife) imkân vermemek, aşmak",
+        "def": "to be impossible to explain, describe, or believe",
+        "examples": ["The beauty of the canyon defies description.", "The plane's flight seemed to defy gravity."]
+      }
+    ],
+    "collocations": ["defy the law", "defy the odds", "defy description", "defy gravity", "defy expectations", "defy logic"],
+    "synonyms": ["disobey", "resist", "challenge", "flout"],
+    "family": [
+      { "word": "defiance", "pos": "noun" },
+      { "word": "defiant", "pos": "adjective" },
+      { "word": "defiantly", "pos": "adverb" }
+    ],
+    "note": "\"Defy the odds\" = succeed although it seemed very unlikely."
+  },
+  {
+    "word": "degree",
+    "ipa": "/dɪˈɡriː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "derece",
+        "def": "a unit for measuring temperature or angles",
+        "examples": ["It's 90 degrees outside, so wear sunscreen.", "A right angle is 90 degrees."]
+      },
+      {
+        "pos": "noun",
+        "tr": "derece, ölçü, düzey",
+        "def": "an amount or level of something",
+        "examples": ["The job requires a high degree of skill.", "To some degree, I agree with you."]
+      },
+      {
+        "pos": "noun",
+        "tr": "diploma, (üniversite) derece",
+        "def": "a qualification given by a university after completing a course",
+        "examples": ["She has a degree in computer science from Stanford."]
+      }
+    ],
+    "collocations": ["to some degree", "a high degree of", "to a certain degree", "college degree", "master's degree", "degree in"],
+    "synonyms": ["extent", "level", "amount", "qualification", "diploma"],
+    "family": [],
+    "note": "US temperatures are usually in Fahrenheit: 90°F is about 32°C."
+  },
+  {
+    "word": "delay",
+    "ipa": "/dɪˈleɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gecikme, rötar",
+        "def": "a period when someone or something has to wait or is late",
+        "examples": ["Bad weather caused long delays at the airport.", "Please reply without delay."]
+      },
+      {
+        "pos": "verb",
+        "tr": "geciktirmek, ertelemek",
+        "def": "to make someone or something late, or to do something later than planned",
+        "examples": ["Our flight was delayed by three hours.", "They decided to delay the wedding until next spring."]
+      }
+    ],
+    "collocations": ["without delay", "long delays", "flight delay", "delay a decision", "cause a delay", "delayed by"],
+    "synonyms": ["holdup", "wait", "postpone", "put off", "hold up"],
+    "family": [{ "word": "delayed", "pos": "adjective" }]
+  },
+  {
+    "word": "delegate",
+    "ipa": "/ˈdelɪɡət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "delege, temsilci",
+        "def": "a person chosen to represent a group, especially at a meeting or conference",
+        "examples": ["Delegates from 50 countries attended the climate summit.", "Each state sends delegates to the party convention."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(yetki, görev) devretmek, vermek",
+        "def": "to give part of your work or authority to someone else",
+        "examples": ["A good manager knows how to delegate tasks to the team."]
+      }
+    ],
+    "collocations": ["conference delegates", "send a delegate", "delegate authority", "delegate responsibility", "delegate tasks"],
+    "synonyms": ["representative", "envoy", "assign", "entrust"],
+    "family": [{ "word": "delegation", "pos": "noun" }],
+    "note": "Noun ends /ɡət/; verb ends /ɡeɪt/."
+  },
+  {
+    "word": "delegation",
+    "ipa": "/ˌdelɪˈɡeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "heyet, delegasyon",
+        "def": "a group of people sent to represent a country or organization",
+        "examples": ["A trade delegation from China arrived in Washington on Monday.", "The delegation met with the prime minister."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yetki devri, görev dağılımı",
+        "def": "the act of giving part of your work or authority to someone else",
+        "examples": ["Effective delegation saves managers a lot of time."]
+      }
+    ],
+    "collocations": ["trade delegation", "lead a delegation", "official delegation", "delegation of authority", "send a delegation"],
+    "synonyms": ["deputation", "mission", "group of representatives"],
+    "family": [{ "word": "delegate", "pos": "noun" }]
+  },
+  {
+    "word": "delete",
+    "ipa": "/dɪˈliːt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "silmek, çıkarmak",
+        "def": "to remove something written, printed, or stored on a computer",
+        "examples": ["I accidentally deleted all my photos.", "She deleted the post after people complained."]
+      }
+    ],
+    "collocations": ["delete a file", "delete an email", "delete your account", "permanently delete", "delete key"],
+    "synonyms": ["remove", "erase", "cut", "wipe"],
+    "family": [{ "word": "deletion", "pos": "noun" }]
+  },
+  {
+    "word": "deliberate",
+    "ipa": "/dɪˈlɪbərət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kasıtlı, bilerek yapılan",
+        "def": "done on purpose, not by accident",
+        "examples": ["Police believe the fire was a deliberate act.", "It was a deliberate attempt to mislead the public."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "temkinli, ağır ve dikkatli",
+        "def": "slow and careful",
+        "examples": ["He walked to the stage with slow, deliberate steps."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uzun uzun düşünmek, müzakere etmek",
+        "def": "to think about or discuss something carefully before deciding",
+        "examples": ["The jury deliberated for two days before reaching a verdict."]
+      }
+    ],
+    "collocations": ["deliberate attempt", "deliberate act", "deliberate decision", "deliberate policy", "deliberate on"],
+    "synonyms": ["intentional", "planned", "careful", "consider", "discuss"],
+    "family": [
+      { "word": "deliberately", "pos": "adverb" },
+      { "word": "deliberation", "pos": "noun" }
+    ],
+    "note": "Adjective ends /ət/; verb ends /eɪt/. Opposite of the adjective: accidental."
+  },
+  {
+    "word": "deliberately",
+    "ipa": "/dɪˈlɪbərətli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kasten, bile bile, bilerek",
+        "def": "on purpose, not by accident",
+        "examples": ["He deliberately ignored my messages.", "The fire was started deliberately."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "ağır ağır, dikkatle",
+        "def": "slowly and carefully",
+        "examples": ["She spoke slowly and deliberately so everyone could understand."]
+      }
+    ],
+    "collocations": ["deliberately ignore", "deliberately misleading", "deliberately vague", "deliberately set fire", "act deliberately"],
+    "synonyms": ["on purpose", "intentionally", "knowingly", "carefully"],
+    "family": [{ "word": "deliberate", "pos": "adjective" }]
+  },
+  {
+    "word": "delicate",
+    "ipa": "/ˈdelɪkət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "narin, kırılgan, hassas",
+        "def": "easily damaged or broken",
+        "examples": ["Wash delicate fabrics by hand.", "The vase is very delicate, so be careful."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(konu, durum) hassas, nazik",
+        "def": "needing to be handled carefully to avoid upsetting people",
+        "examples": ["Money can be a delicate subject between friends.", "The negotiations are at a delicate stage."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ince, zarif; (tat, renk) hafif",
+        "def": "small and beautiful, or (of taste or color) light and pleasant",
+        "examples": ["The fish has a delicate flavor that goes well with lemon."]
+      }
+    ],
+    "collocations": ["delicate balance", "delicate situation", "delicate matter", "delicate flavor", "delicate skin"],
+    "synonyms": ["fragile", "sensitive", "tricky", "fine", "subtle"],
+    "family": [
+      { "word": "delicately", "pos": "adverb" },
+      { "word": "delicacy", "pos": "noun" }
+    ],
+    "note": "\"Delicacy\" also means an expensive or special food: \"Caviar is a delicacy.\""
+  },
+  {
+    "word": "delicious",
+    "ipa": "/dɪˈlɪʃəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "lezzetli, nefis, çok güzel",
+        "def": "having a very pleasant taste or smell",
+        "examples": ["Thanks for dinner; the soup was delicious.", "A delicious smell of fresh bread came from the kitchen."]
+      }
+    ],
+    "collocations": ["absolutely delicious", "smell delicious", "look delicious", "delicious meal", "delicious food"],
+    "synonyms": ["tasty", "delectable", "mouthwatering", "yummy"],
+    "family": [{ "word": "deliciously", "pos": "adverb" }],
+    "note": "\"Delicious\" is already strong, so say \"absolutely delicious\", not \"very delicious\"."
+  },
+  {
+    "word": "delight",
+    "ipa": "/dɪˈlaɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "büyük sevinç, zevk, keyif",
+        "def": "a feeling of great pleasure, or something that gives great pleasure",
+        "examples": ["The children screamed with delight when they saw the snow.", "Her garden is an absolute delight."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çok sevindirmek, keyif vermek",
+        "def": "to give someone great pleasure",
+        "examples": ["The magic show delighted kids and adults alike."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(in ile) zevk almak, bayılmak",
+        "def": "to enjoy something very much, especially something others might not like",
+        "examples": ["He delights in proving people wrong."]
+      }
+    ],
+    "collocations": ["to my delight", "with delight", "take delight in", "a real delight", "squeal with delight", "delight in"],
+    "synonyms": ["joy", "pleasure", "happiness", "please", "thrill"],
+    "family": [
+      { "word": "delighted", "pos": "adjective" },
+      { "word": "delightful", "pos": "adjective" },
+      { "word": "delightfully", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "delighted",
+    "ipa": "/dɪˈlaɪtɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çok memnun, çok sevinçli",
+        "def": "very pleased and happy",
+        "examples": ["We're delighted to announce the birth of our daughter.", "She was delighted with her exam results."]
+      }
+    ],
+    "collocations": ["delighted to", "delighted with", "delighted by", "absolutely delighted", "more than delighted"],
+    "synonyms": ["thrilled", "pleased", "overjoyed", "glad"],
+    "family": [
+      { "word": "delight", "pos": "noun" },
+      { "word": "delightful", "pos": "adjective" }
+    ],
+    "note": "\"I'd be delighted\" is a polite way to accept an invitation."
+  },
+  {
+    "word": "deliver",
+    "ipa": "/dɪˈlɪvər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "teslim etmek, götürmek, getirmek",
+        "def": "to take goods, letters, or packages to a person or place",
+        "examples": ["The package will be delivered on Friday.", "Do you deliver pizza to this neighborhood?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(söz) tutmak, beklenileni yerine getirmek",
+        "def": "to do what you promised or what is expected",
+        "examples": ["The new phone fails to deliver on its promises.", "If you want the job, you have to deliver results."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(konuşma) yapmak; (bebek) doğurtmak",
+        "def": "to give a speech or talk, or to help a baby be born",
+        "examples": ["The president delivered a speech on the economy.", "The midwife delivered three babies last night."]
+      }
+    ],
+    "collocations": ["deliver a package", "deliver a speech", "deliver on a promise", "deliver results", "deliver a baby", "deliver a message"],
+    "synonyms": ["bring", "carry", "supply", "fulfill", "give"],
+    "family": [
+      { "word": "delivery", "pos": "noun" },
+      { "word": "deliverance", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "delivery",
+    "ipa": "/dɪˈlɪvəri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "teslimat, dağıtım, kargo",
+        "def": "the act of taking goods or letters to the people they were sent to",
+        "examples": ["The store offers free delivery on orders over $50.", "We're expecting a delivery this afternoon."]
+      },
+      {
+        "pos": "noun",
+        "tr": "doğum",
+        "def": "the process of giving birth to a baby",
+        "examples": ["The delivery went smoothly, and both mother and baby are healthy."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(konuşma) üslup, anlatım",
+        "def": "the way someone speaks in public",
+        "examples": ["His ideas were good, but his delivery was dull."]
+      }
+    ],
+    "collocations": ["free delivery", "home delivery", "delivery service", "delivery driver", "on delivery", "delivery room"],
+    "synonyms": ["shipment", "distribution", "transport", "birth", "presentation"],
+    "family": [{ "word": "deliver", "pos": "verb" }]
+  },
+  {
+    "word": "demand",
+    "ipa": "/dɪˈmænd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "talep, istek",
+        "def": "a very firm request for something",
+        "examples": ["The workers' main demand is a 10% pay raise.", "The kidnappers made demands for money."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(piyasa) talep, rağbet",
+        "def": "the need or wish of people to have or buy something",
+        "examples": ["Demand for electric cars is growing fast.", "Nurses are in high demand right now."]
+      },
+      {
+        "pos": "verb",
+        "tr": "talep etmek, (ısrarla) istemek",
+        "def": "to ask for something very firmly, as if you have a right to it",
+        "examples": ["The customer demanded a full refund.", "Protesters demanded that the mayor resign."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gerektirmek",
+        "def": "to need something such as time, skill, or effort",
+        "examples": ["This job demands a lot of patience."]
+      }
+    ],
+    "collocations": ["in demand", "on demand", "supply and demand", "meet demand", "demand an apology", "growing demand"],
+    "synonyms": ["request", "call", "insist on", "require", "need"],
+    "family": [
+      { "word": "demanding", "pos": "adjective" },
+      { "word": "undemanding", "pos": "adjective" }
+    ],
+    "note": "No \"for\" after the verb: \"demand an answer\", not \"demand for an answer\". The noun takes \"for\": \"demand for housing\"."
+  }
+]

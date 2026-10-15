@@ -1,0 +1,1198 @@
+[
+  {
+    "word": "trio",
+    "ipa": "/ˈtriːəʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "üçlü, üç kişilik grup",
+        "def": "a group of three people or things",
+        "examples": ["A trio of teenagers was arrested for spray-painting the school.", "The menu offers a trio of desserts to share."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(müzik) trio, üçlü",
+        "def": "a group of three musicians, or a piece of music for three players",
+        "examples": ["A jazz trio played in the hotel lobby every evening."]
+      }
+    ],
+    "collocations": ["jazz trio", "piano trio", "a trio of", "comedy trio"],
+    "synonyms": ["threesome", "triad", "trilogy"],
+    "family": [],
+    "note": "Plural: trios."
+  },
+  {
+    "word": "trip",
+    "ipa": "/trɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gezi, yolculuk, seyahat",
+        "def": "a journey to a place and back again, especially a short one",
+        "examples": ["We're taking a road trip to the Grand Canyon this summer.", "He's away on a business trip until Thursday."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ayağı takılıp) tökezlemek, sendelemek",
+        "def": "to catch your foot on something and fall or almost fall",
+        "examples": ["I tripped over the dog's toy and nearly fell down the stairs.", "Be careful not to trip on the cables."]
+      }
+    ],
+    "collocations": ["business trip", "road trip", "day trip", "field trip", "round trip", "trip over"],
+    "synonyms": ["journey", "excursion", "outing", "stumble"],
+    "family": [
+      { "word": "tripper", "pos": "noun" }
+    ],
+    "note": "\"Trip\" is a single journey (countable); \"travel\" is the general activity (uncountable). \"Field trip\" = school excursion."
+  },
+  {
+    "word": "triumph",
+    "ipa": "/ˈtraɪʌmf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "zafer, büyük başarı",
+        "def": "a great success, achievement, or victory",
+        "examples": ["The film was a triumph at the box office.", "The landing on the moon was a triumph of science and engineering."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zafer sevinci, galibiyet coşkusu",
+        "def": "the feeling of great happiness that comes from a success",
+        "examples": ["She raised her arms in triumph as she crossed the finish line."]
+      }
+    ],
+    "collocations": ["a triumph of", "in triumph", "personal triumph", "great triumph", "triumph over adversity"],
+    "synonyms": ["victory", "success", "achievement", "win", "conquest"],
+    "family": [
+      { "word": "triumphant", "pos": "adjective" },
+      { "word": "triumphantly", "pos": "adverb" },
+      { "word": "triumphal", "pos": "adjective" }
+    ],
+    "note": "Also a verb: \"triumph over\" = defeat or overcome: \"Good triumphs over evil.\""
+  },
+  {
+    "word": "troop",
+    "ipa": "/truːp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "asker(ler), birlik(ler)",
+        "def": "(plural) soldiers, especially in large groups",
+        "examples": ["The government is sending more troops to the border.", "US troops withdrew from the region last year."]
+      },
+      {
+        "pos": "noun",
+        "tr": "grup, takım, sürü",
+        "def": "a group of people or animals, such as scouts or monkeys",
+        "examples": ["A troop of monkeys raided the campsite for food."]
+      }
+    ],
+    "collocations": ["send troops", "deploy troops", "withdraw troops", "ground troops", "peacekeeping troops", "Girl Scout troop"],
+    "synonyms": ["soldiers", "forces", "military", "unit"],
+    "family": [
+      { "word": "trooper", "pos": "noun" }
+    ],
+    "note": "Usually plural for soldiers: \"5,000 troops\" = 5,000 soldiers. Don't confuse with \"troupe\" (a group of performers)."
+  },
+  {
+    "word": "trophy",
+    "ipa": "/ˈtrəʊfi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kupa, ödül",
+        "def": "an object such as a silver cup given as a prize for winning a competition",
+        "examples": ["The captain lifted the trophy above his head as the crowd cheered.", "Her shelves are full of tennis trophies."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ganimet, hatıra (av, zafer)",
+        "def": "something kept to show you were successful, such as part of an animal you hunted",
+        "examples": ["A deer's head hung on the wall as a hunting trophy."]
+      }
+    ],
+    "collocations": ["win a trophy", "lift the trophy", "trophy cabinet", "championship trophy", "trophy wife"],
+    "synonyms": ["cup", "prize", "award", "medal"],
+    "family": []
+  },
+  {
+    "word": "tropical",
+    "ipa": "/ˈtrɑːpɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tropikal",
+        "def": "coming from, found in, or typical of the hot regions near the equator",
+        "examples": ["The hotel garden was full of tropical plants and flowers.", "A tropical storm is expected to hit Florida tomorrow."]
+      }
+    ],
+    "collocations": ["tropical rainforest", "tropical storm", "tropical fruit", "tropical climate", "tropical island", "tropical fish"],
+    "synonyms": ["hot", "humid", "steamy", "equatorial"],
+    "family": [
+      { "word": "tropics", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "trouble",
+    "ipa": "/ˈtrʌbl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sorun, dert, sıkıntı, zorluk",
+        "def": "a problem, worry, or difficulty, or a situation causing this",
+        "examples": ["I'm having trouble with my new phone.", "The trouble is, nobody wants to pay for it."]
+      },
+      {
+        "pos": "noun",
+        "tr": "başı dertte olmak, bela",
+        "def": "a situation in which you might be punished or blamed",
+        "examples": ["You'll be in big trouble if Mom finds out.", "He was always getting into trouble at school."]
+      },
+      {
+        "pos": "verb",
+        "tr": "rahatsız etmek, endişelendirmek, canını sıkmak",
+        "def": "to make someone worried or upset",
+        "examples": ["What's troubling you? You seem quiet today.", "Sorry to trouble you, but could you move your car?"]
+      }
+    ],
+    "collocations": ["in trouble", "have trouble doing", "get into trouble", "the trouble is", "go to the trouble of", "heart trouble"],
+    "synonyms": ["problem", "difficulty", "worry", "bother", "disturb"],
+    "family": [
+      { "word": "troubled", "pos": "adjective" },
+      { "word": "troublesome", "pos": "adjective" },
+      { "word": "troublemaker", "pos": "noun" }
+    ],
+    "note": "Pattern: \"have trouble + -ing\": \"I have trouble sleeping\" (not \"to sleep\")."
+  },
+  {
+    "word": "troubled",
+    "ipa": "/ˈtrʌbld/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "endişeli, kaygılı, huzursuz",
+        "def": "worried and anxious",
+        "examples": ["She looked troubled when she read the letter.", "He was deeply troubled by what he saw in the war zone."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sorunlu, sıkıntılı, çalkantılı",
+        "def": "having a lot of problems",
+        "examples": ["The troubled airline has asked the government for help.", "He had a troubled childhood."]
+      }
+    ],
+    "collocations": ["deeply troubled", "troubled youth", "troubled times", "troubled relationship", "troubled company", "troubled past"],
+    "synonyms": ["worried", "anxious", "uneasy", "problematic", "struggling"],
+    "family": [
+      { "word": "trouble", "pos": "noun" },
+      { "word": "troubling", "pos": "adjective" }
+    ],
+    "note": "\"Troubled\" = having problems; \"troubling\" = causing worry: \"troubling news\"."
+  },
+  {
+    "word": "trousers",
+    "ipa": "/ˈtraʊzərz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pantolon",
+        "def": "(British) a piece of clothing covering the body from the waist to the ankles, with separate legs",
+        "examples": ["He wore a white shirt and dark trousers to the interview.", "These trousers are too long; I need to get them shortened."]
+      }
+    ],
+    "collocations": ["pair of trousers", "suit trousers", "wear the trousers", "trouser pocket"],
+    "synonyms": ["pants", "slacks", "jeans"],
+    "family": [],
+    "note": "British. Americans say \"pants\" (in British English, \"pants\" means underwear). Always plural: \"a pair of trousers\"."
+  },
+  {
+    "word": "truck",
+    "ipa": "/trʌk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kamyon, tır",
+        "def": "a large vehicle for carrying heavy loads by road",
+        "examples": ["A delivery truck was blocking the street.", "He drives a truck across the country for a living."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kamyonet, pikap",
+        "def": "(American) a pickup or other small open vehicle for carrying things",
+        "examples": ["We loaded the furniture into the back of his truck."]
+      }
+    ],
+    "collocations": ["truck driver", "pickup truck", "fire truck", "food truck", "delivery truck", "garbage truck"],
+    "synonyms": ["lorry", "pickup", "van", "rig"],
+    "family": [
+      { "word": "trucker", "pos": "noun" },
+      { "word": "trucking", "pos": "noun" }
+    ],
+    "note": "American \"truck\" = British \"lorry\" (for large ones)."
+  },
+  {
+    "word": "true",
+    "ipa": "/truː/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "doğru, gerçek",
+        "def": "based on facts and not invented or false",
+        "examples": ["Is it true that you're moving to Seattle?", "The movie is based on a true story."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "gerçek, hakiki",
+        "def": "real or genuine, having all the qualities of something",
+        "examples": ["She's a true friend; she's always there when I need her.", "Their dream finally came true."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sadık, bağlı",
+        "def": "loyal to someone or something",
+        "examples": ["He stayed true to his principles throughout his career."]
+      }
+    ],
+    "collocations": ["come true", "true story", "true love", "hold true", "true to", "too good to be true"],
+    "synonyms": ["correct", "accurate", "real", "genuine", "loyal"],
+    "family": [
+      { "word": "truth", "pos": "noun" },
+      { "word": "truly", "pos": "adverb" },
+      { "word": "untrue", "pos": "adjective" }
+    ],
+    "note": "\"Come true\" = become reality (gerçekleşmek). \"Hold true\" = remain valid."
+  },
+  {
+    "word": "truly",
+    "ipa": "/ˈtruːli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "gerçekten, içtenlikle, samimiyetle",
+        "def": "used to emphasize that something is sincere or real",
+        "examples": ["I'm truly sorry for what happened.", "It was a truly amazing experience."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "gerçekten, hakikaten, tam anlamıyla",
+        "def": "in a real or accurate way",
+        "examples": ["Few people truly understand how the system works."]
+      }
+    ],
+    "collocations": ["truly sorry", "truly grateful", "truly believe", "truly amazing", "yours truly", "well and truly"],
+    "synonyms": ["really", "genuinely", "sincerely", "honestly", "indeed"],
+    "family": [
+      { "word": "true", "pos": "adjective" }
+    ],
+    "note": "Spelled without an e: truly (not \"truely\"). \"Yours truly\" (humorous) = me."
+  },
+  {
+    "word": "trust",
+    "ipa": "/trʌst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "güven, itimat",
+        "def": "the belief that someone or something is honest, good, or reliable",
+        "examples": ["It takes years to build trust and seconds to break it.", "Public trust in the media has fallen sharply."]
+      },
+      {
+        "pos": "verb",
+        "tr": "güvenmek, itimat etmek",
+        "def": "to believe that someone is honest and will not harm or deceive you",
+        "examples": ["I trust her completely.", "Don't trust everything you read online."]
+      },
+      {
+        "pos": "noun",
+        "tr": "vakıf, emanet fon",
+        "def": "an arrangement in which money or property is managed by someone for another person",
+        "examples": ["Her grandfather left her money in a trust until she turns 25."]
+      }
+    ],
+    "collocations": ["build trust", "gain someone's trust", "lose trust", "trust in", "trust fund", "breach of trust"],
+    "synonyms": ["confidence", "faith", "belief", "rely on", "count on"],
+    "family": [
+      { "word": "trustworthy", "pos": "adjective" },
+      { "word": "distrust", "pos": "noun" },
+      { "word": "trusting", "pos": "adjective" },
+      { "word": "trustee", "pos": "noun" }
+    ],
+    "note": "Verb takes a direct object: \"I trust you\" (not \"trust to you\"). \"Trust in\" is formal or religious."
+  },
+  {
+    "word": "trustee",
+    "ipa": "/trʌˈstiː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mütevelli, kayyum, vekil",
+        "def": "a person or organization that controls money or property kept in a trust for someone else",
+        "examples": ["The bank acts as trustee of the children's inheritance until they turn 21."]
+      },
+      {
+        "pos": "noun",
+        "tr": "mütevelli heyeti üyesi, yönetim kurulu üyesi",
+        "def": "a member of a group that manages a college, charity, or similar organization",
+        "examples": ["The university's board of trustees approved a tuition increase."]
+      }
+    ],
+    "collocations": ["board of trustees", "act as trustee", "appoint a trustee", "trustee of"],
+    "synonyms": ["guardian", "custodian", "administrator", "director"],
+    "family": [
+      { "word": "trust", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "truth",
+    "ipa": "/truːθ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gerçek, hakikat",
+        "def": "the true facts about something",
+        "examples": ["Just tell me the truth: did you break the window?", "The truth is, I never wanted to move here."]
+      },
+      {
+        "pos": "noun",
+        "tr": "doğruluk, gerçeklik",
+        "def": "the quality of being true",
+        "examples": ["There is some truth in what he says."]
+      }
+    ],
+    "collocations": ["tell the truth", "the truth is", "to tell the truth", "in truth", "moment of truth", "a grain of truth"],
+    "synonyms": ["fact", "reality", "honesty", "accuracy"],
+    "family": [
+      { "word": "truthful", "pos": "adjective" },
+      { "word": "true", "pos": "adjective" },
+      { "word": "untruth", "pos": "noun" }
+    ],
+    "note": "Say \"tell the truth\" (not \"say the truth\")."
+  },
+  {
+    "word": "try",
+    "ipa": "/traɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "denemek, çalışmak, uğraşmak",
+        "def": "to make an effort to do or get something",
+        "examples": ["I tried to call you, but your phone was off.", "Try not to be late tomorrow."]
+      },
+      {
+        "pos": "verb",
+        "tr": "denemek, tadına bakmak",
+        "def": "to use or test something to see if it is good or works",
+        "examples": ["Have you tried the new Thai restaurant?", "Try turning it off and on again."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yargılamak",
+        "def": "to examine and judge someone in a court of law",
+        "examples": ["He will be tried for fraud next month."]
+      },
+      {
+        "pos": "noun",
+        "tr": "deneme, girişim",
+        "def": "an attempt to do something",
+        "examples": ["I couldn't open the jar, so I gave it another try.", "It's worth a try."]
+      }
+    ],
+    "collocations": ["try hard", "try on", "try out", "give it a try", "worth a try", "try your best"],
+    "synonyms": ["attempt", "test", "sample", "endeavor", "effort"],
+    "family": [
+      { "word": "trial", "pos": "noun" },
+      { "word": "trying", "pos": "adjective" }
+    ],
+    "note": "\"Try to do\" = make an effort; \"try doing\" = experiment to see the result. \"Try on\" clothes = giysiyi denemek."
+  },
+  {
+    "word": "tsunami",
+    "ipa": "/tsuːˈnɑːmi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tsunami, dev dalga",
+        "def": "an extremely large and destructive wave caused by an earthquake under the sea",
+        "examples": ["The earthquake triggered a tsunami that destroyed coastal villages.", "Residents were warned to move to higher ground in case of a tsunami."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(mecazi) sel, akın",
+        "def": "a sudden, very large amount of something",
+        "examples": ["The company was hit by a tsunami of complaints after the update."]
+      }
+    ],
+    "collocations": ["tsunami warning", "tsunami hit", "devastating tsunami", "a tsunami of"],
+    "synonyms": ["tidal wave", "flood", "deluge"],
+    "family": [],
+    "note": "In American speech the t is often silent: /suːˈnɑːmi/."
+  },
+  {
+    "word": "tube",
+    "ipa": "/tuːb/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "boru, hortum, tüp",
+        "def": "a long, hollow pipe through which liquids or gases can move",
+        "examples": ["The patient was fed through a tube for several days.", "A rubber tube connects the tank to the pump."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tüp (diş macunu vb.)",
+        "def": "a soft container with a cap, used for paste or cream",
+        "examples": ["Squeeze the tube of toothpaste from the bottom."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(Londra) metro; (gayriresmi) televizyon",
+        "def": "(British) the London subway; (American, informal) the television",
+        "examples": ["There's nothing good on the tube tonight."]
+      }
+    ],
+    "collocations": ["test tube", "tube of toothpaste", "feeding tube", "inner tube", "on the tube"],
+    "synonyms": ["pipe", "hose", "cylinder", "subway"],
+    "family": [
+      { "word": "tubing", "pos": "noun" },
+      { "word": "tubular", "pos": "adjective" }
+    ],
+    "note": "\"The Tube\" is London's subway system; Americans say \"the subway\" for similar systems."
+  },
+  {
+    "word": "Tuesday",
+    "ipa": "/ˈtuːzdeɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "salı",
+        "def": "the day of the week after Monday and before Wednesday",
+        "examples": ["The meeting has been moved to Tuesday afternoon.", "Election Day in the US is always on a Tuesday."]
+      }
+    ],
+    "collocations": ["on Tuesday", "next Tuesday", "Tuesday morning", "every Tuesday", "last Tuesday"],
+    "synonyms": [],
+    "family": [],
+    "note": "Always capitalized. American pronunciation /ˈtuːz-/; British often /ˈtjuːz-/."
+  },
+  {
+    "word": "tuition",
+    "ipa": "/tuˈɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öğrenim ücreti, okul harcı",
+        "def": "(American) the money you pay to study at a college or private school",
+        "examples": ["College tuition has more than doubled in twenty years.", "She works two jobs to pay her tuition."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ders, özel ders, eğitim",
+        "def": "teaching, especially to one person or a small group",
+        "examples": ["The center offers private tuition in math and science."]
+      }
+    ],
+    "collocations": ["tuition fees", "pay tuition", "college tuition", "free tuition", "tuition increase", "private tuition"],
+    "synonyms": ["fees", "teaching", "instruction", "tutoring"],
+    "family": [
+      { "word": "tutor", "pos": "noun" }
+    ],
+    "note": "In the US, \"tuition\" usually means the fee itself; in Britain it often means teaching. Americans say \"tutoring\" for private lessons."
+  },
+  {
+    "word": "tune",
+    "ipa": "/tuːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ezgi, melodi, nağme",
+        "def": "a series of musical notes that form a piece of music",
+        "examples": ["She was humming a tune while she cooked.", "I can't get that tune out of my head."]
+      },
+      {
+        "pos": "noun",
+        "tr": "akort, uyum",
+        "def": "the state of singing or playing the correct notes",
+        "examples": ["The old piano is out of tune.", "He can't sing in tune."]
+      },
+      {
+        "pos": "verb",
+        "tr": "akort etmek; (radyo, TV) kanal ayarlamak",
+        "def": "to adjust a musical instrument or a radio or TV to the right note or station",
+        "examples": ["Tune in next week for the final episode."]
+      }
+    ],
+    "collocations": ["in tune", "out of tune", "hum a tune", "catchy tune", "tune in", "change your tune"],
+    "synonyms": ["melody", "song", "air", "adjust"],
+    "family": [
+      { "word": "tuneful", "pos": "adjective" },
+      { "word": "tuner", "pos": "noun" }
+    ],
+    "note": "\"In tune with\" = understanding and agreeing with: \"in tune with voters\". \"Change your tune\" = change your opinion."
+  },
+  {
+    "word": "tunnel",
+    "ipa": "/ˈtʌnl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tünel",
+        "def": "a passage built under the ground, for example for a road or railroad",
+        "examples": ["The train went through a long tunnel under the mountain.", "The prisoners escaped through a tunnel they had dug."]
+      }
+    ],
+    "collocations": ["light at the end of the tunnel", "dig a tunnel", "railway tunnel", "tunnel vision", "through the tunnel"],
+    "synonyms": ["passage", "underpass", "shaft"],
+    "family": [],
+    "note": "\"Light at the end of the tunnel\" = sign that a difficult period is ending. \"Tunnel vision\" = focusing on one thing only."
+  },
+  {
+    "word": "turn",
+    "ipa": "/tɜːrn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dönmek, döndürmek, çevirmek",
+        "def": "to move around a central point, or to change direction",
+        "examples": ["Turn left at the next traffic light.", "She turned the key, but the car wouldn't start."]
+      },
+      {
+        "pos": "verb",
+        "tr": "olmak, dönüşmek; (yaşına) girmek",
+        "def": "to change into a different state, or to reach a particular age",
+        "examples": ["The leaves turn red in the fall.", "My son turns ten next week."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sıra",
+        "def": "the time when it is someone's right or duty to do something",
+        "examples": ["Whose turn is it to do the dishes?", "Please wait your turn."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dönüş, dönemeç",
+        "def": "a change of direction, or a place where a road bends",
+        "examples": ["Take the second turn on the right."]
+      }
+    ],
+    "collocations": ["turn on", "turn off", "turn down", "take turns", "it's your turn", "turn into"],
+    "synonyms": ["rotate", "spin", "become", "go", "chance"],
+    "family": [
+      { "word": "turning", "pos": "noun" },
+      { "word": "turnout", "pos": "noun" },
+      { "word": "turnover", "pos": "noun" }
+    ],
+    "note": "Many phrasal verbs: turn on/off (aç/kapat), turn up/down (ses aç/kıs; reddet), turn out (ortaya çıkmak)."
+  },
+  {
+    "word": "turnout",
+    "ipa": "/ˈtɜːrnaʊt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "katılım, (seçim) katılım oranı",
+        "def": "the number of people who come to an event or who vote in an election",
+        "examples": ["Voter turnout was the highest in sixty years.", "Despite the rain, there was a good turnout for the charity run."]
+      }
+    ],
+    "collocations": ["voter turnout", "high turnout", "low turnout", "record turnout", "good turnout"],
+    "synonyms": ["attendance", "participation", "crowd", "audience"],
+    "family": [
+      { "word": "turn out", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "turnover",
+    "ipa": "/ˈtɜːrnəʊvər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ciro, satış hacmi",
+        "def": "the total value of goods or services a company sells in a period",
+        "examples": ["The company has an annual turnover of $50 million."]
+      },
+      {
+        "pos": "noun",
+        "tr": "personel devir hızı, işten ayrılma oranı",
+        "def": "the rate at which employees leave a company and are replaced",
+        "examples": ["High staff turnover is a big problem in the restaurant industry.", "Better pay helped reduce employee turnover."]
+      }
+    ],
+    "collocations": ["annual turnover", "staff turnover", "employee turnover", "high turnover", "turnover rate"],
+    "synonyms": ["revenue", "sales", "income", "attrition"],
+    "family": [
+      { "word": "turn over", "pos": "verb" }
+    ],
+    "note": "\"Turnover\" for revenue is more British; Americans usually say \"revenue\" or \"sales\". \"Employee turnover\" is common in both."
+  },
+  {
+    "word": "TV",
+    "ipa": "/ˌtiː ˈviː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "televizyon",
+        "def": "television, or a television set",
+        "examples": ["What's on TV tonight?", "We bought a new TV for the living room."]
+      }
+    ],
+    "collocations": ["watch TV", "on TV", "TV show", "TV series", "turn on the TV", "reality TV"],
+    "synonyms": ["television", "the tube"],
+    "family": [],
+    "note": "Use \"on TV\" for programs: \"I saw it on TV\" (not \"in TV\")."
+  },
+  {
+    "word": "twelve",
+    "ipa": "/twelv/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "on iki",
+        "def": "the number 12",
+        "examples": ["The flight leaves at twelve noon.", "A dozen means twelve."]
+      }
+    ],
+    "collocations": ["twelve o'clock", "twelve months", "twelve-year-old"],
+    "synonyms": ["a dozen"],
+    "family": [
+      { "word": "twelfth", "pos": "number" }
+    ],
+    "note": "\"Twelfth\" is spelled with an f: twelve → twelfth."
+  },
+  {
+    "word": "twenty",
+    "ipa": "/ˈtwenti/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "yirmi",
+        "def": "the number 20",
+        "examples": ["The store is about twenty minutes from here.", "She was in her twenties when she moved to New York."]
+      }
+    ],
+    "collocations": ["twenty dollars", "in your twenties", "the twenties", "twenty-first century"],
+    "synonyms": [],
+    "family": [
+      { "word": "twentieth", "pos": "number" }
+    ],
+    "note": "Americans often drop the second t in speech: /ˈtweni/. \"The Roaring Twenties\" = the 1920s."
+  },
+  {
+    "word": "twice",
+    "ipa": "/twaɪs/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "iki kez, iki defa",
+        "def": "two times; on two occasions",
+        "examples": ["I've been to Paris twice.", "Take the medicine twice a day with food."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "iki katı",
+        "def": "double in amount, size, or degree",
+        "examples": ["Their house is twice as big as ours.", "He earns twice what I do."]
+      }
+    ],
+    "collocations": ["twice a week", "twice as much", "twice as many", "think twice", "once or twice", "twice the size"],
+    "synonyms": ["two times", "double"],
+    "family": [],
+    "note": "\"Think twice\" = consider carefully before doing something (iki kere düşünmek)."
+  },
+  {
+    "word": "twin",
+    "ipa": "/twɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ikiz",
+        "def": "one of two children born to the same mother at the same time",
+        "examples": ["My sister and I are twins, but we don't look alike.", "She gave birth to twins last spring."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ikiz; çift, birbirine benzeyen",
+        "def": "used to describe one of a pair of twins, or two similar things that form a pair",
+        "examples": ["His twin brother lives in Canada.", "The hotel room has twin beds."]
+      }
+    ],
+    "collocations": ["twin brother", "twin sister", "identical twins", "twin towers", "twin beds", "twin cities"],
+    "synonyms": ["double", "matching", "identical"],
+    "family": [],
+    "note": "\"Identical twins\" = tek yumurta ikizleri; \"fraternal twins\" = çift yumurta ikizleri."
+  },
+  {
+    "word": "twist",
+    "ipa": "/twɪst/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "bükmek, burmak, çevirmek",
+        "def": "to turn or bend something into a particular shape, or to turn something with your hand",
+        "examples": ["Twist the cap to open the bottle.", "She twisted her hair into a bun."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bilek, ayak) burkmak",
+        "def": "to injure a joint by turning it suddenly",
+        "examples": ["He twisted his ankle playing basketball."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çarpıtmak",
+        "def": "to change the meaning of words or facts unfairly",
+        "examples": ["The reporter twisted my words to make me look bad."]
+      },
+      {
+        "pos": "noun",
+        "tr": "beklenmedik gelişme, sürpriz; büküm",
+        "def": "an unexpected change in a story or situation, or a twisting movement",
+        "examples": ["The movie has a great twist at the end.", "In a strange twist of fate, they met again years later."]
+      }
+    ],
+    "collocations": ["twist your ankle", "plot twist", "twist of fate", "twist someone's words", "twists and turns", "twist someone's arm"],
+    "synonyms": ["turn", "bend", "wind", "distort", "sprain"],
+    "family": [
+      { "word": "twisted", "pos": "adjective" },
+      { "word": "twister", "pos": "noun" }
+    ],
+    "note": "\"Twist someone's arm\" (informal) = persuade someone: \"OK, you've twisted my arm.\""
+  },
+  {
+    "word": "two",
+    "ipa": "/tuː/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "iki",
+        "def": "the number 2",
+        "examples": ["We have two cats and a dog.", "The movie lasts two hours."]
+      }
+    ],
+    "collocations": ["two of us", "two or three", "in two", "a day or two", "two-way", "put two and two together"],
+    "synonyms": ["pair", "couple"],
+    "family": [
+      { "word": "second", "pos": "number" },
+      { "word": "twice", "pos": "adverb" }
+    ],
+    "note": "Same sound as \"to\" and \"too\". \"Put two and two together\" = work something out from what you know."
+  },
+  {
+    "word": "type",
+    "ipa": "/taɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tür, çeşit, tip",
+        "def": "a group of people or things that share particular qualities; a kind or sort",
+        "examples": ["What type of music do you like?", "There are three types of rock: igneous, sedimentary, and metamorphic."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tip, tarz (kişi)",
+        "def": "a person with a particular character, or the kind of person you are attracted to",
+        "examples": ["He's not really my type.", "She's the outdoor type who loves camping."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(klavyede) yazmak",
+        "def": "to write something using a keyboard",
+        "examples": ["Type your password and press Enter.", "She types faster than anyone in the office."]
+      }
+    ],
+    "collocations": ["type of", "blood type", "personality type", "not my type", "type in", "type up"],
+    "synonyms": ["kind", "sort", "category", "class", "variety"],
+    "family": [
+      { "word": "typical", "pos": "adjective" },
+      { "word": "typist", "pos": "noun" },
+      { "word": "typing", "pos": "noun" }
+    ],
+    "note": "\"This type of car\" (singular) or \"these types of cars\" (plural)."
+  },
+  {
+    "word": "typical",
+    "ipa": "/ˈtɪpɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tipik, olağan, alışılmış",
+        "def": "having the usual qualities or features of a particular type of person, thing, or group",
+        "examples": ["On a typical day, I get up at six and start work at eight.", "This is a typical example of colonial architecture."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tam da ondan beklenecek (olumsuz)",
+        "def": "behaving in the usual way, especially in an annoying way",
+        "examples": ["It's typical of him to arrive late and leave early.", "The bus is late again. Typical!"]
+      }
+    ],
+    "collocations": ["typical example", "typical day", "typical of", "fairly typical", "typical American", "typical case"],
+    "synonyms": ["normal", "usual", "standard", "characteristic", "representative"],
+    "family": [
+      { "word": "typically", "pos": "adverb" },
+      { "word": "atypical", "pos": "adjective" },
+      { "word": "type", "pos": "noun" }
+    ],
+    "note": "\"Typical of\" (not \"typical for\" in this sense): \"That's typical of her.\""
+  },
+  {
+    "word": "typically",
+    "ipa": "/ˈtɪpɪkli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "genellikle, çoğunlukla",
+        "def": "used to say that something usually happens in a particular way",
+        "examples": ["The trip typically takes about four hours.", "Symptoms typically appear two to three days after infection."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "tipik bir şekilde",
+        "def": "in a way that shows the usual qualities of a person or thing",
+        "examples": ["The breakfast was typically American: pancakes, eggs, and bacon."]
+      }
+    ],
+    "collocations": ["typically used", "typically include", "typically take", "typically found", "most typically"],
+    "synonyms": ["usually", "normally", "generally", "commonly"],
+    "family": [
+      { "word": "typical", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "ugly",
+    "ipa": "/ˈʌɡli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çirkin",
+        "def": "unpleasant to look at",
+        "examples": ["They tore down the ugly concrete building and built a park.", "That's the ugliest sweater I've ever seen."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tatsız, çirkin, tehlikeli (durum)",
+        "def": "(of a situation) unpleasant, violent, or threatening",
+        "examples": ["The argument turned ugly when someone threw a bottle."]
+      }
+    ],
+    "collocations": ["turn ugly", "ugly truth", "ugly scene", "rear its ugly head", "ugly duckling"],
+    "synonyms": ["unattractive", "hideous", "unsightly", "nasty"],
+    "family": [
+      { "word": "ugliness", "pos": "noun" }
+    ],
+    "note": "Very direct about people; \"unattractive\" or \"plain\" is more polite. \"Ugly duckling\" = çirkin ördek yavrusu."
+  },
+  {
+    "word": "ultimate",
+    "ipa": "/ˈʌltɪmət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "nihai, son",
+        "def": "happening at the end of a long process",
+        "examples": ["Our ultimate goal is to make the city carbon-neutral.", "The ultimate decision rests with the board."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "en büyük, en üst düzey, mükemmel",
+        "def": "the best, worst, or most extreme of its kind",
+        "examples": ["This is the ultimate guide to traveling in Japan.", "Giving his life for others was the ultimate sacrifice."]
+      }
+    ],
+    "collocations": ["ultimate goal", "ultimate aim", "ultimate responsibility", "ultimate sacrifice", "the ultimate test", "ultimate authority"],
+    "synonyms": ["final", "eventual", "supreme", "greatest", "best"],
+    "family": [
+      { "word": "ultimately", "pos": "adverb" },
+      { "word": "ultimatum", "pos": "noun" }
+    ],
+    "note": "False friend warning: \"ultimate\" does not mean \"en son, en yeni\" (latest); for that use \"latest\"."
+  },
+  {
+    "word": "ultimately",
+    "ipa": "/ˈʌltɪmətli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "nihayetinde, sonunda, en sonunda",
+        "def": "in the end, after a long process",
+        "examples": ["The project ultimately cost twice as much as planned.", "Ultimately, she decided to stay in her hometown."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "esasen, temelde, son tahlilde",
+        "def": "used to give the most important point",
+        "examples": ["Ultimately, it's your decision, not mine."]
+      }
+    ],
+    "collocations": ["ultimately responsible", "ultimately lead to", "ultimately decide", "ultimately fail", "ultimately successful"],
+    "synonyms": ["finally", "eventually", "in the end", "fundamentally"],
+    "family": [
+      { "word": "ultimate", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "umbrella",
+    "ipa": "/ʌmˈbrelə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şemsiye",
+        "def": "a folding frame covered with cloth that you hold over your head to protect you from rain or sun",
+        "examples": ["Take an umbrella; it's supposed to rain this afternoon.", "We sat under a beach umbrella all afternoon."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çatı, şemsiye (kuruluş, terim)",
+        "def": "something that includes or protects many different things or groups",
+        "examples": ["The charity works under the umbrella of the United Nations.", "\"Arts\" is an umbrella term for music, painting, theater, and more."]
+      }
+    ],
+    "collocations": ["open an umbrella", "beach umbrella", "umbrella term", "under the umbrella of", "umbrella organization"],
+    "synonyms": ["parasol", "cover", "protection"],
+    "family": [],
+    "note": "\"Umbrella organization\" = çatı kuruluşu."
+  },
+  {
+    "word": "unable",
+    "ipa": "/ʌnˈeɪbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "-emez, yapamaz, aciz",
+        "def": "not able to do something because of a lack of skill, time, strength, etc.",
+        "examples": ["I'm sorry, but I'm unable to attend the meeting on Friday.", "Many families are unable to afford basic health care."]
+      }
+    ],
+    "collocations": ["unable to", "be unable to afford", "unable to cope", "unable to find", "unable to comply"],
+    "synonyms": ["incapable", "powerless", "not able"],
+    "family": [
+      { "word": "able", "pos": "adjective" },
+      { "word": "inability", "pos": "noun" }
+    ],
+    "note": "More formal than \"can't\". Always followed by \"to + verb\". The noun is \"inability\", not \"unability\"."
+  },
+  {
+    "word": "unacceptable",
+    "ipa": "/ˌʌnəkˈseptəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kabul edilemez",
+        "def": "so bad or wrong that it should not be allowed",
+        "examples": ["Racist comments are completely unacceptable in this workplace.", "Waiting six hours in the emergency room is unacceptable."]
+      }
+    ],
+    "collocations": ["completely unacceptable", "totally unacceptable", "unacceptable behavior", "socially unacceptable", "unacceptable risk", "find unacceptable"],
+    "synonyms": ["intolerable", "inadmissible", "inappropriate", "outrageous"],
+    "family": [
+      { "word": "acceptable", "pos": "adjective" },
+      { "word": "unacceptably", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "uncertainty",
+    "ipa": "/ʌnˈsɜːrtnti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "belirsizlik, kararsızlık",
+        "def": "the state of not being sure, or something that is not known or decided",
+        "examples": ["Economic uncertainty is making companies cautious about hiring.", "There is still some uncertainty about the cause of the crash."]
+      }
+    ],
+    "collocations": ["economic uncertainty", "political uncertainty", "a period of uncertainty", "great uncertainty", "uncertainty about", "deal with uncertainty"],
+    "synonyms": ["doubt", "unpredictability", "insecurity", "ambiguity"],
+    "family": [
+      { "word": "uncertain", "pos": "adjective" },
+      { "word": "uncertainly", "pos": "adverb" },
+      { "word": "certainty", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "uncle",
+    "ipa": "/ˈʌŋkl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "amca, dayı, enişte",
+        "def": "the brother of your mother or father, or the husband of your aunt",
+        "examples": ["My uncle taught me how to fish.", "We're spending Christmas with my aunt and uncle in Denver."]
+      }
+    ],
+    "collocations": ["aunt and uncle", "favorite uncle", "great-uncle", "uncle on my mother's side"],
+    "synonyms": [],
+    "family": [
+      { "word": "aunt", "pos": "noun" },
+      { "word": "nephew", "pos": "noun" },
+      { "word": "niece", "pos": "noun" }
+    ],
+    "note": "One English word for amca, dayı, and enişte. Specify if needed: \"my mom's brother\"."
+  },
+  {
+    "word": "uncomfortable",
+    "ipa": "/ʌnˈkʌmftəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "rahatsız, rahat olmayan (eşya)",
+        "def": "not physically comfortable, or unpleasant to wear, sit on, etc.",
+        "examples": ["These shoes are really uncomfortable.", "We spent the night on uncomfortable plastic chairs."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "huzursuz, tedirgin, mahcup",
+        "def": "feeling embarrassed, nervous, or anxious",
+        "examples": ["I felt uncomfortable when they started arguing in front of me.", "There was an uncomfortable silence after his joke."]
+      }
+    ],
+    "collocations": ["feel uncomfortable", "make someone uncomfortable", "uncomfortable silence", "uncomfortable truth", "deeply uncomfortable"],
+    "synonyms": ["awkward", "uneasy", "painful", "embarrassed"],
+    "family": [
+      { "word": "comfortable", "pos": "adjective" },
+      { "word": "uncomfortably", "pos": "adverb" },
+      { "word": "discomfort", "pos": "noun" }
+    ],
+    "note": "Pronounced with three or four syllables: /ʌnˈkʌmftəbl/; the \"or\" is usually silent."
+  },
+  {
+    "word": "unconscious",
+    "ipa": "/ʌnˈkɑːnʃəs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "baygın, bilinçsiz",
+        "def": "in a state like sleep, because of an injury or illness, and unable to see, feel, or think",
+        "examples": ["He was knocked unconscious in the crash.", "She was found unconscious on the kitchen floor."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "bilinçsiz, farkında olmadan, istemsiz",
+        "def": "happening without you being aware of it",
+        "examples": ["Many hiring decisions are influenced by unconscious bias."]
+      }
+    ],
+    "collocations": ["knocked unconscious", "lie unconscious", "unconscious bias", "unconscious mind", "remain unconscious"],
+    "synonyms": ["senseless", "out cold", "subconscious", "involuntary"],
+    "family": [
+      { "word": "unconsciously", "pos": "adverb" },
+      { "word": "unconsciousness", "pos": "noun" },
+      { "word": "conscious", "pos": "adjective" }
+    ],
+    "note": "Medical sense = baygın. \"Unconscious\" does not mean \"careless\" (bilinçsizce davranan → thoughtless, careless)."
+  },
+  {
+    "word": "under",
+    "ipa": "/ˈʌndər/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "altında, altına",
+        "def": "in or to a position below or covered by something",
+        "examples": ["The cat is hiding under the bed.", "We sat under a tree to get out of the sun."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-den az, altında",
+        "def": "less than a particular amount, age, or level",
+        "examples": ["Children under 12 get in free.", "You can get a good laptop for under $500."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "(kontrol, süreç) altında; -mekte",
+        "def": "controlled by someone, or affected by a process or situation",
+        "examples": ["The bridge is under construction.", "She's been under a lot of pressure lately."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "altına, aşağıya; altında (yaş, miktar)",
+        "def": "below the surface of water, or less than a certain amount",
+        "examples": ["The boat went under in the storm.", "Kids aged ten and under eat free."]
+      }
+    ],
+    "collocations": ["under pressure", "under control", "under construction", "under the age of", "under way", "under the circumstances"],
+    "synonyms": ["below", "beneath", "underneath", "less than"],
+    "family": [],
+    "note": "\"Under way\" = already started. \"Under the circumstances\" = bu şartlar altında."
+  },
+  {
+    "word": "undergo",
+    "ipa": "/ˌʌndərˈɡəʊ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "geçirmek, maruz kalmak, -den geçmek",
+        "def": "to experience something, especially a change or something unpleasant",
+        "examples": ["She underwent surgery on her knee last week.", "The city has undergone major changes in the last decade."]
+      }
+    ],
+    "collocations": ["undergo surgery", "undergo treatment", "undergo changes", "undergo a transformation", "undergo tests", "undergo training"],
+    "synonyms": ["experience", "go through", "suffer", "endure"],
+    "family": [],
+    "note": "Irregular: undergo – underwent – undergone. Formal; common with medical procedures and changes."
+  },
+  {
+    "word": "undergraduate",
+    "ipa": "/ˌʌndərˈɡrædʒuət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lisans öğrencisi",
+        "def": "a university or college student studying for a first degree",
+        "examples": ["The course is open to undergraduates in their final year.", "As an undergraduate, he worked part-time in the library."]
+      }
+    ],
+    "collocations": ["undergraduate degree", "undergraduate student", "undergraduate program", "undergraduate course", "undergraduate studies"],
+    "synonyms": ["student", "college student", "undergrad"],
+    "family": [
+      { "word": "graduate", "pos": "noun" },
+      { "word": "postgraduate", "pos": "noun" }
+    ],
+    "note": "Often used as an adjective: \"undergraduate degree\" = lisans derecesi. Informal: \"undergrad\"."
+  },
+  {
+    "word": "underground",
+    "ipa": "/ˌʌndərˈɡraʊnd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yeraltı, yer altındaki",
+        "def": "under the surface of the ground",
+        "examples": ["The building has an underground parking garage.", "Miners were trapped in an underground tunnel."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yer altında, yer altına",
+        "def": "under the surface of the ground",
+        "examples": ["The cables run underground along the highway."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "gizli, yeraltı; alternatif (sanat)",
+        "def": "secret and often illegal, or not part of the mainstream culture",
+        "examples": ["During the war, she worked for an underground resistance group.", "The band started out in the underground music scene."]
+      }
+    ],
+    "collocations": ["underground parking", "go underground", "underground economy", "underground railroad", "underground music"],
+    "synonyms": ["subterranean", "secret", "clandestine", "alternative"],
+    "family": [],
+    "note": "\"The Underground\" is the London subway; Americans say \"the subway\". \"Go underground\" = hide from authorities."
+  },
+  {
+    "word": "underlie",
+    "ipa": "/ˌʌndərˈlaɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "altında yatmak, temelini oluşturmak",
+        "def": "to be the real basis or cause of something, often not easily noticed",
+        "examples": ["Poverty and lack of education underlie many of the city's problems.", "The same basic principle underlies all of these designs."]
+      }
+    ],
+    "collocations": ["factors that underlie", "underlie the problem", "principles that underlie", "assumptions that underlie"],
+    "synonyms": ["cause", "be at the root of", "lie behind", "form the basis of"],
+    "family": [
+      { "word": "underlying", "pos": "adjective" }
+    ],
+    "note": "Formal. Irregular like \"lie\": underlie – underlay – underlain. Most often seen as the adjective \"underlying\"."
+  }
+]

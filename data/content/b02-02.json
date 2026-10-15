@@ -1,0 +1,1225 @@
+[
+  {
+    "word": "bright",
+    "ipa": "/braɪt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "parlak, aydınlık",
+        "def": "full of light or shining strongly",
+        "examples": ["It was a bright, sunny morning.", "The lights were so bright that I had to close my eyes."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(renk) canlı, parlak",
+        "def": "strong and easy to see",
+        "examples": ["She painted the kitchen a bright yellow."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "zeki, akıllı; (gelecek) parlak, umut verici",
+        "def": "intelligent and quick to learn; likely to be successful",
+        "examples": ["He's a bright student with a bright future ahead of him."]
+      }
+    ],
+    "collocations": ["bright light", "bright colors", "bright sunshine", "a bright future", "look on the bright side"],
+    "synonyms": ["shining", "brilliant", "vivid", "clever", "smart"],
+    "family": [
+      { "word": "brightly", "pos": "adverb" },
+      { "word": "brightness", "pos": "noun" },
+      { "word": "brighten", "pos": "verb" }
+    ],
+    "note": "\"Look on the bright side\" means focus on the good parts of a bad situation."
+  },
+  {
+    "word": "brilliant",
+    "ipa": "/ˈbrɪliənt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "parlak, dahice, çok zeki",
+        "def": "extremely intelligent, skilled, or impressive",
+        "examples": ["She's a brilliant scientist who has won several awards.", "That's a brilliant idea!"]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(ışık, renk) pırıl pırıl, göz alıcı",
+        "def": "very bright",
+        "examples": ["The sky turned a brilliant orange at sunset."]
+      }
+    ],
+    "collocations": ["brilliant idea", "brilliant career", "brilliant performance", "absolutely brilliant", "brilliant sunshine"],
+    "synonyms": ["outstanding", "excellent", "genius", "dazzling"],
+    "family": [
+      { "word": "brilliance", "pos": "noun" },
+      { "word": "brilliantly", "pos": "adverb" }
+    ],
+    "note": "In British English \"brilliant!\" casually means \"great!\"; Americans more often say \"awesome\" or \"great\"."
+  },
+  {
+    "word": "bring",
+    "ipa": "/brɪŋ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "getirmek",
+        "def": "to take someone or something with you to the place where you are going or where the speaker is",
+        "examples": ["Can you bring a salad to the party?", "Don't forget to bring your passport."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(sonuç, durum) getirmek, yol açmak",
+        "def": "to cause a particular situation or feeling",
+        "examples": ["The new factory will bring hundreds of jobs to the area.", "Her music brings joy to millions of people."]
+      }
+    ],
+    "collocations": ["bring back", "bring up", "bring about", "bring together", "bring to an end"],
+    "synonyms": ["carry", "fetch", "cause", "produce"],
+    "family": [],
+    "note": "Irregular verb: bring – brought – brought. Bring = toward the speaker; take = away from the speaker."
+  },
+  {
+    "word": "broad",
+    "ipa": "/brɔːd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "geniş, enli",
+        "def": "wide from one side to the other",
+        "examples": ["He has broad shoulders from years of swimming.", "A broad river runs through the valley."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kapsamlı, geniş; genel",
+        "def": "including many different things or people; general rather than detailed",
+        "examples": ["The store offers a broad range of products.", "There is broad agreement on the main goals."]
+      }
+    ],
+    "collocations": ["broad range", "broad shoulders", "broad agreement", "in broad terms", "broad support", "in broad daylight"],
+    "synonyms": ["wide", "extensive", "general", "comprehensive"],
+    "family": [
+      { "word": "broadly", "pos": "adverb" },
+      { "word": "broaden", "pos": "verb" },
+      { "word": "breadth", "pos": "noun" }
+    ],
+    "note": "\"In broad daylight\" means openly during the day, used about surprising crimes. Opposite: narrow."
+  },
+  {
+    "word": "broadband",
+    "ipa": "/ˈbrɔːdbænd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "geniş bant (internet)",
+        "def": "a fast internet connection that is always on",
+        "examples": ["Many rural homes still don't have access to broadband.", "We upgraded to faster broadband so we could stream movies."]
+      }
+    ],
+    "collocations": ["broadband connection", "broadband access", "high-speed broadband", "broadband provider"],
+    "synonyms": ["high-speed internet"],
+    "family": [],
+    "note": "Common in news and policy language. In everyday American speech, people often just say \"high-speed internet\"."
+  },
+  {
+    "word": "broadcast",
+    "ipa": "/ˈbrɔːdkæst/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yayınlamak, yayın yapmak",
+        "def": "to send out a program on television, radio, or the internet",
+        "examples": ["The game will be broadcast live on national TV.", "The station broadcasts news every hour."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yayın",
+        "def": "a program sent out on television, radio, or the internet",
+        "examples": ["Millions watched the live broadcast of the ceremony."]
+      }
+    ],
+    "collocations": ["live broadcast", "broadcast live", "news broadcast", "radio broadcast", "broadcast rights"],
+    "synonyms": ["transmit", "air", "show", "program"],
+    "family": [
+      { "word": "broadcaster", "pos": "noun" },
+      { "word": "broadcasting", "pos": "noun" }
+    ],
+    "note": "Past forms are usually the same: broadcast – broadcast – broadcast."
+  },
+  {
+    "word": "broadcaster",
+    "ipa": "/ˈbrɔːdkæstər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yayıncı, sunucu",
+        "def": "a person who presents programs on radio or television",
+        "examples": ["She worked as a sports broadcaster for twenty years."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yayın kuruluşu",
+        "def": "a company that sends out radio or television programs",
+        "examples": ["The public broadcaster refused to air the controversial ad."]
+      }
+    ],
+    "collocations": ["public broadcaster", "sports broadcaster", "national broadcaster", "radio broadcaster"],
+    "synonyms": ["presenter", "announcer", "network", "host"],
+    "family": [
+      { "word": "broadcast", "pos": "verb" },
+      { "word": "broadcasting", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "broadly",
+    "ipa": "/ˈbrɔːdli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "genel olarak, kabaca",
+        "def": "in a general way, without paying attention to details",
+        "examples": ["Broadly speaking, the plan was a success.", "The two reports are broadly similar."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "(gülümseme) kocaman, geniş",
+        "def": "with a wide smile",
+        "examples": ["He smiled broadly when he heard the good news."]
+      }
+    ],
+    "collocations": ["broadly speaking", "broadly similar", "broadly in line with", "smile broadly", "broadly defined"],
+    "synonyms": ["generally", "roughly", "largely", "on the whole"],
+    "family": [
+      { "word": "broad", "pos": "adjective" },
+      { "word": "breadth", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "broken",
+    "ipa": "/ˈbrəʊkən/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kırık, bozuk",
+        "def": "damaged, cracked, or no longer working properly",
+        "examples": ["Be careful, there's broken glass on the floor.", "He's been off work with a broken leg."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(ilişki, aile, söz) bozulmuş, dağılmış",
+        "def": "ended or destroyed, especially a relationship or promise",
+        "examples": ["She grew up in a broken home.", "Voters are tired of broken promises."]
+      }
+    ],
+    "collocations": ["broken glass", "broken leg", "broken promise", "broken heart", "broken English"],
+    "synonyms": ["damaged", "cracked", "out of order", "faulty"],
+    "family": [
+      { "word": "break", "pos": "verb" },
+      { "word": "unbroken", "pos": "adjective" },
+      { "word": "heartbroken", "pos": "adjective" }
+    ],
+    "note": "\"Broken English\" means English spoken with many mistakes. For machines, Americans also say \"out of order\"."
+  },
+  {
+    "word": "brother",
+    "ipa": "/ˈbrʌðər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "erkek kardeş, ağabey, abi",
+        "def": "a boy or man who has the same parents as you",
+        "examples": ["My older brother lives in Ankara.", "She has two brothers and a sister."]
+      }
+    ],
+    "collocations": ["older brother", "younger brother", "little brother", "big brother", "half brother"],
+    "synonyms": ["sibling"],
+    "family": [
+      { "word": "brotherhood", "pos": "noun" },
+      { "word": "brotherly", "pos": "adjective" },
+      { "word": "brother-in-law", "pos": "noun" }
+    ],
+    "note": "English doesn't separate abi and küçük kardeş; say \"older\" or \"younger brother\". \"Big Brother\" also means government surveillance."
+  },
+  {
+    "word": "brown",
+    "ipa": "/braʊn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kahverengi, kahverengi tenli",
+        "def": "having the color of soil or coffee",
+        "examples": ["She has long brown hair and green eyes.", "Use brown sugar for a richer flavor."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kahverengi",
+        "def": "the color of soil or coffee",
+        "examples": ["The living room is decorated in warm browns and creams."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kızartmak, kızarmak (yemek)",
+        "def": "to cook food until it turns brown on the outside",
+        "examples": ["Brown the onions in a little oil before adding the meat."]
+      }
+    ],
+    "collocations": ["dark brown", "light brown", "brown hair", "brown sugar", "brown rice"],
+    "synonyms": ["tan", "chocolate", "chestnut"],
+    "family": [{ "word": "brownish", "pos": "adjective" }],
+    "note": "\"Brown bread\" and \"brown rice\" mean whole-grain."
+  },
+  {
+    "word": "browser",
+    "ipa": "/ˈbraʊzər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tarayıcı (internet)",
+        "def": "a computer program used to find and view pages on the internet",
+        "examples": ["Try clearing your browser history if the page won't load.", "The website works in every major browser."]
+      }
+    ],
+    "collocations": ["web browser", "browser window", "browser history", "open a browser", "browser extension"],
+    "synonyms": [],
+    "family": [
+      { "word": "browse", "pos": "verb" },
+      { "word": "browsing", "pos": "noun" }
+    ],
+    "note": "Related verb \"browse\" also means look around a store without a clear plan to buy."
+  },
+  {
+    "word": "brush",
+    "ipa": "/brʌʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fırça",
+        "def": "a tool with stiff hairs or wires on a handle, used for cleaning, painting, or hair",
+        "examples": ["Use a small brush to paint the corners.", "She keeps a hair brush in her bag."]
+      },
+      {
+        "pos": "verb",
+        "tr": "fırçalamak, taramak",
+        "def": "to clean or tidy something with a brush",
+        "examples": ["Brush your teeth twice a day.", "He brushed the snow off the car."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hafifçe dokunmak, sürtünmek",
+        "def": "to touch something lightly while moving past it",
+        "examples": ["Her hand brushed mine as she reached for the menu."]
+      }
+    ],
+    "collocations": ["brush your teeth", "brush your hair", "paint brush", "brush off", "brush up on"],
+    "synonyms": ["sweep", "scrub", "graze", "comb"],
+    "family": [{ "word": "toothbrush", "pos": "noun" }],
+    "note": "\"Brush up on\" means improve a skill you have partly forgotten: I need to brush up on my Spanish."
+  },
+  {
+    "word": "brutal",
+    "ipa": "/ˈbruːtl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "acımasız, vahşi, gaddar",
+        "def": "very violent and cruel",
+        "examples": ["The country suffered under a brutal dictatorship.", "Police are investigating a brutal attack in the park."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "çok sert, dayanılmaz; (dürüstlük) kaba ama net",
+        "def": "very harsh or unpleasant; direct without trying to be kind",
+        "examples": ["The winter was brutal, with weeks of freezing temperatures.", "I appreciated her brutal honesty about my essay."]
+      }
+    ],
+    "collocations": ["brutal attack", "brutal murder", "brutal regime", "brutal honesty", "brutal truth"],
+    "synonyms": ["cruel", "savage", "vicious", "harsh"],
+    "family": [
+      { "word": "brutality", "pos": "noun" },
+      { "word": "brutally", "pos": "adverb" },
+      { "word": "brute", "pos": "noun" }
+    ],
+    "note": "\"Brutally honest\" means honest in a way that may hurt. \"Police brutality\" is a common news phrase."
+  },
+  {
+    "word": "bubble",
+    "ipa": "/ˈbʌbl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kabarcık, baloncuk",
+        "def": "a ball of air or gas inside a liquid, or floating in the air",
+        "examples": ["The kids were blowing soap bubbles in the yard.", "Small bubbles rose to the top of the glass."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(ekonomi) balon",
+        "def": "a situation where prices rise very fast and then suddenly fall",
+        "examples": ["Many investors lost everything when the housing bubble burst."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kendi küçük dünyası, fanus",
+        "def": "a closed group or situation that keeps you away from other views or realities",
+        "examples": ["Social media can trap you in a bubble of people who think like you."]
+      }
+    ],
+    "collocations": ["soap bubble", "air bubble", "housing bubble", "the bubble bursts", "live in a bubble"],
+    "synonyms": ["blister", "foam"],
+    "family": [
+      { "word": "bubbly", "pos": "adjective" },
+      { "word": "bubble wrap", "pos": "noun" }
+    ],
+    "note": "\"Bubbly\" describes a cheerful, lively person."
+  },
+  {
+    "word": "buck",
+    "ipa": "/bʌk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(gayri resmi) dolar",
+        "def": "(informal) a US dollar",
+        "examples": ["I bought this jacket for twenty bucks at a thrift store.", "Can you lend me a few bucks for lunch?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "erkek geyik, erkek tavşan",
+        "def": "a male deer, rabbit, or similar animal",
+        "examples": ["A large buck stood at the edge of the forest."]
+      }
+    ],
+    "collocations": ["a few bucks", "make a quick buck", "pass the buck", "the buck stops here", "bang for your buck"],
+    "synonyms": ["dollar"],
+    "family": [],
+    "note": "Informal. \"Pass the buck\" = avoid responsibility by blaming others. \"More bang for your buck\" = better value."
+  },
+  {
+    "word": "buddy",
+    "ipa": "/ˈbʌdi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kanka, dost, arkadaş",
+        "def": "(informal) a friend",
+        "examples": ["I'm going camping with some buddies from college.", "He and his workout buddy meet at the gym every morning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(hitap) dostum, birader",
+        "def": "(informal, American) used to address a man, sometimes in an unfriendly way",
+        "examples": ["Hey buddy, you dropped your wallet!"]
+      }
+    ],
+    "collocations": ["best buddy", "old buddy", "workout buddy", "study buddy", "drinking buddy"],
+    "synonyms": ["friend", "pal", "mate", "dude"],
+    "family": [],
+    "note": "Very common in American English. \"Mate\" is the British and Australian equivalent."
+  },
+  {
+    "word": "budget",
+    "ipa": "/ˈbʌdʒɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bütçe",
+        "def": "the amount of money a person or organization has and a plan for spending it",
+        "examples": ["We have a budget of five hundred dollars for the trip.", "The city council approved next year's budget."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bütçe yapmak, (para) ayırmak",
+        "def": "to plan carefully how much money to spend",
+        "examples": ["I budget about two hundred dollars a month for groceries."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ekonomik, uygun fiyatlı",
+        "def": "cheap",
+        "examples": ["We flew with a budget airline to save money."]
+      }
+    ],
+    "collocations": ["on a budget", "over budget", "within budget", "budget cuts", "tight budget", "budget deficit"],
+    "synonyms": ["allowance", "funds", "plan", "cheap"],
+    "family": [
+      { "word": "budgetary", "pos": "adjective" },
+      { "word": "budgeting", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "buffer",
+    "ipa": "/ˈbʌfər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tampon, koruyucu, (zaman, para) pay",
+        "def": "something that protects against harm or reduces the effect of a problem",
+        "examples": ["Savings act as a buffer against unexpected expenses.", "Leave a buffer of thirty minutes in case of traffic."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(video) arabelleğe almak, yüklenmek",
+        "def": "(of a video) to pause while more data loads",
+        "examples": ["The video kept buffering because the Wi-Fi was slow."]
+      }
+    ],
+    "collocations": ["act as a buffer", "buffer zone", "buffer against", "a buffer of", "financial buffer"],
+    "synonyms": ["cushion", "shield", "barrier", "safeguard"],
+    "family": [{ "word": "buffering", "pos": "noun" }],
+    "note": "A \"buffer zone\" is a neutral area between two opposing countries or forces."
+  },
+  {
+    "word": "bug",
+    "ipa": "/bʌɡ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "böcek",
+        "def": "(informal) any small insect",
+        "examples": ["There were bugs everywhere after the rain.", "A bug flew into my coffee."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yazılım) hata",
+        "def": "a mistake in a computer program that stops it working correctly",
+        "examples": ["The update fixed a bug that made the app crash."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(hafif) mikrop, virüs",
+        "def": "(informal) a minor illness caused by an infection",
+        "examples": ["Half the office has caught a stomach bug."]
+      },
+      {
+        "pos": "verb",
+        "tr": "rahatsız etmek, gıcık etmek",
+        "def": "(informal) to annoy someone",
+        "examples": ["It really bugs me when people are late."]
+      }
+    ],
+    "collocations": ["fix a bug", "stomach bug", "catch a bug", "software bug", "it bugs me"],
+    "synonyms": ["insect", "error", "glitch", "virus", "annoy"],
+    "family": [{ "word": "debug", "pos": "verb" }],
+    "note": "\"Bug\" as a verb also means put a secret microphone somewhere: The room was bugged."
+  },
+  {
+    "word": "build",
+    "ipa": "/bɪld/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "inşa etmek, yapmak",
+        "def": "to make something by putting parts or materials together",
+        "examples": ["They're building a new hospital downtown.", "My grandfather built this house himself."]
+      },
+      {
+        "pos": "verb",
+        "tr": "oluşturmak, geliştirmek",
+        "def": "to develop something gradually, such as a relationship or business",
+        "examples": ["It takes years to build trust with customers.", "She built her company from nothing."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yapı, fiziki yapı",
+        "def": "the shape and size of someone's body",
+        "examples": ["He has a strong, athletic build."]
+      }
+    ],
+    "collocations": ["build a house", "build trust", "build up", "build a career", "build on"],
+    "synonyms": ["construct", "assemble", "create", "develop"],
+    "family": [
+      { "word": "builder", "pos": "noun" },
+      { "word": "building", "pos": "noun" },
+      { "word": "built", "pos": "adjective" }
+    ],
+    "note": "Irregular verb: build – built – built. \"Build on\" means use past success as a base for more."
+  },
+  {
+    "word": "building",
+    "ipa": "/ˈbɪldɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bina, yapı",
+        "def": "a structure with walls and a roof, such as a house or office",
+        "examples": ["The tallest building in the city has eighty floors.", "Smoking is not allowed anywhere in the building."]
+      },
+      {
+        "pos": "noun",
+        "tr": "inşaat, yapım",
+        "def": "the process or business of constructing things",
+        "examples": ["The building of the new stadium took three years."]
+      }
+    ],
+    "collocations": ["office building", "apartment building", "historic building", "building site", "building permit"],
+    "synonyms": ["structure", "construction", "edifice"],
+    "family": [
+      { "word": "build", "pos": "verb" },
+      { "word": "builder", "pos": "noun" }
+    ],
+    "note": "\"Building blocks\" are the basic parts that something is made from."
+  },
+  {
+    "word": "bulk",
+    "ipa": "/bʌlk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "büyük kısım, çoğunluk",
+        "def": "the main or largest part of something",
+        "examples": ["The bulk of the work was done by volunteers.", "Rent takes up the bulk of my salary."]
+      },
+      {
+        "pos": "noun",
+        "tr": "toptan, büyük miktar",
+        "def": "large quantities (used in \"in bulk\")",
+        "examples": ["Buying rice in bulk is much cheaper."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hacim, iri cüsse",
+        "def": "the large size or weight of something or someone",
+        "examples": ["Despite his bulk, he moved surprisingly fast."]
+      }
+    ],
+    "collocations": ["the bulk of", "buy in bulk", "bulk buying", "bulk order", "sheer bulk"],
+    "synonyms": ["majority", "most", "mass", "volume"],
+    "family": [
+      { "word": "bulky", "pos": "adjective" },
+      { "word": "bulk up", "pos": "verb" }
+    ],
+    "note": "\"The bulk of\" is formal but very common in news and academic writing."
+  },
+  {
+    "word": "bullet",
+    "ipa": "/ˈbʊlɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kurşun, mermi",
+        "def": "a small piece of metal fired from a gun",
+        "examples": ["The bullet missed him by inches.", "Police found several bullets at the scene."]
+      }
+    ],
+    "collocations": ["fire a bullet", "bullet wound", "bulletproof vest", "bite the bullet", "bullet point"],
+    "synonyms": ["shot", "round"],
+    "family": [{ "word": "bulletproof", "pos": "adjective" }],
+    "note": "\"Bite the bullet\" = do something unpleasant you've been avoiding. \"Bullet points\" are the dots in a list."
+  },
+  {
+    "word": "bunch",
+    "ipa": "/bʌntʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "demet, salkım, deste",
+        "def": "a number of similar things growing or tied together",
+        "examples": ["He bought her a bunch of flowers.", "Grab a bunch of bananas from the store."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gayri resmi) bir sürü, bir grup",
+        "def": "(informal) a large amount or group of people or things",
+        "examples": ["I have a whole bunch of emails to answer.", "They're a nice bunch of people."]
+      }
+    ],
+    "collocations": ["a bunch of", "bunch of flowers", "bunch of grapes", "a whole bunch", "the best of the bunch"],
+    "synonyms": ["bundle", "cluster", "group", "lot"],
+    "family": [{ "word": "bunch up", "pos": "verb" }],
+    "note": "\"A bunch of\" for \"a lot of\" is very common in spoken American English: a bunch of stuff."
+  },
+  {
+    "word": "burden",
+    "ipa": "/ˈbɜːrdn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yük, külfet",
+        "def": "a difficult duty or responsibility that causes worry or hard work",
+        "examples": ["The new tax will place a heavy burden on small businesses.", "She didn't want to be a burden to her children."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yük olmak, yüklemek",
+        "def": "to give someone a duty or problem that is difficult to deal with",
+        "examples": ["I don't want to burden you with my problems."]
+      }
+    ],
+    "collocations": ["a heavy burden", "financial burden", "tax burden", "burden of proof", "share the burden"],
+    "synonyms": ["load", "weight", "strain", "responsibility"],
+    "family": [{ "word": "burdensome", "pos": "adjective" }],
+    "note": "\"The burden of proof\" is a legal phrase: the duty to prove something is true."
+  },
+  {
+    "word": "bureaucracy",
+    "ipa": "/bjʊˈrɑːkrəsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bürokrasi, kırtasiyecilik",
+        "def": "a system of official rules and procedures, especially when it seems too slow or complicated",
+        "examples": ["Getting a work visa involves a lot of bureaucracy.", "The new mayor promised to cut red tape and bureaucracy."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bürokrasi (kurum, memurlar)",
+        "def": "the officials and departments that run a government or large organization",
+        "examples": ["The federal bureaucracy employs millions of people."]
+      }
+    ],
+    "collocations": ["cut bureaucracy", "government bureaucracy", "layers of bureaucracy", "unnecessary bureaucracy"],
+    "synonyms": ["red tape", "administration", "officialdom"],
+    "family": [
+      { "word": "bureaucrat", "pos": "noun" },
+      { "word": "bureaucratic", "pos": "adjective" }
+    ],
+    "note": "Usually negative. Spelling is tricky: bureau + cracy. \"Red tape\" is the informal equivalent."
+  },
+  {
+    "word": "burial",
+    "ipa": "/ˈberiəl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "defin, gömme, cenaze töreni",
+        "def": "the act or ceremony of putting a dead body in the ground",
+        "examples": ["The burial took place in the family's hometown.", "Archaeologists discovered an ancient burial site."]
+      }
+    ],
+    "collocations": ["burial site", "burial ground", "burial ceremony", "proper burial"],
+    "synonyms": ["funeral", "interment", "entombment"],
+    "family": [{ "word": "bury", "pos": "verb" }],
+    "note": "Pronounced /ˈberiəl/, like \"berry-al\", not \"bury-al\" with /ʌ/."
+  },
+  {
+    "word": "burn",
+    "ipa": "/bɜːrn/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yanmak, yakmak",
+        "def": "to be on fire, or to destroy or damage something with fire or heat",
+        "examples": ["The old barn burned to the ground.", "I burned the toast again."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(enerji, kalori) yakmak, harcamak",
+        "def": "to use fuel or energy",
+        "examples": ["A brisk walk burns about three hundred calories an hour."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yanık",
+        "def": "an injury or mark caused by fire, heat, or acid",
+        "examples": ["She suffered minor burns on her hands while cooking."]
+      }
+    ],
+    "collocations": ["burn down", "burn calories", "burn fuel", "severe burns", "get burned"],
+    "synonyms": ["blaze", "scorch", "char", "consume"],
+    "family": [
+      { "word": "burning", "pos": "adjective" },
+      { "word": "burner", "pos": "noun" },
+      { "word": "burnout", "pos": "noun" }
+    ],
+    "note": "Past form: burned (American) or burnt (British; also used as an adjective in American: burnt toast). \"Burnout\" = exhaustion from work."
+  },
+  {
+    "word": "burst",
+    "ipa": "/bɜːrst/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "patlamak, patlatmak",
+        "def": "to break open suddenly because of pressure from inside, or to make something do this",
+        "examples": ["A water pipe burst in the basement during the cold night.", "The balloon burst with a loud bang."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(birden) dalmak, fırlamak; (gülme, ağlama) koyuvermek",
+        "def": "to move or start doing something suddenly and with force",
+        "examples": ["The kids burst into the room shouting.", "She burst into tears when she heard the news."]
+      },
+      {
+        "pos": "noun",
+        "tr": "patlama, ani artış",
+        "def": "a short, sudden period of activity, energy, or noise",
+        "examples": ["He finished the race with a final burst of speed."]
+      }
+    ],
+    "collocations": ["burst into tears", "burst out laughing", "burst open", "a burst of energy", "bursting with"],
+    "synonyms": ["explode", "pop", "rupture", "break"],
+    "family": [],
+    "note": "Irregular verb: burst – burst – burst. \"Bursting with\" means very full of: bursting with pride."
+  },
+  {
+    "word": "bury",
+    "ipa": "/ˈberi/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "gömmek, defnetmek",
+        "def": "to put a dead body in the ground",
+        "examples": ["He was buried next to his wife in the village cemetery."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gömmek, saklamak, örtmek",
+        "def": "to hide something in the ground or under other things",
+        "examples": ["Dogs often bury bones in the backyard to save them for later.", "The report was buried under a pile of papers on my desk."]
+      }
+    ],
+    "collocations": ["be buried in", "bury the dead", "buried treasure", "bury the hatchet", "bury your face in"],
+    "synonyms": ["inter", "hide", "conceal", "cover"],
+    "family": [{ "word": "burial", "pos": "noun" }],
+    "note": "Pronounced /ˈberi/, same as \"berry\". \"Bury the hatchet\" means end an argument and become friends again."
+  },
+  {
+    "word": "bus",
+    "ipa": "/bʌs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "otobüs",
+        "def": "a large vehicle that carries passengers along a fixed route",
+        "examples": ["I take the bus to work every morning.", "We missed the last bus and had to walk home."]
+      }
+    ],
+    "collocations": ["take the bus", "catch a bus", "miss the bus", "bus stop", "school bus", "on the bus"],
+    "synonyms": ["coach", "shuttle"],
+    "family": [],
+    "note": "Say \"on the bus\" (not \"in the bus\") and \"by bus\" (no article). Plural: buses."
+  },
+  {
+    "word": "bush",
+    "ipa": "/bʊʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çalı, çalılık",
+        "def": "a plant like a small tree with many stems growing close together",
+        "examples": ["The cat was hiding behind a bush in the yard.", "We planted rose bushes along the fence."]
+      }
+    ],
+    "collocations": ["rose bush", "beat around the bush", "behind a bush", "thick bushes"],
+    "synonyms": ["shrub", "hedge"],
+    "family": [{ "word": "bushy", "pos": "adjective" }],
+    "note": "\"Beat around the bush\" means avoid saying something directly (Turkish: lafı dolandırmak)."
+  },
+  {
+    "word": "business",
+    "ipa": "/ˈbɪznəs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iş, ticaret",
+        "def": "the activity of making, buying, and selling goods or services for money",
+        "examples": ["She studied business at college.", "Business has been slow since the holidays."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şirket, işletme",
+        "def": "a company, store, or other organization that makes money",
+        "examples": ["He runs a small business that repairs bikes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "mesele, (birinin) işi",
+        "def": "something that concerns a particular person",
+        "examples": ["How much I earn is none of your business."]
+      }
+    ],
+    "collocations": ["run a business", "small business", "do business with", "on business", "business trip", "none of your business"],
+    "synonyms": ["trade", "commerce", "company", "firm"],
+    "family": [
+      { "word": "businessman", "pos": "noun" },
+      { "word": "businesswoman", "pos": "noun" },
+      { "word": "businesslike", "pos": "adjective" }
+    ],
+    "note": "Pronounced /ˈbɪznəs/ with two syllables. \"On business\" means traveling for work."
+  },
+  {
+    "word": "businessman",
+    "ipa": "/ˈbɪznəsmæn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iş adamı",
+        "def": "a man who works in business, especially one who owns or runs a company",
+        "examples": ["A local businessman donated money to rebuild the library.", "He became a successful businessman by thirty."]
+      }
+    ],
+    "collocations": ["successful businessman", "wealthy businessman", "local businessman", "prominent businessman"],
+    "synonyms": ["entrepreneur", "executive", "tycoon"],
+    "family": [
+      { "word": "businesswoman", "pos": "noun" },
+      { "word": "businesspeople", "pos": "noun" }
+    ],
+    "note": "Plural: businessmen. Gender-neutral options: businessperson, business owner, entrepreneur."
+  },
+  {
+    "word": "busy",
+    "ipa": "/ˈbɪzi/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "meşgul, yoğun",
+        "def": "having a lot of things to do and little free time",
+        "examples": ["I'm too busy to go out tonight.", "She's busy working on her thesis."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kalabalık, işlek",
+        "def": "full of people, traffic, or activity",
+        "examples": ["The restaurant gets really busy on Friday nights.", "They live on a busy street."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(telefon) meşgul",
+        "def": "(American) of a phone line, being used",
+        "examples": ["I tried calling, but the line was busy."]
+      }
+    ],
+    "collocations": ["busy with", "busy doing something", "keep busy", "busy schedule", "busy street"],
+    "synonyms": ["occupied", "hectic", "crowded", "engaged"],
+    "family": [
+      { "word": "busily", "pos": "adverb" },
+      { "word": "busybody", "pos": "noun" }
+    ],
+    "note": "Pattern: busy + -ing (busy cooking), not \"busy to cook\". British English says the line is \"engaged\"."
+  },
+  {
+    "word": "but",
+    "ipa": "/bət/",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "tr": "ama, fakat, ancak",
+        "def": "used to introduce something that contrasts with what was just said",
+        "examples": ["The hotel was expensive but very comfortable.", "I'd love to come, but I have to work."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "-den başka, hariç",
+        "def": "except; apart from",
+        "examples": ["Everyone but my brother came to the wedding.", "I've had nothing but problems with this car."]
+      }
+    ],
+    "collocations": ["but also", "nothing but", "all but", "anything but", "not only ... but also"],
+    "synonyms": ["however", "yet", "although", "except"],
+    "family": [],
+    "note": "\"All but\" means \"almost\" (all but impossible); \"anything but\" means \"definitely not\" (anything but easy)."
+  },
+  {
+    "word": "butter",
+    "ipa": "/ˈbʌtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tereyağı",
+        "def": "a soft yellow food made from cream, used in cooking and spread on bread",
+        "examples": ["Spread some butter on the toast while it's hot.", "Melt the butter in a pan over low heat."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tereyağı sürmek",
+        "def": "to spread butter on something",
+        "examples": ["She buttered the bread and added a slice of cheese."]
+      }
+    ],
+    "collocations": ["bread and butter", "melted butter", "peanut butter", "butter up", "salted butter"],
+    "synonyms": [],
+    "family": [{ "word": "buttery", "pos": "adjective" }],
+    "note": "\"Butter someone up\" means be very nice to someone to get something. Uncountable: some butter."
+  },
+  {
+    "word": "button",
+    "ipa": "/ˈbʌtn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "düğme",
+        "def": "a small round object sewn onto clothes to fasten them",
+        "examples": ["A button fell off my coat on the way to work."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(cihaz, ekran) düğme, tuş, buton",
+        "def": "a small part of a machine or screen that you press to make it work",
+        "examples": ["Press the red button to stop the machine.", "Click the button below to download the file."]
+      },
+      {
+        "pos": "verb",
+        "tr": "düğmelemek, iliklemek",
+        "def": "to fasten clothes with buttons",
+        "examples": ["Button up your jacket; it's freezing outside."]
+      }
+    ],
+    "collocations": ["press a button", "push a button", "click the button", "at the push of a button", "button up"],
+    "synonyms": ["switch", "key", "knob"],
+    "family": [{ "word": "buttonhole", "pos": "noun" }],
+    "note": "\"Push someone's buttons\" means deliberately annoy them."
+  },
+  {
+    "word": "buy",
+    "ipa": "/baɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "satın almak, almak",
+        "def": "to get something by paying money for it",
+        "examples": ["We want to buy a house next year.", "Did you buy anything at the mall?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(gayri resmi) inanmak, yutmak",
+        "def": "(informal) to believe something someone says",
+        "examples": ["He said the dog ate his homework, but the teacher didn't buy it."]
+      },
+      {
+        "pos": "noun",
+        "tr": "alım, (iyi) kelepir",
+        "def": "something you buy, especially at a good price",
+        "examples": ["At that price, the laptop is a really good buy."]
+      }
+    ],
+    "collocations": ["buy something for someone", "buy online", "buy time", "a good buy", "buy into"],
+    "synonyms": ["purchase", "acquire", "get", "believe"],
+    "family": [{ "word": "buyer", "pos": "noun" }],
+    "note": "Irregular verb: buy – bought – bought. \"Buy time\" means delay something to get more time."
+  },
+  {
+    "word": "by",
+    "ipa": "/baɪ/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "ile, aracılığıyla; tarafından",
+        "def": "used to show how something is done, or who does it",
+        "examples": ["We traveled to Boston by train.", "The novel was written by a young Nigerian author."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "en geç, -e kadar",
+        "def": "not later than a particular time",
+        "examples": ["Please send me the report by Friday."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "yanında, kenarında",
+        "def": "near or beside someone or something",
+        "examples": ["She was sitting by the window reading a book."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yanından, geçerek",
+        "def": "past someone or something",
+        "examples": ["A police car drove by with its lights flashing.", "Time goes by so fast."]
+      }
+    ],
+    "collocations": ["by car", "by mistake", "by the way", "by yourself", "by now", "one by one"],
+    "synonyms": ["via", "through", "near", "past"],
+    "family": [{ "word": "bypass", "pos": "verb" }],
+    "note": "\"By Friday\" = no later than Friday; \"until Friday\" = continuing up to Friday."
+  },
+  {
+    "word": "bye",
+    "ipa": "/baɪ/",
+    "senses": [
+      {
+        "pos": "exclamation",
+        "tr": "hoşça kal, görüşürüz, bay bay",
+        "def": "(informal) goodbye",
+        "examples": ["Bye! See you tomorrow.", "She waved bye to her friends from the bus window."]
+      }
+    ],
+    "collocations": ["bye for now", "say bye", "bye-bye", "wave bye"],
+    "synonyms": ["goodbye", "see you", "so long"],
+    "family": [],
+    "note": "Informal. \"Bye-bye\" sounds childish or very casual."
+  },
+  {
+    "word": "cabin",
+    "ipa": "/ˈkæbɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kamara; (uçak) kabin",
+        "def": "a small room for sleeping on a ship, or the area where passengers sit on a plane",
+        "examples": ["Our cabin on the cruise ship had a small window.", "The cabin crew served drinks after takeoff."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kulübe, dağ evi",
+        "def": "a small, simple wooden house, especially in the woods or mountains",
+        "examples": ["We rented a log cabin by the lake for the weekend."]
+      }
+    ],
+    "collocations": ["log cabin", "cabin crew", "cabin pressure", "cabin in the woods"],
+    "synonyms": ["hut", "lodge", "cottage", "compartment"],
+    "family": [],
+    "note": "\"Cabin fever\" is the restless feeling from being stuck indoors too long."
+  },
+  {
+    "word": "cabinet",
+    "ipa": "/ˈkæbɪnət/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kabine, bakanlar kurulu",
+        "def": "a group of senior government members who make important decisions",
+        "examples": ["The president announced several changes to his cabinet.", "She served in the cabinet as secretary of state."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dolap",
+        "def": "a piece of furniture with shelves or drawers, used for storing things",
+        "examples": ["The glasses are in the kitchen cabinet above the sink."]
+      }
+    ],
+    "collocations": ["cabinet meeting", "cabinet minister", "cabinet reshuffle", "kitchen cabinet", "filing cabinet"],
+    "synonyms": ["government", "ministry", "cupboard", "closet"],
+    "family": [],
+    "note": "A \"cabinet reshuffle\" is when a leader changes which ministers do which jobs."
+  },
+  {
+    "word": "cable",
+    "ipa": "/ˈkeɪbl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kablo",
+        "def": "a set of wires covered in plastic that carries electricity or signals",
+        "examples": ["Plug the cable into the back of the TV.", "Workers are laying fiber-optic cables under the street."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kablolu yayın, kablo TV",
+        "def": "a television system that sends programs through cables",
+        "examples": ["Many young people cancel cable and just use streaming services."]
+      }
+    ],
+    "collocations": ["power cable", "charging cable", "cable TV", "cable car", "cable news"],
+    "synonyms": ["wire", "cord", "line"],
+    "family": [],
+    "note": "A \"cable car\" (teleferik) is pulled by a cable up a hill or mountain."
+  },
+  {
+    "word": "cafe",
+    "ipa": "/kæˈfeɪ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kafe",
+        "def": "a small place where you can buy drinks and simple meals",
+        "examples": ["Let's meet at the cafe across from the library.", "She spends hours working on her laptop in cafes."]
+      }
+    ],
+    "collocations": ["sidewalk cafe", "internet cafe", "local cafe", "cafe owner"],
+    "synonyms": ["coffee shop", "coffeehouse", "diner", "bistro"],
+    "family": [{ "word": "cafeteria", "pos": "noun" }],
+    "note": "Also spelled \"café\". Americans often say \"coffee shop\". A \"cafeteria\" is a self-service restaurant, e.g. in a school."
+  },
+  {
+    "word": "cake",
+    "ipa": "/keɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pasta, kek",
+        "def": "a sweet baked food made from flour, eggs, sugar, and butter",
+        "examples": ["We ordered a chocolate cake for her birthday.", "Would you like another slice of cake?"]
+      }
+    ],
+    "collocations": ["birthday cake", "bake a cake", "a piece of cake", "wedding cake", "have your cake and eat it too"],
+    "synonyms": ["pastry", "dessert"],
+    "family": [{ "word": "cupcake", "pos": "noun" }],
+    "note": "\"A piece of cake\" means very easy. \"Cake\" covers both Turkish \"pasta\" and \"kek\"; \"pasta\" in English means noodles."
+  },
+  {
+    "word": "calculate",
+    "ipa": "/ˈkælkjuleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "hesaplamak",
+        "def": "to find a number or amount using mathematics",
+        "examples": ["Use this app to calculate how much tax you owe.", "Scientists calculated the distance to the star."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tahmin etmek, hesaba katmak",
+        "def": "to judge or guess what will probably happen",
+        "examples": ["We calculated that the trip would take about four hours."]
+      }
+    ],
+    "collocations": ["calculate the cost", "calculate the risk", "carefully calculated", "calculated risk", "be calculated to"],
+    "synonyms": ["compute", "work out", "figure out", "estimate"],
+    "family": [
+      { "word": "calculation", "pos": "noun" },
+      { "word": "calculator", "pos": "noun" },
+      { "word": "calculated", "pos": "adjective" },
+      { "word": "calculating", "pos": "adjective" }
+    ],
+    "note": "A \"calculated risk\" is one taken after careful thought. A \"calculating\" person is coldly selfish."
+  },
+  {
+    "word": "calculation",
+    "ipa": "/ˌkælkjuˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hesap, hesaplama",
+        "def": "the process of using numbers to find an amount, or the result of this",
+        "examples": ["By my calculation, we'll run out of money in March.", "The engineers made a few mistakes in their calculations."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hesap kitap, çıkarcılık",
+        "def": "careful planning to get what you want, often in a selfish way",
+        "examples": ["Her kindness seemed to be based on cold calculation."]
+      }
+    ],
+    "collocations": ["make a calculation", "by my calculation", "rough calculation", "careful calculation", "political calculation"],
+    "synonyms": ["computation", "estimate", "reckoning"],
+    "family": [
+      { "word": "calculate", "pos": "verb" },
+      { "word": "calculator", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "call",
+    "ipa": "/kɔːl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "aramak, telefon etmek",
+        "def": "to phone someone",
+        "examples": ["I'll call you when I get to the airport.", "Call 911 if anyone is hurt."]
+      },
+      {
+        "pos": "verb",
+        "tr": "adlandırmak, demek, çağırmak",
+        "def": "to give someone or something a name, or to describe them in a certain way",
+        "examples": ["They called their daughter Elif after her grandmother.", "Critics called the plan a disaster."]
+      },
+      {
+        "pos": "noun",
+        "tr": "telefon görüşmesi, arama",
+        "def": "an act of speaking to someone on the phone",
+        "examples": ["I got a call from the bank this morning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çağrı, talep",
+        "def": "a public request for something to happen",
+        "examples": ["There are growing calls for the minister to resign."]
+      }
+    ],
+    "collocations": ["make a call", "give someone a call", "call back", "call off", "call for", "a close call"],
+    "synonyms": ["phone", "ring", "name", "label", "demand"],
+    "family": [
+      { "word": "caller", "pos": "noun" },
+      { "word": "calling", "pos": "noun" }
+    ],
+    "note": "\"Call off\" = cancel. \"A close call\" = a narrow escape from danger. \"It's your call\" = it's your decision."
+  }
+]

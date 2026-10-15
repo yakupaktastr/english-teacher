@@ -1,0 +1,598 @@
+[
+  {
+    "word": "goal",
+    "ipa": "/ɡoʊl/",
+    "senses": [
+      { "pos": "noun", "tr": "hedef, amaç", "def": "something you want to achieve and are working toward", "examples": ["My goal is to run a marathon before I turn forty.", "The company set an ambitious goal of cutting emissions in half."] },
+      { "pos": "noun", "tr": "gol; kale", "def": "a point scored by getting the ball into the net, or the net and frame itself", "examples": ["She scored the winning goal in the final minute.", "The ball hit the post and bounced away from the goal."] }
+    ],
+    "collocations": ["achieve a goal", "set a goal", "long-term goal", "score a goal", "the main goal"],
+    "synonyms": ["aim", "target", "objective", "purpose"],
+    "family": [{ "word": "goalkeeper", "pos": "noun" }, { "word": "goalless", "pos": "adjective" }]
+  },
+  {
+    "word": "god",
+    "ipa": "/ɡɑːd/",
+    "senses": [
+      { "pos": "noun", "tr": "Tanrı, Allah", "def": "(usually God) the being that many religions believe created and rules the universe", "examples": ["Many people pray to God for strength in hard times.", "Do you believe in God?"] },
+      { "pos": "noun", "tr": "tanrı, ilah", "def": "one of many spirits that some religions worship as having power over nature or people", "examples": ["Zeus was the king of the Greek gods.", "The ancient Egyptians had a god of the sun."] }
+    ],
+    "collocations": ["believe in God", "thank God", "oh my God", "pray to God", "the gods of ancient Greece"],
+    "synonyms": ["deity", "the Lord", "the Almighty"],
+    "family": [{ "word": "goddess", "pos": "noun" }, { "word": "godly", "pos": "adjective" }, { "word": "godless", "pos": "adjective" }],
+    "note": "Capitalize God for the one god of a religion. \"Oh my God\" is common but some people find it offensive; \"oh my gosh\" is softer."
+  },
+  {
+    "word": "gold",
+    "ipa": "/ɡoʊld/",
+    "senses": [
+      { "pos": "noun", "tr": "altın", "def": "a valuable yellow metal used for jewelry, coins, and as an investment", "examples": ["The ring is made of solid gold.", "Investors often buy gold when the stock market is falling."] },
+      { "pos": "noun", "tr": "altın madalya", "def": "a gold medal, given to the winner of a competition", "examples": ["She won gold in the 100-meter sprint."] },
+      { "pos": "adjective", "tr": "altın, altın renkli, altından", "def": "made of gold, or having its bright yellow color", "examples": ["He wore a gold watch to the wedding.", "The invitation was printed in gold letters."] }
+    ],
+    "collocations": ["solid gold", "gold medal", "gold jewelry", "win gold", "a heart of gold"],
+    "synonyms": ["golden"],
+    "family": [{ "word": "golden", "pos": "adjective" }, { "word": "goldsmith", "pos": "noun" }],
+    "note": "\"Gold\" is used for things made of the metal or its color; \"golden\" is more poetic or figurative (a golden opportunity)."
+  },
+  {
+    "word": "golden",
+    "ipa": "/ˈɡoʊldən/",
+    "senses": [
+      { "pos": "adjective", "tr": "altın, altından yapılmış; altın renkli", "def": "made of gold, or bright yellow like gold", "examples": ["The king wore a golden crown.", "The field was full of golden wheat."] },
+      { "pos": "adjective", "tr": "çok değerli, altın (fırsat vb.)", "def": "very good, special, or likely to bring success", "examples": ["This is a golden opportunity to expand into new markets.", "The 1960s were the golden age of television."] }
+    ],
+    "collocations": ["golden opportunity", "golden age", "golden rule", "golden brown", "golden anniversary"],
+    "synonyms": ["gold", "precious", "excellent", "favorable"],
+    "family": [{ "word": "gold", "pos": "noun" }]
+  },
+  {
+    "word": "golf",
+    "ipa": "/ɡɑːlf/",
+    "senses": [
+      { "pos": "noun", "tr": "golf", "def": "a game in which players hit a small ball into a series of holes using clubs, in as few shots as possible", "examples": ["My father plays golf every Saturday morning.", "They discussed the deal over a round of golf."] }
+    ],
+    "collocations": ["play golf", "golf course", "golf club", "a round of golf", "golf ball"],
+    "synonyms": [],
+    "family": [{ "word": "golfer", "pos": "noun" }, { "word": "golfing", "pos": "noun" }]
+  },
+  {
+    "word": "good",
+    "ipa": "/ɡʊd/",
+    "senses": [
+      { "pos": "adjective", "tr": "iyi, güzel, kaliteli", "def": "of high quality, pleasant, or at an acceptable standard", "examples": ["This is a really good restaurant.", "We had good weather for the whole trip."] },
+      { "pos": "adjective", "tr": "(bir şeyde) iyi, becerikli", "def": "able to do something well", "examples": ["She's very good at math.", "He is good with children."] },
+      { "pos": "adjective", "tr": "yararlı, faydalı; iyi kalpli", "def": "helpful or healthy for someone, or morally right and kind", "examples": ["Fresh vegetables are good for you.", "It was good of you to help us move."] },
+      { "pos": "noun", "tr": "iyilik, yarar, fayda", "def": "behavior that is morally right, or something that benefits someone", "examples": ["The battle between good and evil is an old theme in stories.", "Complaining won't do any good."] }
+    ],
+    "collocations": ["good at something", "good for you", "good news", "for good", "do somebody good", "no good"],
+    "synonyms": ["fine", "excellent", "skilled", "beneficial", "kind"],
+    "family": [{ "word": "goodness", "pos": "noun" }, { "word": "goods", "pos": "noun" }],
+    "note": "Irregular: good – better – best. Use \"well\" as the adverb (She sings well). \"For good\" means \"forever\"."
+  },
+  {
+    "word": "goodbye",
+    "ipa": "/ˌɡʊdˈbaɪ/",
+    "senses": [
+      { "pos": "exclamation", "tr": "hoşça kal, güle güle, görüşürüz", "def": "what you say when you or another person is leaving", "examples": ["Goodbye, everyone. See you on Monday!"] },
+      { "pos": "noun", "tr": "veda, vedalaşma", "def": "the act of saying goodbye when someone leaves", "examples": ["We said our goodbyes at the airport.", "It was a tearful goodbye after twenty years together."] }
+    ],
+    "collocations": ["say goodbye", "kiss somebody goodbye", "wave goodbye", "say your goodbyes", "a tearful goodbye"],
+    "synonyms": ["bye", "farewell", "see you"],
+    "family": [],
+    "note": "\"Wave/kiss goodbye to something\" can also mean you will lose it: You can kiss your deposit goodbye."
+  },
+  {
+    "word": "goodness",
+    "ipa": "/ˈɡʊdnəs/",
+    "senses": [
+      { "pos": "noun", "tr": "iyilik, iyi kalplilik", "def": "the quality of being kind, honest, and morally good", "examples": ["She believes in the basic goodness of people."] },
+      { "pos": "exclamation", "tr": "Aman Allahım!, Tanrım!", "def": "used to express surprise, often in phrases like \"my goodness\"", "examples": ["My goodness, look how tall you've grown!", "Thank goodness you're safe."] }
+    ],
+    "collocations": ["my goodness", "thank goodness", "for goodness' sake", "goodness knows", "human goodness"],
+    "synonyms": ["kindness", "virtue", "decency"],
+    "family": [{ "word": "good", "pos": "adjective" }]
+  },
+  {
+    "word": "goods",
+    "ipa": "/ɡʊdz/",
+    "senses": [
+      { "pos": "noun", "tr": "mal, ürün, eşya", "def": "things that are made to be sold, or things that someone owns and can move", "examples": ["The store sells sporting goods and outdoor gear.", "Tariffs raised the price of imported goods."] }
+    ],
+    "collocations": ["consumer goods", "manufactured goods", "goods and services", "stolen goods", "household goods"],
+    "synonyms": ["products", "merchandise", "commodities", "possessions"],
+    "family": [],
+    "note": "Always plural; there is no \"a good\" in this sense. Use \"a product\" or \"an item\" for one."
+  },
+  {
+    "word": "gorgeous",
+    "ipa": "/ˈɡɔːrdʒəs/",
+    "senses": [
+      { "pos": "adjective", "tr": "çok güzel, muhteşem, nefis", "def": "very beautiful or attractive, or very pleasant", "examples": ["You look gorgeous in that dress.", "We had gorgeous weather for the beach party."] }
+    ],
+    "collocations": ["absolutely gorgeous", "gorgeous view", "gorgeous weather", "look gorgeous"],
+    "synonyms": ["beautiful", "stunning", "lovely", "magnificent"],
+    "family": [{ "word": "gorgeously", "pos": "adverb" }],
+    "note": "Informal and enthusiastic. Common for people, places, food, and weather."
+  },
+  {
+    "word": "govern",
+    "ipa": "/ˈɡʌvərn/",
+    "senses": [
+      { "pos": "verb", "tr": "yönetmek, idare etmek", "def": "to officially control a country, state, or its people and make its laws", "examples": ["The country was governed by the military for ten years.", "The party has governed the state since 2010."] },
+      { "pos": "verb", "tr": "belirlemek, yönlendirmek, düzenlemek", "def": "to control or strongly influence how something happens or is done", "examples": ["Strict rules govern the use of personal data.", "Her decisions are governed by fear rather than logic."] }
+    ],
+    "collocations": ["govern a country", "the right to govern", "rules governing something", "laws that govern", "governing body"],
+    "synonyms": ["rule", "run", "control", "regulate", "determine"],
+    "family": [{ "word": "government", "pos": "noun" }, { "word": "governor", "pos": "noun" }, { "word": "governance", "pos": "noun" }, { "word": "governing", "pos": "adjective" }]
+  },
+  {
+    "word": "governance",
+    "ipa": "/ˈɡʌvərnəns/",
+    "senses": [
+      { "pos": "noun", "tr": "yönetim, yönetişim", "def": "the way a country, company, or organization is controlled and how decisions are made", "examples": ["Investors are demanding better corporate governance.", "The report criticized the poor governance of the city's schools."] }
+    ],
+    "collocations": ["corporate governance", "good governance", "global governance", "governance structure", "democratic governance"],
+    "synonyms": ["management", "administration", "leadership", "control"],
+    "family": [{ "word": "govern", "pos": "verb" }],
+    "note": "Formal; common in business, politics, and academic writing."
+  },
+  {
+    "word": "government",
+    "ipa": "/ˈɡʌvərnmənt/",
+    "senses": [
+      { "pos": "noun", "tr": "hükümet, devlet", "def": "the group of people who officially control a country or state", "examples": ["The government announced new measures to reduce inflation.", "Many people don't trust the government to protect their privacy."] },
+      { "pos": "noun", "tr": "yönetim, yönetim biçimi", "def": "the system or activity of governing a country", "examples": ["She studied government and economics in college.", "The country moved toward democratic government."] }
+    ],
+    "collocations": ["federal government", "local government", "government officials", "government spending", "form a government"],
+    "synonyms": ["administration", "state", "authorities", "regime"],
+    "family": [{ "word": "governmental", "pos": "adjective" }, { "word": "govern", "pos": "verb" }],
+    "note": "In American English \"the administration\" often means the president's government. Pronounced /ˈɡʌvərmənt/ in fast speech."
+  },
+  {
+    "word": "governor",
+    "ipa": "/ˈɡʌvərnər/",
+    "senses": [
+      { "pos": "noun", "tr": "vali, eyalet valisi", "def": "the elected head of a US state, or the official head of a region or colony", "examples": ["The governor declared a state of emergency after the floods.", "She is running for governor of Texas."] },
+      { "pos": "noun", "tr": "başkan, yönetim kurulu üyesi", "def": "a person who leads or is on the board of an institution such as a central bank", "examples": ["The central bank governor warned that rates could rise again."] }
+    ],
+    "collocations": ["state governor", "run for governor", "governor's office", "central bank governor", "lieutenant governor"],
+    "synonyms": ["head", "leader", "administrator"],
+    "family": [{ "word": "governorship", "pos": "noun" }, { "word": "gubernatorial", "pos": "adjective" }]
+  },
+  {
+    "word": "grab",
+    "ipa": "/ɡræb/",
+    "senses": [
+      { "pos": "verb", "tr": "kapmak, yakalamak, çekip almak", "def": "to take hold of something suddenly and roughly", "examples": ["He grabbed my arm to stop me from falling.", "The thief grabbed her bag and ran."] },
+      { "pos": "verb", "tr": "(hızlıca) almak, kapmak, (bir şey) atıştırmak", "def": "to quickly get or take something, often because you are busy", "examples": ["Let's grab a coffee before the meeting.", "I'll grab a seat near the front."] },
+      { "pos": "verb", "tr": "(dikkat) çekmek", "def": "to get someone's attention or interest", "examples": ["The headline was designed to grab readers' attention."] }
+    ],
+    "collocations": ["grab hold of", "grab a bite", "grab attention", "grab a chance", "grab somebody's arm"],
+    "synonyms": ["seize", "snatch", "grasp", "take"],
+    "family": [{ "word": "grabby", "pos": "adjective" }],
+    "note": "\"Up for grabs\" means available for anyone to try to get: The top job is up for grabs."
+  },
+  {
+    "word": "grace",
+    "ipa": "/ɡreɪs/",
+    "senses": [
+      { "pos": "noun", "tr": "zarafet, incelik", "def": "a smooth, attractive way of moving, or a calm and polite way of behaving", "examples": ["The dancer moved across the stage with grace.", "She accepted defeat with grace and congratulated her rival."] },
+      { "pos": "noun", "tr": "ek süre, mühlet", "def": "extra time allowed before something must be done or paid", "examples": ["The bank gave us a ten-day grace period to pay the bill."] },
+      { "pos": "noun", "tr": "(Tanrı'nın) lütfu, rahmeti", "def": "in Christianity, God's kindness and love toward people", "examples": ["They believe they were saved by the grace of God."] }
+    ],
+    "collocations": ["with grace", "grace period", "fall from grace", "saving grace", "by the grace of God"],
+    "synonyms": ["elegance", "poise", "dignity", "charm"],
+    "family": [{ "word": "graceful", "pos": "adjective" }, { "word": "gracious", "pos": "adjective" }, { "word": "gracefully", "pos": "adverb" }, { "word": "disgrace", "pos": "noun" }],
+    "note": "\"Saving grace\" = the one good thing about something bad. \"Say grace\" = pray before a meal."
+  },
+  {
+    "word": "grade",
+    "ipa": "/ɡreɪd/",
+    "senses": [
+      { "pos": "noun", "tr": "not", "def": "a letter or number given to show the quality of a student's work", "examples": ["She got good grades in all her science classes.", "What grade did you get on the history test?"] },
+      { "pos": "noun", "tr": "sınıf", "def": "one of the school years in the US, from first to twelfth", "examples": ["My son is in third grade this year."] },
+      { "pos": "noun", "tr": "derece, kalite, seviye", "def": "a level of quality, size, or rank", "examples": ["The factory uses only high-grade steel."] },
+      { "pos": "verb", "tr": "not vermek, (sınav) okumak; sınıflandırmak", "def": "to give a mark to a student's work, or to sort things by quality", "examples": ["The teacher spent the weekend grading essays.", "Eggs are graded by size."] }
+    ],
+    "collocations": ["get good grades", "in fifth grade", "make the grade", "high-grade", "grade papers"],
+    "synonyms": ["mark", "score", "level", "rank", "class"],
+    "family": [{ "word": "grading", "pos": "noun" }, { "word": "grader", "pos": "noun" }, { "word": "upgrade", "pos": "verb" }, { "word": "downgrade", "pos": "verb" }],
+    "note": "American: \"grade\" for both school marks and school year (British: \"mark\" and \"year\"). Turkish \"sınıf\" = grade, not \"class\"."
+  },
+  {
+    "word": "gradually",
+    "ipa": "/ˈɡrædʒuəli/",
+    "senses": [
+      { "pos": "adverb", "tr": "yavaş yavaş, giderek, kademeli olarak", "def": "slowly and in small steps over a period of time", "examples": ["The patient's condition gradually improved over the next few weeks.", "Add the flour gradually, stirring all the time."] }
+    ],
+    "collocations": ["gradually increase", "gradually improve", "gradually disappear", "slowly and gradually"],
+    "synonyms": ["slowly", "steadily", "progressively", "little by little"],
+    "family": [{ "word": "gradual", "pos": "adjective" }],
+    "note": "Opposite: suddenly, abruptly."
+  },
+  {
+    "word": "graduate",
+    "ipa": "/ˈɡrædʒuət/",
+    "senses": [
+      { "pos": "noun", "tr": "mezun", "def": "a person who has completed a university degree, or (in the US) high school", "examples": ["She is a graduate of Stanford Law School.", "Many recent college graduates struggle to find jobs."] },
+      { "pos": "verb", "tr": "mezun olmak", "def": "to complete your studies and receive a degree or diploma", "examples": ["He graduated from high school in 2019.", "She graduated with honors in chemistry."] },
+      { "pos": "adjective", "tr": "lisansüstü", "def": "relating to studies done after a first university degree", "examples": ["He's applying to graduate school next fall."] }
+    ],
+    "collocations": ["graduate from", "college graduate", "recent graduate", "graduate school", "graduate student"],
+    "synonyms": ["alumnus", "finish school"],
+    "family": [{ "word": "graduation", "pos": "noun" }, { "word": "undergraduate", "pos": "noun" }, { "word": "postgraduate", "pos": "noun" }],
+    "note": "Noun /ˈɡrædʒuət/, verb /ˈɡrædʒueɪt/. Say \"graduate from a school\", not \"graduate a school\" (a common Turkish-speaker error)."
+  },
+  {
+    "word": "grain",
+    "ipa": "/ɡreɪn/",
+    "senses": [
+      { "pos": "noun", "tr": "tahıl, hububat; tane", "def": "the seeds of plants like wheat and rice used as food, or one such seed", "examples": ["The country exports large amounts of grain.", "Choose whole grain bread for more fiber."] },
+      { "pos": "noun", "tr": "tane, zerre", "def": "a very small piece of something like sand or salt, or a small amount of a quality", "examples": ["There's a grain of sand in my shoe.", "There's a grain of truth in what he said."] },
+      { "pos": "noun", "tr": "(ahşap) damar, lif yönü", "def": "the natural pattern of lines in wood or fabric", "examples": ["Sand the wood in the direction of the grain."] }
+    ],
+    "collocations": ["whole grain", "grain of sand", "grain of truth", "go against the grain", "grain prices"],
+    "synonyms": ["cereal", "seed", "particle", "speck"],
+    "family": [{ "word": "grainy", "pos": "adjective" }],
+    "note": "\"Take something with a grain of salt\" (US) = don't completely believe it. \"Go against the grain\" = be unusual or unnatural for you."
+  },
+  {
+    "word": "grand",
+    "ipa": "/ɡrænd/",
+    "senses": [
+      { "pos": "adjective", "tr": "görkemli, büyük, ihtişamlı", "def": "impressive in size, appearance, or importance", "examples": ["The hotel has a grand staircase in the lobby.", "They have grand plans to rebuild the city center."] },
+      { "pos": "adjective", "tr": "genel, toplam", "def": "including everything; final", "examples": ["The grand total came to over two thousand dollars."] },
+      { "pos": "noun", "tr": "bin dolar", "def": "(informal) a thousand dollars", "examples": ["He paid ten grand for that used car."] }
+    ],
+    "collocations": ["grand plan", "grand opening", "grand total", "on a grand scale", "grand prize"],
+    "synonyms": ["magnificent", "impressive", "splendid", "ambitious"],
+    "family": [{ "word": "grandeur", "pos": "noun" }, { "word": "grandly", "pos": "adverb" }, { "word": "grandiose", "pos": "adjective" }],
+    "note": "\"Grand\" meaning $1,000 never takes -s: \"five grand\"."
+  },
+  {
+    "word": "grandfather",
+    "ipa": "/ˈɡrænfɑːðər/",
+    "senses": [
+      { "pos": "noun", "tr": "büyükbaba, dede", "def": "the father of your mother or father", "examples": ["My grandfather taught me how to fish when I was six.", "Her grandfather emigrated from Italy in the 1950s."] }
+    ],
+    "collocations": ["great-grandfather", "maternal grandfather", "paternal grandfather", "grandfather clock"],
+    "synonyms": ["grandpa", "granddad"],
+    "family": [{ "word": "grandmother", "pos": "noun" }, { "word": "grandparent", "pos": "noun" }, { "word": "grandson", "pos": "noun" }],
+    "note": "Informal: grandpa. To specify the side of the family, say maternal (mother's) or paternal (father's) grandfather."
+  },
+  {
+    "word": "grandmother",
+    "ipa": "/ˈɡrænmʌðər/",
+    "senses": [
+      { "pos": "noun", "tr": "büyükanne, nine, babaanne, anneanne", "def": "the mother of your mother or father", "examples": ["My grandmother makes the best apple pie.", "She was raised by her grandmother after her parents died."] }
+    ],
+    "collocations": ["great-grandmother", "maternal grandmother", "paternal grandmother", "visit my grandmother"],
+    "synonyms": ["grandma", "granny"],
+    "family": [{ "word": "grandfather", "pos": "noun" }, { "word": "granddaughter", "pos": "noun" }],
+    "note": "Babaanne = paternal grandmother; anneanne = maternal grandmother. English uses one word for both."
+  },
+  {
+    "word": "grandparent",
+    "ipa": "/ˈɡrænperənt/",
+    "senses": [
+      { "pos": "noun", "tr": "büyükanne veya büyükbaba; (çoğul) büyükanne ve büyükbaba", "def": "a parent of your father or mother", "examples": ["We spend every Thanksgiving with my grandparents.", "Many grandparents help take care of their grandchildren."] }
+    ],
+    "collocations": ["visit my grandparents", "proud grandparent", "grandparents' house", "great-grandparents"],
+    "synonyms": [],
+    "family": [{ "word": "grandchild", "pos": "noun" }, { "word": "grandfather", "pos": "noun" }, { "word": "grandmother", "pos": "noun" }]
+  },
+  {
+    "word": "grant",
+    "ipa": "/ɡrænt/",
+    "senses": [
+      { "pos": "noun", "tr": "hibe, ödenek, burs", "def": "money given by a government or organization for a particular purpose, such as research", "examples": ["The lab received a federal grant to study climate change.", "She applied for a grant to fund her documentary."] },
+      { "pos": "verb", "tr": "vermek, bahşetmek, (izin) vermek", "def": "to officially give or allow someone something they have asked for", "examples": ["The judge granted him permission to leave the country.", "She was granted asylum in Canada."] },
+      { "pos": "verb", "tr": "kabul etmek, teslim etmek", "def": "to admit that something is true, especially before arguing a different point", "examples": ["I grant that the plan is expensive, but it will save money long term."] }
+    ],
+    "collocations": ["research grant", "apply for a grant", "grant permission", "grant a request", "take something for granted"],
+    "synonyms": ["award", "funding", "give", "allow", "admit"],
+    "family": [{ "word": "grantee", "pos": "noun" }, { "word": "granted", "pos": "adverb" }],
+    "note": "\"Take something/someone for granted\" = not appreciate it because you expect it to always be there."
+  },
+  {
+    "word": "graphic",
+    "ipa": "/ˈɡræfɪk/",
+    "senses": [
+      { "pos": "adjective", "tr": "grafik, görsel", "def": "related to drawings, images, and design, especially in printing or on screens", "examples": ["She works as a graphic designer for an ad agency.", "The novel was adapted into a graphic novel."] },
+      { "pos": "adjective", "tr": "açık, ayrıntılı, çarpıcı (özellikle şiddet vb.)", "def": "showing or describing something unpleasant, especially violence or sex, in very clear detail", "examples": ["The movie contains graphic violence.", "He gave a graphic description of the accident."] },
+      { "pos": "noun", "tr": "grafik, görsel", "def": "a picture, chart, or design, especially one on a computer screen", "examples": ["The article includes a graphic showing the rise in prices."] }
+    ],
+    "collocations": ["graphic design", "graphic designer", "graphic novel", "graphic violence", "graphic detail"],
+    "synonyms": ["visual", "vivid", "explicit", "detailed"],
+    "family": [{ "word": "graphics", "pos": "noun" }, { "word": "graphically", "pos": "adverb" }]
+  },
+  {
+    "word": "graphics",
+    "ipa": "/ˈɡræfɪks/",
+    "senses": [
+      { "pos": "noun", "tr": "grafikler, görseller", "def": "pictures, designs, and images, especially those made by computer", "examples": ["The new video game has amazing graphics.", "You'll need a powerful graphics card to run this software."] }
+    ],
+    "collocations": ["computer graphics", "graphics card", "3D graphics", "stunning graphics", "motion graphics"],
+    "synonyms": ["visuals", "images", "artwork"],
+    "family": [{ "word": "graphic", "pos": "adjective" }]
+  },
+  {
+    "word": "grasp",
+    "ipa": "/ɡræsp/",
+    "senses": [
+      { "pos": "verb", "tr": "sıkıca tutmak, kavramak", "def": "to take and hold something firmly", "examples": ["She grasped the rope with both hands.", "He grasped my hand and shook it warmly."] },
+      { "pos": "verb", "tr": "anlamak, kavramak", "def": "to understand something, especially something difficult", "examples": ["It took me a while to grasp the main idea of the theory.", "They failed to grasp how serious the situation was."] },
+      { "pos": "noun", "tr": "kavrayış, anlayış; sıkı tutuş", "def": "understanding of a subject, or a firm hold on something", "examples": ["She has a good grasp of French grammar.", "Success is finally within our grasp."] }
+    ],
+    "collocations": ["grasp the concept", "grasp the opportunity", "a firm grasp", "a good grasp of", "within your grasp"],
+    "synonyms": ["grip", "seize", "understand", "comprehend", "grab"],
+    "family": [{ "word": "grasping", "pos": "adjective" }]
+  },
+  {
+    "word": "grass",
+    "ipa": "/ɡræs/",
+    "senses": [
+      { "pos": "noun", "tr": "çim, ot", "def": "a common plant with thin green leaves that covers fields, parks, and lawns", "examples": ["The kids were lying on the grass in the park.", "Please keep off the grass."] }
+    ],
+    "collocations": ["cut the grass", "mow the grass", "green grass", "tall grass", "the grass is always greener"],
+    "synonyms": ["lawn", "turf"],
+    "family": [{ "word": "grassy", "pos": "adjective" }, { "word": "grassland", "pos": "noun" }, { "word": "grassroots", "pos": "adjective" }],
+    "note": "\"The grass is always greener on the other side\" = other people's situations always seem better (Komşunun tavuğu komşuya kaz görünür)."
+  },
+  {
+    "word": "grateful",
+    "ipa": "/ˈɡreɪtfl/",
+    "senses": [
+      { "pos": "adjective", "tr": "minnettar, müteşekkir", "def": "feeling or showing thanks because someone has helped you or been kind", "examples": ["I'm really grateful for all your help with the move.", "We'd be grateful if you could reply by Friday."] }
+    ],
+    "collocations": ["grateful for something", "grateful to somebody", "deeply grateful", "eternally grateful", "I would be grateful if"],
+    "synonyms": ["thankful", "appreciative", "obliged"],
+    "family": [{ "word": "gratefully", "pos": "adverb" }, { "word": "gratitude", "pos": "noun" }, { "word": "ungrateful", "pos": "adjective" }],
+    "note": "Grateful TO a person FOR a thing. \"I would be grateful if…\" is a polite formal request in emails."
+  },
+  {
+    "word": "grave",
+    "ipa": "/ɡreɪv/",
+    "senses": [
+      { "pos": "noun", "tr": "mezar, kabir", "def": "a place in the ground where a dead person is buried", "examples": ["They put flowers on their mother's grave every spring.", "He took the secret to his grave."] },
+      { "pos": "adjective", "tr": "ciddi, vahim, endişe verici", "def": "very serious and worrying", "examples": ["Officials expressed grave concern about the safety of the dam.", "This is a grave mistake that could cost lives."] }
+    ],
+    "collocations": ["grave concern", "grave danger", "grave mistake", "visit a grave", "mass grave"],
+    "synonyms": ["tomb", "burial place", "serious", "critical", "solemn"],
+    "family": [{ "word": "gravely", "pos": "adverb" }, { "word": "graveyard", "pos": "noun" }, { "word": "gravity", "pos": "noun" }],
+    "note": "The adjective is formal. \"Turn in his grave\" = a dead person would be very upset about something happening now."
+  },
+  {
+    "word": "gravity",
+    "ipa": "/ˈɡrævəti/",
+    "senses": [
+      { "pos": "noun", "tr": "yerçekimi, çekim kuvveti", "def": "the natural force that pulls objects toward each other and makes things fall to the ground", "examples": ["The moon's gravity causes the ocean tides.", "Astronauts train to work without gravity."] },
+      { "pos": "noun", "tr": "ciddiyet, vahamet", "def": "how serious or important a situation is", "examples": ["He didn't seem to understand the gravity of the situation."] }
+    ],
+    "collocations": ["force of gravity", "center of gravity", "zero gravity", "the gravity of the situation", "defy gravity"],
+    "synonyms": ["gravitation", "seriousness", "severity", "importance"],
+    "family": [{ "word": "gravitational", "pos": "adjective" }, { "word": "gravitate", "pos": "verb" }, { "word": "grave", "pos": "adjective" }]
+  },
+  {
+    "word": "gray",
+    "ipa": "/ɡreɪ/",
+    "senses": [
+      { "pos": "adjective", "tr": "gri, boz; (saç) kır, ağarmış", "def": "having the color of smoke or clouds on a rainy day; (of hair) turning white with age", "examples": ["It was a cold, gray morning in November.", "My dad's hair started going gray in his forties."] },
+      { "pos": "noun", "tr": "gri (renk)", "def": "the color between black and white", "examples": ["The walls are painted a soft gray."] }
+    ],
+    "collocations": ["go gray", "gray hair", "gray area", "dark gray", "gray skies"],
+    "synonyms": ["silver", "ashen", "gloomy", "dull"],
+    "family": [{ "word": "grayish", "pos": "adjective" }, { "word": "graying", "pos": "adjective" }],
+    "note": "American spelling: gray; British: grey. \"A gray area\" = something unclear, not clearly right or wrong."
+  },
+  {
+    "word": "great",
+    "ipa": "/ɡreɪt/",
+    "senses": [
+      { "pos": "adjective", "tr": "harika, mükemmel, süper", "def": "very good, enjoyable, or useful", "examples": ["We had a great time at the concert.", "That's a great idea!"] },
+      { "pos": "adjective", "tr": "büyük, çok", "def": "very large in amount, size, or degree", "examples": ["The new law will be of great importance to small businesses.", "She lived to a great age."] },
+      { "pos": "adjective", "tr": "büyük, önemli, ünlü", "def": "very important, famous, or talented", "examples": ["He's one of the greatest writers of his generation."] }
+    ],
+    "collocations": ["a great deal", "great importance", "have a great time", "great idea", "great success"],
+    "synonyms": ["excellent", "wonderful", "huge", "important", "outstanding"],
+    "family": [{ "word": "greatly", "pos": "adverb" }, { "word": "greatness", "pos": "noun" }]
+  },
+  {
+    "word": "greatly",
+    "ipa": "/ˈɡreɪtli/",
+    "senses": [
+      { "pos": "adverb", "tr": "büyük ölçüde, çok", "def": "very much; to a large degree", "examples": ["Your help is greatly appreciated.", "Prices vary greatly from one region to another."] }
+    ],
+    "collocations": ["greatly appreciated", "greatly increase", "greatly improve", "vary greatly", "greatly reduce"],
+    "synonyms": ["very much", "considerably", "significantly", "hugely"],
+    "family": [{ "word": "great", "pos": "adjective" }],
+    "note": "Formal. Usually used with verbs and past participles, not adjectives: say \"very happy\", not \"greatly happy\"."
+  },
+  {
+    "word": "green",
+    "ipa": "/ɡriːn/",
+    "senses": [
+      { "pos": "adjective", "tr": "yeşil", "def": "having the color of grass and leaves", "examples": ["She has bright green eyes.", "The hills turn green after the spring rains."] },
+      { "pos": "adjective", "tr": "çevreci, yeşil", "def": "relating to protecting the environment", "examples": ["The city is investing in green energy like wind and solar.", "More companies are trying to go green."] },
+      { "pos": "noun", "tr": "yeşil (renk); yeşil alan", "def": "the color of grass, or an area of grass in a town or on a golf course", "examples": ["The room was decorated in green and white."] }
+    ],
+    "collocations": ["bright green", "green energy", "go green", "green light", "green with envy"],
+    "synonyms": ["eco-friendly", "environmental", "inexperienced"],
+    "family": [{ "word": "greenery", "pos": "noun" }, { "word": "greenish", "pos": "adjective" }, { "word": "greenhouse", "pos": "noun" }],
+    "note": "\"Give the green light\" = give permission. \"Green\" can also mean inexperienced: He's still green."
+  },
+  {
+    "word": "greenhouse",
+    "ipa": "/ˈɡriːnhaʊs/",
+    "senses": [
+      { "pos": "noun", "tr": "sera", "def": "a glass building used for growing plants that need warmth and protection", "examples": ["My aunt grows tomatoes in a small greenhouse behind the house."] },
+      { "pos": "adjective", "tr": "sera (etkisi, gazı)", "def": "relating to gases that trap heat in the earth's atmosphere", "examples": ["Cars and power plants produce large amounts of greenhouse gases.", "The greenhouse effect is warming the planet."] }
+    ],
+    "collocations": ["greenhouse gas", "greenhouse effect", "greenhouse emissions", "grow in a greenhouse"],
+    "synonyms": ["glasshouse", "hothouse"],
+    "family": []
+  },
+  {
+    "word": "greet",
+    "ipa": "/ɡriːt/",
+    "senses": [
+      { "pos": "verb", "tr": "selamlamak, karşılamak", "def": "to say hello to someone or welcome them when they arrive", "examples": ["The host greeted each guest at the door.", "She greeted me with a warm hug."] },
+      { "pos": "verb", "tr": "(belli bir şekilde) karşılamak", "def": "to react to something in a particular way", "examples": ["The announcement was greeted with loud applause.", "The news was greeted with anger by local residents."] }
+    ],
+    "collocations": ["greet somebody warmly", "be greeted with", "greet guests", "greeted with applause"],
+    "synonyms": ["welcome", "say hello to", "receive", "meet"],
+    "family": [{ "word": "greeting", "pos": "noun" }, { "word": "greeter", "pos": "noun" }]
+  },
+  {
+    "word": "grid",
+    "ipa": "/ɡrɪd/",
+    "senses": [
+      { "pos": "noun", "tr": "ızgara, kafes, (kareli) şebeke", "def": "a pattern of straight lines that cross each other to form squares", "examples": ["The streets of Manhattan are laid out in a grid.", "Draw a grid on the paper before you start the chart."] },
+      { "pos": "noun", "tr": "(elektrik) şebeke", "def": "a network of power lines that carries electricity across an area", "examples": ["The storm knocked out the power grid for three days.", "They live off the grid, using solar panels and well water."] }
+    ],
+    "collocations": ["power grid", "electrical grid", "off the grid", "grid pattern", "grid system"],
+    "synonyms": ["network", "lattice", "framework"],
+    "family": [{ "word": "gridlock", "pos": "noun" }],
+    "note": "\"Off the grid\" = living without public electricity, or hard to contact."
+  },
+  {
+    "word": "grief",
+    "ipa": "/ɡriːf/",
+    "senses": [
+      { "pos": "noun", "tr": "keder, acı, yas", "def": "deep sadness, especially because someone has died", "examples": ["She was overcome with grief after her husband's death.", "Grief counselors were sent to the school after the accident."] },
+      { "pos": "noun", "tr": "sıkıntı, dert, başına iş açma", "def": "(informal) trouble or annoyance caused by someone", "examples": ["My boss gave me a lot of grief for being late."] }
+    ],
+    "collocations": ["overcome with grief", "deep grief", "come to grief", "give somebody grief", "good grief"],
+    "synonyms": ["sorrow", "sadness", "mourning", "heartbreak"],
+    "family": [{ "word": "grieve", "pos": "verb" }, { "word": "grieving", "pos": "adjective" }, { "word": "grievance", "pos": "noun" }],
+    "note": "\"Good grief!\" expresses surprise or annoyance. Verb: grieve (for somebody)."
+  },
+  {
+    "word": "grin",
+    "ipa": "/ɡrɪn/",
+    "senses": [
+      { "pos": "verb", "tr": "sırıtmak, kocaman gülümsemek", "def": "to smile widely, showing your teeth", "examples": ["He grinned at me from across the room.", "She was grinning from ear to ear after the exam."] },
+      { "pos": "noun", "tr": "geniş gülümseme, sırıtma", "def": "a wide smile", "examples": ["He had a big grin on his face when he heard the news."] }
+    ],
+    "collocations": ["grin from ear to ear", "a broad grin", "a big grin", "grin and bear it", "a sheepish grin"],
+    "synonyms": ["smile", "beam", "smirk"],
+    "family": [],
+    "note": "\"Grin and bear it\" = accept something unpleasant without complaining."
+  },
+  {
+    "word": "grind",
+    "ipa": "/ɡraɪnd/",
+    "senses": [
+      { "pos": "verb", "tr": "öğütmek, çekmek", "def": "to crush something into very small pieces or powder", "examples": ["I grind fresh coffee beans every morning.", "The meat was ground and made into burgers."] },
+      { "pos": "verb", "tr": "(diş) gıcırdatmak; bilemek, taşlamak", "def": "to rub hard surfaces together, or to make something sharp or smooth by rubbing", "examples": ["He grinds his teeth in his sleep."] },
+      { "pos": "noun", "tr": "angarya, yorucu ve sıkıcı iş", "def": "hard, boring work that continues for a long time", "examples": ["After vacation, it's back to the daily grind."] }
+    ],
+    "collocations": ["grind coffee", "grind your teeth", "the daily grind", "grind to a halt", "freshly ground"],
+    "synonyms": ["crush", "mill", "pound", "drudgery"],
+    "family": [{ "word": "grinder", "pos": "noun" }, { "word": "grinding", "pos": "adjective" }],
+    "note": "Irregular: grind – ground – ground. \"Grind to a halt\" = slowly stop completely."
+  },
+  {
+    "word": "grip",
+    "ipa": "/ɡrɪp/",
+    "senses": [
+      { "pos": "noun", "tr": "kavrama, tutuş; hakimiyet, kontrol", "def": "a tight hold on something, or control or power over something", "examples": ["Keep a firm grip on the handrail.", "The country is in the grip of a severe drought."] },
+      { "pos": "verb", "tr": "sıkıca tutmak, kavramak", "def": "to hold something very tightly", "examples": ["She gripped the steering wheel nervously.", "The child gripped his mother's hand in the crowd."] },
+      { "pos": "verb", "tr": "etkisi altına almak, sarmak, (dikkat) çekmek", "def": "to strongly affect someone or hold their attention", "examples": ["Fear gripped the town after the attacks.", "The novel gripped me from the first page."] }
+    ],
+    "collocations": ["a firm grip", "lose your grip", "get a grip", "tighten your grip", "in the grip of"],
+    "synonyms": ["hold", "grasp", "clutch", "control"],
+    "family": [{ "word": "gripping", "pos": "adjective" }],
+    "note": "\"Get a grip!\" (informal) = calm down and control your emotions. \"Gripping\" = very exciting (a gripping story)."
+  },
+  {
+    "word": "grocery",
+    "ipa": "/ˈɡroʊsəri/",
+    "senses": [
+      { "pos": "noun", "tr": "market, bakkal", "def": "a store that sells food and household items (often \"grocery store\")", "examples": ["I'm stopping at the grocery store on my way home.", "The neighborhood grocery closes at nine."] },
+      { "pos": "noun", "tr": "market alışverişi, erzak", "def": "(plural) food and other things you buy at a grocery store", "examples": ["Can you help me carry the groceries inside?", "We spend about $150 a week on groceries."] }
+    ],
+    "collocations": ["grocery store", "grocery shopping", "buy groceries", "grocery bill", "grocery bag"],
+    "synonyms": ["supermarket", "food store", "provisions"],
+    "family": [{ "word": "grocer", "pos": "noun" }],
+    "note": "In American English \"grocery store\" usually means any supermarket."
+  },
+  {
+    "word": "gross",
+    "ipa": "/ɡroʊs/",
+    "senses": [
+      { "pos": "adjective", "tr": "brüt, toplam", "def": "total, before taxes or costs are taken away", "examples": ["Her gross salary is $80,000, but she takes home much less.", "The country's gross domestic product grew by two percent."] },
+      { "pos": "adjective", "tr": "iğrenç, mide bulandırıcı", "def": "(informal) very unpleasant or disgusting", "examples": ["Ew, that's gross! There's hair in my soup."] },
+      { "pos": "adjective", "tr": "bariz, açık, ağır (hata, ihmal vb.)", "def": "very obvious and unacceptable", "examples": ["The hospital was accused of gross negligence."] },
+      { "pos": "verb", "tr": "brüt kazanmak, hasılat yapmak", "def": "to earn a total amount of money before costs are taken away", "examples": ["The film grossed $300 million worldwide."] }
+    ],
+    "collocations": ["gross income", "gross domestic product", "gross negligence", "gross profit", "gross misconduct"],
+    "synonyms": ["total", "disgusting", "flagrant", "blatant"],
+    "family": [{ "word": "grossly", "pos": "adverb" }],
+    "note": "Opposite of gross (income) is net. \"Gross\" meaning disgusting is very common in informal American English."
+  },
+  {
+    "word": "ground",
+    "ipa": "/ɡraʊnd/",
+    "senses": [
+      { "pos": "noun", "tr": "yer, zemin, toprak", "def": "the solid surface of the earth, or the soil", "examples": ["She dropped her keys on the ground.", "The ground was too hard to dig after the frost."] },
+      { "pos": "noun", "tr": "alan, saha; konu, alan", "def": "an area of land used for a purpose, or an area of knowledge or discussion", "examples": ["The lecture covered a lot of ground in an hour.", "The school sports grounds are open to the public on weekends."] },
+      { "pos": "noun", "tr": "gerekçe, sebep, dayanak", "def": "(usually plural) a reason for saying or doing something", "examples": ["She was fired on the grounds of misconduct.", "There are no grounds for complaint."] },
+      { "pos": "verb", "tr": "(uçak) yerde tutmak; (çocuğu) cezalandırıp dışarı çıkarmamak", "def": "to stop a plane from flying, or to punish a child by not letting them go out", "examples": ["All flights were grounded because of the storm.", "My parents grounded me for a week."] }
+    ],
+    "collocations": ["on the ground", "common ground", "gain ground", "on the grounds that", "stand your ground", "break new ground"],
+    "synonyms": ["earth", "soil", "land", "reason", "basis"],
+    "family": [{ "word": "groundless", "pos": "adjective" }, { "word": "grounding", "pos": "noun" }, { "word": "underground", "pos": "adjective" }, { "word": "background", "pos": "noun" }],
+    "note": "\"Ground\" is also the past form of \"grind\". \"Common ground\" = shared opinions or interests."
+  },
+  {
+    "word": "group",
+    "ipa": "/ɡruːp/",
+    "senses": [
+      { "pos": "noun", "tr": "grup, topluluk", "def": "a number of people or things that are together or connected in some way", "examples": ["A group of students was waiting outside the library.", "The children worked in small groups."] },
+      { "pos": "noun", "tr": "grup, şirketler grubu; müzik grubu", "def": "a company that owns several other companies, or a band of musicians", "examples": ["The hotel is owned by a large media group."] },
+      { "pos": "verb", "tr": "gruplamak, gruplara ayırmak", "def": "to put people or things into groups, or to form a group", "examples": ["The books are grouped by subject.", "We grouped together under a tree to stay dry."] }
+    ],
+    "collocations": ["a group of", "in groups", "age group", "ethnic group", "support group", "pressure group"],
+    "synonyms": ["set", "band", "team", "cluster", "category"],
+    "family": [{ "word": "grouping", "pos": "noun" }, { "word": "subgroup", "pos": "noun" }]
+  },
+  {
+    "word": "grow",
+    "ipa": "/ɡroʊ/",
+    "senses": [
+      { "pos": "verb", "tr": "büyümek, gelişmek, artmak", "def": "to increase in size, number, or amount, or to become an adult", "examples": ["The town has grown rapidly over the last ten years.", "Children grow so fast at this age."] },
+      { "pos": "verb", "tr": "yetiştirmek; (saç, sakal) uzatmak", "def": "to plant and take care of plants, or to let hair get longer", "examples": ["We grow our own vegetables in the backyard.", "He's growing a beard for the winter."] },
+      { "pos": "verb", "tr": "(giderek) olmak, -leşmek", "def": "to gradually become something", "examples": ["The sky grew dark as the storm approached.", "She's growing tired of his excuses."] }
+    ],
+    "collocations": ["grow up", "grow rapidly", "grow vegetables", "grow old", "a growing number of", "grow into"],
+    "synonyms": ["increase", "expand", "develop", "cultivate", "become"],
+    "family": [{ "word": "growth", "pos": "noun" }, { "word": "grower", "pos": "noun" }, { "word": "grown", "pos": "adjective" }, { "word": "growing", "pos": "adjective" }],
+    "note": "Irregular: grow – grew – grown. \"Grow up\" = become an adult; \"grow\" alone is used for size and plants."
+  },
+  {
+    "word": "growth",
+    "ipa": "/ɡroʊθ/",
+    "senses": [
+      { "pos": "noun", "tr": "büyüme, gelişme", "def": "the process of getting bigger or developing physically or mentally", "examples": ["A healthy diet is important for a child's growth.", "Travel can be a great opportunity for personal growth."] },
+      { "pos": "noun", "tr": "artış, büyüme", "def": "an increase in amount, size, or economic activity", "examples": ["The economy saw strong growth last quarter.", "There has been rapid growth in online shopping."] },
+      { "pos": "noun", "tr": "ur, tümör", "def": "a lump of cells that grows abnormally in or on the body", "examples": ["The doctor found a small growth on his skin."] }
+    ],
+    "collocations": ["economic growth", "rapid growth", "population growth", "growth rate", "personal growth"],
+    "synonyms": ["development", "increase", "expansion", "rise"],
+    "family": [{ "word": "grow", "pos": "verb" }]
+  },
+  {
+    "word": "guarantee",
+    "ipa": "/ˌɡærənˈtiː/",
+    "senses": [
+      { "pos": "noun", "tr": "garanti, güvence", "def": "a firm promise that something will happen or be done", "examples": ["There's no guarantee that the plan will work.", "The laptop comes with a two-year guarantee."] },
+      { "pos": "verb", "tr": "garanti etmek, güvence vermek", "def": "to promise that something will happen or that something is true", "examples": ["We guarantee delivery within 24 hours.", "Hard work doesn't guarantee success."] }
+    ],
+    "collocations": ["money-back guarantee", "no guarantee", "guarantee success", "guaranteed to", "constitutional guarantee"],
+    "synonyms": ["promise", "assurance", "warranty", "ensure"],
+    "family": [{ "word": "guaranteed", "pos": "adjective" }, { "word": "guarantor", "pos": "noun" }],
+    "note": "For products, American English often uses \"warranty\". Stress is on the last syllable: guar-an-TEE."
+  }
+]

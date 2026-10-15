@@ -1,0 +1,1200 @@
+[
+  {
+    "word": "offense",
+    "ipa": "/əˈfens/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "suç, kabahat",
+        "def": "an illegal act; a crime",
+        "examples": ["Driving without a license is a serious offense.", "He was arrested for a minor drug offense."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gücenme, alınganlık, kırgınlık",
+        "def": "the feeling of being upset or insulted by something someone says or does",
+        "examples": ["No offense, but I think your plan won't work.", "She took offense at his comment about her accent."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(spor) hücum, atak",
+        "def": "the players in a team whose job is to score points",
+        "examples": ["The team's offense scored 35 points in the first half."]
+      }
+    ],
+    "collocations": ["a criminal offense", "commit an offense", "take offense at", "no offense", "a minor offense", "a first offense"],
+    "synonyms": ["crime", "violation", "insult", "attack"],
+    "family": [
+      { "word": "offend", "pos": "verb" },
+      { "word": "offender", "pos": "noun" },
+      { "word": "offensive", "pos": "adjective" }
+    ],
+    "note": "American spelling is offense; British is offence. In US sports, offense (attack) is the opposite of defense, stressed on the first syllable."
+  },
+  {
+    "word": "offensive",
+    "ipa": "/əˈfensɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "saldırgan, kırıcı, hakaret içeren",
+        "def": "rude or insulting in a way that upsets people",
+        "examples": ["The comedian apologized for his offensive jokes.", "Many people find that word deeply offensive."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(askeri) taarruz, saldırı",
+        "def": "a large military attack, or a strong organized effort to achieve something",
+        "examples": ["The army launched a major offensive in the north.", "The company began a marketing offensive to win back customers."]
+      }
+    ],
+    "collocations": ["deeply offensive", "offensive language", "find something offensive", "launch an offensive", "go on the offensive"],
+    "synonyms": ["insulting", "rude", "hurtful", "attack", "assault"],
+    "family": [
+      { "word": "offend", "pos": "verb" },
+      { "word": "offense", "pos": "noun" },
+      { "word": "inoffensive", "pos": "adjective" }
+    ],
+    "note": "\"Go on the offensive\" = start attacking or criticizing instead of defending yourself."
+  },
+  {
+    "word": "offer",
+    "ipa": "/ˈɔːfər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "teklif etmek, önermek, sunmak",
+        "def": "to say you are willing to give something to someone or to do something for them",
+        "examples": ["He offered me a ride to the airport.", "The hotel offers free breakfast to all guests."]
+      },
+      {
+        "pos": "noun",
+        "tr": "teklif, öneri",
+        "def": "a statement that you are willing to do or give something",
+        "examples": ["She accepted a job offer from a tech company in Austin.", "Thanks for the offer, but I can manage."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kampanya, indirim",
+        "def": "a reduced price for a product for a short time",
+        "examples": ["This special offer ends on Sunday."]
+      }
+    ],
+    "collocations": ["offer to do something", "accept an offer", "turn down an offer", "job offer", "make an offer", "special offer"],
+    "synonyms": ["propose", "provide", "proposal", "bid", "deal"],
+    "family": [{ "word": "offering", "pos": "noun" }],
+    "note": "Pattern: offer someone something / offer to do something. Not \"offer someone to do something\"."
+  },
+  {
+    "word": "offering",
+    "ipa": "/ˈɔːfərɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ürün, eser, sunulan şey",
+        "def": "something that is produced or made available for people to buy, use, watch or enjoy",
+        "examples": ["The band's latest offering is their best album yet.", "The restaurant's vegetarian offerings are limited."]
+      },
+      {
+        "pos": "noun",
+        "tr": "adak, sunu, bağış",
+        "def": "something given as a gift, especially to God or a church",
+        "examples": ["Villagers left offerings of fruit and flowers at the temple."]
+      }
+    ],
+    "collocations": ["latest offering", "new offering", "public offering", "make an offering", "product offerings"],
+    "synonyms": ["product", "release", "gift", "donation"],
+    "family": [{ "word": "offer", "pos": "verb" }],
+    "note": "In finance, an \"initial public offering\" (IPO) is when a company first sells shares to the public (halka arz)."
+  },
+  {
+    "word": "office",
+    "ipa": "/ˈɑːfɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ofis, büro, iş yeri",
+        "def": "a room or building where people work, usually at desks",
+        "examples": ["I usually get to the office around 8:30.", "The company is moving to a new office downtown."]
+      },
+      {
+        "pos": "noun",
+        "tr": "makam, görev",
+        "def": "an important official position, especially in government",
+        "examples": ["The president has been in office for two years.", "She plans to run for office next year."]
+      }
+    ],
+    "collocations": ["head office", "office building", "in office", "run for office", "take office", "doctor's office"],
+    "synonyms": ["workplace", "bureau", "position", "post"],
+    "family": [
+      { "word": "officer", "pos": "noun" },
+      { "word": "official", "pos": "adjective" }
+    ],
+    "note": "In American English, a doctor's or dentist's place of work is an office (British: surgery)."
+  },
+  {
+    "word": "officer",
+    "ipa": "/ˈɑːfɪsər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "subay",
+        "def": "a person in a position of authority in the army, navy or air force",
+        "examples": ["Her father was an officer in the Navy.", "The officers gave orders to the soldiers."]
+      },
+      {
+        "pos": "noun",
+        "tr": "polis memuru",
+        "def": "a police officer",
+        "examples": ["Excuse me, officer, can you tell me where the station is?", "Two officers arrived at the scene within minutes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yetkili, görevli, yönetici",
+        "def": "a person with an important position in an organization",
+        "examples": ["She was promoted to chief financial officer last year."]
+      }
+    ],
+    "collocations": ["police officer", "army officer", "senior officer", "chief executive officer", "commanding officer"],
+    "synonyms": ["official", "policeman", "cop", "executive"],
+    "family": [{ "word": "office", "pos": "noun" }]
+  },
+  {
+    "word": "official",
+    "ipa": "/əˈfɪʃl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "resmi",
+        "def": "approved or done by people in authority, or connected with a position of authority",
+        "examples": ["The official results will be announced tomorrow.", "English is the official language of the conference."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yetkili, görevli, memur",
+        "def": "a person with authority in a government or large organization",
+        "examples": ["Government officials refused to comment on the report.", "A city official said the road would reopen on Monday."]
+      }
+    ],
+    "collocations": ["official statement", "official language", "make it official", "government official", "senior officials", "official figures"],
+    "synonyms": ["formal", "authorized", "officer", "representative"],
+    "family": [
+      { "word": "officially", "pos": "adverb" },
+      { "word": "unofficial", "pos": "adjective" },
+      { "word": "office", "pos": "noun" }
+    ],
+    "note": "Officials (yetkililer) are usually government or organization staff; officers are usually in the army or police."
+  },
+  {
+    "word": "offset",
+    "ipa": "/ˌɔːfˈset/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "dengelemek, telafi etmek, karşılamak",
+        "def": "to balance the effect of something with something opposite, so that the situation stays the same",
+        "examples": ["Higher fuel prices were offset by lower food costs.", "Many travelers pay to offset the carbon emissions from their flights."]
+      },
+      {
+        "pos": "noun",
+        "tr": "telafi, karşılık",
+        "def": "something that balances or cancels out the effect of something else",
+        "examples": ["The tax cut serves as an offset to rising living costs."]
+      }
+    ],
+    "collocations": ["offset the cost", "offset losses", "offset carbon emissions", "partially offset", "be offset by"],
+    "synonyms": ["balance", "counterbalance", "compensate for", "cancel out"],
+    "family": [],
+    "note": "Irregular: offset – offset – offset. Often passive: be offset by something."
+  },
+  {
+    "word": "offspring",
+    "ipa": "/ˈɔːfsprɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "döl, yavru, çocuk(lar)",
+        "def": "a person's child or children, or an animal's young",
+        "examples": ["Some birds feed their offspring for weeks after they hatch.", "Parents naturally want the best for their offspring."]
+      }
+    ],
+    "collocations": ["produce offspring", "their offspring", "healthy offspring", "female offspring"],
+    "synonyms": ["children", "young", "descendants", "kids"],
+    "family": [],
+    "note": "Plural is also offspring. Formal or humorous when used about people."
+  },
+  {
+    "word": "often",
+    "ipa": "/ˈɔːfn/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "sık sık, çoğu zaman, genellikle",
+        "def": "many times, or in many cases",
+        "examples": ["How often do you go to the gym?", "Teenagers often sleep late on weekends."]
+      }
+    ],
+    "collocations": ["how often", "quite often", "more often than not", "every so often", "too often"],
+    "synonyms": ["frequently", "regularly", "commonly", "usually"],
+    "family": [],
+    "note": "The t is usually silent: /ˈɔːfn/. \"Every so often\" = sometimes, not frequently."
+  },
+  {
+    "word": "oh",
+    "ipa": "/əʊ/",
+    "senses": [
+      {
+        "pos": "exclamation",
+        "tr": "ha, ya, öyle mi, aa",
+        "def": "used to react to something, especially news you did not know, or to show surprise, disappointment or pain",
+        "examples": ["\"I got the job!\" \"Oh, that's wonderful!\"", "Oh no, I left my wallet at home."]
+      },
+      {
+        "pos": "exclamation",
+        "tr": "şey, ee",
+        "def": "used before a short pause, or when adding a comment",
+        "examples": ["Oh, by the way, your mom called."]
+      }
+    ],
+    "collocations": ["oh no", "oh well", "oh my god", "oh really", "oh, I see"],
+    "synonyms": ["ah", "wow"],
+    "family": [],
+    "note": "\"Oh well\" shows you accept a disappointing situation (neyse, napalım)."
+  },
+  {
+    "word": "oil",
+    "ipa": "/ɔɪl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "petrol, ham petrol",
+        "def": "a thick dark liquid found underground, used to make fuel and other products",
+        "examples": ["Oil prices rose sharply after the attack.", "The country's economy depends heavily on oil exports."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yağ, sıvı yağ",
+        "def": "a smooth liquid from plants or animals, used in cooking or for other purposes",
+        "examples": ["Heat a little olive oil in a pan.", "I need to change the oil in my car."]
+      }
+    ],
+    "collocations": ["olive oil", "crude oil", "oil prices", "oil spill", "oil company", "vegetable oil"],
+    "synonyms": ["petroleum", "fuel", "grease"],
+    "family": [{ "word": "oily", "pos": "adjective" }]
+  },
+  {
+    "word": "OK",
+    "ipa": "/əʊˈkeɪ/",
+    "senses": [
+      {
+        "pos": "exclamation",
+        "tr": "tamam, olur, peki",
+        "def": "used to agree to something or to say yes",
+        "examples": ["\"Can you pick me up at six?\" \"OK, no problem.\"", "OK, let's get started."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "iyi, sağ salim; idare eder, fena değil",
+        "def": "safe and well, or acceptable but not especially good",
+        "examples": ["Are you OK? You look pale.", "The food was OK, but nothing special."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "iyi, sorunsuz",
+        "def": "in a satisfactory way",
+        "examples": ["Is your new laptop working OK?"]
+      }
+    ],
+    "collocations": ["are you OK", "it's OK", "OK with something", "that's OK", "seem OK"],
+    "synonyms": ["fine", "all right", "acceptable", "sure"],
+    "family": [],
+    "note": "Informal. Also spelled okay. \"Is it OK if...?\" is a common way to ask for permission."
+  },
+  {
+    "word": "old",
+    "ipa": "/əʊld/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yaşlı, ihtiyar",
+        "def": "having lived for a long time",
+        "examples": ["My grandfather is getting old, but he still walks every day.", "She takes care of old people in her neighborhood."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "... yaşında",
+        "def": "of a particular age",
+        "examples": ["How old is your daughter?", "Our house is about a hundred years old."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "eski",
+        "def": "having existed or been used for a long time, or from an earlier time",
+        "examples": ["I ran into an old friend from high school.", "We sold our old car and bought an electric one."]
+      }
+    ],
+    "collocations": ["years old", "how old", "an old friend", "old age", "the good old days", "get old"],
+    "synonyms": ["elderly", "aged", "former", "ancient"],
+    "family": [
+      { "word": "older", "pos": "adjective" },
+      { "word": "elderly", "pos": "adjective" },
+      { "word": "old-fashioned", "pos": "adjective" }
+    ],
+    "note": "\"An old friend\" usually means a friend you have known a long time, not an elderly friend. Elder/eldest are used only for family members."
+  },
+  {
+    "word": "old-fashioned",
+    "ipa": "/ˌəʊld ˈfæʃnd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "modası geçmiş, demode, eski kafalı",
+        "def": "not modern; typical of the past and no longer common or fashionable",
+        "examples": ["My parents still have an old-fashioned phone with a cord.", "He has some old-fashioned ideas about women working."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "geleneksel, eski usul",
+        "def": "traditional, in a way that people like",
+        "examples": ["The bakery sells good, old-fashioned apple pie."]
+      }
+    ],
+    "collocations": ["old-fashioned ideas", "a bit old-fashioned", "good old-fashioned", "old-fashioned values"],
+    "synonyms": ["outdated", "dated", "out of date", "traditional"],
+    "family": [],
+    "note": "Opposite: modern, up to date. \"Good old-fashioned\" is positive."
+  },
+  {
+    "word": "on",
+    "ipa": "/ɑːn/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "üzerinde, üstünde",
+        "def": "touching or supported by a surface",
+        "examples": ["Your keys are on the kitchen table.", "There's a spider on the wall."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "(gün, tarih) -de; hakkında; (TV, internet) -de",
+        "def": "used with days and dates, topics, and means of communication",
+        "examples": ["We're meeting on Friday.", "She wrote a book on climate change."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "açık, çalışır durumda; üzerinde (giysi)",
+        "def": "working or switched on, being worn, or continuing",
+        "examples": ["Is the oven on?", "Put your coat on; it's cold outside."]
+      }
+    ],
+    "collocations": ["on time", "on Monday", "on the phone", "turn on", "on and on", "on purpose"],
+    "synonyms": ["upon", "about", "regarding"],
+    "family": [{ "word": "onto", "pos": "preposition" }],
+    "note": "Use on for days and dates (on Monday, on May 3), in for months and years, at for clock times."
+  },
+  {
+    "word": "once",
+    "ipa": "/wʌns/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "bir kez, bir kere",
+        "def": "one time only",
+        "examples": ["I've only been to New York once.", "We meet once a month to discuss the project."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "bir zamanlar, eskiden",
+        "def": "at some time in the past",
+        "examples": ["This building was once a factory."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "-ince, -dıktan sonra",
+        "def": "as soon as; after",
+        "examples": ["Once you've finished your homework, you can watch TV.", "It's easy once you know how."]
+      }
+    ],
+    "collocations": ["at once", "once a week", "once again", "once and for all", "once in a while", "all at once"],
+    "synonyms": ["one time", "formerly", "as soon as"],
+    "family": [],
+    "note": "\"At once\" = immediately or at the same time. \"Once and for all\" = finally and completely (ilk ve son kez)."
+  },
+  {
+    "word": "one",
+    "ipa": "/wʌn/",
+    "senses": [
+      {
+        "pos": "number",
+        "tr": "bir",
+        "def": "the number 1",
+        "examples": ["I have one brother and two sisters.", "Only one of the candidates passed the test."]
+      },
+      {
+        "pos": "determiner",
+        "tr": "bir; bir gün",
+        "def": "used to mean a particular person, thing or time that is not named",
+        "examples": ["One day I'd like to live by the ocean."]
+      },
+      {
+        "pos": "pronoun",
+        "tr": "(tekrarı önlemek için) -i, olanı",
+        "def": "used instead of repeating a noun that has already been mentioned",
+        "examples": ["I don't like the red shirt; I prefer the blue one.", "Which one do you want?"]
+      }
+    ],
+    "collocations": ["one of", "one day", "the one", "one another", "one by one", "no one"],
+    "synonyms": ["single", "a"],
+    "family": [
+      { "word": "once", "pos": "adverb" },
+      { "word": "oneself", "pos": "pronoun" }
+    ],
+    "note": "\"The blue one / the old ones\": English needs one(s) here, while Turkish just says \"maviyi\"."
+  },
+  {
+    "word": "ongoing",
+    "ipa": "/ˈɑːnɡəʊɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "devam eden, süregelen, süren",
+        "def": "continuing to exist or develop; not finished",
+        "examples": ["Police say the investigation is ongoing.", "Training is an ongoing process, not a one-time event."]
+      }
+    ],
+    "collocations": ["an ongoing investigation", "ongoing process", "ongoing debate", "ongoing support", "ongoing research"],
+    "synonyms": ["continuing", "current", "in progress", "underway"],
+    "family": [],
+    "note": "Common in news and business English."
+  },
+  {
+    "word": "onion",
+    "ipa": "/ˈʌnjən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "soğan",
+        "def": "a round vegetable with many layers and a strong smell and taste",
+        "examples": ["Chop the onion and fry it until it's golden.", "Cutting onions always makes me cry."]
+      }
+    ],
+    "collocations": ["chop an onion", "red onion", "onion rings", "green onions", "fried onions"],
+    "synonyms": [],
+    "family": [],
+    "note": "In American English, green onions are what British people call spring onions (taze soğan)."
+  },
+  {
+    "word": "online",
+    "ipa": "/ˌɑːnˈlaɪn/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çevrim içi, internet üzerinden, online",
+        "def": "available on or done using the internet",
+        "examples": ["She runs an online store that sells handmade jewelry.", "Online classes became common during the pandemic."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "internetten, internette",
+        "def": "using the internet, or onto the internet",
+        "examples": ["I bought my plane tickets online.", "He spends hours online every evening."]
+      }
+    ],
+    "collocations": ["shop online", "go online", "online shopping", "online banking", "available online", "online course"],
+    "synonyms": ["on the internet", "digital", "virtual"],
+    "family": [],
+    "note": "Opposite: offline. \"Come online\" can also mean that a new system starts working."
+  },
+  {
+    "word": "only",
+    "ipa": "/ˈəʊnli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "sadece, yalnızca, ancak",
+        "def": "no one or nothing except; no more than",
+        "examples": ["The store only accepts cash.", "It only takes ten minutes to get there by bike."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "tek, biricik",
+        "def": "used to say that there is no other person or thing of the same kind",
+        "examples": ["She was the only person who noticed the mistake.", "I'm an only child, so I have no brothers or sisters."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "ama, ancak, yalnız",
+        "def": "(informal) except that; but",
+        "examples": ["I'd love to come, only I have to work late."]
+      }
+    ],
+    "collocations": ["the only one", "an only child", "not only... but also", "if only", "only just", "only a few"],
+    "synonyms": ["just", "merely", "solely", "sole", "single"],
+    "family": [],
+    "note": "Position matters: \"Only I saw her\" vs \"I only saw her\" vs \"I saw only her\" have different meanings. \"If only\" expresses a wish (keşke)."
+  },
+  {
+    "word": "onto",
+    "ipa": "/ˈɑːntə/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "üstüne, üzerine",
+        "def": "used to show movement to a position on a surface",
+        "examples": ["The cat jumped onto the kitchen counter.", "Pour the sauce onto the pasta."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "(birinin) peşinde, farkında",
+        "def": "(informal) aware of what someone is doing, especially something wrong",
+        "examples": ["The police are onto him, so he'd better be careful."]
+      }
+    ],
+    "collocations": ["climb onto", "jump onto", "step onto", "be onto something", "hold onto"],
+    "synonyms": ["on", "upon"],
+    "family": [],
+    "note": "Onto shows movement (jump onto the bed); on shows position (sit on the bed). \"Be onto something\" = have found something important."
+  },
+  {
+    "word": "open",
+    "ipa": "/ˈəʊpən/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "açık",
+        "def": "not closed, so that people or things can go through, or ready for business",
+        "examples": ["Someone left the window open all night.", "Is the pharmacy open on Sundays?"]
+      },
+      {
+        "pos": "adjective",
+        "tr": "açık sözlü, dürüst; (fikirlere) açık",
+        "def": "honest and willing to talk, or willing to consider new ideas",
+        "examples": ["She's very open about her struggles with anxiety.", "I'm open to suggestions."]
+      },
+      {
+        "pos": "verb",
+        "tr": "açmak, açılmak",
+        "def": "to move something so it is no longer closed, or to start operating",
+        "examples": ["Can you open the door for me?", "The new library opens next month."]
+      }
+    ],
+    "collocations": ["wide open", "open to", "open-minded", "in the open air", "open an account", "open fire"],
+    "synonyms": ["unlocked", "frank", "honest", "receptive", "start"],
+    "family": [
+      { "word": "opening", "pos": "noun" },
+      { "word": "openly", "pos": "adverb" },
+      { "word": "openness", "pos": "noun" },
+      { "word": "opener", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "opening",
+    "ipa": "/ˈəʊpənɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "açıklık, delik, boşluk",
+        "def": "a space or hole that something can pass through",
+        "examples": ["The dog escaped through an opening in the fence."]
+      },
+      {
+        "pos": "noun",
+        "tr": "açılış",
+        "def": "the beginning of something, or a ceremony to start a new building, business or event",
+        "examples": ["Hundreds of people came to the opening of the new museum.", "The movie's opening was a little slow."]
+      },
+      {
+        "pos": "noun",
+        "tr": "açık pozisyon, iş fırsatı",
+        "def": "a job that is available, or a good opportunity",
+        "examples": ["There are several openings for nurses at the clinic."]
+      }
+    ],
+    "collocations": ["opening ceremony", "grand opening", "opening hours", "job opening", "opening night", "opening remarks"],
+    "synonyms": ["gap", "hole", "launch", "vacancy", "opportunity"],
+    "family": [{ "word": "open", "pos": "verb" }]
+  },
+  {
+    "word": "openly",
+    "ipa": "/ˈəʊpənli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "açıkça, açık açık, alenen",
+        "def": "without hiding your feelings, opinions or information",
+        "examples": ["He spoke openly about his divorce in the interview.", "Few employees dared to openly criticize the boss."]
+      }
+    ],
+    "collocations": ["speak openly", "openly gay", "openly criticize", "discuss openly", "openly admit"],
+    "synonyms": ["frankly", "honestly", "publicly", "candidly"],
+    "family": [
+      { "word": "open", "pos": "adjective" },
+      { "word": "openness", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "opera",
+    "ipa": "/ˈɑːprə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "opera",
+        "def": "a drama in which most or all of the words are sung to music, or this kind of art",
+        "examples": ["We saw a wonderful opera at the Met last night.", "She trained as an opera singer in Italy."]
+      }
+    ],
+    "collocations": ["opera house", "opera singer", "go to the opera", "soap opera", "grand opera"],
+    "synonyms": [],
+    "family": [{ "word": "operatic", "pos": "adjective" }],
+    "note": "\"Soap opera\" = a TV drama series about the daily lives of characters (dizi, pembe dizi)."
+  },
+  {
+    "word": "operate",
+    "ipa": "/ˈɑːpəreɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "çalışmak, işlemek, faaliyet göstermek",
+        "def": "to work or function in a particular way, or to do business",
+        "examples": ["The company operates in more than 40 countries.", "Most smartphones operate on rechargeable batteries."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(makine) kullanmak, çalıştırmak",
+        "def": "to use and control a machine",
+        "examples": ["You need special training to operate a crane."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ameliyat etmek",
+        "def": "to cut open someone's body in order to repair or remove a damaged part",
+        "examples": ["Surgeons operated on her knee last week."]
+      }
+    ],
+    "collocations": ["operate a machine", "operate on someone", "operate in a market", "operate effectively", "operate independently"],
+    "synonyms": ["function", "work", "run", "use", "control"],
+    "family": [
+      { "word": "operation", "pos": "noun" },
+      { "word": "operator", "pos": "noun" },
+      { "word": "operational", "pos": "adjective" }
+    ],
+    "note": "For surgery, use operate ON someone."
+  },
+  {
+    "word": "operation",
+    "ipa": "/ˌɑːpəˈreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ameliyat",
+        "def": "medical treatment in which a doctor cuts open the body to remove or repair a part",
+        "examples": ["He had an operation on his back last year.", "The operation took four hours."]
+      },
+      {
+        "pos": "noun",
+        "tr": "operasyon, harekât",
+        "def": "an organized activity involving many people, especially soldiers or police",
+        "examples": ["The rescue operation continued through the night."]
+      },
+      {
+        "pos": "noun",
+        "tr": "işleyiş, çalışma, faaliyet",
+        "def": "the way something works, or the fact of being active",
+        "examples": ["The new factory will be in operation by next spring."]
+      }
+    ],
+    "collocations": ["have an operation", "undergo an operation", "rescue operation", "military operation", "in operation", "business operations"],
+    "synonyms": ["surgery", "procedure", "mission", "functioning"],
+    "family": [
+      { "word": "operate", "pos": "verb" },
+      { "word": "operational", "pos": "adjective" }
+    ],
+    "note": "American speakers often say surgery rather than \"an operation\": \"He had knee surgery.\""
+  },
+  {
+    "word": "operational",
+    "ipa": "/ˌɑːpəˈreɪʃənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "operasyonel, işletmeye ilişkin",
+        "def": "connected with the way a business, machine or system works",
+        "examples": ["The company is cutting operational costs to save money.", "We faced several operational problems in the first year."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "faal, çalışır durumda, hizmette",
+        "def": "working and ready to be used",
+        "examples": ["The new airport terminal will be fully operational by June."]
+      }
+    ],
+    "collocations": ["fully operational", "operational costs", "operational efficiency", "become operational"],
+    "synonyms": ["functional", "working", "running", "in service"],
+    "family": [
+      { "word": "operate", "pos": "verb" },
+      { "word": "operationally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "operator",
+    "ipa": "/ˈɑːpəreɪtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "operatör, (makine) kullanan kişi",
+        "def": "a person who works a machine or piece of equipment",
+        "examples": ["The crane operator lifted the steel beams into place."]
+      },
+      {
+        "pos": "noun",
+        "tr": "işletmeci, şirket",
+        "def": "a company that runs a particular business or service",
+        "examples": ["The tour operator canceled our trip because of the storm.", "Mobile phone operators are raising their prices."]
+      },
+      {
+        "pos": "noun",
+        "tr": "santral memuru, telefon operatörü",
+        "def": "a person who works at a telephone exchange and connects calls",
+        "examples": ["I called the operator to ask for the number."]
+      }
+    ],
+    "collocations": ["tour operator", "machine operator", "mobile operator", "network operator", "a smooth operator"],
+    "synonyms": ["controller", "driver", "company", "provider"],
+    "family": [{ "word": "operate", "pos": "verb" }]
+  },
+  {
+    "word": "opinion",
+    "ipa": "/əˈpɪnjən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fikir, görüş, kanaat",
+        "def": "what you think or feel about something, rather than a fact",
+        "examples": ["In my opinion, the movie was too long.", "Public opinion has turned against the war."]
+      }
+    ],
+    "collocations": ["in my opinion", "public opinion", "express an opinion", "a second opinion", "have a high opinion of", "differences of opinion"],
+    "synonyms": ["view", "belief", "point of view", "judgment"],
+    "family": [{ "word": "opinionated", "pos": "adjective" }],
+    "note": "Say \"in my opinion\", not \"according to me\". \"A second opinion\" is advice from another expert, especially a doctor."
+  },
+  {
+    "word": "opponent",
+    "ipa": "/əˈpəʊnənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "rakip, hasım",
+        "def": "a person you play, compete or fight against",
+        "examples": ["She beat her opponent in straight sets.", "The senator attacked his opponent's record on taxes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "karşıtı, muhalifi",
+        "def": "a person who disagrees with an idea or plan and tries to stop it",
+        "examples": ["Opponents of the new law say it will hurt small businesses."]
+      }
+    ],
+    "collocations": ["political opponent", "a tough opponent", "defeat an opponent", "opponents of the plan", "a fierce opponent"],
+    "synonyms": ["rival", "competitor", "adversary", "critic"],
+    "family": [
+      { "word": "oppose", "pos": "verb" },
+      { "word": "opposition", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "opportunity",
+    "ipa": "/ˌɑːpərˈtuːnəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fırsat, olanak, imkân",
+        "def": "a time or situation in which it is possible to do something you want",
+        "examples": ["Studying abroad was a great opportunity to learn Spanish.", "I'd like to take this opportunity to thank my team."]
+      }
+    ],
+    "collocations": ["take the opportunity", "miss an opportunity", "a golden opportunity", "equal opportunities", "job opportunities", "have the opportunity to"],
+    "synonyms": ["chance", "opening", "possibility", "occasion"],
+    "family": [
+      { "word": "opportunist", "pos": "noun" },
+      { "word": "opportunistic", "pos": "adjective" }
+    ],
+    "note": "Pattern: an opportunity to do something / for something / of doing something."
+  },
+  {
+    "word": "oppose",
+    "ipa": "/əˈpəʊz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "karşı çıkmak, karşı olmak",
+        "def": "to disagree strongly with a plan, policy or idea and try to stop it",
+        "examples": ["Many parents oppose the plan to close the school.", "The bill was opposed by both parties."]
+      }
+    ],
+    "collocations": ["strongly oppose", "oppose a plan", "oppose the war", "vote to oppose", "fiercely opposed"],
+    "synonyms": ["resist", "object to", "be against", "fight"],
+    "family": [
+      { "word": "opposed", "pos": "adjective" },
+      { "word": "opposition", "pos": "noun" },
+      { "word": "opponent", "pos": "noun" },
+      { "word": "opposite", "pos": "adjective" }
+    ],
+    "note": "Transitive: oppose something (not \"oppose to something\"). Compare: be opposed to something."
+  },
+  {
+    "word": "opposed",
+    "ipa": "/əˈpəʊzd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "karşı, aleyhinde",
+        "def": "strongly disagreeing with something",
+        "examples": ["Most residents are opposed to the new highway.", "I'm not opposed to the idea, but we need more details."]
+      }
+    ],
+    "collocations": ["be opposed to", "strongly opposed", "as opposed to", "bitterly opposed", "diametrically opposed"],
+    "synonyms": ["against", "hostile to", "averse to"],
+    "family": [
+      { "word": "oppose", "pos": "verb" },
+      { "word": "opposition", "pos": "noun" }
+    ],
+    "note": "\"Be opposed to\" + noun/-ing. \"As opposed to\" = rather than, in contrast with (\"-in aksine\")."
+  },
+  {
+    "word": "opposite",
+    "ipa": "/ˈɑːpəzɪt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "zıt, ters, karşıt",
+        "def": "completely different, or on the other side or in the other direction",
+        "examples": ["The two brothers have opposite personalities.", "The bus was going in the opposite direction."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zıt, karşıt (şey/kişi)",
+        "def": "a person or thing that is as different as possible from another",
+        "examples": ["\"Hot\" is the opposite of \"cold.\"", "I thought he'd be shy, but he was the exact opposite."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "karşısında",
+        "def": "on the other side of an area from someone or something, facing them",
+        "examples": ["The bank is opposite the post office."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "karşıda, karşı tarafta",
+        "def": "on the other side, facing",
+        "examples": ["She sat down opposite and smiled at me."]
+      }
+    ],
+    "collocations": ["the opposite of", "the exact opposite", "opposite direction", "opposite sex", "quite the opposite", "directly opposite"],
+    "synonyms": ["contrary", "reverse", "contrasting", "across from"],
+    "family": [
+      { "word": "oppose", "pos": "verb" },
+      { "word": "opposition", "pos": "noun" }
+    ],
+    "note": "As a preposition, Americans often prefer \"across from\" (the bank is across from the post office)."
+  },
+  {
+    "word": "opposition",
+    "ipa": "/ˌɑːpəˈzɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "muhalefet, karşı çıkma, direniş",
+        "def": "strong disagreement with something, usually with the aim of stopping it",
+        "examples": ["There was strong opposition to the new tax.", "The plan met with fierce opposition from environmental groups."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(siyaset) muhalefet; rakip takım",
+        "def": "the main political parties not in government, or the people you are competing against",
+        "examples": ["The opposition accused the government of hiding the truth."]
+      }
+    ],
+    "collocations": ["strong opposition", "opposition to", "face opposition", "opposition party", "opposition leader", "in opposition to"],
+    "synonyms": ["resistance", "objection", "hostility", "rivals"],
+    "family": [
+      { "word": "oppose", "pos": "verb" },
+      { "word": "opponent", "pos": "noun" },
+      { "word": "opposed", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "opt",
+    "ipa": "/ɑːpt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "tercih etmek, seçmek",
+        "def": "to choose one thing or course of action instead of another",
+        "examples": ["Many students opt for online classes because they're cheaper.", "She opted to take the train instead of flying."]
+      }
+    ],
+    "collocations": ["opt for", "opt to do something", "opt out of", "opt in", "opt instead for"],
+    "synonyms": ["choose", "select", "decide", "go for"],
+    "family": [
+      { "word": "option", "pos": "noun" },
+      { "word": "optional", "pos": "adjective" }
+    ],
+    "note": "\"Opt out\" = choose not to take part (e.g., opt out of emails); \"opt in\" = choose to take part."
+  },
+  {
+    "word": "optical",
+    "ipa": "/ˈɑːptɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "optik, görsel",
+        "def": "connected with sight or with light and how it is used to see",
+        "examples": ["The lines look curved, but it's just an optical illusion.", "The lab makes optical instruments such as microscopes."]
+      }
+    ],
+    "collocations": ["optical illusion", "optical fiber", "optical instruments", "optical lens"],
+    "synonyms": ["visual", "optic"],
+    "family": [
+      { "word": "optician", "pos": "noun" },
+      { "word": "optics", "pos": "noun" }
+    ],
+    "note": "\"Optical illusion\" = göz yanılması."
+  },
+  {
+    "word": "optimism",
+    "ipa": "/ˈɑːptɪmɪzəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iyimserlik",
+        "def": "a feeling that good things will happen and things will be successful",
+        "examples": ["There is growing optimism that the economy will recover.", "She faced her illness with remarkable optimism."]
+      }
+    ],
+    "collocations": ["cautious optimism", "a sense of optimism", "grounds for optimism", "express optimism", "renewed optimism"],
+    "synonyms": ["hope", "hopefulness", "confidence", "positivity"],
+    "family": [
+      { "word": "optimistic", "pos": "adjective" },
+      { "word": "optimist", "pos": "noun" }
+    ],
+    "note": "Opposite: pessimism."
+  },
+  {
+    "word": "optimistic",
+    "ipa": "/ˌɑːptɪˈmɪstɪk/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "iyimser",
+        "def": "expecting good things to happen or something to be successful",
+        "examples": ["Doctors are optimistic that she will make a full recovery.", "I'm optimistic about our chances in the final."]
+      }
+    ],
+    "collocations": ["optimistic about", "cautiously optimistic", "remain optimistic", "an optimistic forecast", "overly optimistic"],
+    "synonyms": ["hopeful", "positive", "confident", "upbeat"],
+    "family": [
+      { "word": "optimism", "pos": "noun" },
+      { "word": "optimistically", "pos": "adverb" },
+      { "word": "optimist", "pos": "noun" }
+    ],
+    "note": "Opposite: pessimistic. Pattern: optimistic about something / optimistic that..."
+  },
+  {
+    "word": "option",
+    "ipa": "/ˈɑːpʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "seçenek, tercih, opsiyon",
+        "def": "something you can choose, or the freedom to choose",
+        "examples": ["We have two options: take the bus or walk.", "Selling the house is not an option for us."]
+      }
+    ],
+    "collocations": ["have no option but to", "keep your options open", "the best option", "consider your options", "an option for"],
+    "synonyms": ["choice", "alternative", "possibility"],
+    "family": [
+      { "word": "optional", "pos": "adjective" },
+      { "word": "opt", "pos": "verb" }
+    ],
+    "note": "\"Have no option but to\" = be forced to (başka çaresi olmamak)."
+  },
+  {
+    "word": "or",
+    "ipa": "/ɔːr/",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "tr": "veya, ya da, yoksa",
+        "def": "used to connect possibilities or alternatives",
+        "examples": ["Would you like coffee or tea?", "You can pay by card or in cash."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "yoksa, aksi halde",
+        "def": "used to say what will happen if something is not done",
+        "examples": ["Hurry up, or we'll miss the bus."]
+      },
+      {
+        "pos": "conjunction",
+        "tr": "ne de (olumsuz cümlede)",
+        "def": "used after a negative to mean \"and not\"",
+        "examples": ["He doesn't smoke or drink."]
+      }
+    ],
+    "collocations": ["either... or", "or else", "or so", "whether or not", "more or less", "sooner or later"],
+    "synonyms": ["otherwise", "alternatively"],
+    "family": [],
+    "note": "\"Or so\" = approximately (an hour or so). In negatives, English uses or, not nor: \"I don't eat meat or fish.\""
+  },
+  {
+    "word": "oral",
+    "ipa": "/ˈɔːrəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sözlü",
+        "def": "spoken rather than written",
+        "examples": ["We have an oral exam in French next week.", "The story was passed down through oral tradition."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ağız yoluyla, ağızla ilgili",
+        "def": "connected with the mouth, or taken by mouth",
+        "examples": ["Good oral hygiene helps prevent gum disease."]
+      }
+    ],
+    "collocations": ["oral exam", "oral presentation", "oral tradition", "oral history", "oral health"],
+    "synonyms": ["spoken", "verbal", "vocal"],
+    "family": [{ "word": "orally", "pos": "adverb" }],
+    "note": "Opposite of the first meaning: written."
+  },
+  {
+    "word": "orange",
+    "ipa": "/ˈɔːrɪndʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "portakal",
+        "def": "a round, juicy citrus fruit with a thick skin",
+        "examples": ["I squeeze fresh oranges for juice every morning.", "She peeled an orange and shared it with her son."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "turuncu",
+        "def": "having a color between red and yellow",
+        "examples": ["The workers wore bright orange vests."]
+      },
+      {
+        "pos": "noun",
+        "tr": "turuncu (renk)",
+        "def": "the color between red and yellow",
+        "examples": ["The sky turned a deep orange at sunset."]
+      }
+    ],
+    "collocations": ["orange juice", "peel an orange", "bright orange", "orange peel", "blood orange"],
+    "synonyms": [],
+    "family": [],
+    "note": "One word, two Turkish translations: portakal (the fruit) and turuncu (the color)."
+  },
+  {
+    "word": "orchestra",
+    "ipa": "/ˈɔːrkɪstrə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "orkestra",
+        "def": "a large group of musicians who play different instruments together, led by a conductor",
+        "examples": ["She plays the violin in the city's symphony orchestra.", "The orchestra performed a program of Mozart and Beethoven."]
+      }
+    ],
+    "collocations": ["symphony orchestra", "play in an orchestra", "conduct an orchestra", "chamber orchestra", "orchestra seats"],
+    "synonyms": ["band", "ensemble", "symphony"],
+    "family": [
+      { "word": "orchestral", "pos": "adjective" },
+      { "word": "orchestrate", "pos": "verb" }
+    ],
+    "note": "In US theaters, \"the orchestra\" also means the seats on the main floor (British: the stalls)."
+  },
+  {
+    "word": "order",
+    "ipa": "/ˈɔːrdər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sıra, düzen",
+        "def": "the way things are arranged in relation to each other, or a state of being neat and organized",
+        "examples": ["The names are listed in alphabetical order.", "The police were called to restore order."]
+      },
+      {
+        "pos": "noun",
+        "tr": "emir, talimat; sipariş",
+        "def": "an instruction from someone in authority, or a request for goods or food",
+        "examples": ["The soldiers were given orders to retreat.", "Your order will arrive within three days."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sipariş etmek, ısmarlamak",
+        "def": "to ask for food, drinks or goods to be brought or sent to you",
+        "examples": ["Are you ready to order, or do you need a few more minutes?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "emretmek",
+        "def": "to tell someone to do something, using your authority",
+        "examples": ["The judge ordered the company to pay damages."]
+      }
+    ],
+    "collocations": ["in order to", "out of order", "in alphabetical order", "place an order", "follow orders", "law and order"],
+    "synonyms": ["sequence", "arrangement", "command", "instruction", "request"],
+    "family": [
+      { "word": "orderly", "pos": "adjective" },
+      { "word": "disorder", "pos": "noun" }
+    ],
+    "note": "\"In order to\" = so that you can (-mek için). \"Out of order\" = not working (bozuk)."
+  },
+  {
+    "word": "ordinary",
+    "ipa": "/ˈɔːrdneri/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sıradan, olağan, alelade",
+        "def": "normal or usual; not special or different in any way",
+        "examples": ["It was just an ordinary Tuesday until the phone rang.", "Ordinary people can't afford to live in this neighborhood."]
+      }
+    ],
+    "collocations": ["ordinary people", "out of the ordinary", "an ordinary day", "ordinary life", "perfectly ordinary"],
+    "synonyms": ["normal", "usual", "common", "typical", "everyday"],
+    "family": [
+      { "word": "ordinarily", "pos": "adverb" },
+      { "word": "extraordinary", "pos": "adjective" }
+    ],
+    "note": "\"Out of the ordinary\" = unusual (alışılmışın dışında)."
+  },
+  {
+    "word": "organ",
+    "ipa": "/ˈɔːrɡən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "organ",
+        "def": "a part of the body or a plant that has a particular job, such as the heart or a leaf",
+        "examples": ["The skin is the largest organ of the human body.", "Thousands of patients are waiting for an organ transplant."]
+      },
+      {
+        "pos": "noun",
+        "tr": "org (müzik aleti)",
+        "def": "a large musical instrument with pipes and keys, often found in churches",
+        "examples": ["She played the organ at her sister's wedding."]
+      }
+    ],
+    "collocations": ["internal organs", "organ donor", "organ transplant", "vital organs", "play the organ"],
+    "synonyms": ["body part"],
+    "family": [
+      { "word": "organic", "pos": "adjective" },
+      { "word": "organism", "pos": "noun" },
+      { "word": "organist", "pos": "noun" }
+    ]
+  }
+]

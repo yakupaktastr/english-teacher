@@ -1,0 +1,1337 @@
+[
+  {
+    "word": "cover",
+    "ipa": "/ˈkʌvər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "örtmek, kapatmak, kaplamak",
+        "def": "to put something over or on something to hide, protect, or decorate it",
+        "examples": ["Cover the pot and let the rice cook for 15 minutes.", "Snow covered the whole town overnight."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kapsamak, ele almak; (haber) takip etmek",
+        "def": "to include or deal with a subject, or to report on an event",
+        "examples": ["The exam will cover chapters one through five.", "She covered the election for a national newspaper."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(masraf) karşılamak; (sigorta) kapsamak",
+        "def": "to be enough money to pay for something, or to protect someone with insurance",
+        "examples": ["My salary barely covers the rent.", "Does your insurance cover dental care?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "kapak, örtü, kılıf; sığınak",
+        "def": "something that goes over or protects something, or a place that gives shelter",
+        "examples": ["Don't judge a book by its cover.", "When the shooting started, everyone ran for cover."]
+      }
+    ],
+    "collocations": ["cover the cost", "cover a story", "cover for someone", "take cover", "cover up", "from cover to cover"],
+    "synonyms": ["conceal", "include", "pay for", "report", "shelter"],
+    "family": [
+      { "word": "coverage", "pos": "noun" },
+      { "word": "covered", "pos": "adjective" },
+      { "word": "covering", "pos": "noun" },
+      { "word": "cover-up", "pos": "noun" },
+      { "word": "uncover", "pos": "verb" },
+      { "word": "discover", "pos": "verb" }
+    ],
+    "note": "\"Cover for someone\" = do their work while they're away. \"Cover up\" = hide a mistake or crime."
+  },
+  {
+    "word": "coverage",
+    "ipa": "/ˈkʌvərɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(medya) yayın, haber yapma, haberler",
+        "def": "the way news or sports events are reported on TV, radio, or in newspapers",
+        "examples": ["The trial received wide coverage in the national media.", "Live coverage of the game starts at seven."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(sigorta) teminat, kapsam; (şebeke) kapsama alanı",
+        "def": "the amount of protection an insurance policy gives, or the area a service reaches",
+        "examples": ["Many part-time workers don't have health coverage.", "There's no cell phone coverage up in the mountains."]
+      }
+    ],
+    "collocations": ["media coverage", "news coverage", "live coverage", "health coverage", "insurance coverage", "extensive coverage"],
+    "synonyms": ["reporting", "reports", "protection", "insurance"],
+    "family": [{ "word": "cover", "pos": "verb" }]
+  },
+  {
+    "word": "covered",
+    "ipa": "/ˈkʌvərd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "(bir şeyle) kaplı, dolu, bulanmış",
+        "def": "having a layer of something on it",
+        "examples": ["The kids came home covered in mud.", "The hills were covered with wildflowers."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kapalı, üstü örtülü",
+        "def": "having a roof or cover over it",
+        "examples": ["We waited for the bus in a covered shelter."]
+      }
+    ],
+    "collocations": ["covered in", "covered with", "covered by insurance", "covered parking", "snow-covered"],
+    "synonyms": ["coated", "layered", "roofed", "sheltered"],
+    "family": [
+      { "word": "cover", "pos": "verb" },
+      { "word": "uncovered", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "cow",
+    "ipa": "/kaʊ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "inek",
+        "def": "a large female farm animal kept for milk or meat",
+        "examples": ["The farmer milks the cows twice a day.", "A herd of cows was blocking the country road."]
+      }
+    ],
+    "collocations": ["dairy cow", "milk a cow", "herd of cows", "cash cow", "sacred cow", "till the cows come home"],
+    "synonyms": ["cattle"],
+    "family": [{ "word": "cowboy", "pos": "noun" }],
+    "note": "\"Cash cow\" = a product that makes steady profit. \"Holy cow!\" is an informal exclamation of surprise."
+  },
+  {
+    "word": "crack",
+    "ipa": "/kræk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çatlak, yarık",
+        "def": "a thin line on a surface where it has broken but not split apart",
+        "examples": ["There's a long crack in the windshield.", "Water was leaking through a crack in the ceiling."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çatlamak, çatlatmak; (yumurta, ceviz) kırmak",
+        "def": "to break without separating into pieces, or to break something open",
+        "examples": ["The ice cracked under his weight.", "Crack two eggs into a bowl and whisk them."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(şifre, sorun) çözmek; (baskı altında) çökmek",
+        "def": "to solve a difficult problem or code, or to lose control under pressure",
+        "examples": ["Police finally cracked the case after six months.", "He cracked under the pressure of the final interview."]
+      }
+    ],
+    "collocations": ["a crack in", "crack a joke", "crack the code", "crack down on", "at the crack of dawn", "crack open"],
+    "synonyms": ["split", "fracture", "break", "solve"],
+    "family": [
+      { "word": "cracked", "pos": "adjective" },
+      { "word": "crackdown", "pos": "noun" },
+      { "word": "cracker", "pos": "noun" }
+    ],
+    "note": "\"Crack down on\" = deal with something much more strictly. \"Crack a joke\" = tell a joke."
+  },
+  {
+    "word": "craft",
+    "ipa": "/kræft/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "el sanatı, zanaat",
+        "def": "an activity that needs skill in making things by hand",
+        "examples": ["The market sells local crafts like pottery and woven baskets.", "Woodworking is a craft that takes years to master."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ustalık, meslek becerisi",
+        "def": "the skills needed for a particular job or art",
+        "examples": ["She spent years perfecting her craft as a writer."]
+      },
+      {
+        "pos": "verb",
+        "tr": "özenle yapmak, ustalıkla hazırlamak",
+        "def": "to make something carefully and skillfully",
+        "examples": ["Each chair is crafted by hand from solid oak.", "The speech was carefully crafted to appeal to young voters."]
+      }
+    ],
+    "collocations": ["arts and crafts", "craft fair", "master a craft", "carefully crafted", "craft beer", "hone your craft"],
+    "synonyms": ["skill", "art", "trade", "make", "create"],
+    "family": [
+      { "word": "craftsman", "pos": "noun" },
+      { "word": "craftsmanship", "pos": "noun" },
+      { "word": "crafty", "pos": "adjective" },
+      { "word": "handcrafted", "pos": "adjective" }
+    ],
+    "note": "\"Craft\" can also mean a boat or aircraft; the plural is still \"craft\". \"Crafty\" means clever in a dishonest way."
+  },
+  {
+    "word": "crash",
+    "ipa": "/kræʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kaza, çarpışma",
+        "def": "an accident in which a vehicle hits something",
+        "examples": ["Three people were injured in a car crash on the highway.", "Investigators are still looking into the cause of the plane crash."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çarpmak, kaza yapmak, düşmek",
+        "def": "to hit something violently, or to make a vehicle do this",
+        "examples": ["He crashed his dad's car into a tree.", "The helicopter crashed shortly after takeoff."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bilgisayar) çökmek; (fiyat, borsa) çakılmak",
+        "def": "to suddenly stop working, or to suddenly lose a lot of value",
+        "examples": ["My laptop crashed and I lost the whole document.", "Stock prices crashed after the bank collapsed."]
+      }
+    ],
+    "collocations": ["car crash", "plane crash", "crash into", "stock market crash", "crash course", "crash at someone's place"],
+    "synonyms": ["collision", "accident", "smash", "collapse"],
+    "family": [{ "word": "crash-land", "pos": "verb" }],
+    "note": "A \"crash course\" is a short, intensive course. Informally, \"crash\" can mean sleep somewhere: \"Can I crash on your couch?\""
+  },
+  {
+    "word": "crawl",
+    "ipa": "/krɔːl/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "emeklemek, sürünmek",
+        "def": "to move on your hands and knees, or with your body close to the ground",
+        "examples": ["The baby is just starting to crawl.", "Soldiers crawled under the barbed wire."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ağır ağır ilerlemek, sürünmek",
+        "def": "(of traffic or time) to move very slowly",
+        "examples": ["Traffic crawled along the freeway for an hour."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(bir şeyle) kaynamak, dolu olmak",
+        "def": "to be full of people, insects, or other things moving around",
+        "examples": ["The kitchen floor was crawling with ants."]
+      }
+    ],
+    "collocations": ["crawl on all fours", "crawl along", "slow to a crawl", "crawl with", "pub crawl", "make your skin crawl"],
+    "synonyms": ["creep", "inch", "slither"],
+    "family": [{ "word": "crawler", "pos": "noun" }],
+    "note": "\"Make your skin crawl\" = make you feel disgusted or afraid. As a noun, \"crawl\" is also a swimming stroke."
+  },
+  {
+    "word": "crazy",
+    "ipa": "/ˈkreɪzi/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çılgın, saçma, aptalca",
+        "def": "not sensible; very foolish or strange",
+        "examples": ["It's crazy to drive in this snow without proper tires.", "That's the craziest idea I've ever heard."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "deli, delirmiş; sinirden çıldırmış",
+        "def": "mentally ill (offensive), or very angry or upset",
+        "examples": ["The noise from the construction is driving me crazy."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(bir şeye/birine) deli olmak, bayılmak",
+        "def": "very enthusiastic about or in love with someone or something",
+        "examples": ["My nephew is crazy about dinosaurs.", "He's crazy about her."]
+      }
+    ],
+    "collocations": ["drive someone crazy", "go crazy", "crazy about", "like crazy", "sound crazy", "crazy idea"],
+    "synonyms": ["insane", "mad", "foolish", "ridiculous", "wild"],
+    "family": [
+      { "word": "crazily", "pos": "adverb" },
+      { "word": "craziness", "pos": "noun" },
+      { "word": "craze", "pos": "noun" }
+    ],
+    "note": "Informal. Using it to mean \"mentally ill\" can be offensive. \"Like crazy\" = very much or very fast."
+  },
+  {
+    "word": "cream",
+    "ipa": "/kriːm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "krema, kaymak",
+        "def": "the thick fatty part of milk, used in cooking or on desserts",
+        "examples": ["Do you take cream in your coffee?", "She served the strawberries with whipped cream."]
+      },
+      {
+        "pos": "noun",
+        "tr": "krem",
+        "def": "a thick substance you put on your skin",
+        "examples": ["Rub some cream on your hands to stop them from cracking.", "The doctor gave me an antibiotic cream for the cut."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "krem rengi",
+        "def": "having a pale yellowish-white color",
+        "examples": ["They painted the living room walls cream."]
+      }
+    ],
+    "collocations": ["whipped cream", "ice cream", "sour cream", "face cream", "sun cream", "the cream of the crop"],
+    "synonyms": ["lotion", "ointment", "off-white"],
+    "family": [
+      { "word": "creamy", "pos": "adjective" },
+      { "word": "creamer", "pos": "noun" }
+    ],
+    "note": "\"The cream of the crop\" = the best people or things in a group. Americans say \"sunscreen\" more than \"sun cream\"."
+  },
+  {
+    "word": "create",
+    "ipa": "/kriˈeɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yaratmak, oluşturmak, meydana getirmek",
+        "def": "to make something new exist or happen",
+        "examples": ["The new factory will create 500 jobs.", "Click here to create a new account."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(durum, sorun, izlenim) yol açmak, yaratmak",
+        "def": "to cause a particular situation, feeling, or impression",
+        "examples": ["The delay created a lot of confusion at the airport.", "Soft lighting helps create a relaxing atmosphere."]
+      }
+    ],
+    "collocations": ["create jobs", "create an account", "create problems", "create an impression", "create an atmosphere", "create opportunities"],
+    "synonyms": ["make", "produce", "generate", "cause", "establish"],
+    "family": [
+      { "word": "creation", "pos": "noun" },
+      { "word": "creative", "pos": "adjective" },
+      { "word": "creativity", "pos": "noun" },
+      { "word": "creator", "pos": "noun" },
+      { "word": "creature", "pos": "noun" },
+      { "word": "recreate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "creation",
+    "ipa": "/kriˈeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yaratma, oluşturma, kurulma",
+        "def": "the act or process of making something new or causing it to exist",
+        "examples": ["The plan focuses on job creation in rural areas.", "Since its creation in 1995, the charity has helped thousands of families."]
+      },
+      {
+        "pos": "noun",
+        "tr": "eser, yapıt, ürün",
+        "def": "something new that someone has made, especially something original or artistic",
+        "examples": ["The chef's latest creation is a chocolate and chili dessert."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(dinî) yaratılış, evren",
+        "def": "the making of the world by God, or the whole world and everything in it",
+        "examples": ["Many cultures have their own stories about the creation of the world."]
+      }
+    ],
+    "collocations": ["job creation", "wealth creation", "since its creation", "the creation of", "latest creation", "value creation"],
+    "synonyms": ["making", "formation", "establishment", "invention", "work"],
+    "family": [
+      { "word": "create", "pos": "verb" },
+      { "word": "creative", "pos": "adjective" },
+      { "word": "creator", "pos": "noun" },
+      { "word": "creationism", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "creative",
+    "ipa": "/kriˈeɪtɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yaratıcı",
+        "def": "using imagination and skill to produce new ideas or works of art",
+        "examples": ["She's a very creative person who's always making something.", "We need some creative solutions to cut costs."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yaratıcı, sanatsal",
+        "def": "connected with producing art, writing, music, or design",
+        "examples": ["He teaches creative writing at the community college."]
+      }
+    ],
+    "collocations": ["creative writing", "creative thinking", "creative solution", "get creative", "creative industries", "creative process"],
+    "synonyms": ["imaginative", "inventive", "original", "innovative"],
+    "family": [
+      { "word": "creatively", "pos": "adverb" },
+      { "word": "creativity", "pos": "noun" },
+      { "word": "create", "pos": "verb" }
+    ],
+    "note": "\"Creative accounting\" is a polite way of saying dishonest bookkeeping."
+  },
+  {
+    "word": "creativity",
+    "ipa": "/ˌkriːeɪˈtɪvəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yaratıcılık",
+        "def": "the ability to use imagination and skill to produce new ideas or works of art",
+        "examples": ["The new office layout is designed to encourage creativity.", "Strict rules can kill children's creativity."]
+      }
+    ],
+    "collocations": ["encourage creativity", "foster creativity", "stifle creativity", "a burst of creativity", "creativity and innovation"],
+    "synonyms": ["imagination", "inventiveness", "originality", "innovation"],
+    "family": [
+      { "word": "creative", "pos": "adjective" },
+      { "word": "create", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "creator",
+    "ipa": "/kriˈeɪtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yaratıcı, yapımcı, mucit",
+        "def": "a person who has made, invented, or started something",
+        "examples": ["The show's creator also wrote most of the episodes.", "Content creators earn money from ads on their videos."]
+      },
+      {
+        "pos": "noun",
+        "tr": "Yaradan, Yaratıcı (Tanrı)",
+        "def": "God, as the maker of the world",
+        "examples": ["Many religions believe in one Creator of all things."]
+      }
+    ],
+    "collocations": ["content creator", "the creator of", "series creator", "co-creator", "original creator"],
+    "synonyms": ["maker", "inventor", "author", "founder", "originator"],
+    "family": [
+      { "word": "create", "pos": "verb" },
+      { "word": "creation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "creature",
+    "ipa": "/ˈkriːtʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "canlı, yaratık, mahluk",
+        "def": "any living thing that can move, such as an animal, or an imaginary being",
+        "examples": ["The deep ocean is full of strange creatures we know little about.", "The movie is about a creature that lives under the lake."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(belli özellikte) kimse, insan",
+        "def": "a person of a particular type",
+        "examples": ["My grandfather is a creature of habit: same breakfast every day for forty years."]
+      }
+    ],
+    "collocations": ["living creature", "sea creature", "strange creature", "creature of habit", "creature comforts", "mythical creature"],
+    "synonyms": ["animal", "being", "beast", "organism"],
+    "family": [{ "word": "create", "pos": "verb" }],
+    "note": "\"Creature comforts\" = things that make life physically comfortable, like good food and a warm bed."
+  },
+  {
+    "word": "credibility",
+    "ipa": "/ˌkredəˈbɪləti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "güvenilirlik, inandırıcılık, itibar",
+        "def": "the quality that makes people believe or trust someone or something",
+        "examples": ["The scandal badly damaged the senator's credibility.", "Citing reliable sources gives your essay more credibility."]
+      }
+    ],
+    "collocations": ["lose credibility", "damage credibility", "gain credibility", "lack credibility", "credibility gap", "restore credibility"],
+    "synonyms": ["reliability", "trustworthiness", "believability", "reputation"],
+    "family": [
+      { "word": "credible", "pos": "adjective" },
+      { "word": "credibly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "credible",
+    "ipa": "/ˈkredəbl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "inanılır, güvenilir, inandırıcı",
+        "def": "able to be believed or trusted",
+        "examples": ["Police received a credible threat against the school.", "The witness gave a credible account of what happened."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ciddi, kayda değer, kuvvetli",
+        "def": "good enough to be taken seriously or likely to succeed",
+        "examples": ["She is the only credible candidate running against the mayor."]
+      }
+    ],
+    "collocations": ["credible evidence", "credible threat", "credible source", "credible alternative", "highly credible"],
+    "synonyms": ["believable", "convincing", "reliable", "plausible"],
+    "family": [
+      { "word": "credibility", "pos": "noun" },
+      { "word": "credibly", "pos": "adverb" },
+      { "word": "incredible", "pos": "adjective" }
+    ],
+    "note": "Don't confuse with \"credulous\" (too ready to believe things). \"Incredible\" now usually means \"amazing\"."
+  },
+  {
+    "word": "credit",
+    "ipa": "/ˈkredɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kredi, veresiye",
+        "def": "an arrangement to receive goods or money now and pay for them later",
+        "examples": ["They bought the furniture on credit.", "Small businesses are struggling to get credit from banks."]
+      },
+      {
+        "pos": "noun",
+        "tr": "takdir, övgü, pay",
+        "def": "praise or approval for something good that someone has done",
+        "examples": ["She never gets credit for all the extra work she does.", "To his credit, he admitted the mistake right away."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(ders) kredi",
+        "def": "a unit that measures a completed part of a college course",
+        "examples": ["You need 120 credits to graduate."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(hesaba) para yatırmak, alacak kaydetmek; (başarıyı) birine atfetmek",
+        "def": "to add money to a bank account, or to say that someone deserves praise for something",
+        "examples": ["The refund will be credited to your account within five days.", "She credits her coach with saving her career."]
+      }
+    ],
+    "collocations": ["credit card", "on credit", "take credit for", "give someone credit", "to someone's credit", "credit score"],
+    "synonyms": ["loan", "praise", "recognition", "acknowledgment"],
+    "family": [
+      { "word": "creditor", "pos": "noun" },
+      { "word": "creditable", "pos": "adjective" },
+      { "word": "discredit", "pos": "verb" },
+      { "word": "creditworthy", "pos": "adjective" }
+    ],
+    "note": "\"The credits\" are the list of names at the end of a film. \"Take credit for\" = claim you did something."
+  },
+  {
+    "word": "creep",
+    "ipa": "/kriːp/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "sessizce sokulmak, sinsice ilerlemek",
+        "def": "to move slowly and quietly so that you are not seen or heard",
+        "examples": ["He crept upstairs so he wouldn't wake the baby.", "The cat crept toward the bird in the grass."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yavaş yavaş artmak, sızmak",
+        "def": "to increase or change slowly, often without being noticed",
+        "examples": ["Prices have been creeping up all year.", "A few errors crept into the final report."]
+      },
+      {
+        "pos": "noun",
+        "tr": "itici/tuhaf tip, sapık",
+        "def": "(informal) an unpleasant person, especially one who makes others feel uncomfortable",
+        "examples": ["Some creep kept staring at her on the train."]
+      }
+    ],
+    "collocations": ["creep up", "creep in", "creep into", "creep up on someone", "give someone the creeps", "creep along"],
+    "synonyms": ["sneak", "tiptoe", "slip", "crawl"],
+    "family": [
+      { "word": "creepy", "pos": "adjective" },
+      { "word": "creeper", "pos": "noun" }
+    ],
+    "note": "Irregular verb: creep – crept – crept. \"Give someone the creeps\" = make them feel uneasy."
+  },
+  {
+    "word": "crew",
+    "ipa": "/kruː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mürettebat, ekip",
+        "def": "all the people who work on a ship, plane, or train",
+        "examples": ["The plane had 150 passengers and six crew on board.", "The crew abandoned the ship when the fire spread."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ekip, çalışma ekibi",
+        "def": "a group of people who work together on a particular job",
+        "examples": ["A film crew was shooting a scene on our street.", "Road crews worked through the night to clear the snow."]
+      }
+    ],
+    "collocations": ["crew member", "film crew", "cabin crew", "flight crew", "ground crew", "rescue crew"],
+    "synonyms": ["team", "staff", "gang", "squad"],
+    "family": [{ "word": "crewman", "pos": "noun" }],
+    "note": "\"Crew\" is a group noun; you can say \"the crew is\" or \"the crew are\". American English prefers \"is\"."
+  },
+  {
+    "word": "crime",
+    "ipa": "/kraɪm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "suç",
+        "def": "an illegal act, or illegal activities in general",
+        "examples": ["He was arrested for a crime he didn't commit.", "Violent crime has fallen in most big cities."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(mecazi) günah, ayıp, yazık",
+        "def": "something that seems wrong, wasteful, or shameful",
+        "examples": ["It's a crime to throw away all that good food."]
+      }
+    ],
+    "collocations": ["commit a crime", "crime rate", "violent crime", "crime scene", "war crime", "fight crime"],
+    "synonyms": ["offense", "wrongdoing", "illegal act", "felony"],
+    "family": [
+      { "word": "criminal", "pos": "noun" },
+      { "word": "criminal", "pos": "adjective" },
+      { "word": "criminology", "pos": "noun" }
+    ],
+    "note": "You \"commit\" a crime, not \"do\" or \"make\" one."
+  },
+  {
+    "word": "criminal",
+    "ipa": "/ˈkrɪmɪnl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "suçlu",
+        "def": "a person who has committed a crime",
+        "examples": ["The police caught the criminals at the border.", "Many career criminals start offending as teenagers."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "cezai, suçla ilgili",
+        "def": "connected with crime or with the laws dealing with crime",
+        "examples": ["He has no criminal record.", "The company is facing a criminal investigation."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(mecazi) rezalet, ayıp, yazık",
+        "def": "(informal) morally very wrong or shocking",
+        "examples": ["It's criminal how much they charge for a cup of coffee here."]
+      }
+    ],
+    "collocations": ["criminal record", "criminal charges", "criminal justice system", "criminal offense", "convicted criminal", "criminal investigation"],
+    "synonyms": ["offender", "lawbreaker", "illegal", "unlawful"],
+    "family": [
+      { "word": "crime", "pos": "noun" },
+      { "word": "criminally", "pos": "adverb" },
+      { "word": "criminalize", "pos": "verb" },
+      { "word": "decriminalize", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "crisis",
+    "ipa": "/ˈkraɪsɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kriz, bunalım",
+        "def": "a time of great difficulty or danger when important decisions must be made",
+        "examples": ["The country is in the middle of an economic crisis.", "Thousands fled during the refugee crisis."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kişisel) kriz, bunalım",
+        "def": "a time of serious personal or emotional difficulty",
+        "examples": ["At 45, he went through a midlife crisis and bought a motorcycle."]
+      }
+    ],
+    "collocations": ["economic crisis", "financial crisis", "in crisis", "crisis management", "midlife crisis", "a crisis of confidence"],
+    "synonyms": ["emergency", "disaster", "catastrophe", "predicament"],
+    "family": [],
+    "note": "Plural: crises /ˈkraɪsiːz/."
+  },
+  {
+    "word": "criteria",
+    "ipa": "/kraɪˈtɪriə/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kriterler, ölçütler",
+        "def": "standards used to judge or decide something (plural of criterion)",
+        "examples": ["Applicants must meet strict criteria to receive the scholarship.", "What criteria do you use to choose a new employee?"]
+      }
+    ],
+    "collocations": ["meet the criteria", "set criteria", "selection criteria", "strict criteria", "eligibility criteria", "fulfill the criteria"],
+    "synonyms": ["standards", "requirements", "benchmarks", "guidelines"],
+    "family": [{ "word": "criterion", "pos": "noun" }],
+    "note": "Criteria is plural: \"these criteria are\". The singular is \"criterion\", though many people wrongly say \"a criteria\"."
+  },
+  {
+    "word": "criterion",
+    "ipa": "/kraɪˈtɪriən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kriter, ölçüt",
+        "def": "a standard or principle used to judge something or make a decision",
+        "examples": ["Price was not the only criterion we considered when buying the car.", "The main criterion for admission is academic performance."]
+      }
+    ],
+    "collocations": ["the main criterion", "the sole criterion", "a key criterion", "meet a criterion", "criterion for"],
+    "synonyms": ["standard", "measure", "benchmark", "yardstick"],
+    "family": [{ "word": "criteria", "pos": "noun" }],
+    "note": "Irregular plural: criterion → criteria."
+  },
+  {
+    "word": "critic",
+    "ipa": "/ˈkrɪtɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eleştirmen",
+        "def": "a person whose job is to write opinions about books, films, music, food, etc.",
+        "examples": ["The film was praised by critics but failed at the box office.", "She works as a restaurant critic for a city magazine."]
+      },
+      {
+        "pos": "noun",
+        "tr": "eleştiren, karşı çıkan kimse",
+        "def": "a person who openly says they disapprove of someone or something",
+        "examples": ["Critics of the plan say it will raise taxes for the middle class."]
+      }
+    ],
+    "collocations": ["film critic", "food critic", "harsh critic", "outspoken critic", "critics argue", "fiercest critic"],
+    "synonyms": ["reviewer", "commentator", "opponent", "detractor"],
+    "family": [
+      { "word": "criticism", "pos": "noun" },
+      { "word": "criticize", "pos": "verb" },
+      { "word": "critical", "pos": "adjective" },
+      { "word": "critique", "pos": "noun" }
+    ],
+    "note": "Trap for Turkish speakers: \"critic\" is a person; \"kritik\" (criticism, review) is \"criticism\" or \"critique\"."
+  },
+  {
+    "word": "critical",
+    "ipa": "/ˈkrɪtɪkl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "eleştirel, kusur bulan",
+        "def": "saying what you think is bad about someone or something",
+        "examples": ["The report was highly critical of the hospital's management.", "Why are you always so critical of my friends?"]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kritik, hayati, çok önemli",
+        "def": "extremely important because the result depends on it",
+        "examples": ["The next 48 hours are critical for the investigation.", "Clean water is critical to public health."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(durum) ağır, ciddi, kritik",
+        "def": "very serious or dangerous, especially in illness",
+        "examples": ["Two victims are in critical condition at the hospital."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "eleştirel (düşünce), analitik",
+        "def": "carefully judging the good and bad qualities of something",
+        "examples": ["The course teaches students critical thinking skills."]
+      }
+    ],
+    "collocations": ["critical of", "critical thinking", "critical condition", "critical role", "critically important", "critical acclaim"],
+    "synonyms": ["disapproving", "crucial", "vital", "serious", "analytical"],
+    "family": [
+      { "word": "critically", "pos": "adverb" },
+      { "word": "critic", "pos": "noun" },
+      { "word": "criticism", "pos": "noun" },
+      { "word": "uncritical", "pos": "adjective" }
+    ],
+    "note": "\"Critical acclaim\" = praise from critics."
+  },
+  {
+    "word": "critically",
+    "ipa": "/ˈkrɪtɪkli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "eleştirel bir şekilde",
+        "def": "in a way that judges carefully or points out faults",
+        "examples": ["Students should learn to read news sources critically.", "He spoke critically about the government's response."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "ağır şekilde, ciddi biçimde; son derece",
+        "def": "seriously or dangerously, or extremely",
+        "examples": ["Two people were critically injured in the fire.", "It is critically important to finish on time."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "eleştirmenler tarafından",
+        "def": "by critics who review books, films, etc.",
+        "examples": ["The album was critically acclaimed but sold poorly."]
+      }
+    ],
+    "collocations": ["think critically", "critically ill", "critically injured", "critically important", "critically acclaimed"],
+    "synonyms": ["analytically", "seriously", "gravely"],
+    "family": [{ "word": "critical", "pos": "adjective" }]
+  },
+  {
+    "word": "criticism",
+    "ipa": "/ˈkrɪtɪsɪzəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eleştiri",
+        "def": "the act of saying what is wrong with someone or something, or a comment that does this",
+        "examples": ["The new policy has faced strong criticism from teachers.", "She doesn't take criticism well."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(edebi, sanat) eleştiri",
+        "def": "the work of judging and discussing books, art, music, etc.",
+        "examples": ["He studied literary criticism in graduate school."]
+      }
+    ],
+    "collocations": ["face criticism", "come under criticism", "constructive criticism", "take criticism", "harsh criticism", "literary criticism"],
+    "synonyms": ["disapproval", "censure", "condemnation", "critique"],
+    "family": [
+      { "word": "criticize", "pos": "verb" },
+      { "word": "critic", "pos": "noun" },
+      { "word": "critical", "pos": "adjective" }
+    ],
+    "note": "\"Constructive criticism\" is helpful, meant to improve something."
+  },
+  {
+    "word": "criticize",
+    "ipa": "/ˈkrɪtɪsaɪz/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "eleştirmek, kusur bulmak",
+        "def": "to say what you think is bad or wrong about someone or something",
+        "examples": ["The mayor was criticized for ignoring the housing crisis.", "Stop criticizing everything I cook!"]
+      }
+    ],
+    "collocations": ["criticize someone for", "heavily criticized", "widely criticized", "publicly criticize", "sharply criticize"],
+    "synonyms": ["condemn", "attack", "find fault with", "slam"],
+    "family": [
+      { "word": "criticism", "pos": "noun" },
+      { "word": "critic", "pos": "noun" },
+      { "word": "critical", "pos": "adjective" }
+    ],
+    "note": "American spelling with -ize; British also uses \"criticise\". Pattern: criticize someone FOR something."
+  },
+  {
+    "word": "critique",
+    "ipa": "/krɪˈtiːk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eleştiri, eleştirel değerlendirme",
+        "def": "a careful written or spoken analysis of the good and bad points of something",
+        "examples": ["The book offers a sharp critique of modern consumer culture.", "Each student must write a critique of a classmate's essay."]
+      },
+      {
+        "pos": "verb",
+        "tr": "eleştirel olarak değerlendirmek",
+        "def": "to analyze and judge the strengths and weaknesses of something",
+        "examples": ["The teacher critiqued our designs one by one."]
+      }
+    ],
+    "collocations": ["a critique of", "a sharp critique", "offer a critique", "detailed critique", "feminist critique"],
+    "synonyms": ["analysis", "review", "evaluation", "assessment"],
+    "family": [
+      { "word": "critic", "pos": "noun" },
+      { "word": "criticize", "pos": "verb" }
+    ],
+    "note": "More formal and academic than \"criticism\", and not necessarily negative."
+  },
+  {
+    "word": "crop",
+    "ipa": "/krɑːp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ürün, mahsul, ekin",
+        "def": "a plant grown in large amounts, especially for food",
+        "examples": ["Corn and soybeans are the main crops in Iowa.", "The drought destroyed most of this year's crop."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bir dönemin) grubu, kuşağı",
+        "def": "a group of people or things that appear at the same time",
+        "examples": ["This year's crop of graduates faces a tough job market."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(fotoğraf) kırpmak; (saç) kısa kesmek",
+        "def": "to cut off the edges of a picture, or to cut hair very short",
+        "examples": ["Crop the photo so only the two of us are in it."]
+      }
+    ],
+    "collocations": ["grow crops", "crop failure", "cash crop", "harvest a crop", "crop up", "the cream of the crop"],
+    "synonyms": ["harvest", "produce", "yield", "trim"],
+    "family": [{ "word": "cropped", "pos": "adjective" }],
+    "note": "Phrasal verb \"crop up\" = happen or appear unexpectedly: \"Something cropped up at work.\""
+  },
+  {
+    "word": "cross",
+    "ipa": "/krɔːs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "karşıya geçmek, geçmek, aşmak",
+        "def": "to go from one side of something to the other",
+        "examples": ["Look both ways before you cross the street.", "Thousands of migrants try to cross the border every month."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(aklından) geçmek; (bacak, kol) kavuşturmak",
+        "def": "to come into your mind briefly, or to put one leg or arm over the other",
+        "examples": ["It never crossed my mind that she might be lying.", "He sat back and crossed his arms."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çarpı işareti, haç",
+        "def": "a mark (X or +), or the symbol of Christianity",
+        "examples": ["Put a cross next to the answers you're not sure about.", "She wore a small gold cross around her neck."]
+      },
+      {
+        "pos": "noun",
+        "tr": "melez, karışım",
+        "def": "a mix of two different things, breeds, or types",
+        "examples": ["The dog is a cross between a poodle and a Labrador."]
+      }
+    ],
+    "collocations": ["cross the road", "cross the border", "cross your mind", "cross your fingers", "cross the line", "a cross between"],
+    "synonyms": ["go across", "pass", "traverse", "hybrid", "mix"],
+    "family": [
+      { "word": "crossing", "pos": "noun" },
+      { "word": "across", "pos": "preposition" },
+      { "word": "crossroads", "pos": "noun" },
+      { "word": "crosswalk", "pos": "noun" }
+    ],
+    "note": "\"Cross your fingers\" = hope for luck. In British English, \"cross\" can also be an adjective meaning \"annoyed\"."
+  },
+  {
+    "word": "crowd",
+    "ipa": "/kraʊd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kalabalık",
+        "def": "a large number of people gathered together in one place",
+        "examples": ["A crowd of fans waited outside the stadium.", "The crowd cheered when the band came on stage."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(belli) grup, çevre",
+        "def": "a particular group of people, especially friends with similar interests",
+        "examples": ["He started hanging out with the wrong crowd in high school."]
+      },
+      {
+        "pos": "verb",
+        "tr": "toplanmak, doluşmak, üşüşmek",
+        "def": "to gather together in large numbers, often filling a space",
+        "examples": ["Tourists crowded around the street performer."]
+      }
+    ],
+    "collocations": ["a huge crowd", "draw a crowd", "the crowd cheered", "stand out from the crowd", "follow the crowd", "crowd around"],
+    "synonyms": ["mass", "throng", "mob", "audience", "gather"],
+    "family": [
+      { "word": "crowded", "pos": "adjective" },
+      { "word": "overcrowded", "pos": "adjective" },
+      { "word": "crowdfunding", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "crowded",
+    "ipa": "/ˈkraʊdɪd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kalabalık, dolu, tıklım tıklım",
+        "def": "full of people, often too many",
+        "examples": ["The subway is always crowded during rush hour.", "We couldn't find a table in the crowded restaurant."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(rekabet vb.) yoğun, doymuş",
+        "def": "full of competitors or things",
+        "examples": ["The startup is entering a crowded market for food delivery apps."]
+      }
+    ],
+    "collocations": ["crowded room", "crowded street", "overcrowded", "crowded market", "crowded with tourists", "a crowded field"],
+    "synonyms": ["packed", "full", "busy", "jammed"],
+    "family": [
+      { "word": "crowd", "pos": "noun" },
+      { "word": "overcrowded", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "crown",
+    "ipa": "/kraʊn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "taç",
+        "def": "a circle of gold and jewels that a king or queen wears on the head",
+        "examples": ["The queen's crown is kept in a museum in London.", "She wore a paper crown at her birthday party."]
+      },
+      {
+        "pos": "noun",
+        "tr": "şampiyonluk, unvan",
+        "def": "the title of champion in a sports competition",
+        "examples": ["The team is hoping to defend its crown next season."]
+      },
+      {
+        "pos": "verb",
+        "tr": "taç giydirmek; (başarıyı) taçlandırmak",
+        "def": "to officially make someone a king or queen, or to make something complete with a final success",
+        "examples": ["She was crowned Miss America in 2019.", "Winning the final crowned a perfect season."]
+      }
+    ],
+    "collocations": ["wear a crown", "the Crown", "crown jewels", "defend the crown", "crowning achievement", "be crowned champion"],
+    "synonyms": ["title", "championship", "tiara"],
+    "family": [{ "word": "crowning", "pos": "adjective" }],
+    "note": "A \"crown\" is also a cap a dentist puts on a damaged tooth. \"Crowning achievement\" = the best thing someone has done."
+  },
+  {
+    "word": "crucial",
+    "ipa": "/ˈkruːʃl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "çok önemli, hayati, belirleyici, kritik",
+        "def": "extremely important because it affects what happens next",
+        "examples": ["Getting enough sleep is crucial for good health.", "The goalkeeper made a crucial save in the final minute."]
+      }
+    ],
+    "collocations": ["crucial role", "crucial to", "absolutely crucial", "crucial moment", "crucial factor", "crucial decision"],
+    "synonyms": ["vital", "critical", "essential", "key", "decisive"],
+    "family": [{ "word": "crucially", "pos": "adverb" }]
+  },
+  {
+    "word": "crude",
+    "ipa": "/kruːd/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ham, işlenmemiş",
+        "def": "in a natural state, before being processed",
+        "examples": ["The price of crude oil fell below $70 a barrel.", "Crude rubber is treated with chemicals to make tires."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kaba, ilkel, basit",
+        "def": "simple and not made or done with much skill or detail",
+        "examples": ["The prisoners made a crude knife from a spoon.", "This is only a crude estimate of the costs."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kaba, terbiyesiz, müstehcen",
+        "def": "rude and offensive, especially about sex",
+        "examples": ["He made a crude joke that embarrassed everyone at dinner."]
+      }
+    ],
+    "collocations": ["crude oil", "crude estimate", "crude attempt", "crude joke", "crude language"],
+    "synonyms": ["raw", "unrefined", "rough", "primitive", "vulgar"],
+    "family": [
+      { "word": "crudely", "pos": "adverb" },
+      { "word": "crudeness", "pos": "noun" }
+    ],
+    "note": "In news, \"crude\" alone often means crude oil: \"Crude rose 2% on Monday.\""
+  },
+  {
+    "word": "cruel",
+    "ipa": "/ˈkruːəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "zalim, acımasız",
+        "def": "wanting to cause pain or suffering to others, or causing great suffering",
+        "examples": ["It's cruel to keep a dog chained up all day.", "Losing in the last second was a cruel blow for the team."]
+      }
+    ],
+    "collocations": ["cruel to", "cruel joke", "cruel irony", "cruel and unusual punishment", "cruel twist of fate"],
+    "synonyms": ["heartless", "brutal", "harsh", "vicious", "merciless"],
+    "family": [
+      { "word": "cruelty", "pos": "noun" },
+      { "word": "cruelly", "pos": "adverb" }
+    ],
+    "note": "\"You have to be cruel to be kind\" = sometimes hurting someone is for their own good."
+  },
+  {
+    "word": "cruise",
+    "ipa": "/kruːz/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "gemi turu, deniz yolculuğu, cruise",
+        "def": "a vacation on a large ship that visits several places",
+        "examples": ["My parents went on a Caribbean cruise for their anniversary.", "The cruise stops in five ports along the coast."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gemiyle gezmek; sabit hızla gitmek",
+        "def": "to travel by ship for pleasure, or to move at a steady comfortable speed",
+        "examples": ["We cruised around the Greek islands for a week.", "The plane was cruising at 35,000 feet."]
+      },
+      {
+        "pos": "verb",
+        "tr": "rahatça kazanmak, kolayca geçmek",
+        "def": "to win or succeed easily",
+        "examples": ["The home team cruised to a 5-0 victory."]
+      }
+    ],
+    "collocations": ["go on a cruise", "cruise ship", "cruise control", "cruising speed", "cruise to victory"],
+    "synonyms": ["voyage", "sail", "glide", "coast"],
+    "family": [{ "word": "cruiser", "pos": "noun" }]
+  },
+  {
+    "word": "crush",
+    "ipa": "/krʌʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ezmek, sıkıştırmak, ezip ufalamak",
+        "def": "to press something so hard that it breaks or loses its shape",
+        "examples": ["Crush two cloves of garlic and add them to the pan.", "His car was crushed by a falling tree."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bastırmak, ezmek, darmadağın etmek",
+        "def": "to defeat someone or something completely, often using force",
+        "examples": ["The army crushed the rebellion within days.", "We crushed them 42 to 7."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(moral) yıkmak, çok üzmek",
+        "def": "to make someone feel extremely sad or disappointed",
+        "examples": ["She was crushed when she didn't get the part."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(birine) platonik aşk, hoşlanma",
+        "def": "a strong but usually short-lived romantic feeling for someone",
+        "examples": ["I had a huge crush on my English teacher in eighth grade."]
+      }
+    ],
+    "collocations": ["crush garlic", "crush a rebellion", "crush the opposition", "have a crush on", "crushing defeat", "crushed ice"],
+    "synonyms": ["squash", "smash", "defeat", "devastate"],
+    "family": [
+      { "word": "crushing", "pos": "adjective" },
+      { "word": "crusher", "pos": "noun" }
+    ],
+    "note": "\"Have a crush on someone\" is very common, informal, and not serious love."
+  },
+  {
+    "word": "cry",
+    "ipa": "/kraɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ağlamak",
+        "def": "to produce tears because you are sad, hurt, or very emotional",
+        "examples": ["The baby cried all night.", "She cried when she read her father's letter."]
+      },
+      {
+        "pos": "verb",
+        "tr": "bağırmak, haykırmak",
+        "def": "to shout something loudly",
+        "examples": ["\"Watch out!\" she cried, as the car came toward us."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çığlık, haykırış, bağırış",
+        "def": "a loud sound expressing a strong feeling, or a shout",
+        "examples": ["We heard a cry for help from the river.", "The crowd let out a cry of joy."]
+      }
+    ],
+    "collocations": ["cry for help", "burst out crying", "cry yourself to sleep", "a far cry from", "cry out", "have a good cry"],
+    "synonyms": ["weep", "sob", "shout", "yell", "scream"],
+    "family": [{ "word": "crying", "pos": "adjective" }],
+    "note": "\"A far cry from\" = very different from. \"Crying shame\" = a very sad or unfair situation."
+  },
+  {
+    "word": "crystal",
+    "ipa": "/ˈkrɪstl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kristal",
+        "def": "a small solid piece of a substance with regular sides, formed naturally",
+        "examples": ["Salt crystals formed on the rocks as the seawater dried.", "Snowflakes are made of tiny ice crystals."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kristal (cam)",
+        "def": "high-quality clear glass used for fine glasses and decorations",
+        "examples": ["They received a set of crystal wine glasses as a wedding gift."]
+      }
+    ],
+    "collocations": ["ice crystals", "salt crystals", "crystal glass", "crystal clear", "crystal ball"],
+    "synonyms": ["gem", "glass"],
+    "family": [
+      { "word": "crystallize", "pos": "verb" },
+      { "word": "crystalline", "pos": "adjective" }
+    ],
+    "note": "\"Crystal clear\" = completely clear or easy to understand: \"Let me make this crystal clear.\""
+  },
+  {
+    "word": "cue",
+    "ipa": "/kjuː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "işaret, sinyal",
+        "def": "an action or event that signals someone to do something",
+        "examples": ["When the music stops, that's your cue to walk on stage.", "She took her cue from the host and started eating."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bilardo) isteka",
+        "def": "a long stick used to hit the ball in pool or billiards",
+        "examples": ["He chalked the end of his cue before taking the shot."]
+      }
+    ],
+    "collocations": ["on cue", "right on cue", "take your cue from", "visual cues", "social cues", "miss your cue"],
+    "synonyms": ["signal", "sign", "prompt", "hint"],
+    "family": [],
+    "note": "\"Right on cue\" = at exactly the expected moment. Don't confuse with British \"queue\" (line), which sounds the same."
+  },
+  {
+    "word": "cult",
+    "ipa": "/kʌlt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tarikat, mezhep (marjinal dinî grup)",
+        "def": "a small religious group with extreme beliefs, often controlled by one leader",
+        "examples": ["Her parents spent years trying to get her out of the cult."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kült, tapınırcasına bağlılık",
+        "def": "a way of life, idea, or person that has become extremely popular",
+        "examples": ["Some critics complain about the cult of celebrity on social media."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kült, belli bir kesimin tapındığı",
+        "def": "very popular with a particular group of fans",
+        "examples": ["The movie flopped at first but later became a cult classic.", "The band has a cult following in Japan."]
+      }
+    ],
+    "collocations": ["cult classic", "cult following", "cult film", "cult leader", "cult of personality", "religious cult"],
+    "synonyms": ["sect", "craze", "obsession"],
+    "family": [{ "word": "cultish", "pos": "adjective" }]
+  },
+  {
+    "word": "cultivate",
+    "ipa": "/ˈkʌltɪveɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(toprak) işlemek, ekip biçmek, yetiştirmek",
+        "def": "to prepare land and grow crops on it",
+        "examples": ["Farmers here have cultivated rice for centuries.", "Only a small part of the land is suitable for cultivating."]
+      },
+      {
+        "pos": "verb",
+        "tr": "geliştirmek, kazanmak, beslemek",
+        "def": "to try to develop a quality, skill, or relationship",
+        "examples": ["She has cultivated an image as a tough negotiator.", "It's worth cultivating good relationships with your clients."]
+      }
+    ],
+    "collocations": ["cultivate land", "cultivate crops", "cultivate a relationship", "cultivate an image", "cultivate a habit"],
+    "synonyms": ["farm", "grow", "develop", "foster", "nurture"],
+    "family": [
+      { "word": "cultivation", "pos": "noun" },
+      { "word": "cultivated", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "cultural",
+    "ipa": "/ˈkʌltʃərəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kültürel",
+        "def": "connected with the customs, beliefs, and way of life of a society",
+        "examples": ["Moving abroad can be a big cultural shock.", "The city has a rich cultural heritage."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "kültürel, sanatsal",
+        "def": "connected with art, music, theater, and literature",
+        "examples": ["The festival is the biggest cultural event of the year."]
+      }
+    ],
+    "collocations": ["cultural differences", "cultural heritage", "cultural identity", "cultural diversity", "cultural events", "cross-cultural"],
+    "synonyms": ["ethnic", "social", "artistic"],
+    "family": [
+      { "word": "culture", "pos": "noun" },
+      { "word": "culturally", "pos": "adverb" },
+      { "word": "multicultural", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "culture",
+    "ipa": "/ˈkʌltʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kültür",
+        "def": "the customs, beliefs, art, and way of life of a particular society or group",
+        "examples": ["Food is an important part of Turkish culture.", "Children of immigrants often grow up between two cultures."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kurum, şirket) kültür, anlayış",
+        "def": "the attitudes and behavior typical of an organization or group",
+        "examples": ["The company has a culture of working late every night."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sanat ve kültür etkinlikleri",
+        "def": "art, music, literature, and similar activities",
+        "examples": ["Paris is full of culture: museums, theaters, and galleries."]
+      }
+    ],
+    "collocations": ["popular culture", "corporate culture", "culture shock", "different cultures", "youth culture", "work culture"],
+    "synonyms": ["civilization", "society", "customs", "traditions", "the arts"],
+    "family": [
+      { "word": "cultural", "pos": "adjective" },
+      { "word": "cultured", "pos": "adjective" },
+      { "word": "subculture", "pos": "noun" }
+    ],
+    "note": "In Turkish, \"kültürlü\" (educated) is closer to \"cultured\" or \"well-read\" in English."
+  },
+  {
+    "word": "cup",
+    "ipa": "/kʌp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "fincan, bardak, kupa",
+        "def": "a small container with a handle used for drinking, or the amount it holds",
+        "examples": ["Would you like a cup of coffee?", "Add one cup of flour to the mixture."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kupa",
+        "def": "a large metal cup given as a prize, or the competition for it",
+        "examples": ["Brazil has won the World Cup five times."]
+      }
+    ],
+    "collocations": ["a cup of tea", "coffee cup", "paper cup", "World Cup", "measuring cup", "not my cup of tea"],
+    "synonyms": ["mug", "trophy"],
+    "family": [
+      { "word": "cupful", "pos": "noun" },
+      { "word": "cupboard", "pos": "noun" }
+    ],
+    "note": "\"Not my cup of tea\" = not something I like. In US recipes, a \"cup\" is a standard measure (about 240 ml)."
+  }
+]

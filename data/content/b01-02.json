@@ -1,0 +1,1252 @@
+[
+  {
+    "word": "acid",
+    "ipa": "/ˈæsɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "asit",
+        "def": "a chemical substance, usually a liquid, with a pH below seven that can burn or damage things",
+        "examples": ["Stomach acid helps break down the food we eat.", "Wear gloves when handling the acid in the lab."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "asitli, asidik, ekşi",
+        "def": "containing acid or having its qualities; also, sour in taste",
+        "examples": ["Acid rain has damaged forests across the region.", "Blueberries grow best in acid soil."]
+      }
+    ],
+    "collocations": ["acid rain", "stomach acid", "amino acid", "acid test", "folic acid", "acid reflux"],
+    "synonyms": ["acidic", "sour", "tart"],
+    "family": [
+      { "word": "acidic", "pos": "adjective" },
+      { "word": "acidity", "pos": "noun" }
+    ],
+    "note": "\"The acid test\" means a decisive test that shows whether something is really good or true."
+  },
+  {
+    "word": "acknowledge",
+    "ipa": "/əkˈnɑːlɪdʒ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kabul etmek, itiraf etmek",
+        "def": "to accept or admit that something is true or exists",
+        "examples": ["The company acknowledged that mistakes had been made.", "He refused to acknowledge the problem."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(alındığını) bildirmek, teyit etmek",
+        "def": "to tell someone that you have received their letter, message or gift",
+        "examples": ["Please acknowledge receipt of this email."]
+      },
+      {
+        "pos": "verb",
+        "tr": "selamlamak, fark ettiğini göstermek; takdir etmek",
+        "def": "to show that you have noticed someone, or to publicly recognize their work",
+        "examples": ["She walked past without even acknowledging me.", "The author acknowledges the help of her research team."]
+      }
+    ],
+    "collocations": ["acknowledge the fact that", "widely acknowledged", "acknowledge receipt", "acknowledge a mistake", "publicly acknowledge"],
+    "synonyms": ["admit", "accept", "recognize", "concede", "confirm"],
+    "family": [
+      { "word": "acknowledgment", "pos": "noun" },
+      { "word": "acknowledged", "pos": "adjective" },
+      { "word": "unacknowledged", "pos": "adjective" }
+    ],
+    "note": "American spelling: acknowledgment (British often: acknowledgement)."
+  },
+  {
+    "word": "acquire",
+    "ipa": "/əˈkwaɪər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "edinmek, kazanmak (bilgi, beceri)",
+        "def": "to gain knowledge, a skill or a quality through your own effort or experience",
+        "examples": ["Children acquire language remarkably quickly.", "She acquired a reputation for being tough but fair."]
+      },
+      {
+        "pos": "verb",
+        "tr": "satın almak, elde etmek",
+        "def": "to buy or get something, especially a company or property",
+        "examples": ["The tech giant acquired the startup for $2 billion.", "The museum recently acquired a rare painting."]
+      }
+    ],
+    "collocations": ["acquire skills", "acquire knowledge", "acquire a company", "acquire a taste for", "newly acquired", "acquire a reputation"],
+    "synonyms": ["obtain", "gain", "get", "purchase", "buy"],
+    "family": [
+      { "word": "acquisition", "pos": "noun" },
+      { "word": "acquired", "pos": "adjective" },
+      { "word": "acquisitive", "pos": "adjective" }
+    ],
+    "note": "More formal than \"get\". \"An acquired taste\" is something you learn to like slowly."
+  },
+  {
+    "word": "acquisition",
+    "ipa": "/ˌækwɪˈzɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "edinme, kazanım",
+        "def": "the process of getting something, especially knowledge or a skill",
+        "examples": ["Her research focuses on second language acquisition.", "The acquisition of new skills is essential in today's job market."]
+      },
+      {
+        "pos": "noun",
+        "tr": "satın alma, devralma; yeni edinilen şey",
+        "def": "the act of buying a company or property, or something that has been bought",
+        "examples": ["The merger was the largest acquisition in the company's history.", "The painting is the gallery's newest acquisition."]
+      }
+    ],
+    "collocations": ["language acquisition", "mergers and acquisitions", "land acquisition", "recent acquisition", "data acquisition"],
+    "synonyms": ["purchase", "takeover", "buyout", "attainment"],
+    "family": [
+      { "word": "acquire", "pos": "verb" },
+      { "word": "acquisitive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "acre",
+    "ipa": "/ˈeɪkər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "akre, dönüm (yaklaşık 4 dönüm)",
+        "def": "a unit for measuring land, equal to about 4,050 square meters",
+        "examples": ["They bought a farm with 200 acres of land.", "The fire destroyed thousands of acres of forest."]
+      }
+    ],
+    "collocations": ["acres of land", "a ten-acre farm", "thousands of acres", "per acre"],
+    "synonyms": [],
+    "family": [{ "word": "acreage", "pos": "noun" }],
+    "note": "One acre is about 0.4 hectares, roughly four Turkish dönüm."
+  },
+  {
+    "word": "across",
+    "ipa": "/əˈkrɔːs/",
+    "senses": [
+      {
+        "pos": "preposition",
+        "tr": "karşıya, bir yandan öbür yana",
+        "def": "from one side of something to the other",
+        "examples": ["We walked across the bridge to the old town.", "She swam across the lake in under an hour."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "karşısında, karşı tarafında",
+        "def": "on the other side of something",
+        "examples": ["There's a coffee shop across the street from my office."]
+      },
+      {
+        "pos": "preposition",
+        "tr": "her yerinde, genelinde",
+        "def": "in every part of a place or group",
+        "examples": ["The storm caused power outages across the state.", "The policy is popular across all age groups."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "karşıya, karşı tarafa; genişliğinde",
+        "def": "from one side to the other, or measuring from one side to the other",
+        "examples": ["The river is too wide to swim across.", "The crater is about two miles across."]
+      }
+    ],
+    "collocations": ["across the street", "across the country", "across the world", "come across", "run across", "across the board"],
+    "synonyms": ["over", "throughout", "opposite"],
+    "family": [],
+    "note": "\"Come across\" = rastlamak, bulmak. \"Across the board\" = affecting everyone or everything."
+  },
+  {
+    "word": "act",
+    "ipa": "/ækt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eylem, hareket, davranış",
+        "def": "a particular thing that someone does",
+        "examples": ["Holding the door for her was a simple act of kindness.", "The bombing was condemned as an act of terrorism."]
+      },
+      {
+        "pos": "noun",
+        "tr": "yasa, kanun; (oyun) perde; numara, rol",
+        "def": "a law passed by a government; one main part of a play; or a pretended way of behaving",
+        "examples": ["Congress passed the Clean Air Act in 1970.", "Don't believe her tears; it's all an act."]
+      },
+      {
+        "pos": "verb",
+        "tr": "harekete geçmek, davranmak",
+        "def": "to do something to deal with a situation, or to behave in a particular way",
+        "examples": ["We need to act quickly before the problem gets worse.", "He's been acting strangely all week."]
+      },
+      {
+        "pos": "verb",
+        "tr": "oynamak, rol yapmak",
+        "def": "to perform a role in a play, movie or TV show",
+        "examples": ["She has been acting since she was a child."]
+      }
+    ],
+    "collocations": ["act of kindness", "act of violence", "act quickly", "act as", "catch someone in the act", "get your act together"],
+    "synonyms": ["action", "deed", "law", "behave", "perform"],
+    "family": [
+      { "word": "action", "pos": "noun" },
+      { "word": "actor", "pos": "noun" },
+      { "word": "active", "pos": "adjective" },
+      { "word": "acting", "pos": "noun" }
+    ],
+    "note": "\"Act as\" = to do the job of: \"She acted as interpreter.\" \"Get your act together\" (informal) = organize yourself."
+  },
+  {
+    "word": "action",
+    "ipa": "/ˈækʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eylem, harekete geçme, önlem",
+        "def": "the process of doing something to achieve a goal or deal with a problem",
+        "examples": ["The government must take action to reduce pollution.", "It's time to stop talking and put the plan into action."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hareket, davranış, yapılan şey",
+        "def": "a thing that someone does",
+        "examples": ["You must take responsibility for your actions.", "Her quick action saved the child's life."]
+      },
+      {
+        "pos": "noun",
+        "tr": "aksiyon, heyecanlı olaylar",
+        "def": "exciting events, especially in movies, or the main activity in a place",
+        "examples": ["I love action movies with lots of car chases.", "Times Square is where all the action is on New Year's Eve."]
+      }
+    ],
+    "collocations": ["take action", "action plan", "in action", "out of action", "course of action", "legal action"],
+    "synonyms": ["act", "deed", "measure", "step", "activity"],
+    "family": [
+      { "word": "act", "pos": "verb" },
+      { "word": "actionable", "pos": "adjective" },
+      { "word": "inaction", "pos": "noun" }
+    ],
+    "note": "Say \"take action\", not \"make action\"."
+  },
+  {
+    "word": "activate",
+    "ipa": "/ˈæktɪveɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "etkinleştirmek, çalıştırmak, aktive etmek",
+        "def": "to make a device, system or process start working",
+        "examples": ["You need to activate your new credit card before using it.", "Smoke from the toaster activated the fire alarm."]
+      }
+    ],
+    "collocations": ["activate an account", "activate a card", "activate the alarm", "voice-activated", "be activated by"],
+    "synonyms": ["turn on", "switch on", "trigger", "set off", "start"],
+    "family": [
+      { "word": "activation", "pos": "noun" },
+      { "word": "active", "pos": "adjective" },
+      { "word": "deactivate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "activation",
+    "ipa": "/ˌæktɪˈveɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "etkinleştirme, aktivasyon",
+        "def": "the act of making a device, system or chemical process start working",
+        "examples": ["Account activation can take up to 24 hours.", "The study measured brain activation during memory tasks."]
+      }
+    ],
+    "collocations": ["activation code", "account activation", "immune activation", "brain activation", "activation fee"],
+    "synonyms": ["triggering", "start-up", "initiation"],
+    "family": [
+      { "word": "activate", "pos": "verb" },
+      { "word": "deactivation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "active",
+    "ipa": "/ˈæktɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "aktif, hareketli, faal",
+        "def": "always busy doing things, especially physical activities",
+        "examples": ["My grandmother is still very active at 85.", "Staying active helps you sleep better."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "etkin, aktif rol alan",
+        "def": "taking part in something and doing things to make it happen",
+        "examples": ["She has been an active member of the club for years.", "Parents should take an active role in their children's education."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "faal, çalışır durumda",
+        "def": "operating or working now",
+        "examples": ["Scientists are monitoring the active volcano closely."]
+      }
+    ],
+    "collocations": ["physically active", "active role", "take an active part", "active member", "active volcano", "politically active"],
+    "synonyms": ["energetic", "busy", "lively", "involved", "operating"],
+    "family": [
+      { "word": "activity", "pos": "noun" },
+      { "word": "actively", "pos": "adverb" },
+      { "word": "activate", "pos": "verb" },
+      { "word": "inactive", "pos": "adjective" },
+      { "word": "activist", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "activist",
+    "ipa": "/ˈæktɪvɪst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "aktivist, eylemci",
+        "def": "a person who works to bring about political or social change",
+        "examples": ["Climate activists gathered outside city hall.", "She has been a civil rights activist for over thirty years."]
+      }
+    ],
+    "collocations": ["political activist", "human rights activist", "environmental activist", "civil rights activist", "student activist"],
+    "synonyms": ["campaigner", "advocate", "protester", "militant"],
+    "family": [
+      { "word": "activism", "pos": "noun" },
+      { "word": "active", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "activity",
+    "ipa": "/ækˈtɪvəti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "etkinlik, faaliyet",
+        "def": "something you do for interest, pleasure or to achieve a goal",
+        "examples": ["The camp offers activities like hiking, swimming and canoeing.", "Reading is my favorite weekend activity."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hareketlilik, faaliyet",
+        "def": "a situation in which a lot is happening or people are busy doing things",
+        "examples": ["There was a lot of activity in the kitchen before dinner.", "Police noticed suspicious activity near the bank."]
+      }
+    ],
+    "collocations": ["physical activity", "outdoor activities", "criminal activity", "economic activity", "leisure activities", "suspicious activity"],
+    "synonyms": ["pursuit", "hobby", "pastime", "action", "movement"],
+    "family": [
+      { "word": "active", "pos": "adjective" },
+      { "word": "actively", "pos": "adverb" },
+      { "word": "inactivity", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "actor",
+    "ipa": "/ˈæktər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "oyuncu, aktör",
+        "def": "a person who performs in plays, movies or TV shows",
+        "examples": ["He became a famous actor after starring in a hit TV series.", "Several actors auditioned for the role."]
+      },
+      {
+        "pos": "noun",
+        "tr": "aktör, taraf, rol oynayan kişi/kurum",
+        "def": "a person, group or country that takes part in an event or process",
+        "examples": ["Banks were key actors in the financial crisis."]
+      }
+    ],
+    "collocations": ["a famous actor", "leading actor", "supporting actor", "voice actor", "key actor", "bad actor"],
+    "synonyms": ["performer", "player", "participant"],
+    "family": [
+      { "word": "act", "pos": "verb" },
+      { "word": "actress", "pos": "noun" },
+      { "word": "acting", "pos": "noun" }
+    ],
+    "note": "Today \"actor\" is often used for both men and women."
+  },
+  {
+    "word": "actress",
+    "ipa": "/ˈæktrəs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kadın oyuncu, aktris",
+        "def": "a woman who performs in plays, movies or TV shows",
+        "examples": ["She won an award for best actress last year.", "The young actress landed her first major role at sixteen."]
+      }
+    ],
+    "collocations": ["best actress", "leading actress", "supporting actress", "film actress", "award-winning actress"],
+    "synonyms": ["actor", "performer"],
+    "family": [
+      { "word": "actor", "pos": "noun" },
+      { "word": "act", "pos": "verb" }
+    ],
+    "note": "Many women in the profession now prefer to be called \"actor\"."
+  },
+  {
+    "word": "actual",
+    "ipa": "/ˈæktʃuəl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "gerçek, asıl",
+        "def": "real or existing in fact, often in contrast to what was expected or believed",
+        "examples": ["The actual cost of the project was twice the estimate.", "Is that an actual photo or was it edited?"]
+      }
+    ],
+    "collocations": ["actual cost", "in actual fact", "the actual number", "actual size", "the actual problem"],
+    "synonyms": ["real", "true", "genuine", "factual"],
+    "family": [
+      { "word": "actually", "pos": "adverb" },
+      { "word": "actuality", "pos": "noun" }
+    ],
+    "note": "False friend: \"actual\" does NOT mean \"current\" (güncel). Turkish \"aktüel\" = current / up-to-date."
+  },
+  {
+    "word": "actually",
+    "ipa": "/ˈæktʃuəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "aslında, gerçekte",
+        "def": "used to say what is really true, often when it is surprising or different",
+        "examples": ["He looks young, but he's actually over fifty.", "I didn't expect to like the movie, but I actually enjoyed it."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "aslında, açıkçası (konuşmada düzeltme veya kibar itiraz)",
+        "def": "used in speech to correct someone politely, add information or change the subject",
+        "examples": ["\"You're from Chicago, right?\" \"Actually, I'm from Detroit.\"", "Actually, could I ask you a quick favor?"]
+      }
+    ],
+    "collocations": ["actually happen", "what actually happened", "did you actually", "actually quite good"],
+    "synonyms": ["in fact", "really", "in reality", "as a matter of fact"],
+    "family": [{ "word": "actual", "pos": "adjective" }],
+    "note": "False friend: it does not mean \"currently\" (şu anda). Use \"currently\" or \"at the moment\" for that."
+  },
+  {
+    "word": "acute",
+    "ipa": "/əˈkjuːt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ciddi, şiddetli, had safhada",
+        "def": "(of a problem or bad situation) very serious or severe",
+        "examples": ["There is an acute shortage of nurses in rural hospitals.", "She felt an acute sense of embarrassment."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(hastalık) akut, ani başlayan",
+        "def": "(of an illness) coming quickly and being severe, but often for a short time",
+        "examples": ["He was rushed to the hospital with acute appendicitis."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "keskin, hassas (duyu, zekâ)",
+        "def": "(of the senses or the mind) very sharp and sensitive",
+        "examples": ["Dogs have an acute sense of smell."]
+      }
+    ],
+    "collocations": ["acute shortage", "acute pain", "acute awareness", "acute illness", "acute angle", "acutely aware"],
+    "synonyms": ["severe", "serious", "intense", "sharp", "keen"],
+    "family": [
+      { "word": "acutely", "pos": "adverb" },
+      { "word": "acuteness", "pos": "noun" }
+    ],
+    "note": "Medical opposite: chronic (long-lasting). An \"acute angle\" is less than 90 degrees (dar açı)."
+  },
+  {
+    "word": "ad",
+    "ipa": "/æd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "reklam, ilan",
+        "def": "an advertisement: a notice, picture or video that promotes a product, job or service",
+        "examples": ["I saw an ad for cheap flights to Mexico.", "The video was interrupted by three ads in a row."]
+      }
+    ],
+    "collocations": ["place an ad", "run an ad", "TV ad", "online ads", "job ad", "ad campaign"],
+    "synonyms": ["advertisement", "commercial", "promotion", "notice"],
+    "family": [
+      { "word": "advertise", "pos": "verb" },
+      { "word": "advertisement", "pos": "noun" },
+      { "word": "advertising", "pos": "noun" }
+    ],
+    "note": "Informal short form of \"advertisement\". British English also uses \"advert\"."
+  },
+  {
+    "word": "adapt",
+    "ipa": "/əˈdæpt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "uyum sağlamak, alışmak",
+        "def": "to change your behavior or ideas to deal with a new situation",
+        "examples": ["It took the kids a few months to adapt to their new school.", "Businesses must adapt quickly to changing markets."]
+      },
+      {
+        "pos": "verb",
+        "tr": "uyarlamak, uygun hale getirmek",
+        "def": "to change something so that it suits a new purpose, or to make a book into a movie or play",
+        "examples": ["The recipe can be adapted for people who don't eat meat.", "The novel was adapted for television last year."]
+      }
+    ],
+    "collocations": ["adapt to", "adapt quickly", "adapt to change", "adapted from", "adapt for the screen", "well adapted"],
+    "synonyms": ["adjust", "modify", "accommodate", "alter", "get used to"],
+    "family": [
+      { "word": "adaptation", "pos": "noun" },
+      { "word": "adaptable", "pos": "adjective" },
+      { "word": "adaptability", "pos": "noun" },
+      { "word": "adapter", "pos": "noun" }
+    ],
+    "note": "Don't confuse with \"adopt\" (to take as your own: evlat edinmek, benimsemek)."
+  },
+  {
+    "word": "adaptation",
+    "ipa": "/ˌædæpˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "uyum, uyum sağlama, adaptasyon",
+        "def": "the process of changing to suit a new situation or environment",
+        "examples": ["The animals show remarkable adaptation to desert life.", "Cities are planning for adaptation to rising sea levels."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uyarlama",
+        "def": "a movie, play or TV show that is based on a book or another work",
+        "examples": ["The film is a faithful adaptation of the novel."]
+      }
+    ],
+    "collocations": ["film adaptation", "screen adaptation", "climate adaptation", "adaptation to", "stage adaptation"],
+    "synonyms": ["adjustment", "modification", "version"],
+    "family": [
+      { "word": "adapt", "pos": "verb" },
+      { "word": "adaptive", "pos": "adjective" },
+      { "word": "adaptable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "add",
+    "ipa": "/æd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "eklemek, katmak",
+        "def": "to put something together with something else to increase the size, number or amount",
+        "examples": ["Add a pinch of salt to the boiling water.", "We're adding a new bedroom to the house."]
+      },
+      {
+        "pos": "verb",
+        "tr": "toplamak",
+        "def": "to put numbers together to find the total",
+        "examples": ["If you add 7 and 5, you get 12.", "Add up all your expenses for the month."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(söz) eklemek",
+        "def": "to say something more",
+        "examples": ["\"And don't be late,\" she added as I left."]
+      }
+    ],
+    "collocations": ["add to", "add up", "add salt", "add value", "add up to", "doesn't add up"],
+    "synonyms": ["include", "attach", "combine", "total", "sum up"],
+    "family": [
+      { "word": "addition", "pos": "noun" },
+      { "word": "additional", "pos": "adjective" },
+      { "word": "additive", "pos": "noun" }
+    ],
+    "note": "\"It doesn't add up\" (informal) = it doesn't make sense."
+  },
+  {
+    "word": "addiction",
+    "ipa": "/əˈdɪkʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bağımlılık",
+        "def": "the condition of being unable to stop using or doing something, especially something harmful",
+        "examples": ["He finally sought help for his drug addiction.", "Experts warn about smartphone addiction among teenagers."]
+      }
+    ],
+    "collocations": ["drug addiction", "alcohol addiction", "gambling addiction", "overcome an addiction", "struggle with addiction", "addiction to"],
+    "synonyms": ["dependence", "dependency", "habit", "compulsion"],
+    "family": [
+      { "word": "addict", "pos": "noun" },
+      { "word": "addicted", "pos": "adjective" },
+      { "word": "addictive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "addition",
+    "ipa": "/əˈdɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ek, ilave, yeni gelen",
+        "def": "a thing or person that is added to something else",
+        "examples": ["The new library is a great addition to the neighborhood.", "They're expecting a new addition to the family in May."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ekleme; toplama (matematik)",
+        "def": "the act of adding something, or the process of adding numbers together",
+        "examples": ["The kids are learning addition and subtraction.", "The addition of lemon juice gives the sauce a fresh taste."]
+      }
+    ],
+    "collocations": ["in addition", "in addition to", "a welcome addition", "a new addition", "the latest addition"],
+    "synonyms": ["supplement", "extra", "add-on", "inclusion"],
+    "family": [
+      { "word": "add", "pos": "verb" },
+      { "word": "additional", "pos": "adjective" },
+      { "word": "additionally", "pos": "adverb" }
+    ],
+    "note": "\"In addition\" (= also) starts a sentence; \"in addition to\" (= besides) is followed by a noun or -ing form."
+  },
+  {
+    "word": "additional",
+    "ipa": "/əˈdɪʃənl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ek, ilave, fazladan",
+        "def": "more than what was first mentioned or is usual",
+        "examples": ["There's an additional charge for checked bags.", "The project will require additional funding."]
+      }
+    ],
+    "collocations": ["additional cost", "additional information", "at no additional cost", "additional charge", "additional time"],
+    "synonyms": ["extra", "further", "added", "supplementary"],
+    "family": [
+      { "word": "add", "pos": "verb" },
+      { "word": "addition", "pos": "noun" },
+      { "word": "additionally", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "additionally",
+    "ipa": "/əˈdɪʃənəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "ayrıca, buna ek olarak",
+        "def": "used to introduce an extra fact or point",
+        "examples": ["The hotel is close to the beach. Additionally, it offers free parking.", "Additionally, all employees will receive a small bonus."]
+      }
+    ],
+    "collocations": ["additionally, ...", "additionally required", "additionally offer"],
+    "synonyms": ["also", "furthermore", "moreover", "in addition", "besides"],
+    "family": [
+      { "word": "additional", "pos": "adjective" },
+      { "word": "addition", "pos": "noun" }
+    ],
+    "note": "Fairly formal; in conversation, \"also\" or \"plus\" is more natural."
+  },
+  {
+    "word": "address",
+    "ipa": "/əˈdres/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "adres",
+        "def": "details of where someone lives or works, or where email or a website can be found",
+        "examples": ["Please write your name and address on the form.", "What's your email address?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "(sorun) ele almak, çözmeye çalışmak",
+        "def": "to think about a problem and start dealing with it",
+        "examples": ["The city needs to address the shortage of affordable housing.", "The report fails to address the main issue."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hitap etmek, konuşma yapmak",
+        "def": "to speak to a person or group, especially formally",
+        "examples": ["The president addressed the nation on television last night."]
+      },
+      {
+        "pos": "noun",
+        "tr": "konuşma, söylev",
+        "def": "a formal speech given to an audience",
+        "examples": ["She gave the commencement address at the university."]
+      }
+    ],
+    "collocations": ["email address", "home address", "address a problem", "address an issue", "address the nation", "keynote address"],
+    "synonyms": ["deal with", "tackle", "handle", "speech", "speak to"],
+    "family": [{ "word": "addressee", "pos": "noun" }],
+    "note": "In American English the noun is often stressed /ˈædres/. \"Address\" an issue is very common in news and work English."
+  },
+  {
+    "word": "adequate",
+    "ipa": "/ˈædɪkwət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yeterli, uygun",
+        "def": "enough in amount or good enough in quality for a particular need",
+        "examples": ["Many families don't have adequate health insurance.", "Make sure you get adequate sleep before the exam."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "idare eder, vasat",
+        "def": "acceptable but not very good",
+        "examples": ["The food was adequate, but nothing special."]
+      }
+    ],
+    "collocations": ["adequate supply", "adequate resources", "adequate protection", "more than adequate", "adequate for"],
+    "synonyms": ["sufficient", "enough", "satisfactory", "acceptable", "decent"],
+    "family": [
+      { "word": "adequately", "pos": "adverb" },
+      { "word": "adequacy", "pos": "noun" },
+      { "word": "inadequate", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "adequately",
+    "ipa": "/ˈædɪkwətli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "yeterince, yeterli şekilde",
+        "def": "in a way that is enough or good enough for a particular need",
+        "examples": ["Many schools are not adequately funded.", "Make sure the room is adequately ventilated while painting."]
+      }
+    ],
+    "collocations": ["adequately funded", "adequately prepared", "adequately protected", "adequately address", "adequately explain"],
+    "synonyms": ["sufficiently", "satisfactorily", "properly", "enough"],
+    "family": [
+      { "word": "adequate", "pos": "adjective" },
+      { "word": "inadequately", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "adhere",
+    "ipa": "/ədˈhɪr/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(adhere to) uymak, bağlı kalmak",
+        "def": "to follow a rule, law or belief exactly",
+        "examples": ["All staff must adhere to the safety guidelines.", "The company strictly adheres to environmental regulations."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yapışmak",
+        "def": "to stick firmly to a surface",
+        "examples": ["The label won't adhere to a wet surface."]
+      }
+    ],
+    "collocations": ["adhere to the rules", "strictly adhere to", "adhere to a policy", "adhere to principles", "adhere to a diet"],
+    "synonyms": ["follow", "comply with", "obey", "stick to", "abide by"],
+    "family": [
+      { "word": "adherence", "pos": "noun" },
+      { "word": "adherent", "pos": "noun" },
+      { "word": "adhesive", "pos": "noun" },
+      { "word": "adhesion", "pos": "noun" }
+    ],
+    "note": "Formal. Always followed by \"to\"."
+  },
+  {
+    "word": "adjacent",
+    "ipa": "/əˈdʒeɪsnt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "bitişik, komşu, yan yana",
+        "def": "next to or very near something else",
+        "examples": ["The hotel is adjacent to the convention center.", "We booked two adjacent rooms on the fifth floor."]
+      }
+    ],
+    "collocations": ["adjacent to", "adjacent room", "adjacent building", "adjacent land", "immediately adjacent"],
+    "synonyms": ["next to", "neighboring", "adjoining", "bordering", "nearby"],
+    "family": [{ "word": "adjacency", "pos": "noun" }],
+    "note": "Formal; in everyday speech \"next to\" is more common."
+  },
+  {
+    "word": "adjust",
+    "ipa": "/əˈdʒʌst/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ayarlamak, düzenlemek",
+        "def": "to change something slightly to make it fit, work better or suit new conditions",
+        "examples": ["You can adjust the height of the chair with this lever.", "Prices are adjusted for inflation every year."]
+      },
+      {
+        "pos": "verb",
+        "tr": "alışmak, uyum sağlamak",
+        "def": "to get used to a new situation by changing your behavior or ideas",
+        "examples": ["It took me weeks to adjust to the time difference.", "Kids usually adjust quickly to a new school."]
+      }
+    ],
+    "collocations": ["adjust to", "adjust the settings", "adjust for inflation", "seasonally adjusted", "adjust accordingly", "well-adjusted"],
+    "synonyms": ["adapt", "modify", "alter", "fine-tune", "get used to"],
+    "family": [
+      { "word": "adjustment", "pos": "noun" },
+      { "word": "adjustable", "pos": "adjective" },
+      { "word": "well-adjusted", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "adjustment",
+    "ipa": "/əˈdʒʌstmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ayar, düzenleme, ufak değişiklik",
+        "def": "a small change made to something to correct or improve it",
+        "examples": ["The mechanic made a few adjustments to the brakes.", "We'll need to make some adjustments to the budget."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uyum sağlama, alışma",
+        "def": "the process of getting used to a new situation",
+        "examples": ["Moving to a new country requires a big adjustment."]
+      }
+    ],
+    "collocations": ["make an adjustment", "minor adjustment", "period of adjustment", "price adjustment", "slight adjustment"],
+    "synonyms": ["change", "modification", "alteration", "adaptation"],
+    "family": [
+      { "word": "adjust", "pos": "verb" },
+      { "word": "adjustable", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "administer",
+    "ipa": "/ədˈmɪnɪstər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yönetmek, idare etmek",
+        "def": "to manage and organize the work of a company, organization or country",
+        "examples": ["The fund is administered by a small team of volunteers.", "Local governments administer most public schools."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ilaç, test) vermek, uygulamak",
+        "def": "to give someone medicine or treatment, or to organize a test",
+        "examples": ["The nurse administered the vaccine in his left arm.", "The exam is administered twice a year."]
+      }
+    ],
+    "collocations": ["administer a program", "administer a drug", "administer a test", "administer justice", "administer first aid"],
+    "synonyms": ["manage", "run", "direct", "give", "apply"],
+    "family": [
+      { "word": "administration", "pos": "noun" },
+      { "word": "administrative", "pos": "adjective" },
+      { "word": "administrator", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "administrate",
+    "ipa": "/ədˈmɪnɪstreɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "yönetmek, idare etmek",
+        "def": "to manage or organize the work of an organization or system",
+        "examples": ["She was hired to administrate the new scholarship program.", "The website is administrated by a small IT team."]
+      }
+    ],
+    "collocations": ["administrate a program", "administrate a system", "administrate a network"],
+    "synonyms": ["administer", "manage", "run", "oversee"],
+    "family": [
+      { "word": "administration", "pos": "noun" },
+      { "word": "administrator", "pos": "noun" },
+      { "word": "administrative", "pos": "adjective" }
+    ],
+    "note": "Less common than \"administer\", which most careful writers prefer."
+  },
+  {
+    "word": "administration",
+    "ipa": "/ədˌmɪnɪˈstreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yönetim, idare",
+        "def": "the activities involved in planning, organizing and running a business or institution",
+        "examples": ["She has a degree in business administration.", "Too much money is spent on administration and not enough on teaching."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hükümet, yönetim (başkanlık dönemi)",
+        "def": "the government of a country, especially the US president and officials during one period",
+        "examples": ["The new administration promised to lower taxes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(ilaç) verilmesi, uygulanması",
+        "def": "the act of giving medicine or treatment to someone",
+        "examples": ["The administration of the drug must be carefully monitored."]
+      }
+    ],
+    "collocations": ["business administration", "the current administration", "hospital administration", "school administration", "administration officials"],
+    "synonyms": ["management", "government", "leadership", "running"],
+    "family": [
+      { "word": "administer", "pos": "verb" },
+      { "word": "administrative", "pos": "adjective" },
+      { "word": "administrator", "pos": "noun" }
+    ],
+    "note": "In US news, \"the Administration\" often means the president's government."
+  },
+  {
+    "word": "administrative",
+    "ipa": "/ədˈmɪnɪstreɪtɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "idari, yönetimsel",
+        "def": "connected with organizing and managing the work of a business or institution",
+        "examples": ["She works as an administrative assistant at a law firm.", "The new system reduced administrative costs by 20%."]
+      }
+    ],
+    "collocations": ["administrative assistant", "administrative costs", "administrative staff", "administrative work", "administrative leave"],
+    "synonyms": ["managerial", "organizational", "executive", "clerical"],
+    "family": [
+      { "word": "administer", "pos": "verb" },
+      { "word": "administration", "pos": "noun" },
+      { "word": "administratively", "pos": "adverb" }
+    ],
+    "note": "\"Administrative leave\" = being sent home from work, usually with pay, during an investigation."
+  },
+  {
+    "word": "administrator",
+    "ipa": "/ədˈmɪnɪstreɪtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yönetici, idareci",
+        "def": "a person whose job is to manage and organize the affairs of a business or institution",
+        "examples": ["Hospital administrators are struggling to cut costs.", "School administrators met with parents to discuss safety."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(sistem) yönetici, admin",
+        "def": "a person who manages a computer system or network",
+        "examples": ["Contact your system administrator to reset your password."]
+      }
+    ],
+    "collocations": ["school administrator", "hospital administrator", "system administrator", "network administrator", "university administrators"],
+    "synonyms": ["manager", "director", "executive", "admin"],
+    "family": [
+      { "word": "administer", "pos": "verb" },
+      { "word": "administration", "pos": "noun" },
+      { "word": "administrative", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "admire",
+    "ipa": "/ədˈmaɪər/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "hayran olmak, takdir etmek, saygı duymak",
+        "def": "to respect someone for what they have done or for their qualities",
+        "examples": ["I really admire her courage and honesty.", "He was widely admired for his work with refugees."]
+      },
+      {
+        "pos": "verb",
+        "tr": "hayranlıkla seyretmek",
+        "def": "to look at something with pleasure because it is beautiful or impressive",
+        "examples": ["We stopped to admire the view from the top of the hill."]
+      }
+    ],
+    "collocations": ["admire someone for", "greatly admire", "widely admired", "admire the view", "much admired"],
+    "synonyms": ["respect", "look up to", "esteem", "appreciate"],
+    "family": [
+      { "word": "admiration", "pos": "noun" },
+      { "word": "admirer", "pos": "noun" },
+      { "word": "admirable", "pos": "adjective" },
+      { "word": "admiring", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "admission",
+    "ipa": "/ədˈmɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kabul (okul, hastane vb.), giriş hakkı",
+        "def": "the act of allowing someone to enter a school, hospital or organization",
+        "examples": ["She applied for admission to several law schools.", "Hospital admissions rose sharply during the flu season."]
+      },
+      {
+        "pos": "noun",
+        "tr": "giriş ücreti, giriş",
+        "def": "the money you pay to enter a place, or the right to enter",
+        "examples": ["Admission to the museum is free on Sundays."]
+      },
+      {
+        "pos": "noun",
+        "tr": "itiraf, kabul",
+        "def": "a statement admitting that something bad is true",
+        "examples": ["His resignation was seen as an admission of guilt."]
+      }
+    ],
+    "collocations": ["college admissions", "admission fee", "free admission", "gain admission", "admission of guilt", "by his own admission"],
+    "synonyms": ["entry", "entrance", "acceptance", "confession"],
+    "family": [
+      { "word": "admit", "pos": "verb" },
+      { "word": "admissible", "pos": "adjective" },
+      { "word": "admittance", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "admit",
+    "ipa": "/ədˈmɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "kabul etmek, itiraf etmek",
+        "def": "to agree, often unwillingly, that something is true or that you did something wrong",
+        "examples": ["I have to admit that the movie was better than I expected.", "He finally admitted stealing the money."]
+      },
+      {
+        "pos": "verb",
+        "tr": "içeri almak, kabul etmek (hastaneye, okula)",
+        "def": "to allow someone to enter a place, or to accept someone into a hospital or school",
+        "examples": ["She was admitted to the hospital with chest pains.", "Only ticket holders will be admitted."]
+      }
+    ],
+    "collocations": ["admit defeat", "admit a mistake", "admit to doing", "be admitted to the hospital", "freely admit", "reluctantly admit"],
+    "synonyms": ["confess", "acknowledge", "concede", "let in", "accept"],
+    "family": [
+      { "word": "admission", "pos": "noun" },
+      { "word": "admittedly", "pos": "adverb" },
+      { "word": "admittance", "pos": "noun" }
+    ],
+    "note": "Admit (to) doing something, not \"admit to do\". Past forms double the t: admitted, admitting."
+  },
+  {
+    "word": "adolescent",
+    "ipa": "/ˌædəˈlesnt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ergen, genç",
+        "def": "a young person who is developing from a child into an adult",
+        "examples": ["Adolescents need more sleep than many adults realize.", "The clinic specializes in treating adolescents with eating disorders."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ergenlik dönemine ait, ergen",
+        "def": "connected with the period between childhood and adulthood",
+        "examples": ["The study looks at adolescent brain development."]
+      }
+    ],
+    "collocations": ["adolescent boys", "adolescent girls", "adolescent behavior", "adolescent psychology", "children and adolescents"],
+    "synonyms": ["teenager", "teen", "youth", "young person"],
+    "family": [{ "word": "adolescence", "pos": "noun" }],
+    "note": "More formal and scientific than \"teenager\"."
+  },
+  {
+    "word": "adopt",
+    "ipa": "/əˈdɑːpt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "evlat edinmek, sahiplenmek",
+        "def": "to legally take another person's child into your family as your own",
+        "examples": ["They adopted a baby girl from Colombia.", "We adopted our cat from a local shelter."]
+      },
+      {
+        "pos": "verb",
+        "tr": "benimsemek, kabul etmek, uygulamaya koymak",
+        "def": "to start using a particular method, idea or attitude, or to formally approve a plan",
+        "examples": ["Many companies have adopted a four-day work week.", "The committee voted to adopt the new rules."]
+      }
+    ],
+    "collocations": ["adopt a child", "adopt a policy", "adopt an approach", "adopt a strategy", "widely adopted", "adopt a pet"],
+    "synonyms": ["take in", "embrace", "take on", "approve", "accept"],
+    "family": [
+      { "word": "adoption", "pos": "noun" },
+      { "word": "adopted", "pos": "adjective" },
+      { "word": "adoptive", "pos": "adjective" }
+    ],
+    "note": "Don't confuse with \"adapt\" (to change to fit). Adoptive parents adopt an adopted child."
+  },
+  {
+    "word": "adoption",
+    "ipa": "/əˈdɑːpʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "evlat edinme, sahiplenme",
+        "def": "the act of legally taking another person's child as your own",
+        "examples": ["The couple decided to put the baby up for adoption.", "The adoption process can take years."]
+      },
+      {
+        "pos": "noun",
+        "tr": "benimseme, kabul, uygulamaya geçme",
+        "def": "the decision to start using something, or the formal approval of a plan",
+        "examples": ["The adoption of electric cars has been faster than expected."]
+      }
+    ],
+    "collocations": ["put up for adoption", "adoption agency", "pet adoption", "widespread adoption", "adoption of a policy"],
+    "synonyms": ["acceptance", "approval", "embrace", "fostering"],
+    "family": [
+      { "word": "adopt", "pos": "verb" },
+      { "word": "adoptive", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "adult",
+    "ipa": "/əˈdʌlt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yetişkin",
+        "def": "a fully grown person who is legally responsible for their actions",
+        "examples": ["Tickets cost $15 for adults and $8 for children.", "Children must be accompanied by an adult."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yetişkin, erişkin, olgun",
+        "def": "fully grown or developed, or typical of a grown person",
+        "examples": ["An adult elephant can weigh over six tons.", "Let's discuss this in an adult way."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yetişkinlere yönelik, müstehcen",
+        "def": "intended only for adults, especially because of sexual content",
+        "examples": ["The channel shows adult content after midnight."]
+      }
+    ],
+    "collocations": ["young adult", "adult education", "adult life", "adult population", "adult content", "consenting adults"],
+    "synonyms": ["grown-up", "mature", "grown"],
+    "family": [{ "word": "adulthood", "pos": "noun" }],
+    "note": "Also pronounced /ˈædʌlt/ in American English."
+  },
+  {
+    "word": "advance",
+    "ipa": "/ədˈvæns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ilerleme, gelişme",
+        "def": "progress or a new development in science, technology or knowledge",
+        "examples": ["Recent advances in medicine have saved millions of lives.", "The book describes major advances in artificial intelligence."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ilerlemek, gelişmek; ilerletmek",
+        "def": "to develop or improve, or to move forward",
+        "examples": ["Technology has advanced rapidly over the last decade.", "The troops advanced toward the capital."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "önceden yapılan, peşin",
+        "def": "done or given before something happens",
+        "examples": ["We received advance warning of the storm.", "Advance tickets are cheaper than buying at the door."]
+      },
+      {
+        "pos": "noun",
+        "tr": "avans, ön ödeme",
+        "def": "money paid to someone before the usual time",
+        "examples": ["She asked her boss for an advance on her salary."]
+      }
+    ],
+    "collocations": ["in advance", "advances in technology", "advance notice", "advance booking", "advance warning", "advance a career"],
+    "synonyms": ["progress", "development", "move forward", "prior", "early"],
+    "family": [
+      { "word": "advanced", "pos": "adjective" },
+      { "word": "advancement", "pos": "noun" }
+    ],
+    "note": "\"In advance\" = önceden: \"Book your tickets in advance.\""
+  },
+  {
+    "word": "advanced",
+    "ipa": "/ədˈvænst/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "gelişmiş, ileri, son teknoloji",
+        "def": "using the most modern and recently developed ideas, methods or technology",
+        "examples": ["The hospital uses advanced imaging equipment.", "This phone has a very advanced camera."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "ileri düzey",
+        "def": "at a high or difficult level of study or skill",
+        "examples": ["She is taking an advanced course in French.", "The cancer was already at an advanced stage."]
+      }
+    ],
+    "collocations": ["advanced technology", "advanced level", "advanced degree", "advanced stage", "technologically advanced", "advanced age"],
+    "synonyms": ["sophisticated", "modern", "cutting-edge", "high-level"],
+    "family": [
+      { "word": "advance", "pos": "verb" },
+      { "word": "advancement", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "advantage",
+    "ipa": "/ədˈvæntɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "avantaj, üstünlük",
+        "def": "something that helps you be more successful than others",
+        "examples": ["Speaking Spanish is a big advantage in this job.", "The home team has a clear advantage."]
+      },
+      {
+        "pos": "noun",
+        "tr": "fayda, yarar, avantaj",
+        "def": "a good or useful feature of something",
+        "examples": ["One advantage of living downtown is that you don't need a car."]
+      }
+    ],
+    "collocations": ["take advantage of", "have an advantage over", "competitive advantage", "to your advantage", "advantages and disadvantages", "unfair advantage"],
+    "synonyms": ["benefit", "edge", "upper hand", "plus", "asset"],
+    "family": [
+      { "word": "advantageous", "pos": "adjective" },
+      { "word": "disadvantage", "pos": "noun" },
+      { "word": "disadvantaged", "pos": "adjective" }
+    ],
+    "note": "\"Take advantage of\" can be positive (use an opportunity) or negative (exploit someone unfairly)."
+  },
+  {
+    "word": "adventure",
+    "ipa": "/ədˈventʃər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "macera, serüven",
+        "def": "an unusual, exciting or sometimes dangerous experience or journey",
+        "examples": ["Backpacking through South America was the adventure of a lifetime.", "The kids love reading adventure stories."]
+      },
+      {
+        "pos": "noun",
+        "tr": "macera, heyecan",
+        "def": "excitement and the enjoyment of doing new or risky things",
+        "examples": ["She has a real sense of adventure."]
+      }
+    ],
+    "collocations": ["a sense of adventure", "adventure story", "an exciting adventure", "go on an adventure", "adventure sports"],
+    "synonyms": ["exploit", "escapade", "excitement", "experience"],
+    "family": [
+      { "word": "adventurous", "pos": "adjective" },
+      { "word": "adventurer", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "adverse",
+    "ipa": "/ədˈvɜːrs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "olumsuz, zararlı, ters",
+        "def": "negative, harmful or unfavorable",
+        "examples": ["The drug has few adverse side effects.", "Flights were delayed due to adverse weather conditions."]
+      }
+    ],
+    "collocations": ["adverse effect", "adverse impact", "adverse weather", "adverse reaction", "adverse conditions"],
+    "synonyms": ["negative", "harmful", "unfavorable", "detrimental"],
+    "family": [
+      { "word": "adversely", "pos": "adverb" },
+      { "word": "adversity", "pos": "noun" },
+      { "word": "adversary", "pos": "noun" }
+    ],
+    "note": "Formal. Don't confuse with \"averse\" (unwilling): \"not averse to risk\"."
+  }
+]

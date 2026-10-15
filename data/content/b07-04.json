@@ -1,0 +1,1184 @@
+[
+  {
+    "word": "ownership",
+    "ipa": "/ˈəʊnərʃɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sahiplik, mülkiyet",
+        "def": "the fact of owning something",
+        "examples": ["Home ownership has become harder for young people.", "The team changed ownership twice in five years."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sahiplenme, sorumluluk alma",
+        "def": "a feeling of responsibility for a task or project",
+        "examples": ["Good managers encourage employees to take ownership of their work."]
+      }
+    ],
+    "collocations": ["home ownership", "public ownership", "private ownership", "take ownership of", "change of ownership", "under new ownership"],
+    "synonyms": ["possession", "proprietorship", "title", "responsibility"],
+    "family": [
+      { "word": "own", "pos": "verb" },
+      { "word": "owner", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "oxygen",
+    "ipa": "/ˈɑːksɪdʒən/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "oksijen",
+        "def": "a gas in the air and water that people, animals and plants need to live",
+        "examples": ["The patient was given oxygen in the ambulance.", "Plants release oxygen into the air during the day."]
+      }
+    ],
+    "collocations": ["oxygen mask", "oxygen levels", "oxygen tank", "lack of oxygen", "oxygen supply"],
+    "synonyms": [],
+    "family": [{ "word": "oxygenate", "pos": "verb" }]
+  },
+  {
+    "word": "pace",
+    "ipa": "/peɪs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hız, tempo",
+        "def": "the speed at which someone walks or runs, or at which something happens",
+        "examples": ["She walked at a fast pace to catch the bus.", "The pace of change in technology is incredible."]
+      },
+      {
+        "pos": "noun",
+        "tr": "adım",
+        "def": "a single step, or the distance of one step",
+        "examples": ["He took two paces back from the edge."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(sinirle) bir aşağı bir yukarı yürümek, volta atmak",
+        "def": "to walk up and down a small area, especially because you are nervous",
+        "examples": ["He paced the hallway while waiting for the test results."]
+      }
+    ],
+    "collocations": ["at a steady pace", "keep pace with", "pick up the pace", "the pace of change", "at your own pace", "pace up and down"],
+    "synonyms": ["speed", "rate", "tempo", "step"],
+    "family": [],
+    "note": "\"Keep pace with\" = move or develop at the same speed as (ayak uydurmak)."
+  },
+  {
+    "word": "pack",
+    "ipa": "/pæk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(bavul) toplamak, hazırlamak",
+        "def": "to put clothes and other things into a bag or case for a trip",
+        "examples": ["Have you packed your suitcase yet?", "Don't forget to pack a warm jacket."]
+      },
+      {
+        "pos": "verb",
+        "tr": "doldurmak, tıklım tıklım doldurmak",
+        "def": "to fill a place with a lot of people or things",
+        "examples": ["Fans packed the stadium for the final game."]
+      },
+      {
+        "pos": "noun",
+        "tr": "paket; sürü",
+        "def": "a set of things wrapped together for sale, or a group of animals that hunt together",
+        "examples": ["She bought a six-pack of soda and a pack of gum.", "A pack of wolves was spotted near the town."]
+      }
+    ],
+    "collocations": ["pack a bag", "pack up", "packed with", "a pack of cards", "pack of wolves", "six-pack"],
+    "synonyms": ["fill", "load", "cram", "packet", "herd"],
+    "family": [
+      { "word": "package", "pos": "noun" },
+      { "word": "packed", "pos": "adjective" },
+      { "word": "packing", "pos": "noun" }
+    ],
+    "note": "\"Packed\" (adjective) = very crowded (tıklım tıklım)."
+  },
+  {
+    "word": "package",
+    "ipa": "/ˈpækɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "paket, koli",
+        "def": "something wrapped or put in a box so that it can be sent by mail or carried",
+        "examples": ["A package arrived for you this morning.", "The package was left on the front porch."]
+      },
+      {
+        "pos": "noun",
+        "tr": "paket (hizmet, önlem vb.)",
+        "def": "a set of things offered or agreed together as one unit",
+        "examples": ["The government announced a new economic aid package.", "We booked a vacation package that included flights and hotel."]
+      },
+      {
+        "pos": "verb",
+        "tr": "paketlemek, ambalajlamak",
+        "def": "to put something into a box or wrapping for sale or transport",
+        "examples": ["The cookies are packaged in recyclable boxes."]
+      }
+    ],
+    "collocations": ["deliver a package", "aid package", "benefits package", "package deal", "package holiday", "software package"],
+    "synonyms": ["parcel", "box", "bundle", "deal", "wrap"],
+    "family": [
+      { "word": "packaging", "pos": "noun" },
+      { "word": "pack", "pos": "verb" }
+    ],
+    "note": "In American English, package is the usual word for a parcel sent by mail."
+  },
+  {
+    "word": "packet",
+    "ipa": "/ˈpækɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "paket, poşet, küçük paket",
+        "def": "a small paper or plastic container for food or other goods",
+        "examples": ["Add a packet of sugar to your coffee.", "The seed packet says to plant them in spring."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(belge) dosya, paket",
+        "def": "a set of documents given to someone",
+        "examples": ["New students receive an information packet on the first day."]
+      }
+    ],
+    "collocations": ["a packet of sugar", "a ketchup packet", "an information packet", "a seed packet"],
+    "synonyms": ["pack", "sachet", "envelope"],
+    "family": [{ "word": "pack", "pos": "noun" }],
+    "note": "Americans say \"a pack of cigarettes\" or \"a bag of chips\" where British people say \"packet\"."
+  },
+  {
+    "word": "pad",
+    "ipa": "/pæd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ped, yastıkçık, koruyucu",
+        "def": "a thick piece of soft material used to protect something, clean something or absorb liquid",
+        "examples": ["Hockey players wear knee pads and shoulder pads.", "Clean the wound with a cotton pad."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bloknot, not defteri",
+        "def": "a number of sheets of paper fastened together at one edge",
+        "examples": ["She wrote the number down on a notepad by the phone."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gayriresmi) ev, daire",
+        "def": "(informal) the place where someone lives",
+        "examples": ["He invited us back to his pad for drinks."]
+      }
+    ],
+    "collocations": ["knee pads", "cotton pad", "a writing pad", "launch pad", "mouse pad", "heating pad"],
+    "synonyms": ["cushion", "notepad", "apartment"],
+    "family": [
+      { "word": "padded", "pos": "adjective" },
+      { "word": "padding", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "page",
+    "ipa": "/peɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "sayfa",
+        "def": "one side of a sheet of paper in a book or magazine, or a section of a website",
+        "examples": ["Please open your books to page 42.", "Check the company's Facebook page for updates."]
+      },
+      {
+        "pos": "verb",
+        "tr": "anonsla çağırmak",
+        "def": "to call someone using a speaker system or electronic device",
+        "examples": ["The hospital paged the surgeon on duty to come to the emergency room."]
+      }
+    ],
+    "collocations": ["front page", "turn the page", "web page", "on the same page", "home page", "a blank page"],
+    "synonyms": ["sheet", "leaf"],
+    "family": [],
+    "note": "\"Be on the same page\" (informal) = agree or understand something in the same way."
+  },
+  {
+    "word": "pain",
+    "ipa": "/peɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ağrı, acı",
+        "def": "the unpleasant feeling in your body when you are hurt or sick",
+        "examples": ["I've had a sharp pain in my back since yesterday.", "The medicine should help with the pain."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(duygusal) acı, ıstırap",
+        "def": "mental or emotional suffering",
+        "examples": ["Nothing can ease the pain of losing a child."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(gayriresmi) baş belası, can sıkıcı şey",
+        "def": "(informal) a person or thing that is annoying",
+        "examples": ["Filling out these tax forms is such a pain."]
+      }
+    ],
+    "collocations": ["chest pain", "back pain", "in pain", "ease the pain", "a pain in the neck", "take pains to"],
+    "synonyms": ["ache", "hurt", "suffering", "agony", "nuisance"],
+    "family": [
+      { "word": "painful", "pos": "adjective" },
+      { "word": "painless", "pos": "adjective" },
+      { "word": "painkiller", "pos": "noun" }
+    ],
+    "note": "\"Take pains to do something\" = make a big effort to do it carefully."
+  },
+  {
+    "word": "painful",
+    "ipa": "/ˈpeɪnfl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ağrılı, acı veren",
+        "def": "causing physical pain",
+        "examples": ["My ankle is still painful after the fall.", "The injection was quick but painful."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "acı, üzücü, zor",
+        "def": "causing emotional pain or difficulty",
+        "examples": ["Their divorce was a long and painful process.", "It was painful to watch the team lose so badly."]
+      }
+    ],
+    "collocations": ["a painful experience", "painful memories", "extremely painful", "painful decision", "painfully slow"],
+    "synonyms": ["sore", "aching", "hurtful", "distressing", "difficult"],
+    "family": [
+      { "word": "pain", "pos": "noun" },
+      { "word": "painfully", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "paint",
+    "ipa": "/peɪnt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "boya",
+        "def": "a colored liquid put on surfaces to decorate or protect them",
+        "examples": ["The walls need a fresh coat of paint.", "Careful, the paint is still wet."]
+      },
+      {
+        "pos": "verb",
+        "tr": "boyamak",
+        "def": "to cover a surface with paint",
+        "examples": ["We're painting the kitchen this weekend."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(resim) yapmak, boyamak",
+        "def": "to make a picture using paints",
+        "examples": ["She paints landscapes in her free time."]
+      }
+    ],
+    "collocations": ["a coat of paint", "wet paint", "paint a picture", "paint the walls", "oil paint"],
+    "synonyms": ["color", "coat", "decorate", "depict"],
+    "family": [
+      { "word": "painter", "pos": "noun" },
+      { "word": "painting", "pos": "noun" }
+    ],
+    "note": "\"Paint a picture of\" can also mean \"describe\": \"The report paints a grim picture of the economy.\""
+  },
+  {
+    "word": "painter",
+    "ipa": "/ˈpeɪntər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ressam",
+        "def": "an artist who paints pictures",
+        "examples": ["Van Gogh is one of the most famous painters in history.", "She's a talented painter who sells her work online."]
+      },
+      {
+        "pos": "noun",
+        "tr": "boyacı",
+        "def": "a person whose job is painting buildings, walls and rooms",
+        "examples": ["We hired a painter to do the outside of the house."]
+      }
+    ],
+    "collocations": ["a landscape painter", "a portrait painter", "house painter", "a famous painter"],
+    "synonyms": ["artist", "decorator"],
+    "family": [{ "word": "paint", "pos": "verb" }]
+  },
+  {
+    "word": "painting",
+    "ipa": "/ˈpeɪntɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tablo, resim",
+        "def": "a picture made with paint",
+        "examples": ["The museum owns several paintings by Monet.", "A large painting hung above the fireplace."]
+      },
+      {
+        "pos": "noun",
+        "tr": "resim yapma, ressamlık; boyama",
+        "def": "the activity or art of using paint",
+        "examples": ["She took up painting after she retired."]
+      }
+    ],
+    "collocations": ["oil painting", "a painting of", "abstract painting", "hang a painting", "cave paintings"],
+    "synonyms": ["picture", "artwork", "canvas"],
+    "family": [
+      { "word": "paint", "pos": "verb" },
+      { "word": "painter", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "pair",
+    "ipa": "/per/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çift",
+        "def": "two things of the same kind that are used together",
+        "examples": ["I need a new pair of running shoes.", "She lost one of her favorite pair of earrings."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(tek parça çift) bir ... (pantolon, makas vb.)",
+        "def": "an object made of two joined parts",
+        "examples": ["He bought two pairs of jeans and a pair of sunglasses."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ikili, çift (kişiler)",
+        "def": "two people who are together or doing something together",
+        "examples": ["Students will work in pairs for this exercise."]
+      }
+    ],
+    "collocations": ["a pair of shoes", "a pair of scissors", "in pairs", "work in pairs", "pair up"],
+    "synonyms": ["couple", "set of two", "duo"],
+    "family": [],
+    "note": "Trap: one pair of pants/glasses/scissors is a single object. Say \"a pair of jeans\", not \"a jean\"."
+  },
+  {
+    "word": "palace",
+    "ipa": "/ˈpæləs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "saray",
+        "def": "the official home of a king, queen or other ruler",
+        "examples": ["Tourists lined up to visit Topkapı Palace in Istanbul.", "The royal family lives in a huge palace."]
+      }
+    ],
+    "collocations": ["royal palace", "presidential palace", "Buckingham Palace", "palace gardens"],
+    "synonyms": ["castle", "mansion", "residence"],
+    "family": [{ "word": "palatial", "pos": "adjective" }]
+  },
+  {
+    "word": "pale",
+    "ipa": "/peɪl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "solgun, benzi atmış",
+        "def": "having skin that is lighter than usual because of illness, fear or shock",
+        "examples": ["You look pale. Are you feeling OK?", "She went pale when she heard the news."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "açık (renk), soluk",
+        "def": "light in color; not strong or bright",
+        "examples": ["He was wearing a pale blue shirt."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sönük kalmak, önemsiz görünmek",
+        "def": "to seem less important when compared with something else",
+        "examples": ["Our problems pale in comparison to theirs."]
+      }
+    ],
+    "collocations": ["turn pale", "go pale", "pale blue", "pale skin", "pale in comparison"],
+    "synonyms": ["white", "pallid", "light", "faint"],
+    "family": [{ "word": "paleness", "pos": "noun" }],
+    "note": "\"Pale in comparison (to/with)\" = seem much less important or impressive."
+  },
+  {
+    "word": "palm",
+    "ipa": "/pɑːm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "avuç içi",
+        "def": "the inside surface of your hand between the wrist and the fingers",
+        "examples": ["She held the tiny bird in the palm of her hand.", "My palms get sweaty when I'm nervous."]
+      },
+      {
+        "pos": "noun",
+        "tr": "palmiye",
+        "def": "a tall tropical tree with no branches and long leaves at the top",
+        "examples": ["The beach was lined with palm trees."]
+      }
+    ],
+    "collocations": ["palm tree", "the palm of your hand", "sweaty palms", "palm oil", "read someone's palm"],
+    "synonyms": [],
+    "family": [],
+    "note": "The l is silent in American English: /pɑːm/. \"Have someone in the palm of your hand\" = control them completely."
+  },
+  {
+    "word": "pan",
+    "ipa": "/pæn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tava, tencere",
+        "def": "a metal container with a handle, used for cooking food on a stove",
+        "examples": ["Heat some oil in a frying pan and add the onions.", "Grease the cake pan before you pour in the batter."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(gayriresmi) yerden yere vurmak, kötülemek",
+        "def": "(informal) to criticize something very strongly",
+        "examples": ["Critics panned the movie, but audiences loved it."]
+      }
+    ],
+    "collocations": ["frying pan", "pots and pans", "cake pan", "non-stick pan", "pan out"],
+    "synonyms": ["pot", "skillet", "criticize"],
+    "family": [],
+    "note": "\"Pan out\" (informal) = develop or turn out (\"Let's see how things pan out\")."
+  },
+  {
+    "word": "panel",
+    "ipa": "/ˈpænl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "panel, levha",
+        "def": "a flat, usually rectangular piece of wood, glass or metal that forms part of a surface",
+        "examples": ["They installed solar panels on the roof.", "The door has a glass panel at the top."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kurul, heyet, panel",
+        "def": "a group of people chosen to discuss something, give advice or make decisions",
+        "examples": ["A panel of experts will judge the competition.", "She spoke on a panel about women in business."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kontrol) paneli",
+        "def": "a flat board with controls or instruments on it",
+        "examples": ["The pilot checked the instrument panel."]
+      }
+    ],
+    "collocations": ["solar panel", "a panel of experts", "panel discussion", "control panel", "advisory panel", "sit on a panel"],
+    "synonyms": ["board", "sheet", "committee", "jury"],
+    "family": [{ "word": "panelist", "pos": "noun" }]
+  },
+  {
+    "word": "panic",
+    "ipa": "/ˈpænɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "panik, dehşet",
+        "def": "a sudden strong feeling of fear that stops you thinking clearly",
+        "examples": ["There was panic in the streets when the earthquake hit.", "She woke up in a panic, sure she had missed her flight."]
+      },
+      {
+        "pos": "verb",
+        "tr": "paniğe kapılmak, panik yapmak",
+        "def": "to suddenly feel so afraid that you cannot think clearly",
+        "examples": ["Don't panic; we still have plenty of time.", "He panicked when he realized his wallet was gone."]
+      }
+    ],
+    "collocations": ["in a panic", "panic attack", "cause panic", "don't panic", "panic buying", "a state of panic"],
+    "synonyms": ["fear", "alarm", "terror", "freak out"],
+    "family": [
+      { "word": "panicky", "pos": "adjective" },
+      { "word": "panic-stricken", "pos": "adjective" }
+    ],
+    "note": "Spelling: panicked, panicking (add k before -ed/-ing)."
+  },
+  {
+    "word": "pants",
+    "ipa": "/pænts/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pantolon",
+        "def": "a piece of clothing that covers the body from the waist to the ankles, with a part for each leg",
+        "examples": ["I spilled coffee on my new pants.", "He wore black pants and a white shirt to the interview."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(İngiliz) külot, don",
+        "def": "(British) underpants or women's underwear",
+        "examples": ["The little boy fell in a puddle and had to change his pants and socks."]
+      }
+    ],
+    "collocations": ["a pair of pants", "put on your pants", "sweat pants", "dress pants", "wear the pants"],
+    "synonyms": ["trousers", "slacks", "jeans"],
+    "family": [],
+    "note": "American pants = British trousers; British pants = American underwear. Always plural: \"These pants are too long.\""
+  },
+  {
+    "word": "paper",
+    "ipa": "/ˈpeɪpər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kâğıt",
+        "def": "the thin material used for writing, printing and wrapping",
+        "examples": ["Can you give me a piece of paper and a pen?", "The printer is out of paper."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gazete",
+        "def": "a newspaper",
+        "examples": ["Did you read the story in today's paper?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "makale, ödev, bildiri",
+        "def": "a piece of academic writing, or an essay written by a student",
+        "examples": ["I have to write a ten-page paper on the Civil War.", "She presented a paper at the conference."]
+      },
+      {
+        "pos": "noun",
+        "tr": "belgeler, evrak",
+        "def": "(plural) official documents",
+        "examples": ["The police officer asked to see his papers."]
+      }
+    ],
+    "collocations": ["a piece of paper", "a sheet of paper", "on paper", "write a paper", "paper towel", "the morning paper"],
+    "synonyms": ["newspaper", "essay", "article", "documents"],
+    "family": [{ "word": "paperwork", "pos": "noun" }],
+    "note": "Uncountable for the material (some paper, a piece of paper); countable for a newspaper or essay (a paper). \"On paper\" = in theory."
+  },
+  {
+    "word": "parade",
+    "ipa": "/pəˈreɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "geçit töreni, kortej",
+        "def": "a public celebration in which people, bands and decorated vehicles move through the streets",
+        "examples": ["Thousands of people watched the Fourth of July parade.", "The team celebrated their championship with a parade downtown."]
+      },
+      {
+        "pos": "verb",
+        "tr": "gösteriş yapmak, sergilemek; geçit yapmak",
+        "def": "to walk somewhere in a public way to be seen, or to show something off",
+        "examples": ["Models paraded down the runway in the new designs."]
+      }
+    ],
+    "collocations": ["a military parade", "a victory parade", "march in a parade", "a parade of", "rain on someone's parade"],
+    "synonyms": ["procession", "march", "show off", "display"],
+    "family": [],
+    "note": "\"Rain on someone's parade\" (informal) = spoil someone's happy moment."
+  },
+  {
+    "word": "paragraph",
+    "ipa": "/ˈpærəɡræf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "paragraf",
+        "def": "a section of a piece of writing, usually several sentences about one idea, starting on a new line",
+        "examples": ["Your essay should have at least five paragraphs.", "The key information is in the second paragraph of the contract."]
+      }
+    ],
+    "collocations": ["opening paragraph", "the first paragraph", "a short paragraph", "start a new paragraph", "final paragraph"],
+    "synonyms": ["section", "passage", "part"],
+    "family": [],
+    "note": "In formal writing, \"see paragraph 4\" is often written \"see para. 4\"."
+  },
+  {
+    "word": "parallel",
+    "ipa": "/ˈpærəlel/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "paralel",
+        "def": "(of lines) side by side and always the same distance apart",
+        "examples": ["The railroad runs parallel to the river.", "Draw two parallel lines across the page."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "benzer, eş zamanlı, paralel",
+        "def": "similar, or happening at the same time",
+        "examples": ["The two companies ran parallel investigations."]
+      },
+      {
+        "pos": "noun",
+        "tr": "benzerlik, paralellik",
+        "def": "a person, event or situation that is very similar to another",
+        "examples": ["Historians have drawn parallels between the two wars.", "This crisis has no parallel in modern history."]
+      }
+    ],
+    "collocations": ["parallel to", "run parallel", "draw a parallel", "without parallel", "in parallel", "parallel universe"],
+    "synonyms": ["side by side", "similar", "equivalent", "similarity", "comparison"],
+    "family": [{ "word": "unparalleled", "pos": "adjective" }],
+    "note": "Spelling: one r, double l, single l at the end. \"Unparalleled\" = better or greater than any other."
+  },
+  {
+    "word": "parameter",
+    "ipa": "/pəˈræmɪtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "parametre, sınır, ölçüt",
+        "def": "a fact or limit that decides how something can be done",
+        "examples": ["We need to work within the parameters of the budget.", "The committee set clear parameters for the research."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(matematik, bilgisayar) parametre",
+        "def": "a value in a calculation or program that can be changed",
+        "examples": ["You can adjust the parameters in the settings menu."]
+      }
+    ],
+    "collocations": ["within the parameters", "set parameters", "key parameters", "define the parameters"],
+    "synonyms": ["limit", "boundary", "guideline", "criterion", "variable"],
+    "family": [],
+    "note": "Usually plural and formal. Don't confuse with perimeter (the outer edge of an area)."
+  },
+  {
+    "word": "parent",
+    "ipa": "/ˈperənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ebeveyn, anne veya baba",
+        "def": "a person's mother or father",
+        "examples": ["My parents live in a small town in Oregon.", "Being a single parent is hard work."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ana şirket",
+        "def": "an organization that owns smaller companies",
+        "examples": ["The airline's parent company reported record profits."]
+      }
+    ],
+    "collocations": ["single parent", "working parents", "parent company", "foster parents", "first-time parents", "parents-in-law"],
+    "synonyms": ["mother", "father", "guardian"],
+    "family": [
+      { "word": "parental", "pos": "adjective" },
+      { "word": "parenting", "pos": "noun" },
+      { "word": "parenthood", "pos": "noun" }
+    ],
+    "note": "Trap: parents means mother and father only, not relatives in general (akraba = relatives)."
+  },
+  {
+    "word": "parental",
+    "ipa": "/pəˈrentl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ebeveynlere ait, ebeveyn",
+        "def": "connected with a parent or parents",
+        "examples": ["Children under 13 need parental permission to join the site.", "The phone has parental controls to block certain apps."]
+      }
+    ],
+    "collocations": ["parental consent", "parental leave", "parental guidance", "parental controls", "parental involvement"],
+    "synonyms": ["maternal", "paternal"],
+    "family": [{ "word": "parent", "pos": "noun" }],
+    "note": "Note the stress shift: PARent, paRENTal."
+  },
+  {
+    "word": "parish",
+    "ipa": "/ˈpærɪʃ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kilise bölgesi, cemaat, mahalle kilisesi",
+        "def": "an area with its own church and priest, or the people who live there",
+        "examples": ["The parish raised money to repair the church roof.", "She has been the parish priest for twenty years."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(Louisiana'da) ilçe",
+        "def": "in the US state of Louisiana, an area of local government, like a county",
+        "examples": ["Flooding hit several parishes in southern Louisiana."]
+      }
+    ],
+    "collocations": ["parish church", "parish priest", "local parish", "parish council"],
+    "synonyms": ["congregation", "community", "district"],
+    "family": [{ "word": "parishioner", "pos": "noun" }]
+  },
+  {
+    "word": "park",
+    "ipa": "/pɑːrk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "park",
+        "def": "a public area of grass and trees in a town where people walk, play and relax",
+        "examples": ["We took the kids to the park after lunch.", "Central Park is crowded on sunny weekends."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(milli) park, alan",
+        "def": "a large area of land kept for a special purpose, such as nature or business",
+        "examples": ["Yellowstone was the first national park in the US."]
+      },
+      {
+        "pos": "verb",
+        "tr": "park etmek",
+        "def": "to leave a vehicle in a place for a period of time",
+        "examples": ["You can't park here; it's a fire lane."]
+      }
+    ],
+    "collocations": ["national park", "theme park", "amusement park", "park the car", "car park", "industrial park"],
+    "synonyms": ["garden", "green", "reserve"],
+    "family": [{ "word": "parking", "pos": "noun" }],
+    "note": "\"Car park\" is British; Americans say \"parking lot\" or \"parking garage\"."
+  },
+  {
+    "word": "parking",
+    "ipa": "/ˈpɑːrkɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "park etme; park yeri",
+        "def": "the act of leaving a vehicle somewhere, or space where vehicles can be left",
+        "examples": ["Parking is free after 6 p.m.", "It's hard to find parking downtown on Saturdays."]
+      }
+    ],
+    "collocations": ["parking lot", "parking space", "parking ticket", "free parking", "parking garage", "no parking"],
+    "synonyms": [],
+    "family": [{ "word": "park", "pos": "verb" }],
+    "note": "Trap: in English, \"parking\" is not a place; say \"parking lot\" (otopark), not \"a parking\"."
+  },
+  {
+    "word": "parliament",
+    "ipa": "/ˈpɑːrləmənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "parlamento, meclis",
+        "def": "the group of elected people who make and change the laws of a country",
+        "examples": ["The new law was approved by parliament last week.", "She was elected to the Turkish parliament in 2018."]
+      }
+    ],
+    "collocations": ["member of parliament", "in parliament", "dissolve parliament", "the European Parliament", "pass through parliament"],
+    "synonyms": ["legislature", "assembly", "congress"],
+    "family": [
+      { "word": "parliamentary", "pos": "adjective" },
+      { "word": "parliamentarian", "pos": "noun" }
+    ],
+    "note": "Pronounced /ˈpɑːrləmənt/; the i is silent. The US equivalent is Congress."
+  },
+  {
+    "word": "parliamentary",
+    "ipa": "/ˌpɑːrləˈmentri/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "parlamenter, meclise ait",
+        "def": "connected with a parliament, or having a parliament",
+        "examples": ["Parliamentary elections will be held in the spring.", "The country has a parliamentary system of government."]
+      }
+    ],
+    "collocations": ["parliamentary elections", "parliamentary democracy", "parliamentary system", "parliamentary majority", "parliamentary debate"],
+    "synonyms": ["legislative", "congressional"],
+    "family": [{ "word": "parliament", "pos": "noun" }]
+  },
+  {
+    "word": "part",
+    "ipa": "/pɑːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kısım, bölüm, parça",
+        "def": "some but not all of something, or a piece of a larger whole",
+        "examples": ["The first part of the movie was boring.", "We need to replace a broken part in the washing machine."]
+      },
+      {
+        "pos": "noun",
+        "tr": "rol, pay",
+        "def": "a role in a play or film, or someone's share in an activity",
+        "examples": ["She got the main part in the school play.", "Everyone played a part in the team's success."]
+      },
+      {
+        "pos": "verb",
+        "tr": "ayrılmak, ayırmak",
+        "def": "to separate, or to leave someone",
+        "examples": ["They parted as friends after the divorce."]
+      }
+    ],
+    "collocations": ["take part in", "play a part", "part of", "for the most part", "spare parts", "in part"],
+    "synonyms": ["piece", "section", "portion", "role", "share"],
+    "family": [
+      { "word": "partly", "pos": "adverb" },
+      { "word": "partial", "pos": "adjective" },
+      { "word": "particle", "pos": "noun" }
+    ],
+    "note": "\"Take part in\" = participate (katılmak). \"For the most part\" = mostly. \"Part with something\" = give it away unwillingly."
+  },
+  {
+    "word": "part-time",
+    "ipa": "/ˌpɑːrt ˈtaɪm/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yarı zamanlı, part-time",
+        "def": "for only part of the normal working day or week",
+        "examples": ["She has a part-time job at a bookstore while she studies.", "Part-time workers often don't get health insurance."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "yarı zamanlı olarak",
+        "def": "for only part of the working day or week",
+        "examples": ["He works part-time so he can look after his kids."]
+      }
+    ],
+    "collocations": ["part-time job", "work part-time", "part-time student", "part-time staff"],
+    "synonyms": [],
+    "family": [{ "word": "part-timer", "pos": "noun" }],
+    "note": "Opposite: full-time. Hyphenated before a noun (a part-time job)."
+  },
+  {
+    "word": "partial",
+    "ipa": "/ˈpɑːrʃl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kısmi, eksik",
+        "def": "not complete or whole",
+        "examples": ["The project was only a partial success.", "We received a partial refund for the canceled trip."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(bir şeye) düşkün",
+        "def": "liking something very much",
+        "examples": ["I'm partial to a cup of hot chocolate in the evening."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "taraflı",
+        "def": "unfairly supporting one side; biased",
+        "examples": ["The referee was accused of being partial."]
+      }
+    ],
+    "collocations": ["a partial refund", "partial success", "partial solution", "partial eclipse", "be partial to"],
+    "synonyms": ["incomplete", "limited", "fond of", "biased"],
+    "family": [
+      { "word": "partially", "pos": "adverb" },
+      { "word": "impartial", "pos": "adjective" },
+      { "word": "part", "pos": "noun" }
+    ],
+    "note": "\"Be partial to\" (informal) = like. Impartial = fair, not biased (tarafsız)."
+  },
+  {
+    "word": "partially",
+    "ipa": "/ˈpɑːrʃəli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kısmen",
+        "def": "not completely; to some degree",
+        "examples": ["The road is partially closed for repairs.", "His face was partially hidden by a hat."]
+      }
+    ],
+    "collocations": ["partially blind", "partially closed", "partially responsible", "partially completed"],
+    "synonyms": ["partly", "in part", "somewhat"],
+    "family": [{ "word": "partial", "pos": "adjective" }],
+    "note": "Very similar to partly; partially is slightly more formal and common for physical states (partially sighted)."
+  },
+  {
+    "word": "participant",
+    "ipa": "/pɑːrˈtɪsɪpənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "katılımcı",
+        "def": "a person who takes part in an activity or event",
+        "examples": ["All participants received a certificate at the end of the course.", "The study had over 500 participants."]
+      }
+    ],
+    "collocations": ["active participant", "study participants", "a participant in", "willing participant"],
+    "synonyms": ["attendee", "member", "competitor"],
+    "family": [
+      { "word": "participate", "pos": "verb" },
+      { "word": "participation", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "participate",
+    "ipa": "/pɑːrˈtɪsɪpeɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "katılmak, iştirak etmek",
+        "def": "to take part in or become involved in an activity",
+        "examples": ["Everyone is encouraged to participate in the discussion.", "Over 2,000 runners participated in the marathon."]
+      }
+    ],
+    "collocations": ["participate in", "actively participate", "participate fully", "invite to participate", "refuse to participate"],
+    "synonyms": ["take part", "join in", "engage in", "be involved"],
+    "family": [
+      { "word": "participant", "pos": "noun" },
+      { "word": "participation", "pos": "noun" },
+      { "word": "participatory", "pos": "adjective" }
+    ],
+    "note": "Use IN: participate in something. Trap: \"I participate in your opinion\" is not English; say \"I share your opinion\" or \"I agree\"."
+  },
+  {
+    "word": "participation",
+    "ipa": "/pɑːrˌtɪsɪˈpeɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "katılım",
+        "def": "the act of taking part in an activity or event",
+        "examples": ["Class participation counts for 20% of your grade.", "Voter participation was higher than expected."]
+      }
+    ],
+    "collocations": ["active participation", "participation in", "voter participation", "public participation", "encourage participation"],
+    "synonyms": ["involvement", "engagement", "contribution"],
+    "family": [
+      { "word": "participate", "pos": "verb" },
+      { "word": "participant", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "particular",
+    "ipa": "/pərˈtɪkjələr/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "belirli, özel, belli bir",
+        "def": "used to show that you mean one specific person or thing and not others",
+        "examples": ["Is there a particular reason you want to leave?", "This particular model is no longer available."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "titiz, seçici",
+        "def": "very careful about choosing exactly what you like; fussy",
+        "examples": ["My cat is very particular about her food."]
+      }
+    ],
+    "collocations": ["in particular", "a particular interest", "nothing in particular", "particular attention", "be particular about"],
+    "synonyms": ["specific", "certain", "special", "fussy", "picky"],
+    "family": [
+      { "word": "particularly", "pos": "adverb" },
+      { "word": "particulars", "pos": "noun" }
+    ],
+    "note": "\"In particular\" = especially. Trap: particular does not mean \"private\" (özel ders = private lesson)."
+  },
+  {
+    "word": "particularly",
+    "ipa": "/pərˈtɪkjələrli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "özellikle, bilhassa",
+        "def": "especially; more than usual or more than others",
+        "examples": ["The museum is particularly popular with families.", "I didn't particularly enjoy the concert."]
+      }
+    ],
+    "collocations": ["particularly important", "particularly true", "not particularly", "particularly useful", "particularly interested in"],
+    "synonyms": ["especially", "specifically", "notably", "in particular"],
+    "family": [{ "word": "particular", "pos": "adjective" }],
+    "note": "\"Not particularly\" = not very (a soft way to say no)."
+  },
+  {
+    "word": "partly",
+    "ipa": "/ˈpɑːrtli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "kısmen, bir ölçüde",
+        "def": "to some degree; not completely",
+        "examples": ["The accident was partly my fault.", "Tomorrow will be partly cloudy with a chance of rain."]
+      }
+    ],
+    "collocations": ["partly because", "partly due to", "partly cloudy", "partly responsible", "partly true"],
+    "synonyms": ["partially", "in part", "to some extent", "somewhat"],
+    "family": [{ "word": "part", "pos": "noun" }],
+    "note": "\"Partly because ... and partly because ...\" is a common way to give two reasons."
+  },
+  {
+    "word": "partner",
+    "ipa": "/ˈpɑːrtnər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "partner, eş, sevgili",
+        "def": "the person you are married to or living with in a romantic relationship",
+        "examples": ["You're welcome to bring your partner to the party.", "She lives with her partner and their two kids."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ortak",
+        "def": "one of the owners of a business, or a person or country you work with",
+        "examples": ["He became a partner at the law firm last year.", "China is one of the country's main trading partners."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(oyun, dans) eş, partner",
+        "def": "a person you do an activity with, such as dancing or a game",
+        "examples": ["Choose a partner for the next exercise."]
+      }
+    ],
+    "collocations": ["business partner", "trading partner", "dance partner", "senior partner", "long-term partner", "partner with"],
+    "synonyms": ["spouse", "companion", "associate", "colleague", "ally"],
+    "family": [{ "word": "partnership", "pos": "noun" }]
+  },
+  {
+    "word": "partnership",
+    "ipa": "/ˈpɑːrtnərʃɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ortaklık, iş birliği",
+        "def": "a relationship in which people or organizations work together or share a business",
+        "examples": ["The university formed a partnership with local hospitals.", "They went into partnership and opened a bakery."]
+      }
+    ],
+    "collocations": ["in partnership with", "form a partnership", "strategic partnership", "a close partnership", "business partnership"],
+    "synonyms": ["collaboration", "alliance", "cooperation", "association"],
+    "family": [{ "word": "partner", "pos": "noun" }]
+  },
+  {
+    "word": "party",
+    "ipa": "/ˈpɑːrti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "parti, eğlence",
+        "def": "a social event where people eat, drink, talk and enjoy themselves",
+        "examples": ["We're having a party on Saturday for my birthday.", "The party went on until 2 a.m."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(siyasi) parti",
+        "def": "a political organization that tries to win elections",
+        "examples": ["Which party did you vote for in the last election?"]
+      },
+      {
+        "pos": "noun",
+        "tr": "grup; (hukuk) taraf",
+        "def": "a group of people doing something together, or one side in a legal agreement or dispute",
+        "examples": ["Both parties signed the contract.", "A search party was sent to look for the missing hikers."]
+      }
+    ],
+    "collocations": ["throw a party", "birthday party", "political party", "opposition party", "third party", "search party"],
+    "synonyms": ["celebration", "gathering", "faction", "group", "side"],
+    "family": [{ "word": "party", "pos": "verb" }],
+    "note": "\"Throw/have a party\" = organize one. \"A third party\" = someone not directly involved (üçüncü şahıs)."
+  },
+  {
+    "word": "pass",
+    "ipa": "/pæs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "geçmek, yanından geçmek",
+        "def": "to move past or through something",
+        "examples": ["We passed a gas station a few miles back.", "Time passes quickly when you're having fun."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(sınavı) geçmek, başarmak",
+        "def": "to succeed in an exam or test",
+        "examples": ["Did you pass your driving test?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "uzatmak, vermek; (yasa) çıkarmak",
+        "def": "to give something to someone, or to officially approve a law",
+        "examples": ["Could you pass the salt, please?", "Congress passed the bill by a narrow margin."]
+      },
+      {
+        "pos": "noun",
+        "tr": "giriş kartı, paso, geçiş izni",
+        "def": "an official document or ticket that lets you enter a place or travel",
+        "examples": ["Visitors must show their pass at the gate."]
+      }
+    ],
+    "collocations": ["pass an exam", "pass a law", "pass away", "pass by", "boarding pass", "pass the time"],
+    "synonyms": ["go past", "succeed", "hand", "approve", "permit"],
+    "family": [
+      { "word": "passage", "pos": "noun" },
+      { "word": "passenger", "pos": "noun" },
+      { "word": "passing", "pos": "noun" }
+    ],
+    "note": "Trap: \"pass an exam\" = succeed; \"take an exam\" = sit it (sınava girmek). \"Pass away\" = die (polite)."
+  },
+  {
+    "word": "passage",
+    "ipa": "/ˈpæsɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "koridor, geçit, dar yol",
+        "def": "a long narrow way that connects one place or room with another",
+        "examples": ["A narrow passage led from the kitchen to the garden.", "The secret passage was hidden behind a bookcase."]
+      },
+      {
+        "pos": "noun",
+        "tr": "pasaj, bölüm (metin)",
+        "def": "a short section of a book, speech or piece of music",
+        "examples": ["Read the passage and answer the questions below."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(zamanın) geçmesi; geçiş",
+        "def": "the process of time passing, or the act of moving through or past something",
+        "examples": ["With the passage of time, the pain became easier to bear.", "The bill's passage through Congress took months."]
+      }
+    ],
+    "collocations": ["a narrow passage", "read a passage", "the passage of time", "rite of passage", "safe passage"],
+    "synonyms": ["corridor", "hallway", "extract", "excerpt", "passing"],
+    "family": [{ "word": "pass", "pos": "verb" }],
+    "note": "\"A rite of passage\" = an event that marks an important stage in life (graduation, first job)."
+  },
+  {
+    "word": "passenger",
+    "ipa": "/ˈpæsɪndʒər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yolcu",
+        "def": "a person traveling in a vehicle who is not driving it or working on it",
+        "examples": ["The plane was carrying 180 passengers and six crew members.", "She sat in the passenger seat while her dad drove."]
+      }
+    ],
+    "collocations": ["passenger seat", "passenger train", "passenger jet", "airline passengers", "front-seat passenger"],
+    "synonyms": ["traveler", "rider", "commuter"],
+    "family": [{ "word": "pass", "pos": "verb" }]
+  },
+  {
+    "word": "passing",
+    "ipa": "/ˈpæsɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(zamanın) geçişi, geçmesi",
+        "def": "the process of time going by",
+        "examples": ["With the passing of the years, the town grew into a city."]
+      },
+      {
+        "pos": "noun",
+        "tr": "vefat, ölüm",
+        "def": "a polite word for someone's death, or the end of something",
+        "examples": ["We were sad to hear of your grandmother's passing."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "geçici, gelip geçici; yanından geçen",
+        "def": "lasting only a short time, or going past",
+        "examples": ["For him, skateboarding was just a passing phase.", "She waved at a passing car."]
+      }
+    ],
+    "collocations": ["in passing", "with the passing of time", "a passing phase", "passing grade", "passing interest"],
+    "synonyms": ["passage", "death", "brief", "temporary", "fleeting"],
+    "family": [{ "word": "pass", "pos": "verb" }],
+    "note": "\"Mention something in passing\" = mention it briefly while talking about something else (laf arasında)."
+  }
+]

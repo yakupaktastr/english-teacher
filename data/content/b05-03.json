@@ -1,0 +1,599 @@
+[
+  {
+    "word": "head",
+    "ipa": "/hed/",
+    "senses": [
+      { "pos": "noun", "tr": "baş, kafa", "def": "the top part of the body, containing the eyes, mouth, and brain", "examples": ["She hit her head on the kitchen cabinet.", "He shook his head and said no."] },
+      { "pos": "noun", "tr": "akıl, zihin, kafa", "def": "your mind or ability to think", "examples": ["I can't get that song out of my head.", "Use your head and think before you act."] },
+      { "pos": "noun", "tr": "başkan, şef, müdür", "def": "the person in charge of a group or organization", "examples": ["She's the head of the marketing department.", "Heads of state met in Brussels for the summit."] },
+      { "pos": "verb", "tr": "(bir yöne) gitmek, yönelmek; başında olmak", "def": "to move in a particular direction, or to lead a group or organization", "examples": ["We're heading home after the game.", "He was chosen to head the investigation."] }
+    ],
+    "collocations": ["head for", "head of state", "head office", "keep your head", "head over heels", "off the top of my head"],
+    "synonyms": ["mind", "leader", "chief", "director", "go toward"],
+    "family": [{ "word": "heading", "pos": "noun" }, { "word": "headache", "pos": "noun" }, { "word": "header", "pos": "noun" }, { "word": "ahead", "pos": "adverb" }],
+    "note": "\"Off the top of my head\" = without checking. \"Head over heels (in love)\" = completely in love."
+  },
+  {
+    "word": "headache",
+    "ipa": "/ˈhedeɪk/",
+    "senses": [
+      { "pos": "noun", "tr": "baş ağrısı", "def": "a pain in your head", "examples": ["I have a terrible headache from staring at the screen.", "Loud music always gives me a headache."] },
+      { "pos": "noun", "tr": "baş belası, dert, sorun", "def": "a problem or situation that causes worry or difficulty", "examples": ["Finding parking downtown is a real headache.", "The new tax rules are a headache for small businesses."] }
+    ],
+    "collocations": ["have a headache", "a splitting headache", "give somebody a headache", "a major headache", "migraine headache"],
+    "synonyms": ["migraine", "problem", "hassle", "nuisance"],
+    "family": [],
+    "note": "Say \"I have a headache\", not \"my head is aching\" (correct but less common)."
+  },
+  {
+    "word": "headline",
+    "ipa": "/ˈhedlaɪn/",
+    "senses": [
+      { "pos": "noun", "tr": "manşet, başlık", "def": "the title of a news story, printed in large letters", "examples": ["The scandal made headlines around the world.", "I only had time to read the headlines this morning."] },
+      { "pos": "verb", "tr": "(etkinlikte) baş sanatçı olmak", "def": "to be the main performer at a concert or event", "examples": ["The band will headline the festival on Saturday night."] }
+    ],
+    "collocations": ["make headlines", "hit the headlines", "front-page headline", "grab headlines", "headline news"],
+    "synonyms": ["title", "heading", "banner"],
+    "family": [{ "word": "headliner", "pos": "noun" }]
+  },
+  {
+    "word": "headquarters",
+    "ipa": "/ˈhedkwɔːrtərz/",
+    "senses": [
+      { "pos": "noun", "tr": "genel merkez, karargâh", "def": "the main office of an organization, or the place from which a military operation is controlled", "examples": ["The company's headquarters are in Seattle.", "Police headquarters released a statement late last night."] }
+    ],
+    "collocations": ["company headquarters", "police headquarters", "global headquarters", "be headquartered in", "military headquarters"],
+    "synonyms": ["head office", "main office", "base", "HQ"],
+    "family": [{ "word": "headquartered", "pos": "adjective" }],
+    "note": "Same form for singular and plural; can take a singular or plural verb. Often shortened to HQ."
+  },
+  {
+    "word": "heal",
+    "ipa": "/hiːl/",
+    "senses": [
+      { "pos": "verb", "tr": "iyileşmek, kapanmak; iyileştirmek", "def": "to become healthy again, or to make a wound or injury healthy again", "examples": ["The cut on my hand healed quickly.", "It took months for her broken leg to heal."] },
+      { "pos": "verb", "tr": "(yarayı) sarmak, düzeltmek, onarmak", "def": "to end a bad situation or make someone feel better emotionally", "examples": ["The leaders hope to heal the divisions in the country.", "Time heals all wounds."] }
+    ],
+    "collocations": ["heal quickly", "heal a wound", "heal the rift", "time heals", "healing process"],
+    "synonyms": ["recover", "cure", "mend", "repair"],
+    "family": [{ "word": "healing", "pos": "noun" }, { "word": "healer", "pos": "noun" }],
+    "note": "Don't confuse with \"heel\" (back of the foot), pronounced the same."
+  },
+  {
+    "word": "health",
+    "ipa": "/helθ/",
+    "senses": [
+      { "pos": "noun", "tr": "sağlık", "def": "the condition of a person's body or mind", "examples": ["Regular exercise is good for your health.", "My grandmother is in poor health."] },
+      { "pos": "noun", "tr": "sağlık (hizmetleri)", "def": "the work of providing medical services", "examples": ["The government plans to increase spending on public health."] },
+      { "pos": "noun", "tr": "(ekonomi vb.) durum, sağlamlık", "def": "how successful or strong something such as an economy or organization is", "examples": ["Investors are worried about the health of the economy."] }
+    ],
+    "collocations": ["good health", "mental health", "public health", "health insurance", "health care", "health problems"],
+    "synonyms": ["well-being", "fitness", "condition"],
+    "family": [{ "word": "healthy", "pos": "adjective" }, { "word": "unhealthy", "pos": "adjective" }, { "word": "healthily", "pos": "adverb" }],
+    "note": "Uncountable: \"good health\", not \"a good health\"."
+  },
+  {
+    "word": "healthcare",
+    "ipa": "/ˈhelθ ker/",
+    "senses": [
+      { "pos": "noun", "tr": "sağlık hizmetleri, sağlık bakımı", "def": "the services that provide medical care to people", "examples": ["Many Americans struggle to afford healthcare.", "She works as a healthcare assistant in a nursing home."] }
+    ],
+    "collocations": ["healthcare system", "access to healthcare", "healthcare costs", "healthcare workers", "universal healthcare"],
+    "synonyms": ["medical care", "health services"],
+    "family": [{ "word": "health", "pos": "noun" }],
+    "note": "Also written \"health care\", especially as a noun in American English."
+  },
+  {
+    "word": "healthy",
+    "ipa": "/ˈhelθi/",
+    "senses": [
+      { "pos": "adjective", "tr": "sağlıklı", "def": "physically strong and well, not sick", "examples": ["She gave birth to a healthy baby girl.", "Eating vegetables helps you stay healthy."] },
+      { "pos": "adjective", "tr": "sağlıklı, sağlığa yararlı", "def": "good for your health", "examples": ["Try to eat a healthy breakfast every day."] },
+      { "pos": "adjective", "tr": "sağlam, güçlü, iyi durumda", "def": "successful, strong, or normal", "examples": ["The company made a healthy profit last year.", "A healthy debate is good for democracy."] }
+    ],
+    "collocations": ["healthy diet", "healthy lifestyle", "stay healthy", "healthy eating", "healthy relationship", "healthy profit"],
+    "synonyms": ["well", "fit", "nutritious", "sound", "strong"],
+    "family": [{ "word": "health", "pos": "noun" }, { "word": "unhealthy", "pos": "adjective" }, { "word": "healthily", "pos": "adverb" }]
+  },
+  {
+    "word": "hear",
+    "ipa": "/hɪr/",
+    "senses": [
+      { "pos": "verb", "tr": "duymak, işitmek", "def": "to notice sounds with your ears", "examples": ["Can you hear me in the back row?", "I heard a strange noise downstairs last night."] },
+      { "pos": "verb", "tr": "duymak, haber almak", "def": "to be told about something or receive news", "examples": ["Did you hear that Mark got a new job?", "I haven't heard from her in months."] },
+      { "pos": "verb", "tr": "(davaya) bakmak, dinlemek", "def": "to listen to and judge a case in court", "examples": ["The Supreme Court will hear the case next month."] }
+    ],
+    "collocations": ["hear about", "hear from", "hear of", "can't hear", "I hear you", "hear a case"],
+    "synonyms": ["listen", "catch", "learn", "find out"],
+    "family": [{ "word": "hearing", "pos": "noun" }, { "word": "overhear", "pos": "verb" }],
+    "note": "Irregular: hear – heard – heard. Hear = notice a sound; listen = pay attention to it on purpose."
+  },
+  {
+    "word": "hearing",
+    "ipa": "/ˈhɪrɪŋ/",
+    "senses": [
+      { "pos": "noun", "tr": "işitme, duyma yeteneği", "def": "the ability to hear", "examples": ["His hearing got worse as he got older.", "She wears a hearing aid in her left ear."] },
+      { "pos": "noun", "tr": "duruşma, oturum", "def": "an official meeting where facts about a case or problem are heard, for example in court", "examples": ["The court hearing has been postponed until next week.", "Congress held a hearing on online privacy."] }
+    ],
+    "collocations": ["hearing aid", "hearing loss", "court hearing", "public hearing", "hard of hearing", "fair hearing"],
+    "synonyms": ["trial", "session", "inquiry"],
+    "family": [{ "word": "hear", "pos": "verb" }],
+    "note": "\"Hard of hearing\" = partly deaf (polite)."
+  },
+  {
+    "word": "heart",
+    "ipa": "/hɑːrt/",
+    "senses": [
+      { "pos": "noun", "tr": "kalp, yürek", "def": "the organ in your chest that pumps blood around your body", "examples": ["My heart was beating fast before the interview.", "He died of a heart attack at sixty."] },
+      { "pos": "noun", "tr": "gönül, kalp", "def": "the center of your feelings and emotions", "examples": ["She has a kind heart.", "Thank you from the bottom of my heart."] },
+      { "pos": "noun", "tr": "merkez, öz, kalbi", "def": "the center or most important part of something", "examples": ["The hotel is in the heart of the city.", "Let's get to the heart of the problem."] }
+    ],
+    "collocations": ["heart attack", "heart disease", "break somebody's heart", "learn by heart", "at heart", "in the heart of"],
+    "synonyms": ["center", "core", "soul", "compassion"],
+    "family": [{ "word": "hearty", "pos": "adjective" }, { "word": "heartless", "pos": "adjective" }, { "word": "heartbreak", "pos": "noun" }, { "word": "heartfelt", "pos": "adjective" }],
+    "note": "\"Learn something by heart\" = memorize it (ezberlemek). \"Lose heart\" = become discouraged."
+  },
+  {
+    "word": "heat",
+    "ipa": "/hiːt/",
+    "senses": [
+      { "pos": "noun", "tr": "sıcaklık, ısı, sıcak", "def": "the quality of being hot, or hot weather", "examples": ["I can't stand the summer heat in Texas.", "Cook the sauce over low heat."] },
+      { "pos": "noun", "tr": "ısıtma (sistemi)", "def": "the system that keeps a building warm", "examples": ["Can you turn the heat up? It's cold in here."] },
+      { "pos": "noun", "tr": "baskı, gerginlik", "def": "pressure or strong emotion, especially anger", "examples": ["In the heat of the moment, I said things I didn't mean."] },
+      { "pos": "verb", "tr": "ısıtmak; ısınmak", "def": "to make something hot or warm, or to become hot", "examples": ["Heat the oil in a large pan.", "The debate heated up as the election approached."] }
+    ],
+    "collocations": ["heat wave", "intense heat", "low heat", "turn up the heat", "heat up", "in the heat of the moment"],
+    "synonyms": ["warmth", "hotness", "warm", "pressure"],
+    "family": [{ "word": "heater", "pos": "noun" }, { "word": "heating", "pos": "noun" }, { "word": "heated", "pos": "adjective" }],
+    "note": "\"A heated argument\" = an angry one. American English: \"turn on the heat\" (British: the heating)."
+  },
+  {
+    "word": "heating",
+    "ipa": "/ˈhiːtɪŋ/",
+    "senses": [
+      { "pos": "noun", "tr": "ısıtma, kalorifer", "def": "the process or system of keeping a building warm", "examples": ["Our heating bills doubled this winter.", "The apartment has central heating."] }
+    ],
+    "collocations": ["central heating", "heating system", "heating bill", "turn on the heating", "heating and cooling"],
+    "synonyms": ["heat", "warmth"],
+    "family": [{ "word": "heat", "pos": "verb" }, { "word": "heater", "pos": "noun" }],
+    "note": "In American English people usually say \"the heat\" for the system: Turn on the heat."
+  },
+  {
+    "word": "heaven",
+    "ipa": "/ˈhevn/",
+    "senses": [
+      { "pos": "noun", "tr": "cennet", "def": "in some religions, the place where God lives and good people go after they die", "examples": ["She believes her father is in heaven now."] },
+      { "pos": "noun", "tr": "cennet gibi yer, mutluluk", "def": "a place or situation that is extremely pleasant", "examples": ["This chocolate cake is heaven!", "Lying on the beach all day was pure heaven."] }
+    ],
+    "collocations": ["go to heaven", "heaven on earth", "pure heaven", "for heaven's sake", "thank heavens", "heaven knows"],
+    "synonyms": ["paradise", "bliss", "the afterlife"],
+    "family": [{ "word": "heavenly", "pos": "adjective" }],
+    "note": "\"For heaven's sake!\" expresses annoyance. \"Good heavens!\" expresses surprise."
+  },
+  {
+    "word": "heavily",
+    "ipa": "/ˈhevɪli/",
+    "senses": [
+      { "pos": "adverb", "tr": "büyük ölçüde, yoğun şekilde, çok", "def": "to a great degree or in large amounts", "examples": ["It rained heavily all night.", "The company relies heavily on foreign investment."] },
+      { "pos": "adverb", "tr": "ağır ağır, ağırca", "def": "in a slow, heavy, or forceful way", "examples": ["He sat down heavily on the sofa.", "She was breathing heavily after the climb."] }
+    ],
+    "collocations": ["rely heavily on", "heavily influenced", "rain heavily", "heavily armed", "drink heavily", "heavily criticized"],
+    "synonyms": ["greatly", "considerably", "intensely", "a lot"],
+    "family": [{ "word": "heavy", "pos": "adjective" }]
+  },
+  {
+    "word": "heavy",
+    "ipa": "/ˈhevi/",
+    "senses": [
+      { "pos": "adjective", "tr": "ağır", "def": "weighing a lot and difficult to lift or move", "examples": ["This suitcase is too heavy for me to carry.", "Heavy trucks are banned from the bridge."] },
+      { "pos": "adjective", "tr": "yoğun, şiddetli, aşırı", "def": "larger in amount or more intense than usual", "examples": ["Heavy rain caused flooding in the valley.", "There was heavy traffic on the highway this morning."] },
+      { "pos": "adjective", "tr": "ağır, sıkıcı, yorucu, zor", "def": "serious or difficult to deal with", "examples": ["The conversation got a bit heavy after dinner."] }
+    ],
+    "collocations": ["heavy rain", "heavy traffic", "heavy smoker", "heavy losses", "heavy workload", "heavy industry"],
+    "synonyms": ["weighty", "massive", "intense", "severe", "serious"],
+    "family": [{ "word": "heavily", "pos": "adverb" }, { "word": "heaviness", "pos": "noun" }],
+    "note": "Use \"heavy\" for traffic and rain where Turkish says \"yoğun/şiddetli\": heavy traffic, not \"crowded traffic\"."
+  },
+  {
+    "word": "heel",
+    "ipa": "/hiːl/",
+    "senses": [
+      { "pos": "noun", "tr": "topuk", "def": "the back part of your foot, below the ankle", "examples": ["I have a blister on my heel from these new shoes."] },
+      { "pos": "noun", "tr": "(ayakkabı) topuk; topuklu ayakkabı", "def": "the raised part under the back of a shoe, or (heels) shoes with high heels", "examples": ["She wore black heels to the interview.", "The heel came off my boot."] }
+    ],
+    "collocations": ["high heels", "on the heels of", "dig in your heels", "head over heels", "Achilles heel"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"Achilles heel\" = a weak point. \"On the heels of\" = right after. Sounds the same as \"heal\"."
+  },
+  {
+    "word": "height",
+    "ipa": "/haɪt/",
+    "senses": [
+      { "pos": "noun", "tr": "boy, yükseklik", "def": "how tall a person or thing is, or the distance from the ground", "examples": ["He's about average height for his age.", "The plane was flying at a height of 30,000 feet."] },
+      { "pos": "noun", "tr": "doruk, zirve, en yoğun an", "def": "the point when something is strongest, busiest, or most successful", "examples": ["She was at the height of her career in the 1990s.", "Hotels are expensive at the height of tourist season."] },
+      { "pos": "noun", "tr": "yükseklik, yüksek yer", "def": "(heights) a high place", "examples": ["I've always been afraid of heights."] }
+    ],
+    "collocations": ["average height", "at the height of", "afraid of heights", "reach new heights", "the height of fashion"],
+    "synonyms": ["tallness", "altitude", "elevation", "peak", "top"],
+    "family": [{ "word": "heighten", "pos": "verb" }, { "word": "high", "pos": "adjective" }],
+    "note": "Pronounced /haɪt/ (no \"th\" sound), unlike length, width, depth."
+  },
+  {
+    "word": "heighten",
+    "ipa": "/ˈhaɪtn/",
+    "senses": [
+      { "pos": "verb", "tr": "artırmak, şiddetlendirmek, yoğunlaştırmak", "def": "to make a feeling or effect stronger, or to become stronger", "examples": ["The attack has heightened tensions between the two countries.", "Music is used to heighten suspense in the film."] }
+    ],
+    "collocations": ["heighten tension", "heighten awareness", "heighten fears", "heightened security", "heightened sense of"],
+    "synonyms": ["increase", "intensify", "raise", "strengthen", "boost"],
+    "family": [{ "word": "height", "pos": "noun" }, { "word": "heightened", "pos": "adjective" }],
+    "note": "Used for feelings, effects, and awareness, not physical height."
+  },
+  {
+    "word": "helicopter",
+    "ipa": "/ˈhelɪkɑːptər/",
+    "senses": [
+      { "pos": "noun", "tr": "helikopter", "def": "an aircraft with large spinning blades on top, which can fly straight up and stay in one place", "examples": ["The injured hiker was rescued by helicopter.", "A news helicopter circled over the scene of the accident."] }
+    ],
+    "collocations": ["by helicopter", "helicopter pilot", "rescue helicopter", "helicopter crash", "helicopter parent"],
+    "synonyms": ["chopper"],
+    "family": [],
+    "note": "\"Helicopter parent\" = a parent who is too involved in their child's life."
+  },
+  {
+    "word": "hell",
+    "ipa": "/hel/",
+    "senses": [
+      { "pos": "noun", "tr": "cehennem", "def": "in some religions, the place where bad people go after they die", "examples": ["Many religions teach about heaven and hell."] },
+      { "pos": "noun", "tr": "cehennem gibi, çok kötü durum", "def": "a very unpleasant experience or situation", "examples": ["Working for that company was absolute hell.", "Rush-hour traffic is hell in this city."] },
+      { "pos": "exclamation", "tr": "(argo) lanet olsun, kahretsin", "def": "(informal, rude) used to show anger or for emphasis", "examples": ["What the hell are you doing?"] }
+    ],
+    "collocations": ["go through hell", "living hell", "a hell of a", "what the hell", "for the hell of it", "hell on earth"],
+    "synonyms": ["torment", "nightmare", "misery", "agony"],
+    "family": [{ "word": "hellish", "pos": "adjective" }],
+    "note": "Swear word in many expressions; avoid in formal situations. \"A hell of a…\" = very good/big: a hell of a game."
+  },
+  {
+    "word": "hello",
+    "ipa": "/həˈloʊ/",
+    "senses": [
+      { "pos": "exclamation", "tr": "merhaba; alo", "def": "used as a greeting, when answering the phone, or to get someone's attention", "examples": ["Hello, my name is Anna. Nice to meet you.", "Hello? Is anybody home?"] },
+      { "pos": "noun", "tr": "selam, merhaba", "def": "the act of saying hello", "examples": ["Say hello to your parents for me.", "She gave me a friendly hello."] }
+    ],
+    "collocations": ["say hello", "hello there", "say hello to", "a quick hello"],
+    "synonyms": ["hi", "hey", "greetings"],
+    "family": [],
+    "note": "\"Say hello to X for me\" = Turkish \"X'e selam söyle\". \"Hi\" is more casual."
+  },
+  {
+    "word": "helmet",
+    "ipa": "/ˈhelmɪt/",
+    "senses": [
+      { "pos": "noun", "tr": "kask, miğfer", "def": "a hard hat that protects your head", "examples": ["Always wear a helmet when you ride your bike.", "The construction workers wore safety helmets."] }
+    ],
+    "collocations": ["wear a helmet", "bike helmet", "motorcycle helmet", "safety helmet", "football helmet"],
+    "synonyms": ["hard hat"],
+    "family": []
+  },
+  {
+    "word": "help",
+    "ipa": "/help/",
+    "senses": [
+      { "pos": "verb", "tr": "yardım etmek", "def": "to make it easier for someone to do something by doing part of it or giving them what they need", "examples": ["Can you help me carry these bags?", "My brother helped me with my homework."] },
+      { "pos": "verb", "tr": "işe yaramak, katkı sağlamak", "def": "to make a situation better or easier", "examples": ["Taking deep breaths helps when I feel nervous.", "Crying won't help."] },
+      { "pos": "verb", "tr": "(can't help) kendini alamamak, elinde olmamak", "def": "(can't help) to be unable to stop yourself from doing something", "examples": ["I couldn't help laughing when he fell asleep in the meeting."] },
+      { "pos": "noun", "tr": "yardım", "def": "the act of helping, or advice or money that makes things easier", "examples": ["Thanks for your help with the move.", "If you need help, just ask."] }
+    ],
+    "collocations": ["help with", "help somebody do something", "can't help doing", "ask for help", "get help", "help yourself"],
+    "synonyms": ["assist", "aid", "support", "assistance"],
+    "family": [{ "word": "helpful", "pos": "adjective" }, { "word": "helpless", "pos": "adjective" }, { "word": "helper", "pos": "noun" }, { "word": "helping", "pos": "noun" }],
+    "note": "\"Help yourself (to something)\" = take as much as you want. \"Can't help + -ing\" = can't stop yourself."
+  },
+  {
+    "word": "helpful",
+    "ipa": "/ˈhelpfl/",
+    "senses": [
+      { "pos": "adjective", "tr": "yararlı, faydalı", "def": "useful, or making a situation better", "examples": ["Thanks for the advice — it was really helpful.", "It might be helpful to make a list first."] },
+      { "pos": "adjective", "tr": "yardımsever, yardımcı", "def": "willing to help others", "examples": ["The hotel staff were very friendly and helpful."] }
+    ],
+    "collocations": ["very helpful", "helpful advice", "helpful tips", "extremely helpful", "helpful to"],
+    "synonyms": ["useful", "beneficial", "valuable", "cooperative", "obliging"],
+    "family": [{ "word": "help", "pos": "verb" }, { "word": "unhelpful", "pos": "adjective" }, { "word": "helpfully", "pos": "adverb" }]
+  },
+  {
+    "word": "hence",
+    "ipa": "/hens/",
+    "senses": [
+      { "pos": "adverb", "tr": "bu yüzden, bu nedenle, dolayısıyla", "def": "for this reason; as a result", "examples": ["The fruit is grown locally, hence the low price.", "The data is incomplete and, hence, unreliable."] },
+      { "pos": "adverb", "tr": "bundan sonra, şu andan itibaren", "def": "(formal) from now", "examples": ["The results will be announced three weeks hence."] }
+    ],
+    "collocations": ["hence the name", "hence the need for", "and hence", "years hence"],
+    "synonyms": ["therefore", "thus", "consequently", "so"],
+    "family": [{ "word": "henceforth", "pos": "adverb" }],
+    "note": "Formal. Often followed directly by a noun: \"hence the delay\" (no verb needed)."
+  },
+  {
+    "word": "her",
+    "ipa": "/hər/",
+    "senses": [
+      { "pos": "pronoun", "tr": "onu, ona (kadın)", "def": "used as the object to refer to a woman, girl, or female animal already mentioned", "examples": ["I called her yesterday, but she didn't answer.", "Give the keys to her when she arrives."] },
+      { "pos": "determiner", "tr": "onun (kadın)", "def": "belonging to or connected with a woman, girl, or female animal already mentioned", "examples": ["She left her phone on the train.", "Her parents live in Florida."] }
+    ],
+    "collocations": ["her own", "with her", "her family", "tell her"],
+    "synonyms": [],
+    "family": [{ "word": "hers", "pos": "pronoun" }, { "word": "herself", "pos": "pronoun" }, { "word": "she", "pos": "pronoun" }],
+    "note": "\"Her\" is both object (I saw her) and possessive (her car). Turkish \"onu/onun\" has no gender."
+  },
+  {
+    "word": "herb",
+    "ipa": "/ɜːrb/",
+    "senses": [
+      { "pos": "noun", "tr": "ot, şifalı bitki, baharat otu", "def": "a plant whose leaves or seeds are used to flavor food or to make medicine", "examples": ["Add fresh herbs like basil and parsley at the end.", "She uses herbs to treat minor illnesses."] }
+    ],
+    "collocations": ["fresh herbs", "dried herbs", "herb garden", "medicinal herbs", "herbs and spices"],
+    "synonyms": ["plant", "seasoning"],
+    "family": [{ "word": "herbal", "pos": "adjective" }, { "word": "herbalist", "pos": "noun" }],
+    "note": "American English drops the h: /ɜːrb/ (\"an herb\"). British English says /hɜːb/ (\"a herb\")."
+  },
+  {
+    "word": "here",
+    "ipa": "/hɪr/",
+    "senses": [
+      { "pos": "adverb", "tr": "burada, buraya", "def": "in, at, or to this place", "examples": ["Come here and look at this.", "I've lived here for ten years."] },
+      { "pos": "adverb", "tr": "işte, buyurun", "def": "used when giving something to someone or pointing something out", "examples": ["Here's the book I promised you.", "Here comes the bus!"] },
+      { "pos": "adverb", "tr": "bu noktada, şimdi", "def": "at this point in a situation or discussion", "examples": ["Here we need to be careful about the numbers."] }
+    ],
+    "collocations": ["over here", "here and there", "here you go", "here we go", "from here", "here and now"],
+    "synonyms": ["in this place", "present"],
+    "family": [{ "word": "hereby", "pos": "adverb" }],
+    "note": "\"Here you go/Here you are\" = Turkish \"buyurun\" when handing something."
+  },
+  {
+    "word": "heritage",
+    "ipa": "/ˈherɪtɪdʒ/",
+    "senses": [
+      { "pos": "noun", "tr": "miras, kültürel miras", "def": "the history, traditions, and buildings that a country or group has had for a long time and values", "examples": ["The old town is part of the country's cultural heritage.", "She is proud of her Mexican heritage."] }
+    ],
+    "collocations": ["cultural heritage", "national heritage", "World Heritage Site", "rich heritage", "heritage site"],
+    "synonyms": ["legacy", "tradition", "inheritance", "history"],
+    "family": [{ "word": "inherit", "pos": "verb" }],
+    "note": "\"Heritage\" is cultural; for money or property from a dead person, use \"inheritance\"."
+  },
+  {
+    "word": "hero",
+    "ipa": "/ˈhɪroʊ/",
+    "senses": [
+      { "pos": "noun", "tr": "kahraman", "def": "a person admired for doing something brave or good", "examples": ["The firefighter was treated as a hero after saving the children.", "My mom has always been my hero."] },
+      { "pos": "noun", "tr": "(film, kitap) kahraman, baş karakter", "def": "the main male character in a story, movie, or play", "examples": ["The hero of the novel is a young detective."] }
+    ],
+    "collocations": ["national hero", "war hero", "local hero", "unsung hero", "childhood hero", "hailed as a hero"],
+    "synonyms": ["champion", "idol", "protagonist", "role model"],
+    "family": [{ "word": "heroic", "pos": "adjective" }, { "word": "heroism", "pos": "noun" }, { "word": "heroine", "pos": "noun" }],
+    "note": "Plural: heroes. \"Unsung hero\" = someone whose good work is not recognized."
+  },
+  {
+    "word": "hers",
+    "ipa": "/hɜːrz/",
+    "senses": [
+      { "pos": "pronoun", "tr": "onunki (kadın)", "def": "used to refer to something that belongs to a woman or girl already mentioned", "examples": ["That isn't my coat — I think it's hers.", "A friend of hers is coming to visit."] }
+    ],
+    "collocations": ["a friend of hers", "is hers", "hers and his"],
+    "synonyms": [],
+    "family": [{ "word": "her", "pos": "determiner" }],
+    "note": "No apostrophe: hers, not her's."
+  },
+  {
+    "word": "herself",
+    "ipa": "/hɜːrˈself/",
+    "senses": [
+      { "pos": "pronoun", "tr": "kendisi(ni), kendine (kadın)", "def": "used as the object when a woman or girl does something to herself", "examples": ["She cut herself while chopping vegetables.", "My daughter taught herself to play piano."] },
+      { "pos": "pronoun", "tr": "bizzat, kendisi", "def": "used to emphasize that a particular woman did something", "examples": ["The CEO herself called to apologize."] }
+    ],
+    "collocations": ["by herself", "enjoy herself", "for herself", "herself alone"],
+    "synonyms": [],
+    "family": [{ "word": "her", "pos": "pronoun" }],
+    "note": "\"By herself\" = alone or without help."
+  },
+  {
+    "word": "hesitate",
+    "ipa": "/ˈhezɪteɪt/",
+    "senses": [
+      { "pos": "verb", "tr": "tereddüt etmek, duraksamak", "def": "to pause before speaking or acting because you are unsure or nervous", "examples": ["She hesitated before answering the question.", "He didn't hesitate to call the police when he saw the fire."] },
+      { "pos": "verb", "tr": "çekinmek", "def": "(don't hesitate) used to tell someone they should feel free to do something", "examples": ["Please don't hesitate to contact me if you have any questions."] }
+    ],
+    "collocations": ["don't hesitate to", "hesitate for a moment", "without hesitating", "hesitate before"],
+    "synonyms": ["pause", "waver", "falter", "hold back"],
+    "family": [{ "word": "hesitation", "pos": "noun" }, { "word": "hesitant", "pos": "adjective" }, { "word": "hesitantly", "pos": "adverb" }],
+    "note": "\"Please don't hesitate to contact me\" is a very common polite email ending."
+  },
+  {
+    "word": "hey",
+    "ipa": "/heɪ/",
+    "senses": [
+      { "pos": "exclamation", "tr": "hey, baksana; selam", "def": "(informal) used to get attention, greet someone, or show surprise or annoyance", "examples": ["Hey, how's it going?", "Hey! Watch where you're going!"] }
+    ],
+    "collocations": ["hey there", "hey guys", "hey, what's up"],
+    "synonyms": ["hi", "hello", "yo"],
+    "family": [],
+    "note": "Very common casual greeting in American English, like \"hi\"."
+  },
+  {
+    "word": "hi",
+    "ipa": "/haɪ/",
+    "senses": [
+      { "pos": "exclamation", "tr": "selam, merhaba", "def": "(informal) used to say hello", "examples": ["Hi, I'm Tom. I just moved in next door.", "Tell your sister I said hi."] }
+    ],
+    "collocations": ["say hi", "hi there", "hi everyone"],
+    "synonyms": ["hello", "hey"],
+    "family": [],
+    "note": "\"Say hi to X for me\" = give X my greetings."
+  },
+  {
+    "word": "hidden",
+    "ipa": "/ˈhɪdn/",
+    "senses": [
+      { "pos": "adjective", "tr": "gizli, saklı", "def": "kept or located where it cannot be seen or found", "examples": ["Police found a hidden camera in the hotel room.", "The village is hidden away in the mountains."] },
+      { "pos": "adjective", "tr": "gizli, örtülü, kolay fark edilmeyen", "def": "not obvious or not easy to notice", "examples": ["Watch out for hidden fees when you book a flight.", "The movie has a hidden message about greed."] }
+    ],
+    "collocations": ["hidden camera", "hidden costs", "hidden agenda", "hidden talent", "hidden gem", "hidden away"],
+    "synonyms": ["concealed", "secret", "unseen", "invisible"],
+    "family": [{ "word": "hide", "pos": "verb" }],
+    "note": "\"A hidden gem\" = an excellent place or thing that few people know about. \"Hidden agenda\" = a secret aim."
+  },
+  {
+    "word": "hide",
+    "ipa": "/haɪd/",
+    "senses": [
+      { "pos": "verb", "tr": "saklamak, gizlemek", "def": "to put something where it cannot be seen or found", "examples": ["She hides her chocolate where the kids can't find it.", "Where did you hide the presents?"] },
+      { "pos": "verb", "tr": "saklanmak", "def": "to go somewhere where you cannot be seen or found", "examples": ["The children like to hide under the bed.", "He tried to hide from the photographers."] },
+      { "pos": "verb", "tr": "(duygu, gerçek) gizlemek, örtbas etmek", "def": "to keep feelings or information secret", "examples": ["She couldn't hide her disappointment.", "The company tried to hide the truth about the losses."] }
+    ],
+    "collocations": ["hide from", "hide your feelings", "hide the truth", "have nothing to hide", "hide and seek"],
+    "synonyms": ["conceal", "cover up", "keep secret", "disguise"],
+    "family": [{ "word": "hidden", "pos": "adjective" }, { "word": "hiding", "pos": "noun" }, { "word": "hideout", "pos": "noun" }],
+    "note": "Irregular: hide – hid – hidden. \"Go into hiding\" = hide from the police or danger."
+  },
+  {
+    "word": "hierarchy",
+    "ipa": "/ˈhaɪərɑːrki/",
+    "senses": [
+      { "pos": "noun", "tr": "hiyerarşi, sıradüzen", "def": "a system in which people or things are arranged in levels of importance", "examples": ["She quickly rose through the company hierarchy.", "The army has a strict hierarchy."] },
+      { "pos": "noun", "tr": "üst yönetim, yöneticiler", "def": "the group of people who control an organization", "examples": ["The church hierarchy refused to comment."] }
+    ],
+    "collocations": ["social hierarchy", "corporate hierarchy", "rigid hierarchy", "a hierarchy of needs", "the management hierarchy"],
+    "synonyms": ["ranking", "pecking order", "structure", "chain of command"],
+    "family": [{ "word": "hierarchical", "pos": "adjective" }]
+  },
+  {
+    "word": "high",
+    "ipa": "/haɪ/",
+    "senses": [
+      { "pos": "adjective", "tr": "yüksek", "def": "a long way from the bottom to the top, or far above the ground", "examples": ["The city is surrounded by high mountains.", "The shelf is too high for me to reach."] },
+      { "pos": "adjective", "tr": "yüksek, fazla", "def": "greater than usual in amount, level, or quality", "examples": ["Prices are very high in the city center.", "She has high standards for her students."] },
+      { "pos": "adverb", "tr": "yükseğe, yüksekte", "def": "at or to a level far above the ground", "examples": ["The eagle flew high above the valley."] },
+      { "pos": "noun", "tr": "zirve, en yüksek seviye; en yüksek sıcaklık", "def": "the highest level or number", "examples": ["Unemployment has reached a new high.", "Tomorrow's high will be 85 degrees."] }
+    ],
+    "collocations": ["high price", "high level", "high quality", "high school", "all-time high", "high risk"],
+    "synonyms": ["tall", "elevated", "great", "peak"],
+    "family": [{ "word": "height", "pos": "noun" }, { "word": "highly", "pos": "adverb" }, { "word": "heighten", "pos": "verb" }],
+    "note": "Use \"tall\" for people and narrow things (a tall man, tall tree); \"high\" for mountains, walls, and levels."
+  },
+  {
+    "word": "high-profile",
+    "ipa": "/ˌhaɪ ˈproʊfaɪl/",
+    "senses": [
+      { "pos": "adjective", "tr": "çok ses getiren, kamuoyunun dikkatini çeken, tanınmış", "def": "getting a lot of attention from the media and the public", "examples": ["The lawyer has worked on several high-profile cases.", "Several high-profile executives resigned after the scandal."] }
+    ],
+    "collocations": ["high-profile case", "high-profile figure", "high-profile campaign", "high-profile role"],
+    "synonyms": ["prominent", "well-known", "famous", "public"],
+    "family": [{ "word": "profile", "pos": "noun" }],
+    "note": "Opposite: low-profile. \"Keep a low profile\" = avoid attention."
+  },
+  {
+    "word": "highlight",
+    "ipa": "/ˈhaɪlaɪt/",
+    "senses": [
+      { "pos": "verb", "tr": "vurgulamak, dikkat çekmek", "def": "to emphasize something so people notice it", "examples": ["The report highlights the need for more teachers.", "The accident highlighted the dangers of texting while driving."] },
+      { "pos": "verb", "tr": "(kalemle) işaretlemek, renklendirmek", "def": "to mark text with a bright color or select it on a screen", "examples": ["Highlight the important dates in yellow."] },
+      { "pos": "noun", "tr": "en önemli an, en güzel kısım; özet görüntüler", "def": "the best or most interesting part of something", "examples": ["The highlight of the trip was a boat tour of the bay.", "We watched the game's highlights on TV."] }
+    ],
+    "collocations": ["highlight the importance of", "highlight the need for", "highlight a problem", "the highlight of", "match highlights"],
+    "synonyms": ["emphasize", "stress", "underline", "best part", "high point"],
+    "family": [{ "word": "highlighter", "pos": "noun" }]
+  },
+  {
+    "word": "highly",
+    "ipa": "/ˈhaɪli/",
+    "senses": [
+      { "pos": "adverb", "tr": "son derece, çok", "def": "very; to a high degree", "examples": ["It's highly unlikely that it will snow tomorrow.", "She is a highly skilled surgeon."] },
+      { "pos": "adverb", "tr": "olumlu şekilde, takdirle", "def": "with great approval or respect", "examples": ["I highly recommend this book.", "Everyone speaks highly of her."] }
+    ],
+    "collocations": ["highly recommend", "highly unlikely", "highly skilled", "highly effective", "speak highly of", "think highly of"],
+    "synonyms": ["very", "extremely", "greatly", "favorably"],
+    "family": [{ "word": "high", "pos": "adjective" }],
+    "note": "Not used for physical height: say \"fly high\", not \"fly highly\"."
+  },
+  {
+    "word": "highway",
+    "ipa": "/ˈhaɪweɪ/",
+    "senses": [
+      { "pos": "noun", "tr": "otoyol, karayolu, anayol", "def": "a main road for traveling long distances between cities", "examples": ["Traffic on the highway was backed up for miles.", "Take the highway north for about twenty miles."] }
+    ],
+    "collocations": ["on the highway", "interstate highway", "highway patrol", "highway exit", "four-lane highway"],
+    "synonyms": ["freeway", "expressway", "interstate", "motorway"],
+    "family": [],
+    "note": "American English; British English says \"motorway\" for the biggest roads."
+  },
+  {
+    "word": "hilarious",
+    "ipa": "/hɪˈleriəs/",
+    "senses": [
+      { "pos": "adjective", "tr": "çok komik, gülmekten öldüren", "def": "extremely funny", "examples": ["The movie was hilarious — I couldn't stop laughing.", "He told a hilarious story about his trip to Paris."] }
+    ],
+    "collocations": ["absolutely hilarious", "hilarious story", "find something hilarious", "hilarious moment"],
+    "synonyms": ["very funny", "hysterical", "comical", "side-splitting"],
+    "family": [{ "word": "hilariously", "pos": "adverb" }, { "word": "hilarity", "pos": "noun" }],
+    "note": "Already strong; say \"absolutely hilarious\", not \"very hilarious\"."
+  },
+  {
+    "word": "hill",
+    "ipa": "/hɪl/",
+    "senses": [
+      { "pos": "noun", "tr": "tepe, yokuş", "def": "an area of land higher than the land around it, but lower than a mountain", "examples": ["Their house is on top of a hill overlooking the town.", "We walked up a steep hill to the castle."] }
+    ],
+    "collocations": ["up the hill", "down the hill", "steep hill", "top of the hill", "rolling hills", "over the hill"],
+    "synonyms": ["slope", "mound", "rise"],
+    "family": [{ "word": "hilly", "pos": "adjective" }, { "word": "hillside", "pos": "noun" }],
+    "note": "\"Over the hill\" (informal) = too old. \"Capitol Hill\" = the US Congress."
+  },
+  {
+    "word": "him",
+    "ipa": "/hɪm/",
+    "senses": [
+      { "pos": "pronoun", "tr": "onu, ona (erkek)", "def": "used as the object to refer to a man, boy, or male animal already mentioned", "examples": ["I saw him at the gym this morning.", "Tell him to call me back."] }
+    ],
+    "collocations": ["with him", "for him", "tell him", "ask him"],
+    "synonyms": [],
+    "family": [{ "word": "he", "pos": "pronoun" }, { "word": "himself", "pos": "pronoun" }],
+    "note": "Object form of \"he\": He likes her, and she likes him."
+  },
+  {
+    "word": "himself",
+    "ipa": "/hɪmˈself/",
+    "senses": [
+      { "pos": "pronoun", "tr": "kendisi(ni), kendine (erkek)", "def": "used as the object when a man or boy does something to himself", "examples": ["He hurt himself playing football.", "My son made himself a sandwich."] },
+      { "pos": "pronoun", "tr": "bizzat, kendisi", "def": "used to emphasize that a particular man did something", "examples": ["The president himself attended the funeral."] }
+    ],
+    "collocations": ["by himself", "enjoy himself", "for himself", "talk to himself"],
+    "synonyms": [],
+    "family": [{ "word": "him", "pos": "pronoun" }],
+    "note": "\"By himself\" = alone or without help."
+  },
+  {
+    "word": "hint",
+    "ipa": "/hɪnt/",
+    "senses": [
+      { "pos": "noun", "tr": "ima, sezdirme, ipucu", "def": "something said or done indirectly to show what you are thinking, or a clue", "examples": ["She dropped a hint that she wanted flowers for her birthday.", "Can you give me a hint? I don't know the answer."] },
+      { "pos": "noun", "tr": "iz, belirti, bir parça", "def": "a small amount or slight sign of something", "examples": ["There was a hint of garlic in the sauce.", "He spoke without a hint of regret."] },
+      { "pos": "noun", "tr": "pratik öneri, tüyo", "def": "a useful piece of advice", "examples": ["The website has helpful hints for first-time buyers."] },
+      { "pos": "verb", "tr": "ima etmek, sezdirmek", "def": "to suggest something indirectly", "examples": ["The CEO hinted that more layoffs were coming."] }
+    ],
+    "collocations": ["drop a hint", "take the hint", "a hint of", "broad hint", "hint at", "helpful hints"],
+    "synonyms": ["clue", "suggestion", "trace", "tip", "imply"],
+    "family": [],
+    "note": "\"Take the hint\" = understand what someone is suggesting indirectly."
+  },
+  {
+    "word": "hip",
+    "ipa": "/hɪp/",
+    "senses": [
+      { "pos": "noun", "tr": "kalça", "def": "the area at either side of the body between the top of the leg and the waist", "examples": ["My grandmother broke her hip when she fell.", "She stood with her hands on her hips."] },
+      { "pos": "adjective", "tr": "moda, popüler, havalı", "def": "(informal) fashionable and modern", "examples": ["The neighborhood is full of hip cafés and galleries."] }
+    ],
+    "collocations": ["hip replacement", "broken hip", "hands on hips", "hip joint", "shoot from the hip"],
+    "synonyms": ["trendy", "cool", "fashionable"],
+    "family": [{ "word": "hipster", "pos": "noun" }],
+    "note": "\"Shoot from the hip\" = speak or act quickly without thinking carefully."
+  }
+]

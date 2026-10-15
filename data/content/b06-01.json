@@ -1,0 +1,1103 @@
+[
+  {
+    "word": "king",
+    "ipa": "/kɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kral",
+        "def": "the male ruler of a country that has a royal family",
+        "examples": ["The king addressed the nation on television after the earthquake.", "She was crowned queen when the old king died."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bir alanın) kralı, en iyisi",
+        "def": "the most important or successful person or thing in a particular field",
+        "examples": ["He was known as the king of rock and roll.", "In the jungle, the lion is often called the king of the animals."]
+      }
+    ],
+    "collocations": ["the King of Spain", "become king", "crown someone king", "the king of something", "king-size bed"],
+    "synonyms": ["monarch", "ruler", "sovereign"],
+    "family": [
+      { "word": "kingdom", "pos": "noun" },
+      { "word": "kingly", "pos": "adjective" },
+      { "word": "kingship", "pos": "noun" }
+    ],
+    "note": "\"King-size\" (extra large) is common for beds and products: a king-size bed."
+  },
+  {
+    "word": "kingdom",
+    "ipa": "/ˈkɪŋdəm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "krallık",
+        "def": "a country whose head of state is a king or queen",
+        "examples": ["The United Kingdom is made up of four countries.", "The ancient kingdom stretched from the mountains to the sea."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(doğa) âlem",
+        "def": "one of the main groups into which living things are divided",
+        "examples": ["Fungi were once classified as part of the plant kingdom."]
+      }
+    ],
+    "collocations": ["the animal kingdom", "the plant kingdom", "an ancient kingdom", "the United Kingdom"],
+    "synonyms": ["realm", "monarchy", "domain"],
+    "family": [{ "word": "king", "pos": "noun" }]
+  },
+  {
+    "word": "kiss",
+    "ipa": "/kɪs/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "öpmek, öpüşmek",
+        "def": "to touch someone with your lips to show love or to say hello or goodbye",
+        "examples": ["She kissed her son on the forehead before he left for school.", "They kissed for the first time under the streetlight."]
+      },
+      {
+        "pos": "noun",
+        "tr": "öpücük, öpüş",
+        "def": "an act of touching someone with your lips",
+        "examples": ["He gave his grandmother a kiss on the cheek.", "She blew him a kiss from the train window."]
+      }
+    ],
+    "collocations": ["give someone a kiss", "kiss someone goodbye", "kiss on the cheek", "blow a kiss", "a goodnight kiss"],
+    "synonyms": ["peck", "smooch"],
+    "family": []
+  },
+  {
+    "word": "kit",
+    "ipa": "/kɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "set, takım, kit",
+        "def": "a set of tools or equipment kept together for a particular purpose",
+        "examples": ["Every car should carry a basic first-aid kit.", "The plumber opened his tool kit and got to work."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kendin monte et) parça seti, maket seti",
+        "def": "a set of parts that you put together yourself to make something",
+        "examples": ["My son spent the weekend building a model airplane from a kit."]
+      }
+    ],
+    "collocations": ["first-aid kit", "tool kit", "emergency kit", "survival kit", "test kit"],
+    "synonyms": ["set", "equipment", "gear"],
+    "family": [],
+    "note": "In British English, \"kit\" also means sports clothes (football kit). Americans say \"uniform\" or \"gear\"."
+  },
+  {
+    "word": "kitchen",
+    "ipa": "/ˈkɪtʃɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mutfak",
+        "def": "the room where food is prepared and cooked",
+        "examples": ["We usually eat breakfast at the kitchen table.", "The restaurant's kitchen was closed for a health inspection."]
+      }
+    ],
+    "collocations": ["kitchen table", "kitchen sink", "kitchen cabinet", "in the kitchen", "kitchen appliances"],
+    "synonyms": [],
+    "family": [{ "word": "kitchenware", "pos": "noun" }]
+  },
+  {
+    "word": "knee",
+    "ipa": "/niː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "diz",
+        "def": "the joint in the middle of your leg where it bends",
+        "examples": ["She hurt her knee while skiing and needed surgery.", "The kids knelt on their knees to look under the bed."]
+      }
+    ],
+    "collocations": ["on your knees", "knee injury", "bend your knees", "knee surgery", "knee-deep"],
+    "synonyms": [],
+    "family": [
+      { "word": "kneel", "pos": "verb" },
+      { "word": "kneecap", "pos": "noun" }
+    ],
+    "note": "The k is silent: /niː/. Related verb: kneel – knelt – knelt."
+  },
+  {
+    "word": "knife",
+    "ipa": "/naɪf/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bıçak",
+        "def": "a tool with a sharp metal blade and a handle, used for cutting or as a weapon",
+        "examples": ["Use a sharp knife to slice the tomatoes.", "Police found the knife used in the attack."]
+      }
+    ],
+    "collocations": ["a sharp knife", "kitchen knife", "knife and fork", "pocket knife", "at knifepoint"],
+    "synonyms": ["blade"],
+    "family": [{ "word": "knifepoint", "pos": "noun" }],
+    "note": "Plural: knives. The k is silent: /naɪf/."
+  },
+  {
+    "word": "knock",
+    "ipa": "/nɑːk/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "(kapıyı) çalmak, vurmak",
+        "def": "to hit a door or window with your hand so that people inside know you are there",
+        "examples": ["Someone knocked on the door just after midnight.", "Please knock before you come into my office."]
+      },
+      {
+        "pos": "verb",
+        "tr": "çarpıp düşürmek, devirmek",
+        "def": "to hit something by accident so that it moves or falls",
+        "examples": ["The cat knocked a glass off the table."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kapı vuruşu, tıklatma",
+        "def": "the sound of someone hitting a door to get attention",
+        "examples": ["There was a loud knock at the door."]
+      }
+    ],
+    "collocations": ["knock on the door", "knock at the door", "knock over", "knock down", "a knock at the door"],
+    "synonyms": ["tap", "rap", "bang", "hit"],
+    "family": [{ "word": "knockout", "pos": "noun" }],
+    "note": "Phrasal verbs: knock down (demolish), knock out (make unconscious), knock over (make fall)."
+  },
+  {
+    "word": "know",
+    "ipa": "/nəʊ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "bilmek",
+        "def": "to have information in your mind because you learned it or were told it",
+        "examples": ["Do you know what time the store closes?", "I didn't know that she had moved to Chicago."]
+      },
+      {
+        "pos": "verb",
+        "tr": "tanımak",
+        "def": "to be familiar with a person or place",
+        "examples": ["I've known him since we were in high school.", "She knows the city really well."]
+      }
+    ],
+    "collocations": ["know about something", "know how to", "get to know", "as far as I know", "let someone know", "you know"],
+    "synonyms": ["be aware of", "realize", "understand", "be familiar with"],
+    "family": [
+      { "word": "knowledge", "pos": "noun" },
+      { "word": "known", "pos": "adjective" },
+      { "word": "unknown", "pos": "adjective" },
+      { "word": "knowledgeable", "pos": "adjective" }
+    ],
+    "note": "Irregular: know – knew – known. Not used in continuous form: say \"I know\", not \"I am knowing\"."
+  },
+  {
+    "word": "knowledge",
+    "ipa": "/ˈnɑːlɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bilgi, birikim",
+        "def": "the information, understanding and skills you get from education or experience",
+        "examples": ["She has a deep knowledge of Japanese history.", "The job requires basic knowledge of accounting software."]
+      },
+      {
+        "pos": "noun",
+        "tr": "haberdar olma, bilgi",
+        "def": "the state of knowing about a particular fact or situation",
+        "examples": ["The deal was made without my knowledge.", "To my knowledge, nobody has complained yet."]
+      }
+    ],
+    "collocations": ["knowledge of something", "general knowledge", "common knowledge", "to my knowledge", "without someone's knowledge", "gain knowledge"],
+    "synonyms": ["understanding", "expertise", "awareness", "learning"],
+    "family": [
+      { "word": "know", "pos": "verb" },
+      { "word": "knowledgeable", "pos": "adjective" },
+      { "word": "acknowledge", "pos": "verb" }
+    ],
+    "note": "Uncountable: say \"a lot of knowledge\", never \"knowledges\" or \"a knowledge\" (except \"a good knowledge of\")."
+  },
+  {
+    "word": "lab",
+    "ipa": "/læb/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "laboratuvar, lab",
+        "def": "a laboratory; a room or building for scientific experiments and testing",
+        "examples": ["The blood samples were sent to the lab for testing.", "Students spend two hours a week in the chemistry lab."]
+      }
+    ],
+    "collocations": ["science lab", "computer lab", "lab results", "lab test", "lab coat"],
+    "synonyms": ["laboratory"],
+    "family": [{ "word": "laboratory", "pos": "noun" }],
+    "note": "Informal short form of \"laboratory\", used far more often in everyday speech."
+  },
+  {
+    "word": "label",
+    "ipa": "/ˈleɪbl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "etiket",
+        "def": "a small piece of paper or material attached to something that gives information about it",
+        "examples": ["Always read the label before taking any medicine.", "The price was printed on a label inside the jacket."]
+      },
+      {
+        "pos": "noun",
+        "tr": "plak şirketi, marka",
+        "def": "a company that produces music recordings, or a brand of clothing",
+        "examples": ["The band signed with a major record label last year."]
+      },
+      {
+        "pos": "verb",
+        "tr": "etiketlemek, damgalamak, yaftalamak",
+        "def": "to attach a label to something, or to describe someone in a way that is often unfair",
+        "examples": ["Make sure all the boxes are clearly labeled.", "He was unfairly labeled a troublemaker at school."]
+      }
+    ],
+    "collocations": ["food label", "warning label", "record label", "clearly labeled", "be labeled as"],
+    "synonyms": ["tag", "sticker", "brand", "classify"],
+    "family": [{ "word": "labeling", "pos": "noun" }],
+    "note": "American spelling: labeled, labeling. British: labelled, labelling."
+  },
+  {
+    "word": "labor",
+    "ipa": "/ˈleɪbər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "emek, iş gücü, (bedensel) çalışma",
+        "def": "work, especially physical work, or the workers who do it",
+        "examples": ["The repair cost $200 for parts and $150 for labor.", "Many farms depend on cheap seasonal labor."]
+      },
+      {
+        "pos": "noun",
+        "tr": "doğum sancısı, doğum",
+        "def": "the process of giving birth to a baby",
+        "examples": ["She went into labor two weeks early."]
+      }
+    ],
+    "collocations": ["manual labor", "cheap labor", "labor costs", "labor market", "child labor", "go into labor"],
+    "synonyms": ["work", "toil", "workforce", "effort"],
+    "family": [
+      { "word": "laborer", "pos": "noun" },
+      { "word": "laborious", "pos": "adjective" }
+    ],
+    "note": "British spelling: labour. \"Labor Day\" is a US holiday in September."
+  },
+  {
+    "word": "laboratory",
+    "ipa": "/ˈlæbrətɔːri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "laboratuvar",
+        "def": "a room or building where scientists do experiments, research or tests",
+        "examples": ["The vaccine was developed in a university laboratory.", "Samples were analyzed in a government laboratory."]
+      }
+    ],
+    "collocations": ["research laboratory", "laboratory test", "laboratory experiment", "in the laboratory", "laboratory conditions"],
+    "synonyms": ["lab"],
+    "family": [{ "word": "lab", "pos": "noun" }],
+    "note": "American stress is on the first syllable: LAB-ruh-tor-ee. British stress: la-BOR-uh-tree."
+  },
+  {
+    "word": "lack",
+    "ipa": "/læk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "eksiklik, yokluk, yetersizlik",
+        "def": "the state of not having something or not having enough of it",
+        "examples": ["The project failed because of a lack of funding.", "Lack of sleep can affect your concentration."]
+      },
+      {
+        "pos": "verb",
+        "tr": "-den yoksun olmak, eksik olmak",
+        "def": "to not have something, or not have enough of it",
+        "examples": ["He's talented but lacks confidence.", "The report lacked any real detail."]
+      }
+    ],
+    "collocations": ["lack of something", "a complete lack of", "for lack of", "lack confidence", "lack experience"],
+    "synonyms": ["shortage", "absence", "deficiency", "be short of"],
+    "family": [{ "word": "lacking", "pos": "adjective" }],
+    "note": "The verb takes a direct object: \"She lacks experience\", not \"lacks of experience\". The noun uses \"of\"."
+  },
+  {
+    "word": "lad",
+    "ipa": "/læd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "delikanlı, oğlan, genç",
+        "def": "a boy or young man",
+        "examples": ["He was just a lad of sixteen when he joined the navy.", "The old farmer hired a local lad to help with the harvest."]
+      }
+    ],
+    "collocations": ["a young lad", "a local lad", "the lads", "just a lad"],
+    "synonyms": ["boy", "youth", "kid"],
+    "family": [],
+    "note": "Mainly British and informal. Americans usually say \"boy\", \"kid\" or \"guy\"."
+  },
+  {
+    "word": "ladder",
+    "ipa": "/ˈlædər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "merdiven (seyyar), el merdiveni",
+        "def": "a piece of equipment with steps between two long sides, used for climbing up and down",
+        "examples": ["He climbed a ladder to clean the gutters.", "Hold the ladder steady while I change the bulb."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(kariyer, sosyal) basamaklar, merdiven",
+        "def": "a series of levels in an organization or society that people try to move up",
+        "examples": ["She worked her way up the corporate ladder."]
+      }
+    ],
+    "collocations": ["climb a ladder", "up a ladder", "the corporate ladder", "the career ladder", "social ladder"],
+    "synonyms": ["steps", "stepladder", "hierarchy"],
+    "family": [{ "word": "stepladder", "pos": "noun" }],
+    "note": "A ladder is portable. Fixed stairs in a building are \"stairs\" or \"a staircase\" — both are \"merdiven\" in Turkish."
+  },
+  {
+    "word": "lady",
+    "ipa": "/ˈleɪdi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "hanım, bayan, hanımefendi",
+        "def": "a polite word for a woman",
+        "examples": ["An elderly lady asked me for directions to the station.", "Ladies and gentlemen, please take your seats."]
+      }
+    ],
+    "collocations": ["ladies and gentlemen", "an old lady", "young lady", "the ladies' room", "first lady"],
+    "synonyms": ["woman"],
+    "family": [{ "word": "ladylike", "pos": "adjective" }],
+    "note": "\"The ladies' room\" is a polite American term for a women's restroom. \"First Lady\" is the president's wife."
+  },
+  {
+    "word": "lake",
+    "ipa": "/leɪk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "göl",
+        "def": "a large area of water surrounded by land",
+        "examples": ["We rented a cabin by the lake for the summer.", "In winter, the lake freezes over completely."]
+      }
+    ],
+    "collocations": ["on the lake", "by the lake", "Lake Michigan", "lake shore", "a frozen lake"],
+    "synonyms": ["pond", "reservoir"],
+    "family": [{ "word": "lakeside", "pos": "noun" }],
+    "note": "In names, \"Lake\" comes first and has no \"the\": Lake Van, Lake Superior."
+  },
+  {
+    "word": "lamp",
+    "ipa": "/læmp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lamba, abajur",
+        "def": "a device that produces light, especially one you can move around",
+        "examples": ["She switched on the lamp beside her bed and started reading.", "The desk lamp was too dim to work by."]
+      }
+    ],
+    "collocations": ["desk lamp", "bedside lamp", "floor lamp", "turn on the lamp", "oil lamp"],
+    "synonyms": ["light"],
+    "family": [{ "word": "lampshade", "pos": "noun" }]
+  },
+  {
+    "word": "land",
+    "ipa": "/lænd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kara, toprak, arazi",
+        "def": "the solid surface of the earth, or an area of ground owned by someone",
+        "examples": ["After three weeks at sea, the sailors finally saw land.", "They bought a piece of land to build a house on."]
+      },
+      {
+        "pos": "noun",
+        "tr": "ülke, diyar",
+        "def": "a country or region (literary)",
+        "examples": ["Immigrants came to this land looking for a better life."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(uçak) inmek, iniş yapmak, konmak",
+        "def": "to come down from the air onto the ground or another surface",
+        "examples": ["Our flight landed in Denver an hour late.", "A bird landed on the windowsill."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(iş, anlaşma) kapmak, elde etmek",
+        "def": "to succeed in getting something good, such as a job or contract (informal)",
+        "examples": ["She landed a job at a major tech company."]
+      }
+    ],
+    "collocations": ["on land", "farm land", "a piece of land", "land safely", "land a job", "land on"],
+    "synonyms": ["ground", "earth", "territory", "touch down"],
+    "family": [
+      { "word": "landing", "pos": "noun" },
+      { "word": "landlord", "pos": "noun" },
+      { "word": "landscape", "pos": "noun" },
+      { "word": "landmark", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "landing",
+    "ipa": "/ˈlændɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "iniş",
+        "def": "the act of bringing an aircraft or spacecraft down to the ground",
+        "examples": ["The pilot made an emergency landing in a field.", "The first moon landing took place in 1969."]
+      },
+      {
+        "pos": "noun",
+        "tr": "merdiven sahanlığı",
+        "def": "the flat area at the top of a set of stairs or between two sets of stairs",
+        "examples": ["The kids left their shoes on the landing outside the bedroom."]
+      }
+    ],
+    "collocations": ["emergency landing", "safe landing", "crash landing", "smooth landing", "moon landing"],
+    "synonyms": ["touchdown", "arrival"],
+    "family": [{ "word": "land", "pos": "verb" }],
+    "note": "Opposite of \"takeoff\". A \"landing page\" is the first web page a visitor arrives at."
+  },
+  {
+    "word": "landlord",
+    "ipa": "/ˈlændlɔːrd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ev sahibi, mal sahibi (kiraya veren)",
+        "def": "a person or company that rents a house, apartment or office to someone",
+        "examples": ["Our landlord raised the rent by ten percent this year.", "Call the landlord if the heating stops working."]
+      }
+    ],
+    "collocations": ["the landlord raised the rent", "private landlord", "landlord and tenant", "absentee landlord"],
+    "synonyms": ["owner", "property owner", "lessor"],
+    "family": [
+      { "word": "landlady", "pos": "noun" },
+      { "word": "tenant", "pos": "noun" }
+    ],
+    "note": "Trap: Turkish \"ev sahibi\" also means \"host\". In English, landlord = the person you pay rent to; host = the person who invites guests."
+  },
+  {
+    "word": "landmark",
+    "ipa": "/ˈlændmɑːrk/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "simge yapı, önemli yer işareti",
+        "def": "a building or place that is easy to see and recognize and helps you know where you are",
+        "examples": ["The Golden Gate Bridge is San Francisco's most famous landmark.", "Turn left at the old church; it's a good landmark."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dönüm noktası, mihenk taşı",
+        "def": "an event, discovery or decision that marks an important stage or change",
+        "examples": ["The court's ruling was a landmark in civil rights history.", "It was a landmark decision for gay rights."]
+      }
+    ],
+    "collocations": ["famous landmark", "local landmark", "historic landmark", "landmark decision", "landmark case", "landmark ruling"],
+    "synonyms": ["milestone", "turning point", "monument"],
+    "family": [],
+    "note": "\"Landmark\" is often used before a noun: a landmark ruling/case/study (= very important, historic)."
+  },
+  {
+    "word": "landscape",
+    "ipa": "/ˈlændskeɪp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "manzara, peyzaj, doğal görünüm",
+        "def": "everything you can see when you look across a large area of land",
+        "examples": ["The desert landscape was flat and empty for miles.", "Wind farms have changed the rural landscape."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bir alanın) genel durumu, tablo",
+        "def": "the general situation in a particular area of activity",
+        "examples": ["Streaming services have transformed the media landscape."]
+      }
+    ],
+    "collocations": ["rural landscape", "urban landscape", "political landscape", "media landscape", "landscape architect"],
+    "synonyms": ["scenery", "view", "terrain", "scene"],
+    "family": [{ "word": "landscaping", "pos": "noun" }],
+    "note": "\"Landscape\" also means horizontal page orientation (opposite: portrait)."
+  },
+  {
+    "word": "lane",
+    "ipa": "/leɪn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şerit",
+        "def": "one of the parts of a road marked for a single line of traffic",
+        "examples": ["The truck suddenly moved into the left lane.", "Only buses can use this lane during rush hour."]
+      },
+      {
+        "pos": "noun",
+        "tr": "dar yol, patika, köy yolu",
+        "def": "a narrow road, especially in the countryside",
+        "examples": ["We walked down a quiet country lane lined with trees."]
+      }
+    ],
+    "collocations": ["fast lane", "bike lane", "change lanes", "left lane", "country lane", "the slow lane"],
+    "synonyms": ["track", "path", "alley"],
+    "family": [],
+    "note": "\"Life in the fast lane\" means an exciting, busy, often risky lifestyle."
+  },
+  {
+    "word": "language",
+    "ipa": "/ˈlæŋɡwɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dil, lisan",
+        "def": "the system of words and grammar used by the people of a particular country or group",
+        "examples": ["She speaks three languages fluently.", "English is the official language of the conference."]
+      },
+      {
+        "pos": "noun",
+        "tr": "üslup, dil, ifade biçimi",
+        "def": "a particular style of speaking or writing, or words of a certain type",
+        "examples": ["The contract is written in very technical language.", "Watch your language — there are children here."]
+      }
+    ],
+    "collocations": ["foreign language", "native language", "body language", "learn a language", "speak a language", "bad language"],
+    "synonyms": ["tongue", "speech", "wording", "vocabulary"],
+    "family": [
+      { "word": "linguistic", "pos": "adjective" },
+      { "word": "linguist", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "lap",
+    "ipa": "/læp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kucak",
+        "def": "the flat area formed by the top of your legs when you sit down",
+        "examples": ["The cat jumped onto my lap and fell asleep.", "She sat with her hands folded in her lap."]
+      },
+      {
+        "pos": "noun",
+        "tr": "tur (yarış, havuz)",
+        "def": "one trip around a track or one length of a swimming pool",
+        "examples": ["He swims thirty laps every morning before work.", "The leader crashed on the final lap."]
+      }
+    ],
+    "collocations": ["sit on someone's lap", "in your lap", "final lap", "swim laps", "lap of honor"],
+    "synonyms": ["circuit", "round", "loop"],
+    "family": [{ "word": "laptop", "pos": "noun" }],
+    "note": "\"Fall into your lap\" means to get something good without effort."
+  },
+  {
+    "word": "laptop",
+    "ipa": "/ˈlæptɑːp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dizüstü bilgisayar, laptop",
+        "def": "a small computer that runs on a battery and is easy to carry",
+        "examples": ["I always bring my laptop when I work from a café.", "The battery on my old laptop only lasts an hour."]
+      }
+    ],
+    "collocations": ["laptop computer", "on my laptop", "laptop bag", "open your laptop", "a new laptop"],
+    "synonyms": ["notebook", "computer"],
+    "family": [],
+    "note": "\"Desktop\" is the non-portable kind."
+  },
+  {
+    "word": "large",
+    "ipa": "/lɑːrdʒ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "büyük, geniş, iri",
+        "def": "big in size, amount or number",
+        "examples": ["They live in a large house with a big backyard.", "A large number of people attended the protest."]
+      }
+    ],
+    "collocations": ["a large number of", "a large amount of", "large-scale", "at large", "by and large", "large size"],
+    "synonyms": ["big", "huge", "sizable", "substantial"],
+    "family": [
+      { "word": "largely", "pos": "adverb" },
+      { "word": "enlarge", "pos": "verb" },
+      { "word": "enlargement", "pos": "noun" }
+    ],
+    "note": "Trap: \"large\" means big, not \"wide\" (= geniş in width). \"At large\" = not yet caught; \"by and large\" = generally."
+  },
+  {
+    "word": "large-scale",
+    "ipa": "/ˌlɑːrdʒ ˈskeɪl/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "büyük çaplı, geniş kapsamlı",
+        "def": "involving many people or things, or happening over a wide area",
+        "examples": ["The government launched a large-scale vaccination program.", "Large-scale protests broke out across the country."]
+      }
+    ],
+    "collocations": ["large-scale project", "large-scale production", "large-scale study", "large-scale attack"],
+    "synonyms": ["extensive", "wide-ranging", "massive", "major"],
+    "family": [],
+    "note": "Opposite: small-scale. Used before a noun."
+  },
+  {
+    "word": "largely",
+    "ipa": "/ˈlɑːrdʒli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "büyük ölçüde, çoğunlukla, esas olarak",
+        "def": "to a great degree; mostly",
+        "examples": ["The success of the project was largely due to her hard work.", "The town's economy is largely based on tourism."]
+      }
+    ],
+    "collocations": ["largely due to", "largely because", "largely ignored", "largely responsible", "remain largely unchanged"],
+    "synonyms": ["mainly", "mostly", "chiefly", "primarily"],
+    "family": [{ "word": "large", "pos": "adjective" }]
+  },
+  {
+    "word": "laser",
+    "ipa": "/ˈleɪzər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "lazer",
+        "def": "a device that produces a strong, narrow beam of light used for cutting, surgery, etc.",
+        "examples": ["The surgeon used a laser to correct her eyesight.", "The factory uses lasers to cut sheets of metal."]
+      }
+    ],
+    "collocations": ["laser beam", "laser surgery", "laser printer", "laser pointer", "laser treatment"],
+    "synonyms": [],
+    "family": [],
+    "note": "\"Laser-focused\" means extremely concentrated on one goal."
+  },
+  {
+    "word": "last",
+    "ipa": "/læst/",
+    "senses": [
+      {
+        "pos": "determiner",
+        "tr": "son, sonuncu",
+        "def": "coming after all others; final",
+        "examples": ["We caught the last train home.", "She was the last person to leave the office."]
+      },
+      {
+        "pos": "determiner",
+        "tr": "geçen, önceki",
+        "def": "most recent; the one before the present one",
+        "examples": ["I saw him last week at the gym.", "Last night's game went into overtime."]
+      },
+      {
+        "pos": "verb",
+        "tr": "sürmek, devam etmek, dayanmak",
+        "def": "to continue for a particular length of time, or to stay in good condition",
+        "examples": ["The meeting lasted three hours.", "These batteries last much longer than cheap ones."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "en son, sonuncu olarak",
+        "def": "after everything or everyone else, or most recently",
+        "examples": ["Our team finished last in the league.", "When did you last see your wallet?"]
+      }
+    ],
+    "collocations": ["last week", "last night", "at last", "the last time", "last minute", "last for"],
+    "synonyms": ["final", "previous", "continue", "endure"],
+    "family": [
+      { "word": "lasting", "pos": "adjective" },
+      { "word": "lastly", "pos": "adverb" },
+      { "word": "everlasting", "pos": "adjective" }
+    ],
+    "note": "No \"the\" before time words: \"last week\", not \"the last week\" (which means \"the past seven days\")."
+  },
+  {
+    "word": "late",
+    "ipa": "/leɪt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "geç, gecikmiş",
+        "def": "arriving or happening after the expected or usual time",
+        "examples": ["Sorry I'm late — the traffic was terrible.", "The train was twenty minutes late."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(bir dönemin) sonları, geç",
+        "def": "near the end of a period of time",
+        "examples": ["The house was built in the late 1800s.", "She's in her late thirties."]
+      },
+      {
+        "pos": "adverb",
+        "tr": "geç",
+        "def": "after the expected or usual time, or near the end of a period",
+        "examples": ["He stayed up late watching movies.", "The package arrived two days late."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "merhum, rahmetli",
+        "def": "used about someone who has died, especially recently",
+        "examples": ["The award was named after her late husband."]
+      }
+    ],
+    "collocations": ["be late for", "late at night", "too late", "stay up late", "in the late 1990s", "run late"],
+    "synonyms": ["delayed", "overdue", "behind schedule", "deceased"],
+    "family": [
+      { "word": "lately", "pos": "adverb" },
+      { "word": "later", "pos": "adverb" },
+      { "word": "latest", "pos": "adjective" },
+      { "word": "lateness", "pos": "noun" }
+    ],
+    "note": "The adverb is \"late\", not \"lately\": \"I arrived late\". \"Lately\" means \"recently\"."
+  },
+  {
+    "word": "lately",
+    "ipa": "/ˈleɪtli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "son zamanlarda, son günlerde",
+        "def": "recently; during the period just before now",
+        "examples": ["Have you talked to Mark lately?", "I've been feeling really tired lately."]
+      }
+    ],
+    "collocations": ["until lately", "lately I've been", "more lately"],
+    "synonyms": ["recently", "of late", "these days"],
+    "family": [{ "word": "late", "pos": "adjective" }],
+    "note": "Usually with the present perfect: \"I haven't seen her lately.\" It does not mean \"late\"."
+  },
+  {
+    "word": "later",
+    "ipa": "/ˈleɪtər/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "sonra, daha sonra, ileride",
+        "def": "at a time in the future, or after the time you are talking about",
+        "examples": ["I'll call you back later tonight.", "Two years later, they got married."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "sonraki, ilerleyen",
+        "def": "coming after something else, or happening in the future",
+        "examples": ["The issue will be discussed at a later date.", "In later life, she became a painter."]
+      }
+    ],
+    "collocations": ["see you later", "later on", "sooner or later", "at a later date", "no later than", "years later"],
+    "synonyms": ["afterward", "subsequently", "subsequent", "future"],
+    "family": [
+      { "word": "late", "pos": "adjective" },
+      { "word": "latter", "pos": "adjective" }
+    ],
+    "note": "Don't confuse with \"latter\" (/ˈlætər/), which means the second of two things mentioned."
+  },
+  {
+    "word": "latest",
+    "ipa": "/ˈleɪtɪst/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "en son, en yeni",
+        "def": "the most recent or newest",
+        "examples": ["Have you seen the latest episode of the show?", "The latest figures show unemployment is falling."]
+      },
+      {
+        "pos": "noun",
+        "tr": "en son haber, en son çıkan şey",
+        "def": "the newest thing, fashion or piece of news",
+        "examples": ["This phone is the latest in smartphone technology.", "Stay tuned for the latest on the storm."]
+      }
+    ],
+    "collocations": ["the latest news", "the latest version", "the latest fashion", "at the latest", "the latest figures"],
+    "synonyms": ["newest", "most recent", "up-to-date", "current"],
+    "family": [{ "word": "late", "pos": "adjective" }],
+    "note": "\"At the latest\" sets a deadline: \"Send it by Friday at the latest.\""
+  },
+  {
+    "word": "latter",
+    "ipa": "/ˈlætər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(ikincisi) sonuncusu, ikincisi",
+        "def": "the second of two people or things just mentioned",
+        "examples": ["Given the choice of tea or coffee, most people chose the latter.", "Of the two plans, the latter seems more realistic."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "son, sonraki (dönem)",
+        "def": "near the end of a period of time",
+        "examples": ["The company grew quickly in the latter half of the decade."]
+      }
+    ],
+    "collocations": ["the latter", "the latter half", "the latter part of", "the former and the latter", "in the latter case"],
+    "synonyms": ["second", "last-mentioned", "later"],
+    "family": [{ "word": "latterly", "pos": "adverb" }],
+    "note": "Opposite: \"the former\" (the first of two). Formal; always used with \"the\"."
+  },
+  {
+    "word": "laugh",
+    "ipa": "/læf/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "gülmek",
+        "def": "to make sounds and move your face in a way that shows you think something is funny",
+        "examples": ["Everyone laughed at his joke about the boss.", "We laughed until we cried."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(biriyle) alay etmek, gülmek",
+        "def": "to show that you think someone or something is silly or not serious",
+        "examples": ["The other kids laughed at him because of his accent."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gülüş, kahkaha",
+        "def": "the sound you make when you think something is funny",
+        "examples": ["She has a loud, warm laugh.", "The comedian got a big laugh from the audience."]
+      }
+    ],
+    "collocations": ["laugh at", "laugh out loud", "burst out laughing", "have a laugh", "make someone laugh", "for a laugh"],
+    "synonyms": ["giggle", "chuckle", "chortle"],
+    "family": [
+      { "word": "laughter", "pos": "noun" },
+      { "word": "laughable", "pos": "adjective" }
+    ],
+    "note": "\"Laugh at\" can mean mocking. The gh is pronounced /f/."
+  },
+  {
+    "word": "laughter",
+    "ipa": "/ˈlæftər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kahkaha, gülüşme",
+        "def": "the act or sound of laughing",
+        "examples": ["The room was full of laughter during the wedding speech.", "The audience burst into laughter."]
+      }
+    ],
+    "collocations": ["burst into laughter", "roar with laughter", "loud laughter", "the sound of laughter", "laughter is the best medicine"],
+    "synonyms": ["laughing", "giggling", "amusement"],
+    "family": [{ "word": "laugh", "pos": "verb" }],
+    "note": "Uncountable: \"a lot of laughter\", not \"laughters\"."
+  },
+  {
+    "word": "launch",
+    "ipa": "/lɔːntʃ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "başlatmak, (kampanya) açmak",
+        "def": "to start a planned activity, especially a large or important one",
+        "examples": ["Police have launched an investigation into the fire.", "The charity launched a campaign to reduce plastic waste."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(ürün) piyasaya sürmek, tanıtmak",
+        "def": "to make a new product available to the public",
+        "examples": ["The company will launch its new phone in September."]
+      },
+      {
+        "pos": "verb",
+        "tr": "fırlatmak, denize indirmek",
+        "def": "to send a rocket or missile into the air or a boat into the water",
+        "examples": ["The rocket was launched from Florida early this morning."]
+      },
+      {
+        "pos": "noun",
+        "tr": "lansman, tanıtım; fırlatma",
+        "def": "the act of starting or introducing something, or of sending a rocket into space",
+        "examples": ["The product launch was streamed live online.", "The launch was delayed because of bad weather."]
+      }
+    ],
+    "collocations": ["launch an investigation", "launch a campaign", "launch a product", "launch an attack", "product launch", "launch date"],
+    "synonyms": ["start", "begin", "introduce", "release", "fire"],
+    "family": [{ "word": "launcher", "pos": "noun" }]
+  },
+  {
+    "word": "law",
+    "ipa": "/lɔː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kanun, yasa",
+        "def": "an official rule made by a government that everyone must obey",
+        "examples": ["There's a law against texting while driving in most states.", "Congress passed a new law on data privacy."]
+      },
+      {
+        "pos": "noun",
+        "tr": "hukuk",
+        "def": "the whole system of rules in a country, or the subject of study about them",
+        "examples": ["She studied law at Harvard.", "Everyone is equal under the law."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(bilim) yasa, kural",
+        "def": "a statement describing what always happens in science or nature",
+        "examples": ["The law of gravity explains why objects fall."]
+      }
+    ],
+    "collocations": ["break the law", "obey the law", "pass a law", "against the law", "law enforcement", "law firm"],
+    "synonyms": ["rule", "regulation", "legislation", "statute"],
+    "family": [
+      { "word": "lawyer", "pos": "noun" },
+      { "word": "lawful", "pos": "adjective" },
+      { "word": "unlawful", "pos": "adjective" },
+      { "word": "lawsuit", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "lawn",
+    "ipa": "/lɔːn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "çim, çimenlik",
+        "def": "an area of short, cut grass, especially in front of or behind a house",
+        "examples": ["He mows the lawn every Saturday morning.", "The kids were playing on the front lawn."]
+      }
+    ],
+    "collocations": ["mow the lawn", "front lawn", "lawn mower", "back lawn", "keep off the lawn"],
+    "synonyms": ["grass", "yard", "turf"],
+    "family": [{ "word": "lawnmower", "pos": "noun" }]
+  },
+  {
+    "word": "lawsuit",
+    "ipa": "/ˈlɔːsuːt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "dava",
+        "def": "a claim that a person or organization brings to a court of law against another",
+        "examples": ["The family filed a lawsuit against the hospital.", "The company settled the lawsuit out of court."]
+      }
+    ],
+    "collocations": ["file a lawsuit", "bring a lawsuit", "settle a lawsuit", "face a lawsuit", "class-action lawsuit"],
+    "synonyms": ["suit", "case", "legal action", "litigation"],
+    "family": [],
+    "note": "Common verb pair: file a lawsuit (= dava açmak). You can also \"sue\" someone."
+  },
+  {
+    "word": "lawyer",
+    "ipa": "/ˈlɔɪər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "avukat",
+        "def": "a person trained to advise people about the law and represent them in court",
+        "examples": ["You should talk to a lawyer before signing that contract.", "Her lawyer said she would appeal the decision."]
+      }
+    ],
+    "collocations": ["hire a lawyer", "defense lawyer", "consult a lawyer", "lawyer for", "divorce lawyer"],
+    "synonyms": ["attorney", "counsel", "legal advisor"],
+    "family": [{ "word": "law", "pos": "noun" }],
+    "note": "In American English, \"attorney\" is common and more formal."
+  },
+  {
+    "word": "lay",
+    "ipa": "/leɪ/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "koymak, yatırmak, sermek",
+        "def": "to put someone or something down carefully in a flat position",
+        "examples": ["She laid the baby gently in the crib.", "Lay the map on the table so we can all see it."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yumurtlamak",
+        "def": "to produce eggs",
+        "examples": ["Our chickens lay about six eggs a day."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(temel, plan) atmak, ortaya koymak",
+        "def": "to prepare or establish something, especially the basis for later development",
+        "examples": ["These early studies helped lay the foundation for modern medicine."]
+      }
+    ],
+    "collocations": ["lay something down", "lay eggs", "lay the foundation", "lay the groundwork", "lay off", "lay the blame"],
+    "synonyms": ["put", "place", "set down", "spread"],
+    "family": [
+      { "word": "layer", "pos": "noun" },
+      { "word": "layout", "pos": "noun" },
+      { "word": "layoff", "pos": "noun" }
+    ],
+    "note": "Lay – laid – laid needs an object (lay the book down). Lie – lay – lain has no object (lie on the bed). \"Lay off\" = fire workers."
+  },
+  {
+    "word": "layer",
+    "ipa": "/ˈleɪər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "katman, tabaka, kat",
+        "def": "a quantity or sheet of something that lies over a surface or between surfaces",
+        "examples": ["A thin layer of dust covered the furniture.", "Wear several layers of clothing when you go hiking in winter."]
+      },
+      {
+        "pos": "noun",
+        "tr": "katman, düzey",
+        "def": "a level or part within a system or set of ideas",
+        "examples": ["Each new layer of bureaucracy slowed the project down."]
+      }
+    ],
+    "collocations": ["a thin layer", "a thick layer", "layer of dust", "ozone layer", "outer layer", "layers of clothing"],
+    "synonyms": ["coat", "coating", "sheet", "level", "tier"],
+    "family": [{ "word": "layered", "pos": "adjective" }]
+  },
+  {
+    "word": "layout",
+    "ipa": "/ˈleɪaʊt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yerleşim, düzen, sayfa düzeni",
+        "def": "the way the parts of something, such as a page, room or building, are arranged",
+        "examples": ["We changed the layout of the kitchen to make more space.", "The website has a clean, simple layout."]
+      }
+    ],
+    "collocations": ["page layout", "the layout of the building", "floor layout", "design and layout", "change the layout"],
+    "synonyms": ["arrangement", "design", "plan", "format"],
+    "family": [{ "word": "lay out", "pos": "verb" }],
+    "note": "Noun is one word (layout); the phrasal verb is two words (lay out the plans)."
+  },
+  {
+    "word": "lazy",
+    "ipa": "/ˈleɪzi/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "tembel, üşengeç",
+        "def": "not willing to work or make an effort",
+        "examples": ["He's too lazy to cook, so he orders takeout every night.", "The teacher said the essay was lazy and poorly researched."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(zaman) tembel, rahat, ağırdan alınan",
+        "def": "relaxed and without much activity",
+        "examples": ["We spent a lazy Sunday afternoon in the park."]
+      }
+    ],
+    "collocations": ["too lazy to", "lazy afternoon", "lazy Sunday", "lazy person", "a lazy day"],
+    "synonyms": ["idle", "slack", "inactive", "sluggish"],
+    "family": [
+      { "word": "laziness", "pos": "noun" },
+      { "word": "lazily", "pos": "adverb" }
+    ]
+  }
+]

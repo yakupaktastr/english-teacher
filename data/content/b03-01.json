@@ -1,0 +1,1157 @@
+[
+  {
+    "word": "cooperate",
+    "ipa": "/kəʊˈɑːpəreɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "iş birliği yapmak, birlikte çalışmak",
+        "def": "to work together with other people or groups to achieve a shared goal",
+        "examples": ["The two hospitals agreed to cooperate on the new cancer study.", "Local residents cooperated with police during the search."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yardımcı olmak, söyleneni yapmak",
+        "def": "to be helpful by doing what someone asks you to do",
+        "examples": ["The suspect refused to cooperate and asked for a lawyer.", "If the weather cooperates, we'll eat outside tonight."]
+      }
+    ],
+    "collocations": ["cooperate with someone", "cooperate on something", "cooperate fully", "refuse to cooperate", "cooperate closely"],
+    "synonyms": ["collaborate", "work together", "team up", "assist"],
+    "family": [
+      { "word": "cooperation", "pos": "noun" },
+      { "word": "cooperative", "pos": "adjective" },
+      { "word": "uncooperative", "pos": "adjective" },
+      { "word": "cooperatively", "pos": "adverb" }
+    ],
+    "note": "Also spelled co-operate, mostly in British English. \"If the weather cooperates\" is a common informal expression."
+  },
+  {
+    "word": "cooperative",
+    "ipa": "/kəʊˈɑːpərətɪv/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "ortak, iş birliğine dayalı",
+        "def": "involving people or groups working together toward a shared aim",
+        "examples": ["The research was a cooperative effort between three universities.", "The countries launched a cooperative program to clean up the river."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "yardımsever, iş birliğine açık",
+        "def": "willing to help and do what people ask",
+        "examples": ["The staff at the hotel were very cooperative when we lost our keys.", "Most witnesses were cooperative, but one refused to talk."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kooperatif",
+        "def": "a business or farm owned and run by the people who work in it or use it",
+        "examples": ["The farmers formed a cooperative to sell their coffee directly."]
+      }
+    ],
+    "collocations": ["cooperative effort", "cooperative venture", "highly cooperative", "housing cooperative", "farmers' cooperative"],
+    "synonyms": ["collaborative", "joint", "helpful", "obliging"],
+    "family": [
+      { "word": "cooperate", "pos": "verb" },
+      { "word": "cooperation", "pos": "noun" },
+      { "word": "cooperatively", "pos": "adverb" },
+      { "word": "uncooperative", "pos": "adjective" }
+    ],
+    "note": "Informally shortened to \"co-op\" for the noun (a food co-op, a co-op apartment)."
+  },
+  {
+    "word": "coordinate",
+    "ipa": "/kəʊˈɔːrdɪneɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "koordine etmek, düzenlemek, eşgüdüm sağlamak",
+        "def": "to organize the different parts of an activity and the people involved so that they work well together",
+        "examples": ["She coordinated the relief effort after the flood.", "We need someone to coordinate the volunteers on race day."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(hareket, renk vb.) uyum sağlamak, uyumlu hale getirmek",
+        "def": "to make body movements work well together, or to make colors or clothes match",
+        "examples": ["Young children find it hard to coordinate their hand and eye movements.", "She always coordinates her scarf with her shoes."]
+      },
+      {
+        "pos": "noun",
+        "tr": "koordinat",
+        "def": "one of a pair of numbers that show the exact position of a point on a map or graph",
+        "examples": ["The pilot radioed the coordinates of the crash site."]
+      }
+    ],
+    "collocations": ["coordinate efforts", "coordinate activities", "closely coordinated", "coordinate with someone", "GPS coordinates"],
+    "synonyms": ["organize", "arrange", "manage", "match"],
+    "family": [
+      { "word": "coordination", "pos": "noun" },
+      { "word": "coordinator", "pos": "noun" },
+      { "word": "coordinated", "pos": "adjective" },
+      { "word": "uncoordinated", "pos": "adjective" }
+    ],
+    "note": "The verb ends in /eɪt/; the noun \"coordinate\" usually ends in /ət/."
+  },
+  {
+    "word": "coordination",
+    "ipa": "/kəʊˌɔːrdɪˈneɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "koordinasyon, eşgüdüm",
+        "def": "the organizing of people or groups so that they work together efficiently",
+        "examples": ["Better coordination between agencies could have prevented the disaster.", "The event required close coordination with city officials."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(beden) koordinasyon, denge ve uyum",
+        "def": "the ability to control your body so that different parts move well together",
+        "examples": ["Dancing is a great way to improve balance and coordination.", "Too much alcohol affects your coordination."]
+      }
+    ],
+    "collocations": ["close coordination", "lack of coordination", "in coordination with", "hand-eye coordination", "improve coordination"],
+    "synonyms": ["organization", "cooperation", "teamwork", "harmony"],
+    "family": [
+      { "word": "coordinate", "pos": "verb" },
+      { "word": "coordinator", "pos": "noun" },
+      { "word": "coordinated", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "coordinator",
+    "ipa": "/kəʊˈɔːrdɪneɪtər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "koordinatör, sorumlu",
+        "def": "a person whose job is to organize an activity and the people involved in it",
+        "examples": ["The wedding coordinator made sure everything ran on time.", "Contact the program coordinator if you have questions about the schedule."]
+      }
+    ],
+    "collocations": ["project coordinator", "event coordinator", "volunteer coordinator", "program coordinator", "act as coordinator"],
+    "synonyms": ["organizer", "manager", "supervisor"],
+    "family": [
+      { "word": "coordinate", "pos": "verb" },
+      { "word": "coordination", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "cop",
+    "ipa": "/kɑːp/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "polis, aynasız (argo)",
+        "def": "(informal) a police officer",
+        "examples": ["A cop pulled him over for running a red light.", "The neighbors called the cops because the party was too loud."]
+      }
+    ],
+    "collocations": ["call the cops", "a traffic cop", "cop show", "undercover cop", "good cop, bad cop"],
+    "synonyms": ["police officer", "officer", "policeman"],
+    "family": [],
+    "note": "Informal but very common in American English. \"Good cop, bad cop\" describes two people using friendly and tough methods together."
+  },
+  {
+    "word": "cope",
+    "ipa": "/kəʊp/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "başa çıkmak, üstesinden gelmek, baş etmek",
+        "def": "to deal successfully with a difficult situation or problem",
+        "examples": ["She's coping well with the stress of her new job.", "The hospital couldn't cope with the sudden rise in patients."]
+      }
+    ],
+    "collocations": ["cope with something", "learn to cope", "unable to cope", "cope well", "coping strategies", "struggle to cope"],
+    "synonyms": ["manage", "handle", "deal with", "get by"],
+    "family": [{ "word": "coping", "pos": "noun" }],
+    "note": "Almost always followed by \"with\": cope with pressure, NOT \"cope pressure\"."
+  },
+  {
+    "word": "copper",
+    "ipa": "/ˈkɑːpər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "bakır",
+        "def": "a soft reddish-brown metal used for electrical wires, pipes, and coins",
+        "examples": ["Thieves stripped the copper wiring from the empty building.", "Copper prices rose sharply as demand for electric cars grew."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "bakır rengi, kızıl kahverengi",
+        "def": "having a reddish-brown color like the metal",
+        "examples": ["She has long copper hair and green eyes."]
+      }
+    ],
+    "collocations": ["copper wire", "copper pipes", "copper mine", "copper pot", "copper-colored"],
+    "synonyms": [],
+    "family": [{ "word": "copper-colored", "pos": "adjective" }],
+    "note": "In British slang, \"copper\" also means a police officer; Americans say \"cop\"."
+  },
+  {
+    "word": "copy",
+    "ipa": "/ˈkɑːpi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kopya, suret, nüsha",
+        "def": "something made to look exactly like something else, or one example of a book, newspaper, etc.",
+        "examples": ["Please keep a copy of the receipt for your records.", "The novel sold over a million copies in its first year."]
+      },
+      {
+        "pos": "verb",
+        "tr": "kopyalamak, çoğaltmak",
+        "def": "to make something that is exactly the same as something else",
+        "examples": ["Copy the file onto a USB drive before you reinstall the system.", "He copied the address from the envelope."]
+      },
+      {
+        "pos": "verb",
+        "tr": "taklit etmek, kopya çekmek",
+        "def": "to behave like someone else, or to cheat by using another person's work",
+        "examples": ["Kids often copy what they see their parents do.", "The teacher caught two students copying during the exam."]
+      }
+    ],
+    "collocations": ["make a copy", "a hard copy", "a free copy", "copy and paste", "copy someone's homework", "a backup copy"],
+    "synonyms": ["duplicate", "replica", "reproduce", "imitate"],
+    "family": [
+      { "word": "copier", "pos": "noun" },
+      { "word": "copycat", "pos": "noun" },
+      { "word": "photocopy", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "copyright",
+    "ipa": "/ˈkɑːpiraɪt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "telif hakkı",
+        "def": "the legal right to be the only one who can publish, copy, or perform a piece of creative work",
+        "examples": ["The band sued the website for copyright infringement.", "Who holds the copyright on these photographs?"]
+      }
+    ],
+    "collocations": ["copyright infringement", "copyright law", "hold the copyright", "protected by copyright", "breach of copyright"],
+    "synonyms": ["intellectual property rights"],
+    "family": [{ "word": "copyrighted", "pos": "adjective" }],
+    "note": "Spelled with -right, not -write: it is about the right to copy."
+  },
+  {
+    "word": "core",
+    "ipa": "/kɔːr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "öz, çekirdek, esas kısım",
+        "def": "the most important or central part of something",
+        "examples": ["Trust is at the core of any good relationship.", "The core of the problem is a lack of funding."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(meyve) çekirdekli orta kısım, (gezegen) çekirdek",
+        "def": "the hard center of some fruits, or the central part of a planet",
+        "examples": ["He ate the apple and threw the core in the trash.", "The Earth's core is extremely hot."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "temel, ana, asıl",
+        "def": "most important; main or essential",
+        "examples": ["Honesty is one of the company's core values.", "Math and reading are core subjects in every school."]
+      }
+    ],
+    "collocations": ["core values", "core business", "at the core of", "core subjects", "to the core", "core strength"],
+    "synonyms": ["center", "heart", "essence", "central", "fundamental"],
+    "family": [],
+    "note": "\"To the core\" means completely: \"She was shocked to the core.\""
+  },
+  {
+    "word": "corner",
+    "ipa": "/ˈkɔːrnər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "köşe",
+        "def": "the place where two sides, edges, or streets meet",
+        "examples": ["There's a coffee shop on the corner of Main and Fifth.", "Put the lamp in the corner of the room."]
+      },
+      {
+        "pos": "noun",
+        "tr": "zor durum, çıkmaz",
+        "def": "a difficult situation that is hard to escape from",
+        "examples": ["The company has backed itself into a corner with these promises."]
+      },
+      {
+        "pos": "verb",
+        "tr": "köşeye sıkıştırmak",
+        "def": "to trap a person or animal so they cannot escape",
+        "examples": ["Reporters cornered the senator as he left the building."]
+      }
+    ],
+    "collocations": ["around the corner", "on the corner", "in the corner", "turn the corner", "cut corners", "back someone into a corner"],
+    "synonyms": ["angle", "bend", "trap"],
+    "family": [{ "word": "cornered", "pos": "adjective" }],
+    "note": "\"Cut corners\" = do something cheaply or carelessly. \"Around the corner\" can also mean \"very soon\"."
+  },
+  {
+    "word": "corporate",
+    "ipa": "/ˈkɔːrpərət/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "kurumsal, şirketle ilgili",
+        "def": "connected with a large company or companies in general",
+        "examples": ["She left her corporate job to open a bakery.", "Critics say corporate interests have too much influence on politics."]
+      }
+    ],
+    "collocations": ["corporate culture", "corporate world", "corporate tax", "corporate responsibility", "corporate headquarters", "corporate ladder"],
+    "synonyms": ["business", "company", "commercial"],
+    "family": [
+      { "word": "corporation", "pos": "noun" },
+      { "word": "corporately", "pos": "adverb" }
+    ],
+    "note": "\"Climb the corporate ladder\" means to get promoted step by step inside a company."
+  },
+  {
+    "word": "corporation",
+    "ipa": "/ˌkɔːrpəˈreɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "şirket, büyük şirket, anonim şirket",
+        "def": "a large business company, especially one that is legally treated as a single unit",
+        "examples": ["He works for a multinational corporation with offices in 40 countries.", "Large corporations often pay lower tax rates than small businesses."]
+      }
+    ],
+    "collocations": ["multinational corporation", "large corporation", "corporation tax", "public corporation", "run a corporation"],
+    "synonyms": ["company", "firm", "business", "enterprise"],
+    "family": [
+      { "word": "corporate", "pos": "adjective" },
+      { "word": "incorporate", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "correct",
+    "ipa": "/kəˈrekt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "doğru, hatasız",
+        "def": "accurate or true, with no mistakes",
+        "examples": ["Is this the correct address for the restaurant?", "You're correct: the meeting was moved to Thursday."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "uygun, yerinde",
+        "def": "right or suitable for a particular situation",
+        "examples": ["What's the correct way to address a judge in court?"]
+      },
+      {
+        "pos": "verb",
+        "tr": "düzeltmek, hatalarını gidermek",
+        "def": "to make something right by fixing its mistakes, or to point out someone's mistake",
+        "examples": ["The teacher corrected our essays over the weekend.", "Correct me if I'm wrong, but didn't you say ten o'clock?"]
+      }
+    ],
+    "collocations": ["correct answer", "absolutely correct", "politically correct", "correct a mistake", "correct me if I'm wrong"],
+    "synonyms": ["right", "accurate", "proper", "fix", "rectify"],
+    "family": [
+      { "word": "correction", "pos": "noun" },
+      { "word": "correctly", "pos": "adverb" },
+      { "word": "incorrect", "pos": "adjective" },
+      { "word": "correctness", "pos": "noun" },
+      { "word": "corrective", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "correction",
+    "ipa": "/kəˈrekʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "düzeltme, tashih",
+        "def": "a change that makes something more accurate or removes a mistake",
+        "examples": ["The newspaper printed a correction the next day.", "I made a few corrections to your report in red."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(piyasa) düzeltme, ani düşüş",
+        "def": "a short drop in prices after a period of rising, especially on the stock market",
+        "examples": ["Analysts expect a market correction after months of rapid growth."]
+      }
+    ],
+    "collocations": ["make a correction", "issue a correction", "minor corrections", "market correction", "subject to correction"],
+    "synonyms": ["amendment", "revision", "adjustment", "fix"],
+    "family": [
+      { "word": "correct", "pos": "verb" },
+      { "word": "corrective", "pos": "adjective" },
+      { "word": "correctional", "pos": "adjective" }
+    ],
+    "note": "In American English, a \"correctional facility\" is a prison."
+  },
+  {
+    "word": "correctly",
+    "ipa": "/kəˈrektli/",
+    "senses": [
+      {
+        "pos": "adverb",
+        "tr": "doğru şekilde, doğru olarak",
+        "def": "in a way that is accurate or right, with no mistakes",
+        "examples": ["Make sure the form is filled out correctly before you submit it.", "If I remember correctly, the store closes at nine."]
+      }
+    ],
+    "collocations": ["answer correctly", "spell correctly", "if I remember correctly", "correctly identify", "work correctly"],
+    "synonyms": ["accurately", "properly", "right"],
+    "family": [
+      { "word": "correct", "pos": "adjective" },
+      { "word": "incorrectly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "correlate",
+    "ipa": "/ˈkɔːrəleɪt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "ilişkili olmak, bağlantılı olmak, korelasyon göstermek",
+        "def": "if two things correlate, they are closely connected and one changes when the other changes",
+        "examples": ["Income levels correlate strongly with life expectancy.", "Researchers found that screen time correlated with poor sleep in teenagers."]
+      }
+    ],
+    "collocations": ["correlate with", "strongly correlate", "positively correlated", "negatively correlated", "closely correlated"],
+    "synonyms": ["be connected", "be linked", "correspond", "match"],
+    "family": [
+      { "word": "correlation", "pos": "noun" },
+      { "word": "correlative", "pos": "adjective" }
+    ],
+    "note": "Academic word. Remember: things that correlate are not necessarily causing each other."
+  },
+  {
+    "word": "correlation",
+    "ipa": "/ˌkɔːrəˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "korelasyon, ilişki, bağıntı",
+        "def": "a connection between two things in which one changes as the other changes",
+        "examples": ["There is a strong correlation between smoking and lung disease.", "The study found no correlation between coffee intake and memory."]
+      }
+    ],
+    "collocations": ["strong correlation", "positive correlation", "negative correlation", "correlation between", "correlation does not imply causation"],
+    "synonyms": ["connection", "relationship", "link", "association"],
+    "family": [{ "word": "correlate", "pos": "verb" }],
+    "note": "Common phrase: \"correlation does not imply causation\" (a link does not prove one thing causes the other)."
+  },
+  {
+    "word": "correspond",
+    "ipa": "/ˌkɔːrəˈspɑːnd/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "uyuşmak, örtüşmek, karşılık gelmek",
+        "def": "to match something or be similar or equal to it",
+        "examples": ["Your story doesn't correspond with what the witness said.", "Each number on the map corresponds to a hiking trail."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yazışmak, mektuplaşmak",
+        "def": "to exchange letters or emails with someone regularly",
+        "examples": ["The two scientists corresponded for years before they finally met."]
+      }
+    ],
+    "collocations": ["correspond to", "correspond with", "closely correspond", "correspond roughly to", "correspond regularly"],
+    "synonyms": ["match", "agree", "be equivalent", "write"],
+    "family": [
+      { "word": "correspondence", "pos": "noun" },
+      { "word": "correspondent", "pos": "noun" },
+      { "word": "corresponding", "pos": "adjective" },
+      { "word": "correspondingly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "correspondence",
+    "ipa": "/ˌkɔːrəˈspɑːndəns/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yazışma, yazışmalar, mektuplar",
+        "def": "the letters or emails that someone sends and receives, or the activity of writing them",
+        "examples": ["The museum holds her private correspondence from the 1940s.", "Please keep all correspondence with the insurance company."]
+      },
+      {
+        "pos": "noun",
+        "tr": "uyum, benzerlik, karşılıklılık",
+        "def": "a close connection or similarity between two things",
+        "examples": ["There is little correspondence between what he says and what he does."]
+      }
+    ],
+    "collocations": ["private correspondence", "business correspondence", "in correspondence with", "correspondence course", "close correspondence"],
+    "synonyms": ["letters", "mail", "communication", "similarity"],
+    "family": [
+      { "word": "correspond", "pos": "verb" },
+      { "word": "correspondent", "pos": "noun" }
+    ],
+    "note": "Uncountable when it means letters: \"a lot of correspondence\", not \"correspondences\"."
+  },
+  {
+    "word": "correspondent",
+    "ipa": "/ˌkɔːrəˈspɑːndənt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "muhabir",
+        "def": "a journalist who reports on a particular subject or from a particular country",
+        "examples": ["She worked as a war correspondent in the Middle East for ten years.", "Our White House correspondent has the latest details."]
+      }
+    ],
+    "collocations": ["foreign correspondent", "war correspondent", "political correspondent", "chief correspondent", "special correspondent"],
+    "synonyms": ["reporter", "journalist"],
+    "family": [
+      { "word": "correspond", "pos": "verb" },
+      { "word": "correspondence", "pos": "noun" }
+    ]
+  },
+  {
+    "word": "corresponding",
+    "ipa": "/ˌkɔːrəˈspɑːndɪŋ/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "karşılık gelen, buna bağlı, aynı dönemdeki",
+        "def": "matching or connected with something just mentioned",
+        "examples": ["Sales rose 12% compared with the corresponding period last year.", "Higher prices led to a corresponding drop in demand."]
+      }
+    ],
+    "collocations": ["corresponding period", "corresponding increase", "corresponding decrease", "a corresponding change"],
+    "synonyms": ["matching", "equivalent", "related", "parallel"],
+    "family": [
+      { "word": "correspond", "pos": "verb" },
+      { "word": "correspondingly", "pos": "adverb" }
+    ]
+  },
+  {
+    "word": "corridor",
+    "ipa": "/ˈkɔːrɪdɔːr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "koridor",
+        "def": "a long narrow passage inside a building, with doors to rooms on each side",
+        "examples": ["His office is at the end of the corridor on the left.", "Students waited in the corridor outside the exam room."]
+      },
+      {
+        "pos": "noun",
+        "tr": "koridor, (ulaşım/ticaret) hat",
+        "def": "a long strip of land or air space linking two places, often used for travel or trade",
+        "examples": ["The new rail line will serve the busy Boston–Washington corridor."]
+      }
+    ],
+    "collocations": ["long corridor", "down the corridor", "at the end of the corridor", "transport corridor", "the corridors of power"],
+    "synonyms": ["hallway", "hall", "passage"],
+    "family": [],
+    "note": "In American homes and schools, \"hallway\" or \"hall\" is more common than \"corridor\"."
+  },
+  {
+    "word": "corrupt",
+    "ipa": "/kəˈrʌpt/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "yozlaşmış, rüşvetçi, yolsuz",
+        "def": "using power dishonestly or illegally, especially by taking money",
+        "examples": ["The corrupt official accepted bribes from construction firms.", "Voters were tired of a corrupt system that favored the rich."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "(dosya, veri) bozuk",
+        "def": "(of computer data) damaged so that it cannot be used correctly",
+        "examples": ["I couldn't open the attachment because the file was corrupt."]
+      },
+      {
+        "pos": "verb",
+        "tr": "yozlaştırmak, ahlakını bozmak",
+        "def": "to make someone dishonest or immoral",
+        "examples": ["Power corrupts, and absolute power corrupts absolutely."]
+      }
+    ],
+    "collocations": ["corrupt officials", "corrupt politicians", "deeply corrupt", "corrupt practices", "corrupt file"],
+    "synonyms": ["dishonest", "crooked", "bribable", "damaged"],
+    "family": [
+      { "word": "corruption", "pos": "noun" },
+      { "word": "corruptible", "pos": "adjective" },
+      { "word": "incorruptible", "pos": "adjective" },
+      { "word": "corrupted", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "corruption",
+    "ipa": "/kəˈrʌpʃn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "yolsuzluk, rüşvet, yozlaşma",
+        "def": "dishonest or illegal behavior, especially by people in positions of power",
+        "examples": ["The mayor was arrested on corruption charges.", "Corruption in the police force had become a serious problem."]
+      }
+    ],
+    "collocations": ["political corruption", "corruption charges", "fight corruption", "widespread corruption", "allegations of corruption"],
+    "synonyms": ["bribery", "dishonesty", "fraud", "graft"],
+    "family": [
+      { "word": "corrupt", "pos": "adjective" },
+      { "word": "anti-corruption", "pos": "adjective" }
+    ]
+  },
+  {
+    "word": "cost",
+    "ipa": "/kɔːst/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "maliyet, fiyat, masraf",
+        "def": "the amount of money needed to buy, make, or do something",
+        "examples": ["The cost of living in this city has doubled in ten years.", "The company will cover the cost of your travel."]
+      },
+      {
+        "pos": "noun",
+        "tr": "bedel, zarar",
+        "def": "something lost or given up in order to achieve something",
+        "examples": ["He finished the race, but at the cost of a serious knee injury."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(fiyatı) tutmak, mal olmak; kaybettirmek",
+        "def": "to have a particular price, or to cause the loss of something",
+        "examples": ["How much does it cost to fix the roof?", "One careless mistake cost him his job."]
+      }
+    ],
+    "collocations": ["cost of living", "at all costs", "at the cost of", "cover the cost", "cost a fortune", "low-cost"],
+    "synonyms": ["price", "expense", "charge", "sacrifice"],
+    "family": [
+      { "word": "costly", "pos": "adjective" },
+      { "word": "costs", "pos": "noun" },
+      { "word": "cost-effective", "pos": "adjective" }
+    ],
+    "note": "Irregular verb: cost – cost – cost. \"At all costs\" means \"no matter what happens\"."
+  },
+  {
+    "word": "costly",
+    "ipa": "/ˈkɔːstli/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "pahalı, masraflı",
+        "def": "costing a lot of money, often more than you want to pay",
+        "examples": ["Replacing the old pipes will be a costly repair.", "Long court cases are costly for both sides."]
+      },
+      {
+        "pos": "adjective",
+        "tr": "pahalıya patlayan, ağır sonuçları olan",
+        "def": "causing serious problems or losses",
+        "examples": ["The goalkeeper's costly error gave the other team the win."]
+      }
+    ],
+    "collocations": ["costly mistake", "costly error", "prove costly", "costly repairs", "time-consuming and costly"],
+    "synonyms": ["expensive", "pricey", "damaging", "harmful"],
+    "family": [{ "word": "cost", "pos": "noun" }],
+    "note": "\"Costly\" is an adjective, not an adverb. Say \"a costly mistake\" or \"it proved costly\"."
+  },
+  {
+    "word": "costume",
+    "ipa": "/ˈkɑːstuːm/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kostüm, kıyafet",
+        "def": "clothes worn to look like someone or something else, for a party, play, or film",
+        "examples": ["My son wants to wear a dinosaur costume for Halloween.", "The actors were still in costume after the show."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yöresel, dönem) kıyafet",
+        "def": "the typical clothes of a particular country or historical period",
+        "examples": ["Dancers in traditional costume performed at the festival."]
+      }
+    ],
+    "collocations": ["Halloween costume", "in costume", "costume party", "traditional costume", "costume designer"],
+    "synonyms": ["outfit", "dress", "disguise"],
+    "family": [],
+    "note": "In American English a \"costume party\" is what the British call a \"fancy-dress party\". Turkish \"kostüm\" (suit) is \"suit\" in English."
+  },
+  {
+    "word": "cottage",
+    "ipa": "/ˈkɑːtɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kır evi, küçük ev, yazlık",
+        "def": "a small house, especially in the countryside or by a lake",
+        "examples": ["We rented a cottage by the lake for the summer.", "The old stone cottage had a garden full of roses."]
+      }
+    ],
+    "collocations": ["country cottage", "summer cottage", "rent a cottage", "lakeside cottage", "cottage cheese"],
+    "synonyms": ["cabin", "lodge", "small house"],
+    "family": [],
+    "note": "\"Cottage cheese\" is a soft white cheese similar to Turkish lor peyniri."
+  },
+  {
+    "word": "cotton",
+    "ipa": "/ˈkɑːtn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "pamuk",
+        "def": "a plant grown in warm places for the soft white fibers around its seeds",
+        "examples": ["The region grows cotton, wheat, and corn.", "Cotton was the main crop in the American South for centuries."]
+      },
+      {
+        "pos": "noun",
+        "tr": "pamuklu kumaş, pamuk",
+        "def": "cloth or thread made from this plant",
+        "examples": ["I prefer cotton shirts in hot weather because they breathe."]
+      }
+    ],
+    "collocations": ["100% cotton", "cotton shirt", "cotton field", "cotton ball", "organic cotton"],
+    "synonyms": [],
+    "family": [{ "word": "cottony", "pos": "adjective" }],
+    "note": "A small ball of cotton for cleaning skin is a \"cotton ball\" in American English; \"cotton wool\" is British."
+  },
+  {
+    "word": "could",
+    "ipa": "/kəd/",
+    "senses": [
+      {
+        "pos": "modal verb",
+        "tr": "-ebildi, -abiliyordu (can'in geçmişi)",
+        "def": "used as the past form of \"can\" to talk about ability or permission in the past",
+        "examples": ["She could speak three languages by the age of ten.", "We couldn't hear anything because of the noise."]
+      },
+      {
+        "pos": "modal verb",
+        "tr": "-ebilir, olabilir",
+        "def": "used to say that something is possible",
+        "examples": ["It could rain later, so take an umbrella.", "That could be the reason he hasn't called."]
+      },
+      {
+        "pos": "modal verb",
+        "tr": "(rica) -ebilir misiniz; (öneri) -ebilirsin",
+        "def": "used to make polite requests or suggestions",
+        "examples": ["Could you pass me the salt, please?", "You could ask your brother to help you move."]
+      }
+    ],
+    "collocations": ["could you", "could have done", "couldn't care less", "couldn't agree more", "could be worse"],
+    "synonyms": ["might", "may", "was able to"],
+    "family": [{ "word": "can", "pos": "modal verb" }],
+    "note": "\"Could have + past participle\" = a past possibility that didn't happen: \"You could have told me!\" The \"l\" is silent."
+  },
+  {
+    "word": "council",
+    "ipa": "/ˈkaʊnsl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "(belediye, il) meclis, konsey",
+        "def": "a group of elected people who govern a city, town, or county",
+        "examples": ["The city council voted to build a new public library.", "She was elected to the town council last year."]
+      },
+      {
+        "pos": "noun",
+        "tr": "konsey, kurul",
+        "def": "a group of people chosen to give advice, make rules, or manage an organization",
+        "examples": ["The UN Security Council met to discuss the crisis.", "The student council organized a fundraiser for the flood victims."]
+      }
+    ],
+    "collocations": ["city council", "town council", "council meeting", "Security Council", "student council", "council member"],
+    "synonyms": ["board", "assembly", "committee"],
+    "family": [
+      { "word": "councilor", "pos": "noun" },
+      { "word": "councilman", "pos": "noun" },
+      { "word": "councilwoman", "pos": "noun" }
+    ],
+    "note": "Don't confuse with \"counsel\" (advice, or a lawyer), which sounds the same."
+  },
+  {
+    "word": "councillor",
+    "ipa": "/ˈkaʊnsələr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "meclis üyesi, belediye meclis üyesi",
+        "def": "an elected member of a city, town, or county council",
+        "examples": ["Local councillors met with residents to discuss the new parking rules.", "She served as a councillor for twelve years before running for mayor."]
+      }
+    ],
+    "collocations": ["city councillor", "local councillor", "elected councillor", "councillor for a district"],
+    "synonyms": ["council member", "alderman", "representative"],
+    "family": [{ "word": "council", "pos": "noun" }],
+    "note": "British spelling. American English uses \"councilor\" or, more often, \"council member\" / \"councilman\" / \"councilwoman\"."
+  },
+  {
+    "word": "counselling",
+    "ipa": "/ˈkaʊnsəlɪŋ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "danışmanlık, psikolojik danışmanlık, terapi",
+        "def": "professional advice and support given to help someone deal with personal problems",
+        "examples": ["After the accident, he went to counselling to deal with his anxiety.", "The school offers free counselling to students going through a hard time."]
+      }
+    ],
+    "collocations": ["marriage counselling", "grief counselling", "career counselling", "receive counselling", "counselling service"],
+    "synonyms": ["therapy", "guidance", "advice", "support"],
+    "family": [
+      { "word": "counsel", "pos": "verb" },
+      { "word": "counselor", "pos": "noun" }
+    ],
+    "note": "British spelling. American English spells it \"counseling\" (one l)."
+  },
+  {
+    "word": "counselor",
+    "ipa": "/ˈkaʊnsələr/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "danışman, psikolojik danışman, rehber öğretmen",
+        "def": "a person trained to give advice and support to people with personal or practical problems",
+        "examples": ["My high school counselor helped me choose a college.", "She sees a counselor once a week to talk about her divorce."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yaz kampı) rehber, gözetmen",
+        "def": "a person who looks after children at a summer camp",
+        "examples": ["He worked as a camp counselor every summer during college."]
+      }
+    ],
+    "collocations": ["school counselor", "guidance counselor", "marriage counselor", "camp counselor", "see a counselor"],
+    "synonyms": ["adviser", "therapist", "consultant"],
+    "family": [
+      { "word": "counsel", "pos": "verb" },
+      { "word": "counseling", "pos": "noun" }
+    ],
+    "note": "American spelling; British is \"counsellor\". Don't confuse with \"councilor\" (council member)."
+  },
+  {
+    "word": "count",
+    "ipa": "/kaʊnt/",
+    "senses": [
+      {
+        "pos": "verb",
+        "tr": "saymak, hesaplamak",
+        "def": "to say numbers in order, or to find the total number of things",
+        "examples": ["Close your eyes and count to twenty.", "Election workers counted the votes late into the night."]
+      },
+      {
+        "pos": "verb",
+        "tr": "önemli olmak, sayılmak, geçerli olmak",
+        "def": "to be important, or to be accepted as valid",
+        "examples": ["Every second counts in an emergency.", "The goal didn't count because he was offside."]
+      },
+      {
+        "pos": "noun",
+        "tr": "sayım, sayı",
+        "def": "an act of counting, or the total number found by counting",
+        "examples": ["At the last count, more than 300 people had signed up.", "I lost count of how many times he called."]
+      }
+    ],
+    "collocations": ["count on someone", "lose count", "count down", "every vote counts", "keep count", "body count"],
+    "synonyms": ["add up", "calculate", "matter", "total"],
+    "family": [
+      { "word": "countless", "pos": "adjective" },
+      { "word": "countable", "pos": "adjective" },
+      { "word": "uncountable", "pos": "adjective" },
+      { "word": "counter", "pos": "noun" },
+      { "word": "recount", "pos": "verb" }
+    ],
+    "note": "\"Count on someone\" = rely on them: \"You can always count on me.\""
+  },
+  {
+    "word": "counter",
+    "ipa": "/ˈkaʊntər/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "tezgâh, kontuar, (mutfak) tezgâh",
+        "def": "a long flat surface where customers are served in a shop or bank, or a work surface in a kitchen",
+        "examples": ["Please pay at the counter before you leave.", "She left the groceries on the kitchen counter."]
+      },
+      {
+        "pos": "verb",
+        "tr": "karşılık vermek, cevap vermek, karşı koymak",
+        "def": "to respond to criticism or an attack by arguing against it or acting against it",
+        "examples": ["The minister countered that the new tax would only affect the wealthy.", "The company cut prices to counter the threat from cheaper rivals."]
+      }
+    ],
+    "collocations": ["over the counter", "behind the counter", "kitchen counter", "check-in counter", "counter an argument", "counter a threat"],
+    "synonyms": ["worktop", "countertop", "respond", "oppose", "offset"],
+    "family": [
+      { "word": "countertop", "pos": "noun" },
+      { "word": "counteract", "pos": "verb" }
+    ],
+    "note": "\"Over-the-counter\" medicine can be bought without a prescription. \"Run counter to\" means \"be opposite to\"."
+  },
+  {
+    "word": "counterpart",
+    "ipa": "/ˈkaʊntərpɑːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "muadil, mevkidaş, karşılık",
+        "def": "a person or thing with the same role or function as another in a different place or situation",
+        "examples": ["The foreign minister met his French counterpart in Paris.", "Women still earn less than their male counterparts in many industries."]
+      }
+    ],
+    "collocations": ["foreign counterpart", "male counterparts", "American counterpart", "meet with a counterpart", "modern counterpart"],
+    "synonyms": ["equivalent", "opposite number", "peer", "match"],
+    "family": []
+  },
+  {
+    "word": "countless",
+    "ipa": "/ˈkaʊntləs/",
+    "senses": [
+      {
+        "pos": "adjective",
+        "tr": "sayısız, sayılamayacak kadar çok",
+        "def": "very many; too many to be counted",
+        "examples": ["I've told you countless times to lock the door.", "The vaccine has saved countless lives."]
+      }
+    ],
+    "collocations": ["countless times", "countless lives", "countless hours", "countless people", "countless examples"],
+    "synonyms": ["innumerable", "numerous", "endless", "many"],
+    "family": [{ "word": "count", "pos": "verb" }]
+  },
+  {
+    "word": "country",
+    "ipa": "/ˈkʌntri/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ülke, memleket",
+        "def": "an area of land with its own government and borders, or the people who live there",
+        "examples": ["Japan is one of the safest countries in the world.", "The whole country was watching the final game."]
+      },
+      {
+        "pos": "noun",
+        "tr": "kırsal kesim, taşra",
+        "def": "land outside towns and cities, with fields and farms",
+        "examples": ["They sold their apartment and moved to the country."]
+      },
+      {
+        "pos": "noun",
+        "tr": "country müziği",
+        "def": "a style of popular music from the southern and western US",
+        "examples": ["My dad only listens to country on long road trips."]
+      }
+    ],
+    "collocations": ["foreign country", "developing country", "home country", "across the country", "in the country", "country music"],
+    "synonyms": ["nation", "state", "land", "countryside"],
+    "family": [
+      { "word": "countryside", "pos": "noun" },
+      { "word": "countryman", "pos": "noun" },
+      { "word": "cross-country", "pos": "adjective" }
+    ],
+    "note": "\"The country\" (with \"the\") often means rural areas, not the nation."
+  },
+  {
+    "word": "countryside",
+    "ipa": "/ˈkʌntrisaɪd/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kırsal alan, kırlar, taşra",
+        "def": "land outside towns and cities, with fields, farms, and woods",
+        "examples": ["We spent the weekend biking through the Vermont countryside.", "The train passed through miles of beautiful open countryside."]
+      }
+    ],
+    "collocations": ["in the countryside", "open countryside", "surrounding countryside", "rolling countryside", "beautiful countryside"],
+    "synonyms": ["country", "rural area", "farmland"],
+    "family": [{ "word": "country", "pos": "noun" }],
+    "note": "Uncountable: \"the countryside\", never \"a countryside\" or \"countrysides\"."
+  },
+  {
+    "word": "county",
+    "ipa": "/ˈkaʊnti/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "ilçe, bölge, idari bölge (ABD'de eyaletin alt birimi)",
+        "def": "an area within a state or country that has its own local government",
+        "examples": ["Los Angeles County has more people than many US states.", "The county fair is held every August."]
+      }
+    ],
+    "collocations": ["county fair", "county jail", "county line", "county seat", "county court", "neighboring county"],
+    "synonyms": ["district", "region", "province"],
+    "family": [],
+    "note": "In the US, a county is the level between a city and a state. Don't confuse with \"country\"."
+  },
+  {
+    "word": "coup",
+    "ipa": "/kuː/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "darbe, askeri darbe",
+        "def": "a sudden, illegal, often violent seizure of power from a government",
+        "examples": ["The president was overthrown in a military coup.", "The army attempted a coup but failed within hours."]
+      },
+      {
+        "pos": "noun",
+        "tr": "büyük başarı, çarpıcı hamle",
+        "def": "a surprising and impressive success",
+        "examples": ["Signing such a famous designer was a real coup for the small company."]
+      }
+    ],
+    "collocations": ["military coup", "coup attempt", "stage a coup", "failed coup", "bloodless coup", "a major coup"],
+    "synonyms": ["overthrow", "takeover", "uprising", "triumph"],
+    "family": [{ "word": "coup d'état", "pos": "noun" }],
+    "note": "Pronounced /kuː/: the p is silent. Short for French \"coup d'état\"."
+  },
+  {
+    "word": "couple",
+    "ipa": "/ˈkʌpl/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "birkaç, bir iki",
+        "def": "two, or a small number of people or things",
+        "examples": ["I'll be ready in a couple of minutes.", "We stayed at the beach for a couple of days."]
+      },
+      {
+        "pos": "noun",
+        "tr": "çift",
+        "def": "two people who are married or in a romantic relationship",
+        "examples": ["A young couple moved into the apartment next door.", "They've been a couple since high school."]
+      },
+      {
+        "pos": "verb",
+        "tr": "birleştirmek, eklemek",
+        "def": "to join or combine one thing with another",
+        "examples": ["Low wages, coupled with high rents, are pushing families out of the city."]
+      }
+    ],
+    "collocations": ["a couple of", "married couple", "young couple", "the happy couple", "coupled with"],
+    "synonyms": ["pair", "a few", "partners", "combine"],
+    "family": [{ "word": "coupling", "pos": "noun" }],
+    "note": "In casual American speech, \"a couple\" often means \"about two or three\", not exactly two. \"Coupled with\" = together with."
+  },
+  {
+    "word": "courage",
+    "ipa": "/ˈkɜːrɪdʒ/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "cesaret, yüreklilik",
+        "def": "the ability to do something dangerous or difficult, or to face pain, without fear",
+        "examples": ["It took a lot of courage to speak out against her boss.", "The firefighters showed great courage during the rescue."]
+      }
+    ],
+    "collocations": ["have the courage to", "take courage", "show courage", "pluck up the courage", "great courage", "an act of courage"],
+    "synonyms": ["bravery", "nerve", "guts", "boldness"],
+    "family": [
+      { "word": "courageous", "pos": "adjective" },
+      { "word": "courageously", "pos": "adverb" },
+      { "word": "encourage", "pos": "verb" },
+      { "word": "discourage", "pos": "verb" }
+    ]
+  },
+  {
+    "word": "course",
+    "ipa": "/kɔːrs/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kurs, ders",
+        "def": "a series of lessons or lectures on a subject",
+        "examples": ["She's taking an online course in web design.", "This course covers American history from 1865 to today."]
+      },
+      {
+        "pos": "noun",
+        "tr": "gidişat, rota, yön",
+        "def": "the direction something moves in, or the way a situation develops",
+        "examples": ["The storm changed course and headed out to sea.", "The discovery changed the course of medical history."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(yemek) kap, servis",
+        "def": "one part of a meal served at a time",
+        "examples": ["For the main course, I'll have the grilled salmon."]
+      }
+    ],
+    "collocations": ["of course", "take a course", "in the course of", "course of action", "change course", "main course"],
+    "synonyms": ["class", "program", "route", "direction"],
+    "family": [{ "word": "coursework", "pos": "noun" }],
+    "note": "\"Of course\" = certainly. Also: golf course, race course. Don't confuse with \"coarse\" (rough), which sounds the same."
+  },
+  {
+    "word": "court",
+    "ipa": "/kɔːrt/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "mahkeme",
+        "def": "the place where legal cases are judged, or the judge and jury who decide them",
+        "examples": ["The case will go to court next month.", "The court ruled that the law was unconstitutional."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(spor) kort, saha",
+        "def": "an area marked for playing games like tennis or basketball",
+        "examples": ["The kids play basketball on the court behind the school."]
+      },
+      {
+        "pos": "verb",
+        "tr": "(destek, ilgi) kazanmaya çalışmak; (tehlikeye) davetiye çıkarmak",
+        "def": "to try to win someone's support, or to act in a way that risks something bad",
+        "examples": ["Both candidates are courting young voters.", "Driving that fast is courting disaster."]
+      }
+    ],
+    "collocations": ["go to court", "take someone to court", "in court", "Supreme Court", "settle out of court", "tennis court"],
+    "synonyms": ["tribunal", "court of law", "pursue", "woo"],
+    "family": [
+      { "word": "courtroom", "pos": "noun" },
+      { "word": "courthouse", "pos": "noun" },
+      { "word": "courtship", "pos": "noun" },
+      { "word": "courtyard", "pos": "noun" }
+    ],
+    "note": "\"Settle out of court\" = reach an agreement before a judge decides."
+  },
+  {
+    "word": "courtesy",
+    "ipa": "/ˈkɜːrtəsi/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "nezaket, incelik",
+        "def": "polite behavior that shows respect for other people",
+        "examples": ["He didn't even have the courtesy to call and say he'd be late.", "Treat every customer with courtesy, even when they're rude."]
+      },
+      {
+        "pos": "noun",
+        "tr": "(courtesy of) sayesinde, ... tarafından sağlanan, ikram",
+        "def": "used to say who gave or allowed something, often for free",
+        "examples": ["The photos appear courtesy of the city museum.", "Drinks were provided courtesy of the hotel."]
+      }
+    ],
+    "collocations": ["common courtesy", "have the courtesy to", "out of courtesy", "courtesy of", "courtesy call", "as a courtesy"],
+    "synonyms": ["politeness", "respect", "civility", "manners"],
+    "family": [
+      { "word": "courteous", "pos": "adjective" },
+      { "word": "courteously", "pos": "adverb" },
+      { "word": "discourtesy", "pos": "noun" }
+    ],
+    "note": "A \"courtesy car\" or \"courtesy shuttle\" is provided free by a business."
+  },
+  {
+    "word": "cousin",
+    "ipa": "/ˈkʌzn/",
+    "senses": [
+      {
+        "pos": "noun",
+        "tr": "kuzen, (amca/dayı/hala/teyze çocuğu)",
+        "def": "a child of your aunt or uncle",
+        "examples": ["My cousin and I grew up in the same neighborhood.", "We have dozens of cousins on my mother's side."]
+      }
+    ],
+    "collocations": ["first cousin", "second cousin", "distant cousin", "cousin on my father's side", "kissing cousins"],
+    "synonyms": ["relative", "relation"],
+    "family": [],
+    "note": "English uses one word for all four Turkish relations (amca, dayı, hala, teyze çocuğu). Pronounced /ˈkʌzn/, like \"buzz-n\"."
+  }
+]
