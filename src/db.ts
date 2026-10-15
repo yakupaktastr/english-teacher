@@ -38,10 +38,40 @@ export interface ReviewRow {
   exercise: string
 }
 
+export interface Chapter {
+  title: string
+  paragraphs: string[]
+}
+
+/** Something to read: a pasted text, a downloaded article or a book. */
+export interface TextRow {
+  id: string
+  kind: 'pasted' | 'article' | 'book'
+  title: string
+  author?: string
+  source?: string
+  url?: string
+  addedAt: number
+  wordCount: number
+  chapters: Chapter[]
+}
+
+export interface ProgressRow {
+  textId: string
+  chapter: number
+  /** Scroll position within the chapter, 0–1. */
+  position: number
+  /** Overall progress through the text, 0–1. */
+  percent: number
+  updatedAt: number
+}
+
 export class AppDB extends Dexie {
   settings!: EntityTable<SettingRow, 'key'>
   cards!: EntityTable<CardRow, 'word'>
   reviews!: EntityTable<ReviewRow, 'id'>
+  texts!: EntityTable<TextRow, 'id'>
+  progress!: EntityTable<ProgressRow, 'textId'>
 
   constructor() {
     super('english-teacher')
@@ -51,6 +81,10 @@ export class AppDB extends Dexie {
     this.version(2).stores({
       cards: 'word, status, due, addedAt',
       reviews: '++id, word, at',
+    })
+    this.version(3).stores({
+      texts: 'id, kind, addedAt',
+      progress: 'textId, updatedAt',
     })
   }
 }

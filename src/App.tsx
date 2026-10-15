@@ -4,6 +4,8 @@ import Today from './screens/Today'
 import Words from './screens/Words'
 import WordDetail from './screens/WordDetail'
 import Read from './screens/Read'
+import AddText from './screens/AddText'
+import Reader from './screens/Reader'
 import Settings from './screens/Settings'
 import Session from './screens/Session'
 import { useSettings } from './settings'
@@ -33,8 +35,9 @@ export default function App() {
     return () => window.removeEventListener('hashchange', onHashChange)
   }, [])
 
-  const navigate = (to: string) => {
-    location.hash = `#/${to}`
+  const navigate = (to: string, replace = false) => {
+    if (replace) location.replace(`#/${to}`)
+    else location.hash = `#/${to}`
   }
 
   const [first, second] = path
@@ -51,13 +54,17 @@ export default function App() {
     )
   }
 
+  if (first === 'read' && second && second !== 'add') {
+    return <Reader key={second} id={second} onClose={() => navigate('read')} />
+  }
+
   const tab: Tab = TABS.includes(first as Tab) ? (first as Tab) : 'today'
   return (
     <div className="app">
       <main className="content">
         {tab === 'today' && <Today navigate={navigate} />}
         {tab === 'words' && (second ? <WordDetail word={second} index={index} /> : <Words index={index} navigate={navigate} />)}
-        {tab === 'read' && <Read />}
+        {tab === 'read' && (second === 'add' ? <AddText navigate={navigate} /> : <Read navigate={navigate} />)}
         {tab === 'settings' && <Settings />}
       </main>
       <TabBar active={tab} onChange={(next) => navigate(next)} />
